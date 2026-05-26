@@ -87,5 +87,5 @@ ExploreStamp 不只是紀錄工具，更是一套**探索挑戰系統**。
 
 追蹤我們：
 - [Facebook 旅人社群](https://facebook.com/groups/explorestamp)
-- [Instagram](https://www.instagram.com/explorestamp_com)
+- [Instagram](https://www.instagram.com/explorestamp)
 - [訂閱電子報](https://explorestamp.substack.com/)

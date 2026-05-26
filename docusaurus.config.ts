@@ -163,7 +163,7 @@ const config: Config = {
             },
             {
               label: "追蹤 Instagram",
-              href: "https://www.instagram.com/explorestamp_com",
+              href: "https://www.instagram.com/explorestamp",
             },
             {
               label: "追蹤 Facebook",
