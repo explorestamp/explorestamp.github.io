@@ -1,0 +1,23 @@
+explorestamp:
+  name: ExploreStamp
+  title: ExploreStamp Master
+  url: https://www.explorestamp.com
+  image_url: https://github.com/explorestamp.png
+  page: true
+    # customize the url of the author page at /blog/authors/<permalink>
+  socials:
+    instagram: explorestamp_com
+    website: https://www.explorestamp.com
+
+kdchang:
+  name: KD Chang
+  title: Founder of ExploreStamp
+  url: https://www.kdchang.net
+  image_url: https://github.com/kdchang.png
+  page: true
+    # customize the url of the author page at /blog/authors/<permalink>
+  socials:
+    x: kaidichang
+    github: kdchang
+    instagram: kdchang_net
+    website: https://www.kdchang.net

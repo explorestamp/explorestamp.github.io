@@ -1,0 +1,34 @@
+facebook:
+  label: Facebook
+  permalink: /facebook
+  description: Facebook tag description
+
+hello:
+  label: Hello
+  permalink: /hello
+  description: Hello tag description
+
+旅行:
+  label: 旅行
+  permalink: /旅行
+  description: 旅行探索相關文章
+
+打卡:
+  label: 打卡
+  permalink: /打卡
+  description: 城市打卡挑戰
+
+景點:
+  label: 景點
+  permalink: /景點
+  description: 台灣城市景點推薦
+
+城市探索:
+  label: 城市探索
+  permalink: /城市探索
+  description: 城市探索主題文章
+
+ExploreStamp:
+  label: ExploreStamp
+  permalink: /explorestamp
+  description: ExploreStamp 探索印記相關文章
