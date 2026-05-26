@@ -189,7 +189,7 @@ const config: Config = {
           items: [
             {
               label: "發送信件",
-              to: "mailto:explorestamp.com@gmail.com",
+              to: "mailto: explorestamp@gmail.com",
             },
           ],
         },

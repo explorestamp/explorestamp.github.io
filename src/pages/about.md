@@ -61,7 +61,7 @@ ExploreStamp 是一款城市探索打卡 App，讓你透過任務式挑戰，主
 ## 聯絡我們
 
 如有任何建議、合作邀約，歡迎來信：
-[explorestamp.com@gmail.com](mailto:explorestamp.com@gmail.com)
+[email](mailto:explorestamp@gmail.com)
 
 或加入我們的旅人社群：
 [Facebook 社群](https://facebook.com/groups/explorestamp) ｜ [Instagram](https://www.instagram.com/explorestamp_com)
