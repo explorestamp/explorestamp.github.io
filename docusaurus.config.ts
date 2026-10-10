@@ -181,7 +181,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `© ${new Date().getFullYear()} ExploreStamp 探索印記・由 <a href="https://www.kdchang.com">KD Chang</a> 於臺灣開發`,
+      copyright: `© ${new Date().getFullYear()} ExploreStamp 探索印記. Built with ❤️ by <a href="https://www.kdchang.com">KD Chang</a> in Taiwan.`,
     },
     prism: {
       theme: prismThemes.github,
