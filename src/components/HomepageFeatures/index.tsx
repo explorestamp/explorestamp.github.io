@@ -179,8 +179,8 @@ const MORE_FEATURES = [
 const PRIVACY_POINTS = [
   {
     icon: UserX,
-    title: "不需要帳號",
-    desc: "下載後直接使用，不必提供 Email、電話或任何個人資料。",
+    title: "不用登入就能使用",
+    desc: "下載後直接開始集章，不必提供 Email、電話或任何個人資料。",
   },
   {
     icon: MapPin,
@@ -189,8 +189,8 @@ const PRIVACY_POINTS = [
   },
   {
     icon: HardDrive,
-    title: "資料留在手機",
-    desc: "打卡紀錄與照片存在 App 自己的空間，不會傳到任何伺服器。",
+    title: "資料預設留在手機",
+    desc: "打卡紀錄與照片存在 App 自己的空間，預設不會上傳到伺服器。",
   },
 ];
 
@@ -286,7 +286,7 @@ export default function HomepageFeatures(): ReactNode {
               <p className={styles.eyebrow}>隱私</p>
               <Heading as="h2">你的旅行紀錄，只屬於你</Heading>
               <p>
-                探索印記沒有會員系統，也沒有雲端資料庫。去過哪裡、拍了什麼，都只存在你自己的手機上。
+                探索印記預設不用登入就能使用，去過哪裡、拍了什麼，都存在你自己的手機上。未來若推出會員登入與雲端備份，也會是你自行選擇開啟的選項。
               </p>
             </div>
             <ul className={styles.privacyList}>

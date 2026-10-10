@@ -79,7 +79,7 @@ function HomepageHeader(): ReactNode {
             <ArrowRight size={16} strokeWidth={2} aria-hidden />
           </Link>
           <ul className={styles.heroFacts}>
-            <li>免註冊，下載即可使用</li>
+            <li>不用登入，下載即可使用</li>
             <li>打卡紀錄與照片只存在你的手機</li>
             <li>繁體中文 / English</li>
           </ul>
@@ -167,7 +167,7 @@ function DownloadCTA(): ReactNode {
         <div>
           <Heading as="h2" id="download">從離你最近的一站開始</Heading>
           <p>
-            探索印記支援 iOS 與 Android，免費下載、不需註冊。挑一個週末，去附近的車站或圖書館蓋第一枚章。
+            探索印記支援 iOS 與 Android，免費下載、不用登入。挑一個週末，去附近的車站或圖書館蓋第一枚章。
           </p>
         </div>
         <StoreButtons />
