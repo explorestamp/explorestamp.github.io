@@ -261,9 +261,16 @@ a.storeButton:hover {
   background: var(--es-paper);
 }
 
+.newsletter .sectionHead {
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+}
+
 .newsletterFrame {
   display: block;
   max-width: 680px;
+  margin: 0 auto;
   border: 1px solid var(--es-line);
   border-radius: 10px;
   background: #fff;
