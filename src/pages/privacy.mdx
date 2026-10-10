@@ -1,87 +1,136 @@
 ---
-title: Privacy Policy
+title: 隱私權政策 Privacy Policy
+description: 探索印記（ExploreStamp）App 與官網如何處理你的資料。
 slug: /privacy
 ---
 
-# Privacy Policy
+# 隱私權政策
 
-**Effective date:** 2025-12-16
+**生效日期：** 2026 年 10 月 11 日
 
-explorestamp ("we", "our", or "us") respects your privacy. This Privacy Policy explains how our Chrome Extension and website collect, use, and store your data.
+本政策說明探索印記（ExploreStamp，以下稱「我們」）的 iOS／Android App 與官網 www.explorestamp.com 如何處理你的資料。
 
----
+## 1. 摘要
 
-## 1. Single Purpose
+- App 不需要註冊帳號，我們不收集姓名、Email、電話等個人資料。
+- 打卡紀錄、照片與備註只儲存在你的裝置上，不會上傳到我們或任何第三方的伺服器。
+- 位置只在你按下「蓋章打卡」或開啟地圖時使用，不在背景追蹤。
 
-explorestamp is designed to help users save job postings and learning resources from multiple platforms with one click, and organize their job search progress and career learning in a structured, privacy-first way using local storage.
+## 2. App 在你的裝置上儲存的資料
 
-We do not collect any personal data beyond what is required for this single purpose.
+| 資料 | 用途 | 儲存位置 |
+| --- | --- | --- |
+| 打卡紀錄（景點、時間、打卡當下的座標與距離） | 印章冊、任務進度、月曆 | 裝置本機資料庫 |
+| 你選擇加入的照片與備註 | 月曆封面、造訪紀錄、明信片 | App 專屬儲存空間 |
+| 語言、距離單位、提醒時間等設定 | 個人化設定 | 裝置本機 |
 
----
+這些資料不會離開你的裝置，除非你主動使用「匯出備份」或「分享明信片」，並自行選擇傳送的對象或儲存位置。
 
-## 2. Data We Collect
+## 3. 權限
 
-We **do not collect personally identifiable information (PII)**, financial, health, or authentication information.
+| 權限 | 用途 | 拒絕時的影響 |
+| --- | --- | --- |
+| 定位（僅使用期間） | 確認你位於景點打卡範圍內；在地圖上顯示你的位置與距離 | 無法打卡，地圖仍可瀏覽 |
+| 相機 | 打卡時拍照 | 可改從相簿選取，或不附照片 |
+| 相簿 | 選取既有照片 | 可改用相機，或不附照片 |
+| 通知 | 景點推薦提醒（預設關閉） | 不會收到提醒 |
 
-The only data processed by the extension are:
+App 不會在背景存取你的位置。提醒通知由裝置在本機排程，不經過伺服器。
 
-- **Web pages you explicitly save**
-  - Job postings from supported platforms (104, 1111, Yourator, Cake, LinkedIn, Indeed)
-  - Learning resources (YouTube, online courses, books, etc.)
+## 4. App 的網路連線
 
-- **Local notes and status**
-  - Application status (Saved → Applied → Interviewing → Offer / Rejected)
-  - User notes (interview notes, salary negotiation notes)
+App 只會為以下用途連線，且不會在連線中附帶你的打卡紀錄、照片或位置：
 
-> All data is stored **locally in your browser**. Nothing is sent to external servers.
+- **景點目錄更新**：向 api.explorestamp.com 查詢是否有新版景點資料與任務集封面圖片。
+- **地圖圖磚**：向 OpenStreetMap 下載地圖圖片。如同一般網路請求，對方伺服器會看到你的 IP 位址，請參考 [OpenStreetMap 基金會隱私權政策](https://osmfoundation.org/wiki/Privacy_Policy)。
 
----
+App 未內建任何廣告、分析或追蹤 SDK。
 
-## 3. Permissions
+## 5. 官網
 
-The extension uses the following permissions:
+官網使用 Google Analytics 與 Google Tag Manager 統計瀏覽量與使用情形，可能透過 Cookie 收集瀏覽器類型、造訪頁面與大致地區等匿名資訊。你可以在瀏覽器設定中封鎖 Cookie。官網的電子報訂閱由 Substack 提供，訂閱時填寫的 Email 依 Substack 的隱私權政策處理。
 
-- **activeTab**: Access the currently active tab only when the user clicks the extension. Needed to extract job/resource information.
-- **tabs**: Retrieve tab title and URL to correctly identify content.
-- **storage**: Store bookmarks, progress, and notes locally.
-- **scripting**: Inject scripts on supported pages to extract relevant metadata.
-- **host_permissions**: Access supported platforms only when the user saves content.
+## 6. 資料分享
 
-**Important:** All permissions are **user-initiated** and limited to the scope required for the extension's single purpose.
+我們不會出售、出租或分享你的資料。由於使用者資料只存在你的裝置上，我們本身也無法存取。
 
----
+## 7. 你的控制權
 
-## 4. Remote Code
+- 在 App「設定」中可以匯出備份、匯入備份，或清除所有打卡紀錄與照片。
+- 刪除 App 會一併移除所有本機資料。刪除前若想保留紀錄，請先匯出備份。
+- 可隨時在系統設定中撤銷定位、相機、相簿與通知權限。
 
-This extension **does not load or execute any remote JavaScript or WebAssembly**. All code is included in the extension package.
+## 8. 兒童隱私
 
----
+App 不收集任何個人資料，也不針對 13 歲以下兒童蒐集資訊。
 
-## 5. Third-Party Sharing
+## 9. 政策變更
 
-We do **not sell or transfer user data to third parties**, except for the approved functionality of the extension.
+政策若有更新，會公布於本頁並修改生效日期。
 
-We do **not use or transfer data for purposes unrelated to the extension's single purpose**.
+## 10. 聯絡我們
 
-We do **not use or transfer data to determine creditworthiness or for lending purposes**.
-
----
-
-## 6. User Control
-
-Users can:
-
-- Save or delete any bookmarked job or learning resource at any time.
-- Export data from local storage if needed.
-- Uninstall the extension to remove all locally stored data.
+對本政策有任何疑問，請來信 [explorestamp@gmail.com](mailto:explorestamp@gmail.com)。
 
 ---
 
-## 7. Contact Us
+# Privacy Policy (English)
 
-If you have any questions about this Privacy Policy, please contact us at:
+**Effective date:** October 11, 2026
 
-[email](mailto:explorestamp@gmail.com)
-**Website:** [https://www.explorestamp.com](https://www.explorestamp.com)
+This policy explains how the ExploreStamp iOS/Android app and the website www.explorestamp.com handle your data.
 
----
+## Summary
+
+- The app requires no account. We do not collect your name, email address, phone number or other personal information.
+- Check-ins, photos and notes are stored only on your device and are never uploaded to our servers or any third party.
+- Your location is used only when you tap "Check in" or open the map. The app never tracks your location in the background.
+
+## Data stored on your device
+
+- **Check-ins** (spot, time, your coordinates and distance at check-in): used for the stamp book, collection progress and calendar.
+- **Photos and notes you choose to add**: used for the calendar, visit history and postcards.
+- **Settings** such as language, distance unit and reminder time.
+
+This data leaves your device only when you choose to export a backup or share a postcard, and you decide where it goes.
+
+## Permissions
+
+- **Location (while using the app):** to confirm you are within a spot's check-in radius and to show your position on the map. Without it you cannot check in, but you can still browse the map.
+- **Camera / Photo library:** to attach photos to a check-in. Either one can be used instead of the other, and photos are optional.
+- **Notifications:** for optional spot reminders (off by default). Reminders are scheduled locally on your device.
+
+## Network access
+
+The app connects to the network only to:
+
+- check api.explorestamp.com for catalog updates and collection cover images;
+- load map tiles from OpenStreetMap, which receives your IP address as part of any web request (see the [OSMF Privacy Policy](https://osmfoundation.org/wiki/Privacy_Policy)).
+
+No check-ins, photos or location data are included in these requests. The app contains no advertising, analytics or tracking SDKs.
+
+## Website
+
+The website uses Google Analytics and Google Tag Manager to measure traffic, which may collect anonymous information such as browser type, pages visited and approximate region through cookies. Newsletter sign-ups are handled by Substack under its own privacy policy.
+
+## Sharing
+
+We do not sell, rent or share your data. Because your data stays on your device, we have no access to it.
+
+## Your choices
+
+- Export, import or erase all check-ins and photos from the app's Settings.
+- Deleting the app removes all local data. Export a backup first if you want to keep it.
+- Revoke location, camera, photo and notification permissions at any time in system settings.
+
+## Children
+
+The app collects no personal information and does not knowingly collect information from children under 13.
+
+## Changes
+
+Updates to this policy will be posted on this page with a revised effective date.
+
+## Contact
+
+Questions about this policy: [explorestamp@gmail.com](mailto:explorestamp@gmail.com)

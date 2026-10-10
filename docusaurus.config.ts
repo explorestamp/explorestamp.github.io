@@ -6,7 +6,7 @@ import type * as Preset from "@docusaurus/preset-classic";
 
 const config: Config = {
   title: "ExploreStamp 探索印記",
-  tagline: "城市尋寶，探索世界，收藏你的冒險足跡",
+  tagline: "把每一次旅行，蓋成一枚印章",
   favicon: "/img/favicon.ico",
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -27,6 +27,13 @@ const config: Config = {
   projectName: "explorestamp.github.io", // repo
 
   onBrokenLinks: "throw",
+
+  stylesheets: [
+    {
+      href: "https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@600;700&display=swap",
+      type: "text/css",
+    },
+  ],
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you
@@ -102,7 +109,7 @@ const config: Config = {
     //   searchPagePath: "search",
     // },
     colorMode: {
-      defaultMode: "dark",
+      defaultMode: "light",
       disableSwitch: true,
       respectPrefersColorScheme: false,
     },
@@ -117,18 +124,18 @@ const config: Config = {
           type: "docSidebar",
           sidebarId: "resourceSidebar",
           position: "left",
-          label: "探索景點",
+          label: "收錄景點",
         },
-        { to: "/blog", label: "最新文章", position: "left" },
-        { to: "/about", label: "關於我們", position: "left" },
+        { to: "/blog", label: "文章", position: "left" },
+        { to: "/about", label: "關於", position: "left" },
         {
           href: "https://facebook.com/groups/explorestamp",
-          label: "探索印記交流社群",
+          label: "社群",
           position: "left",
         },
         {
-          href: "#",
-          label: "立即下載",
+          to: "/#download",
+          label: "下載 App",
           position: "right",
           className: "navbar__download-cta",
         },
@@ -138,63 +145,43 @@ const config: Config = {
       style: "dark",
       links: [
         {
-          title: "探索",
+          title: "產品",
           items: [
-            {
-              label: "探索景點",
-              to: "/explore",
-            },
-            {
-              label: "探索文章",
-              to: "/blog",
-            },
-            {
-              label: "關於我們",
-              to: "/about",
-            },
+            { label: "收錄景點", to: "/explore" },
+            { label: "下載 App", to: "/#download" },
+            { label: "隱私權政策", to: "/privacy" },
           ],
         },
         {
-          title: "旅人社群",
+          title: "內容",
+          items: [
+            { label: "文章", to: "/blog" },
+            { label: "電子報", href: "https://explorestamp.substack.com/" },
+            { label: "關於探索印記", to: "/about" },
+          ],
+        },
+        {
+          title: "社群",
           items: [
             {
-              label: "Facebook 探索印記交流社群",
+              label: "Facebook 社團",
               href: "https://facebook.com/groups/explorestamp",
             },
             {
-              label: "追蹤 Instagram",
-              href: "https://www.instagram.com/explorestamp",
-            },
-            {
-              label: "追蹤 Facebook",
+              label: "Facebook 粉絲專頁",
               href: "https://www.facebook.com/explorestamp",
             },
+            { label: "Instagram", href: "https://www.instagram.com/explorestamp" },
           ],
         },
         {
-          title: "下載 App",
+          title: "聯絡",
           items: [
-            {
-              label: "App Store (即將上線)",
-              href: "#",
-            },
-            {
-              label: "Google Play (即將上線)",
-              href: "#",
-            },
-          ],
-        },
-        {
-          title: "聯絡我們",
-          items: [
-            {
-              label: "發送信件",
-              to: "mailto: explorestamp@gmail.com",
-            },
+            { label: "explorestamp@gmail.com", href: "mailto:explorestamp@gmail.com" },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} ExploreStamp 探索印記, Inc. Built with ❤️ by <a href="https://www.kdchang.com">KD Chang</a> in Taiwan.`,
+      copyright: `© ${new Date().getFullYear()} ExploreStamp 探索印記・由 <a href="https://www.kdchang.com">KD Chang</a> 於臺灣開發`,
     },
     prism: {
       theme: prismThemes.github,

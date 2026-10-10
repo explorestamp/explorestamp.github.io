@@ -1,197 +1,216 @@
 import type { ReactNode } from "react";
 import Link from "@docusaurus/Link";
-import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
+import Heading from "@theme/Heading";
+import { ArrowRight, Camera, MapPin, Route, Smartphone } from "lucide-react";
 import HomepageFeatures from "@site/src/components/HomepageFeatures";
+import Stamp from "@site/src/components/Stamp";
+import {
+  CATALOG_STATS,
+  STORE_LINKS,
+  type CategoryKey,
+} from "@site/src/data/product";
 
 import styles from "./index.module.css";
 
-function HomepageHeader() {
+function StoreButtons(): ReactNode {
+  const stores = [
+    { label: "App Store", href: STORE_LINKS.appStore },
+    { label: "Google Play", href: STORE_LINKS.googlePlay },
+  ];
   return (
-    <header className={styles.heroBanner}>
-      <div className="container">
-        <div className={styles.heroBadge}>
-          <span className={styles.badgeDot} />
-          iOS &amp; Android 免費下載
-        </div>
-        <h1 className={styles.heroTitle}>ExploreStamp 探索印記</h1>
-        <p className={styles.heroSubtitle}>
-          <span className={styles.heroTitleAccent}>
-            把每一次冒險化為珍藏的旅行印記
-          </span>
-          <br />
-          城市尋寶，探索世界，收藏你的冒險足跡。
-          <br />
-          透過打卡挑戰，探索博物館、古蹟、鐵道車站，
-          <br />
-          打造屬於你的虛擬旅行郵冊。
-        </p>
-        <div className={styles.heroButtons}>
-          <a href="#" className={styles.btnPrimary}>
-            <span className={styles.btnIcon}>📱</span>
-            立即下載 App
+    <div className={styles.storeButtons}>
+      {stores.map((s) =>
+        s.href ? (
+          <a key={s.label} href={s.href} className={styles.storeButton}>
+            <Smartphone size={18} strokeWidth={1.75} aria-hidden />
+            <span>
+              <small>下載</small>
+              {s.label}
+            </span>
           </a>
-          <Link to="/explore" className={styles.btnSecondary}>
-            探索景點 →
+        ) : (
+          <span
+            key={s.label}
+            className={`${styles.storeButton} ${styles.storeButtonPending}`}
+          >
+            <Smartphone size={18} strokeWidth={1.75} aria-hidden />
+            <span>
+              <small>即將上架</small>
+              {s.label}
+            </span>
+          </span>
+        ),
+      )}
+    </div>
+  );
+}
+
+const BOOK_PREVIEW: { category: CategoryKey; name?: string; date?: string }[] =
+  [
+    { category: "railway", name: "內灣車站", date: "2026.08.02" },
+    { category: "artsVenue", name: "奇美博物館", date: "2026.08.16" },
+    { category: "heritage" },
+    { category: "food", name: "同記豆花", date: "2026.08.16" },
+    { category: "library" },
+    { category: "factory", name: "巧克力共和國", date: "2026.09.06" },
+    { category: "nature" },
+    { category: "heritage", name: "赤崁樓", date: "2026.08.17" },
+    { category: "railway" },
+  ];
+
+function HomepageHeader(): ReactNode {
+  return (
+    <header className={styles.hero}>
+      <div className={`container ${styles.heroGrid}`}>
+        <div className={styles.heroText}>
+          <p className={styles.eyebrow}>ExploreStamp 探索印記</p>
+          <Heading as="h1" className={styles.heroTitle}>
+            把每一次旅行，
+            <br />
+            蓋成一枚印章
+          </Heading>
+          <p className={styles.heroLead}>
+            探索印記是一本隨身的集章手冊。走進博物館、古蹟、老車站或夜市，在現場完成定位打卡，就能收下一枚專屬於那個地方的印章，連同當天的照片一起記在月曆上。
+          </p>
+          <StoreButtons />
+          <Link to="/explore" className={styles.textLink}>
+            先看看收錄了哪些景點
+            <ArrowRight size={16} strokeWidth={2} aria-hidden />
           </Link>
+          <ul className={styles.heroFacts}>
+            <li>免註冊，下載即可使用</li>
+            <li>打卡紀錄與照片只存在你的手機</li>
+            <li>繁體中文 / English</li>
+          </ul>
         </div>
-        <div className={styles.heroStampRow}>
-          {["🏛️", "🚂", "🏯", "📚", "🎨", "🍜"].map((emoji, i) => (
-            <div key={i} className={styles.miniStamp}>
-              <span>{emoji}</span>
+
+        <div className={styles.heroVisual} aria-hidden>
+          <div className={styles.bookCard}>
+            <div className={styles.bookHeader}>
+              <span>我的印記</span>
+              <span className={styles.bookCount}>
+                6 / {CATALOG_STATS.spots}
+              </span>
             </div>
-          ))}
+            <div className={styles.bookGrid}>
+              {BOOK_PREVIEW.map((s, i) => (
+                <div key={i} className={styles.bookCell}>
+                  <Stamp
+                    category={s.category}
+                    name={s.name}
+                    date={s.date}
+                    locked={!s.name}
+                    size={88}
+                  />
+                </div>
+              ))}
+            </div>
+          </div>
         </div>
       </div>
     </header>
   );
 }
 
-function StatsBar(): ReactNode {
-  const stats = [
-    { value: "8", label: "探索任務類別" },
-    { value: "100+", label: "精選景點收錄" },
-    { value: "郵冊", label: "虛擬郵票收藏" },
-    { value: "明信片", label: "照片轉化印記" },
-    { value: "iOS & Android", label: "免費下載" },
-  ];
-  return (
-    <div className="ct-stats-bar">
-      {stats.map((s, i) => (
-        <div key={i} className="ct-stat-item">
-          <span className="ct-stat-value">{s.value}</span>
-          <span className="ct-stat-label">{s.label}</span>
-        </div>
-      ))}
-    </div>
-  );
-}
-
 function HowItWorks(): ReactNode {
   const steps = [
     {
-      num: "01",
-      icon: "📍",
-      title: "探索景點",
-      desc: "發現身邊的博物館、古蹟、圖書館、美食地圖等精選景點，用地圖找到你的下一站冒險",
+      icon: Route,
+      title: "選一條路線",
+      desc: `從 ${CATALOG_STATS.collections} 個主題任務集挑一條，例如老車站、府城散策或夜市小吃；也可以直接搜尋景點名稱。`,
     },
     {
-      num: "02",
-      icon: "📷",
-      title: "打卡蓋章",
-      desc: "到達景點，拍下照片，把眼前的風景轉化為專屬虛擬郵票與明信片，留下獨一無二的旅行印記",
+      icon: MapPin,
+      title: "到現場蓋章",
+      desc: "抵達景點後按下「蓋章打卡」。App 以 GPS 確認你在景點範圍內，通過後印章就會收進印章冊。",
     },
     {
-      num: "03",
-      icon: "📮",
-      title: "收藏印記",
-      desc: "集結每次打卡，打造屬於你的虛擬旅行郵冊，加上文字紀錄，讓冒險足跡永遠不褪色",
+      icon: Camera,
+      title: "留下這一天",
+      desc: "附上最多 6 張照片和一句話，造訪會記在月曆上；想分享時，照片和印章可以合成一張明信片。",
     },
   ];
   return (
-    <section className="ct-how-it-works">
+    <section className={styles.steps}>
       <div className="container">
-        <div className="ct-section-header">
-          <span className="ct-section-badge">使用流程</span>
-          <h2>三步驟，開始你的冒險</h2>
+        <div className={styles.sectionHead}>
+          <p className={styles.eyebrow}>使用方式</p>
+          <Heading as="h2">三個步驟，收下第一枚印章</Heading>
         </div>
-        <div className="ct-steps-grid">
-          {steps.map((step) => (
-            <div key={step.num} className="ct-step-card">
-              <div className="ct-step-num">STEP {step.num}</div>
-              <span className="ct-step-icon">{step.icon}</span>
-              <h3 className="ct-step-title">{step.title}</h3>
-              <p className="ct-step-desc">{step.desc}</p>
-            </div>
-          ))}
-        </div>
+        <ol className={styles.stepList}>
+          {steps.map((step, i) => {
+            const Icon = step.icon;
+            return (
+              <li key={step.title} className={styles.step}>
+                <div className={styles.stepTop}>
+                  <span className={styles.stepNum}>
+                    {String(i + 1).padStart(2, "0")}
+                  </span>
+                  <Icon size={22} strokeWidth={1.75} aria-hidden />
+                </div>
+                <h3>{step.title}</h3>
+                <p>{step.desc}</p>
+              </li>
+            );
+          })}
+        </ol>
       </div>
     </section>
   );
 }
 
-function QuestCategories(): ReactNode {
-  const categories = [
-    { icon: "🏛️", label: "博物館" },
-    { icon: "🚂", label: "鐵道車站" },
-    { icon: "🏯", label: "古蹟" },
-    { icon: "📚", label: "圖書館" },
-    { icon: "🎨", label: "美術館" },
-    { icon: "🏭", label: "觀光工廠" },
-    { icon: "🍜", label: "美食地圖" },
-    { icon: "🗼", label: "著名景點" },
-  ];
+function DownloadCTA(): ReactNode {
   return (
-    <section className="ct-categories">
-      <div className="container">
-        <div className="ct-section-header">
-          <span className="ct-section-badge">任務類別</span>
-          <h2>探索八大主題，豐富你的冒險</h2>
+    <section className={styles.download}>
+      <div className={`container ${styles.downloadInner}`}>
+        <div>
+          <Heading as="h2" id="download">從離你最近的一站開始</Heading>
           <p>
-            精心策劃的任務清單，涵蓋城市藝文、歷史文化、特色美食，
-            讓你的旅行更有方向與意義
+            探索印記支援 iOS 與 Android，免費下載、不需註冊。挑一個週末，去附近的車站或圖書館蓋第一枚章。
           </p>
         </div>
-        <div className="ct-categories-grid">
-          {categories.map((cat) => (
-            <div key={cat.label} className="ct-category-card">
-              <span className="ct-category-icon">{cat.icon}</span>
-              <span className="ct-category-label">{cat.label}</span>
-            </div>
-          ))}
-        </div>
+        <StoreButtons />
       </div>
     </section>
   );
 }
 
-function AppDownloadCTA(): ReactNode {
+function Newsletter(): ReactNode {
   return (
-    <section className="ct-download-cta">
+    <section className={styles.newsletter}>
       <div className="container">
-        <div className="ct-download-cta-badge">立即開始</div>
-        <h2>開始你的城市尋寶之旅</h2>
-        <p>
-          免費下載 ExploreStamp，把每一次出發， 變成一場可以被記錄與收藏的冒險。
-        </p>
-        <div className="ct-download-buttons">
-          <a href="#" className="ct-dl-btn ct-dl-btn-primary">
-            📱 App Store 下載
-          </a>
-          <a href="#" className="ct-dl-btn ct-dl-btn-secondary">
-            🤖 Google Play 下載
-          </a>
+        <div className={styles.sectionHead}>
+          <p className={styles.eyebrow}>電子報</p>
+          <Heading as="h2">新景點與新路線上線時通知你</Heading>
         </div>
+        <iframe
+          title="ExploreStamp 電子報訂閱"
+          src="https://explorestamp.substack.com/embed"
+          width="100%"
+          height="320"
+          frameBorder="0"
+          scrolling="no"
+          className={styles.newsletterFrame}
+        />
       </div>
     </section>
   );
 }
 
 export default function Home(): ReactNode {
-  const { siteConfig } = useDocusaurusContext();
   return (
     <Layout
-      title={`${siteConfig.title}`}
-      description="透過打卡挑戰，探索城市藝文與經典景點，把每一次冒險化為珍藏的旅行印記。博物館、古蹟、圖書館、鐵道車站，甚至特色美食地圖——打造屬於你的虛擬旅行郵冊。"
+      title="把每一次旅行，蓋成一枚印章"
+      description="探索印記（ExploreStamp）是一本隨身的虛擬集章手冊。到博物館、古蹟、鐵道車站、觀光工廠與特色美食景點現場打卡，收集印章、記錄照片，並把旅程做成明信片分享。"
     >
       <HomepageHeader />
-      <StatsBar />
-      <HowItWorks />
       <main>
+        <HowItWorks />
         <HomepageFeatures />
+        <DownloadCTA />
+        <Newsletter />
       </main>
-      <QuestCategories />
-      <AppDownloadCTA />
-      <div className="ct-newsletter-wrap">
-        <iframe
-          src="https://explorestamp.substack.com/embed"
-          width="100%"
-          height="320"
-          style={{ maxWidth: "680px", margin: "0 auto", display: "block" }}
-          frameBorder="0"
-          scrolling="no"
-        ></iframe>
-      </div>
     </Layout>
   );
 }
