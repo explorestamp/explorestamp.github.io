@@ -177,7 +177,7 @@ const config: Config = {
         {
           title: "聯絡",
           items: [
-            { label: "explorestamp@gmail.com", href: "mailto:explorestamp@gmail.com" },
+            { label: "聯絡信箱", href: "mailto:explorestamp@gmail.com" },
           ],
         },
       ],
