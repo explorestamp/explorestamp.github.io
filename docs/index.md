@@ -66,4 +66,4 @@ sidebar_position: 1
 
 ## 建議新景點
 
-想推薦景點或回報資料錯誤，請來信 [explorestamp@gmail.com](mailto:explorestamp@gmail.com)。
+想推薦景點或回報資料錯誤，請來信至[聯絡信箱](mailto:explorestamp@gmail.com)。

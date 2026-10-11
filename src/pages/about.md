@@ -36,6 +36,6 @@ image: https://www.explorestamp.com/img/logo.png
 
 ## 聯絡我們
 
-景點建議、資料更正或合作洽詢，歡迎來信 [explorestamp@gmail.com](mailto:explorestamp@gmail.com)。
+景點建議、資料更正或合作洽詢，歡迎來信至[聯絡信箱](mailto:explorestamp@gmail.com)。
 
 也可以加入 [Facebook 社團](https://facebook.com/groups/explorestamp)，或追蹤 [Instagram](https://www.instagram.com/explorestamp)。
