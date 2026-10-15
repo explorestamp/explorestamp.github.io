@@ -182,7 +182,10 @@ function Newsletter(): ReactNode {
       <div className="container">
         <div className={styles.sectionHead}>
           <p className={styles.eyebrow}>電子報</p>
-          <Heading as="h2">新景點與新路線上線時通知你</Heading>
+          <Heading as="h2">下一枚印章去哪裡蓋，我們寫信告訴你</Heading>
+          <p className={styles.sectionLead}>
+            也分享博物館、古蹟與老車站的散步提案，陪你把週末出門變成一段值得收藏的路線。
+          </p>
         </div>
         <iframe
           title="ExploreStamp 電子報訂閱"

@@ -16,6 +16,13 @@
   margin: 0;
 }
 
+.sectionLead {
+  margin: 0.75rem 0 0;
+  font-size: 1.0625rem;
+  line-height: 1.85;
+  color: var(--es-ink-soft);
+}
+
 /* ── Hero ── */
 .hero {
   padding: 5rem 0 4.5rem;
