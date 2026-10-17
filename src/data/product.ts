@@ -1,14 +1,29 @@
 import type { LucideIcon } from "lucide-react";
 import { translate } from "@docusaurus/Translate";
 import {
+  Binoculars,
   BookOpen,
   Castle,
+  Church,
+  Coffee,
   Factory,
+  FerrisWheel,
+  Fish,
+  GraduationCap,
+  ImageIcon,
   Landmark,
+  Library,
+  MoonStar,
+  Plane,
+  ShoppingBag,
   Soup,
+  Store,
+  Theater,
   TrainFront,
   Trees,
 } from "lucide-react";
+// 只留 id、分類與國家，用來算景點數。名稱與經緯度刻意不放進官網，
+// 完整目錄留在 App 與 explorestamp-data-api。
 import spots from "@site/src/data/spots.json";
 
 /**
@@ -32,12 +47,25 @@ export const COMMUNITY_LINKS = {
 };
 
 export type CategoryKey =
-  | "artsVenue"
-  | "heritage"
+  | "museum"
+  | "artMuseum"
+  | "venue"
+  | "zooAquarium"
+  | "themePark"
+  | "landmark"
   | "library"
+  | "bookstore"
+  | "campus"
+  | "heritage"
+  | "worship"
+  | "shopping"
+  | "market"
+  | "nightMarket"
+  | "food"
+  | "cafe"
+  | "airport"
   | "railway"
   | "factory"
-  | "food"
   | "nature";
 
 export type Category = {
@@ -49,31 +77,85 @@ export type Category = {
   examples: string;
 };
 
+// 順序同 explorestamp-data-api 的 docs/categories.md，也就是 App 裡的顯示順序。
+// 還沒有景點的分類（書店、大學校園、購物與商圈、咖啡廳、機場）範例取自規範文件。
 export const CATEGORIES: Category[] = [
   {
-    key: "artsVenue",
+    key: "museum",
     label: translate({
-      id: "product.category.artsVenue.label",
-      message: "藝文場館",
+      id: "product.category.museum.label",
+      message: "博物館",
     }),
     color: "#3A5FA0",
     icon: Landmark,
     examples: translate({
-      id: "product.category.artsVenue.examples",
-      message: "國立故宮博物院、奇美博物館、駁二藝術特區",
+      id: "product.category.museum.examples",
+      message: "國立故宮博物院、東京國立博物館、奧克蘭戰爭紀念博物館",
     }),
   },
   {
-    key: "heritage",
+    key: "artMuseum",
     label: translate({
-      id: "product.category.heritage.label",
-      message: "古蹟遺址",
+      id: "product.category.artMuseum.label",
+      message: "美術館",
     }),
-    color: "#8B5E3C",
-    icon: Castle,
+    color: "#8A4FB0",
+    icon: ImageIcon,
     examples: translate({
-      id: "product.category.heritage.examples",
-      message: "赤崁樓、淡水紅毛城、鹿港龍山寺",
+      id: "product.category.artMuseum.examples",
+      message: "臺北市立美術館、M+、東大門設計廣場",
+    }),
+  },
+  {
+    key: "venue",
+    label: translate({
+      id: "product.category.venue.label",
+      message: "表演與運動場館",
+    }),
+    color: "#E07B39",
+    icon: Theater,
+    examples: translate({
+      id: "product.category.venue.examples",
+      message: "雪梨歌劇院",
+    }),
+  },
+  {
+    key: "zooAquarium",
+    label: translate({
+      id: "product.category.zooAquarium.label",
+      message: "動物園與水族館",
+    }),
+    color: "#2F9FCF",
+    icon: Fish,
+    examples: translate({
+      id: "product.category.zooAquarium.examples",
+      message: "沖繩美麗海水族館、龍柏無尾熊保護區",
+    }),
+  },
+  {
+    key: "themePark",
+    label: translate({
+      id: "product.category.themePark.label",
+      message: "主題樂園",
+    }),
+    color: "#E2568F",
+    icon: FerrisWheel,
+    examples: translate({
+      id: "product.category.themePark.examples",
+      message: "哈比村",
+    }),
+  },
+  {
+    key: "landmark",
+    label: translate({
+      id: "product.category.landmark.label",
+      message: "地標與觀景台",
+    }),
+    color: "#6B7C8F",
+    icon: Binoculars,
+    examples: translate({
+      id: "product.category.landmark.examples",
+      message: "南山N首爾塔、太平山頂、皇后鎮天空纜車",
     }),
   },
   {
@@ -86,7 +168,137 @@ export const CATEGORIES: Category[] = [
     icon: BookOpen,
     examples: translate({
       id: "product.category.library.examples",
-      message: "北投分館、國家圖書館、臺南市立圖書館總館",
+      message: "北投分館、星空圖書館、維多利亞州立圖書館",
+    }),
+  },
+  {
+    key: "bookstore",
+    label: translate({
+      id: "product.category.bookstore.label",
+      message: "書店",
+    }),
+    color: "#2E5E4E",
+    icon: Library,
+    examples: translate({
+      id: "product.category.bookstore.examples",
+      message: "誠品書店、蔦屋書店、莎士比亞書店",
+    }),
+  },
+  {
+    key: "campus",
+    label: translate({
+      id: "product.category.campus.label",
+      message: "大學校園",
+    }),
+    color: "#7D8F2A",
+    icon: GraduationCap,
+    examples: translate({
+      id: "product.category.campus.examples",
+      message: "臺灣大學、東京大學、墨爾本大學",
+    }),
+  },
+  {
+    key: "heritage",
+    label: translate({
+      id: "product.category.heritage.label",
+      message: "古蹟",
+    }),
+    color: "#8B5E3C",
+    icon: Castle,
+    examples: translate({
+      id: "product.category.heritage.examples",
+      message: "赤崁樓、大阪城、景福宮",
+    }),
+  },
+  {
+    key: "worship",
+    label: translate({
+      id: "product.category.worship.label",
+      message: "宗教聖地",
+    }),
+    color: "#7A1F2B",
+    icon: Church,
+    examples: translate({
+      id: "product.category.worship.examples",
+      message: "鹿港龍山寺、淺草寺、聖母聖殿",
+    }),
+  },
+  {
+    key: "shopping",
+    label: translate({
+      id: "product.category.shopping.label",
+      message: "購物與商圈",
+    }),
+    color: "#0097A7",
+    icon: ShoppingBag,
+    examples: translate({
+      id: "product.category.shopping.examples",
+      message: "明洞、銅鑼灣、哈洛德百貨",
+    }),
+  },
+  {
+    key: "market",
+    label: translate({
+      id: "product.category.market.label",
+      message: "市集",
+    }),
+    color: "#A63A7E",
+    icon: Store,
+    examples: translate({
+      id: "product.category.market.examples",
+      message: "築地場外市場、札嘎其市場、維多利亞女王市場",
+    }),
+  },
+  {
+    key: "nightMarket",
+    label: translate({
+      id: "product.category.nightMarket.label",
+      message: "夜市",
+    }),
+    color: "#2F2A62",
+    icon: MoonStar,
+    examples: translate({
+      id: "product.category.nightMarket.examples",
+      message: "逢甲夜市、六合夜市、廟街夜市",
+    }),
+  },
+  {
+    key: "food",
+    label: translate({
+      id: "product.category.food.label",
+      message: "美食小吃",
+    }),
+    color: "#B7343C",
+    icon: Soup,
+    examples: translate({
+      id: "product.category.food.examples",
+      message: "阿宗麵線、安德魯餅店、蘭芳園",
+    }),
+  },
+  {
+    key: "cafe",
+    label: translate({
+      id: "product.category.cafe.label",
+      message: "咖啡廳",
+    }),
+    color: "#6F4E37",
+    icon: Coffee,
+    examples: translate({
+      id: "product.category.cafe.examples",
+      message: "老字號咖啡館、星巴克臻選烘焙工坊",
+    }),
+  },
+  {
+    key: "airport",
+    label: translate({
+      id: "product.category.airport.label",
+      message: "機場",
+    }),
+    color: "#5C6BC0",
+    icon: Plane,
+    examples: translate({
+      id: "product.category.airport.examples",
+      message: "桃園機場、羽田機場、仁川機場",
     }),
   },
   {
@@ -99,7 +311,7 @@ export const CATEGORIES: Category[] = [
     icon: TrainFront,
     examples: translate({
       id: "product.category.railway.examples",
-      message: "內灣車站、集集車站、菁桐車站",
+      message: "內灣車站、東京車站、福林德斯街車站",
     }),
   },
   {
@@ -112,33 +324,20 @@ export const CATEGORIES: Category[] = [
     icon: Factory,
     examples: translate({
       id: "product.category.factory.examples",
-      message: "噶瑪蘭威士忌酒廠、巧克力共和國、舊振南漢餅文化館",
-    }),
-  },
-  {
-    key: "food",
-    label: translate({
-      id: "product.category.food.label",
-      message: "特色美食",
-    }),
-    color: "#B7343C",
-    icon: Soup,
-    examples: translate({
-      id: "product.category.food.examples",
-      message: "阿宗麵線、同記安平豆花、噴水雞肉飯",
+      message: "噶瑪蘭威士忌酒廠、白色戀人公園、維利奇卡鹽礦",
     }),
   },
   {
     key: "nature",
     label: translate({
       id: "product.category.nature.label",
-      message: "自然園區",
+      message: "自然景點",
     }),
     color: "#1F7A6C",
     icon: Trees,
     examples: translate({
       id: "product.category.nature.examples",
-      message: "臺北植物園、奧萬大森林遊樂區、富源森林遊樂區",
+      message: "臺北植物園、萬座毛、伊甸山",
     }),
   },
 ];
@@ -299,5 +498,5 @@ export const COLLECTIONS: Collection[] = [
 export const CATALOG_STATS = {
   spots: spots.length,
   categories: CATEGORIES.length,
-  collections: 19,
+  collections: 28,
 };

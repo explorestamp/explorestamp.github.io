@@ -1,1517 +1,792 @@
 [
   {
     "id": "tw-tpe-artsvenue-npm",
-    "category": "artsVenue",
-    "country": "TW",
-    "name": {
-      "zh": "國立故宮博物院",
-      "en": "National Palace Museum"
-    },
-    "city": {
-      "zh": "臺北市",
-      "en": "Taipei"
-    },
-    "lat": 25.1023,
-    "lng": 121.5485
+    "category": "museum",
+    "country": "TW"
   },
   {
     "id": "tw-tpe-artsvenue-tfam",
-    "category": "artsVenue",
-    "country": "TW",
-    "name": {
-      "zh": "臺北市立美術館",
-      "en": "Taipei Fine Arts Museum"
-    },
-    "city": {
-      "zh": "臺北市",
-      "en": "Taipei"
-    },
-    "lat": 25.0725,
-    "lng": 121.5248
+    "category": "artMuseum",
+    "country": "TW"
   },
   {
     "id": "tw-tnn-artsvenue-chimei",
-    "category": "artsVenue",
-    "country": "TW",
-    "name": {
-      "zh": "奇美博物館",
-      "en": "Chimei Museum"
-    },
-    "city": {
-      "zh": "臺南市",
-      "en": "Tainan"
-    },
-    "lat": 22.9346,
-    "lng": 120.226
+    "category": "museum",
+    "country": "TW"
   },
   {
     "id": "tw-tcg-artsvenue-nmns",
-    "category": "artsVenue",
-    "country": "TW",
-    "name": {
-      "zh": "國立自然科學博物館",
-      "en": "National Museum of Natural Science"
-    },
-    "city": {
-      "zh": "臺中市",
-      "en": "Taichung"
-    },
-    "lat": 24.158,
-    "lng": 120.665
+    "category": "museum",
+    "country": "TW"
   },
   {
     "id": "tw-ila-artsvenue-lanyang",
-    "category": "artsVenue",
-    "country": "TW",
-    "name": {
-      "zh": "蘭陽博物館",
-      "en": "Lanyang Museum"
-    },
-    "city": {
-      "zh": "宜蘭縣",
-      "en": "Yilan"
-    },
-    "lat": 24.8706,
-    "lng": 121.8318
+    "category": "museum",
+    "country": "TW"
   },
   {
     "id": "tw-khh-artsvenue-pier2",
-    "category": "artsVenue",
-    "country": "TW",
-    "name": {
-      "zh": "駁二藝術特區",
-      "en": "Pier-2 Art Center"
-    },
-    "city": {
-      "zh": "高雄市",
-      "en": "Kaohsiung"
-    },
-    "lat": 22.6203,
-    "lng": 120.282
+    "category": "artMuseum",
+    "country": "TW"
   },
   {
     "id": "tw-tpe-heritage-bopiliao",
     "category": "heritage",
-    "country": "TW",
-    "name": {
-      "zh": "剝皮寮歷史街區",
-      "en": "Bopiliao Historic Block"
-    },
-    "city": {
-      "zh": "臺北市",
-      "en": "Taipei"
-    },
-    "lat": 25.0367,
-    "lng": 121.4995
+    "country": "TW"
   },
   {
     "id": "tw-tnn-heritage-anping",
     "category": "heritage",
-    "country": "TW",
-    "name": {
-      "zh": "安平古堡",
-      "en": "Anping Fort"
-    },
-    "city": {
-      "zh": "臺南市",
-      "en": "Tainan"
-    },
-    "lat": 23.0014,
-    "lng": 120.161
+    "country": "TW"
   },
   {
     "id": "tw-tnn-heritage-chihkan",
     "category": "heritage",
-    "country": "TW",
-    "name": {
-      "zh": "赤崁樓",
-      "en": "Chihkan Tower"
-    },
-    "city": {
-      "zh": "臺南市",
-      "en": "Tainan"
-    },
-    "lat": 22.9976,
-    "lng": 120.2026
+    "country": "TW"
   },
   {
     "id": "tw-ntp-heritage-santodomingo",
     "category": "heritage",
-    "country": "TW",
-    "name": {
-      "zh": "淡水紅毛城",
-      "en": "Fort San Domingo"
-    },
-    "city": {
-      "zh": "新北市",
-      "en": "New Taipei"
-    },
-    "lat": 25.1754,
-    "lng": 121.4327
+    "country": "TW"
   },
   {
     "id": "tw-chw-heritage-longshan",
-    "category": "heritage",
-    "country": "TW",
-    "name": {
-      "zh": "鹿港龍山寺",
-      "en": "Lukang Longshan Temple"
-    },
-    "city": {
-      "zh": "彰化縣",
-      "en": "Changhua"
-    },
-    "lat": 24.053,
-    "lng": 120.434
+    "category": "worship",
+    "country": "TW"
   },
   {
     "id": "tw-kmn-heritage-juguang",
     "category": "heritage",
-    "country": "TW",
-    "name": {
-      "zh": "莒光樓",
-      "en": "Juguang Tower"
-    },
-    "city": {
-      "zh": "金門縣",
-      "en": "Kinmen"
-    },
-    "lat": 24.4159,
-    "lng": 118.3155
+    "country": "TW"
   },
   {
     "id": "tw-tpe-library-beitou",
     "category": "library",
-    "country": "TW",
-    "name": {
-      "zh": "臺北市立圖書館北投分館",
-      "en": "Beitou Branch Library"
-    },
-    "city": {
-      "zh": "臺北市",
-      "en": "Taipei"
-    },
-    "lat": 25.1366,
-    "lng": 121.5065
+    "country": "TW"
   },
   {
     "id": "tw-tpe-library-ncl",
     "category": "library",
-    "country": "TW",
-    "name": {
-      "zh": "國家圖書館",
-      "en": "National Central Library"
-    },
-    "city": {
-      "zh": "臺北市",
-      "en": "Taipei"
-    },
-    "lat": 25.0325,
-    "lng": 121.5178
+    "country": "TW"
   },
   {
     "id": "tw-tnn-library-main",
     "category": "library",
-    "country": "TW",
-    "name": {
-      "zh": "臺南市立圖書館總館",
-      "en": "Tainan Public Library"
-    },
-    "city": {
-      "zh": "臺南市",
-      "en": "Tainan"
-    },
-    "lat": 23.029,
-    "lng": 120.253
+    "country": "TW"
   },
   {
     "id": "tw-tcg-library-main",
     "category": "library",
-    "country": "TW",
-    "name": {
-      "zh": "臺中市立圖書館總館",
-      "en": "Taichung Public Library"
-    },
-    "city": {
-      "zh": "臺中市",
-      "en": "Taichung"
-    },
-    "lat": 24.1471,
-    "lng": 120.6858
+    "country": "TW"
   },
   {
     "id": "tw-ila-library-yilan",
     "category": "library",
-    "country": "TW",
-    "name": {
-      "zh": "宜蘭市立圖書館",
-      "en": "Yilan City Library"
-    },
-    "city": {
-      "zh": "宜蘭縣",
-      "en": "Yilan"
-    },
-    "lat": 24.753,
-    "lng": 121.753
+    "country": "TW"
   },
   {
     "id": "tw-khh-library-main",
     "category": "library",
-    "country": "TW",
-    "name": {
-      "zh": "高雄市立圖書館總館",
-      "en": "Kaohsiung Main Public Library"
-    },
-    "city": {
-      "zh": "高雄市",
-      "en": "Kaohsiung"
-    },
-    "lat": 22.607,
-    "lng": 120.302
+    "country": "TW"
   },
   {
     "id": "tw-hsq-railway-neiwan",
     "category": "railway",
-    "country": "TW",
-    "name": {
-      "zh": "內灣車站",
-      "en": "Neiwan Station"
-    },
-    "city": {
-      "zh": "新竹縣",
-      "en": "Hsinchu"
-    },
-    "lat": 24.7061,
-    "lng": 121.1885
+    "country": "TW"
   },
   {
     "id": "tw-nan-railway-jiji",
     "category": "railway",
-    "country": "TW",
-    "name": {
-      "zh": "集集車站",
-      "en": "Jiji Station"
-    },
-    "city": {
-      "zh": "南投縣",
-      "en": "Nantou"
-    },
-    "lat": 23.829,
-    "lng": 120.786
+    "country": "TW"
   },
   {
     "id": "tw-tnn-railway-tainan",
     "category": "railway",
-    "country": "TW",
-    "name": {
-      "zh": "臺南車站",
-      "en": "Tainan Station"
-    },
-    "city": {
-      "zh": "臺南市",
-      "en": "Tainan"
-    },
-    "lat": 22.9971,
-    "lng": 120.212
+    "country": "TW"
   },
   {
     "id": "tw-hua-railway-hualien",
     "category": "railway",
-    "country": "TW",
-    "name": {
-      "zh": "花蓮車站",
-      "en": "Hualien Station"
-    },
-    "city": {
-      "zh": "花蓮縣",
-      "en": "Hualien"
-    },
-    "lat": 23.993,
-    "lng": 121.601
+    "country": "TW"
   },
   {
     "id": "tw-mia-railway-shengxing",
     "category": "railway",
-    "country": "TW",
-    "name": {
-      "zh": "勝興車站",
-      "en": "Shengxing Station"
-    },
-    "city": {
-      "zh": "苗栗縣",
-      "en": "Miaoli"
-    },
-    "lat": 24.39,
-    "lng": 120.777
+    "country": "TW"
   },
   {
     "id": "tw-ntp-railway-jingtong",
     "category": "railway",
-    "country": "TW",
-    "name": {
-      "zh": "菁桐車站",
-      "en": "Jingtong Station"
-    },
-    "city": {
-      "zh": "新北市",
-      "en": "New Taipei"
-    },
-    "lat": 25.024,
-    "lng": 121.724
+    "country": "TW"
   },
   {
     "id": "tw-ila-factory-kavalan",
     "category": "factory",
-    "country": "TW",
-    "name": {
-      "zh": "金車噶瑪蘭威士忌酒廠",
-      "en": "Kavalan Whisky Distillery"
-    },
-    "city": {
-      "zh": "宜蘭縣",
-      "en": "Yilan"
-    },
-    "lat": 24.759,
-    "lng": 121.715
+    "country": "TW"
   },
   {
     "id": "tw-tyc-factory-chocolate",
     "category": "factory",
-    "country": "TW",
-    "name": {
-      "zh": "巧克力共和國",
-      "en": "Republic of Chocolate"
-    },
-    "city": {
-      "zh": "桃園市",
-      "en": "Taoyuan"
-    },
-    "lat": 25.009,
-    "lng": 121.256
+    "country": "TW"
   },
   {
     "id": "tw-ila-factory-crayon",
     "category": "factory",
-    "country": "TW",
-    "name": {
-      "zh": "蜡藝蠟筆城堡",
-      "en": "Lucky Art Crayon Castle"
-    },
-    "city": {
-      "zh": "宜蘭縣",
-      "en": "Yilan"
-    },
-    "lat": 24.654,
-    "lng": 121.777
+    "country": "TW"
   },
   {
     "id": "tw-tcg-factory-treeroots",
     "category": "factory",
-    "country": "TW",
-    "name": {
-      "zh": "老樹根魔法木工場",
-      "en": "Tree Roots Wood Workshop"
-    },
-    "city": {
-      "zh": "臺中市",
-      "en": "Taichung"
-    },
-    "lat": 24.12,
-    "lng": 120.648
+    "country": "TW"
   },
   {
     "id": "tw-cyq-factory-bantaoyao",
     "category": "factory",
-    "country": "TW",
-    "name": {
-      "zh": "板陶窯交趾剪黏工藝園區",
-      "en": "Bantaoyao Crafts Studio"
-    },
-    "city": {
-      "zh": "嘉義縣",
-      "en": "Chiayi"
-    },
-    "lat": 23.459,
-    "lng": 120.236
+    "country": "TW"
   },
   {
     "id": "tw-khh-factory-jiuzhennan",
     "category": "factory",
-    "country": "TW",
-    "name": {
-      "zh": "舊振南漢餅文化館",
-      "en": "Jiu Zhen Nan Pastry Museum"
-    },
-    "city": {
-      "zh": "高雄市",
-      "en": "Kaohsiung"
-    },
-    "lat": 22.736,
-    "lng": 120.418
+    "country": "TW"
   },
   {
     "id": "tw-tpe-food-ahchung",
     "category": "food",
-    "country": "TW",
-    "name": {
-      "zh": "阿宗麵線",
-      "en": "Ay-Chung Flour-Rice Noodle"
-    },
-    "city": {
-      "zh": "臺北市",
-      "en": "Taipei"
-    },
-    "lat": 25.044,
-    "lng": 121.507
+    "country": "TW"
   },
   {
     "id": "tw-tnn-food-tongji",
     "category": "food",
-    "country": "TW",
-    "name": {
-      "zh": "同記安平豆花",
-      "en": "Tong Ji Anping Tofu Pudding"
-    },
-    "city": {
-      "zh": "臺南市",
-      "en": "Tainan"
-    },
-    "lat": 23.001,
-    "lng": 120.162
+    "country": "TW"
   },
   {
     "id": "tw-tcg-food-fengjia",
-    "category": "food",
-    "country": "TW",
-    "name": {
-      "zh": "逢甲夜市",
-      "en": "Fengjia Night Market"
-    },
-    "city": {
-      "zh": "臺中市",
-      "en": "Taichung"
-    },
-    "lat": 24.179,
-    "lng": 120.647
+    "category": "nightMarket",
+    "country": "TW"
   },
   {
     "id": "tw-khh-food-liuhe",
-    "category": "food",
-    "country": "TW",
-    "name": {
-      "zh": "六合夜市",
-      "en": "Liuhe Night Market"
-    },
-    "city": {
-      "zh": "高雄市",
-      "en": "Kaohsiung"
-    },
-    "lat": 22.632,
-    "lng": 120.302
+    "category": "nightMarket",
+    "country": "TW"
   },
   {
     "id": "tw-cyi-food-penshui",
     "category": "food",
-    "country": "TW",
-    "name": {
-      "zh": "噴水雞肉飯",
-      "en": "Penshui Turkey Rice"
-    },
-    "city": {
-      "zh": "嘉義市",
-      "en": "Chiayi"
-    },
-    "lat": 23.479,
-    "lng": 120.449
+    "country": "TW"
   },
   {
     "id": "tw-hua-food-gongzheng",
     "category": "food",
-    "country": "TW",
-    "name": {
-      "zh": "公正包子",
-      "en": "Gongzheng Baozi"
-    },
-    "city": {
-      "zh": "花蓮縣",
-      "en": "Hualien"
-    },
-    "lat": 23.977,
-    "lng": 121.606
+    "country": "TW"
   },
   {
     "id": "tw-ntp-food-qizhang",
     "category": "food",
-    "country": "TW",
-    "name": {
-      "zh": "七張米粉湯",
-      "en": "Qizhang Rice Noodle Soup"
-    },
-    "city": {
-      "zh": "新北市",
-      "en": "New Taipei"
-    },
-    "lat": 24.9727,
-    "lng": 121.5424
+    "country": "TW"
   },
   {
     "id": "tw-ntp-nature-erbazi",
     "category": "nature",
-    "country": "TW",
-    "name": {
-      "zh": "二叭子植物園",
-      "en": "Erbazi Botanical Garden"
-    },
-    "city": {
-      "zh": "新北市",
-      "en": "New Taipei"
-    },
-    "lat": 24.94,
-    "lng": 121.53
+    "country": "TW"
   },
   {
     "id": "tw-tpe-nature-botanical",
     "category": "nature",
-    "country": "TW",
-    "name": {
-      "zh": "臺北植物園",
-      "en": "Taipei Botanical Garden"
-    },
-    "city": {
-      "zh": "臺北市",
-      "en": "Taipei"
-    },
-    "lat": 25.0324,
-    "lng": 121.5106
+    "country": "TW"
   },
   {
     "id": "tw-nan-nature-aowanda",
     "category": "nature",
-    "country": "TW",
-    "name": {
-      "zh": "奧萬大國家森林遊樂區",
-      "en": "Aowanda National Forest Recreation Area"
-    },
-    "city": {
-      "zh": "南投縣",
-      "en": "Nantou"
-    },
-    "lat": 23.91,
-    "lng": 121.033
+    "country": "TW"
   },
   {
     "id": "tw-khh-nature-tengzhi",
     "category": "nature",
-    "country": "TW",
-    "name": {
-      "zh": "藤枝國家森林遊樂區",
-      "en": "Tengzhi National Forest Recreation Area"
-    },
-    "city": {
-      "zh": "高雄市",
-      "en": "Kaohsiung"
-    },
-    "lat": 23.166,
-    "lng": 120.766
+    "country": "TW"
   },
   {
     "id": "tw-tyc-nature-dongyanshan",
     "category": "nature",
-    "country": "TW",
-    "name": {
-      "zh": "東眼山國家森林遊樂區",
-      "en": "Dongyanshan National Forest Recreation Area"
-    },
-    "city": {
-      "zh": "桃園市",
-      "en": "Taoyuan"
-    },
-    "lat": 24.717,
-    "lng": 121.417
+    "country": "TW"
   },
   {
     "id": "tw-hua-nature-fuyuan",
     "category": "nature",
-    "country": "TW",
-    "name": {
-      "zh": "富源國家森林遊樂區",
-      "en": "Fuyuan National Forest Recreation Area"
-    },
-    "city": {
-      "zh": "花蓮縣",
-      "en": "Hualien"
-    },
-    "lat": 23.517,
-    "lng": 121.383
+    "country": "TW"
   },
   {
     "id": "jp-tyo-artsvenue-tnm",
-    "category": "artsVenue",
-    "country": "JP",
-    "name": {
-      "zh": "東京國立博物館",
-      "en": "Tokyo National Museum"
-    },
-    "city": {
-      "zh": "東京都台東區",
-      "en": "Taito City, Tokyo"
-    },
-    "lat": 35.7189,
-    "lng": 139.7766
+    "category": "museum",
+    "country": "JP"
   },
   {
     "id": "jp-tyo-heritage-sensoji",
-    "category": "heritage",
-    "country": "JP",
-    "name": {
-      "zh": "淺草寺",
-      "en": "Senso-ji"
-    },
-    "city": {
-      "zh": "東京都台東區",
-      "en": "Taito City, Tokyo"
-    },
-    "lat": 35.7148,
-    "lng": 139.7967
+    "category": "worship",
+    "country": "JP"
   },
   {
     "id": "jp-tyo-railway-tokyo",
     "category": "railway",
-    "country": "JP",
-    "name": {
-      "zh": "東京車站",
-      "en": "Tokyo Station"
-    },
-    "city": {
-      "zh": "東京都千代田區",
-      "en": "Chiyoda City, Tokyo"
-    },
-    "lat": 35.6812,
-    "lng": 139.766
+    "country": "JP"
   },
   {
     "id": "jp-tyo-library-ndl",
     "category": "library",
-    "country": "JP",
-    "name": {
-      "zh": "國立國會圖書館 東京本館",
-      "en": "National Diet Library, Tokyo Main Library"
-    },
-    "city": {
-      "zh": "東京都千代田區",
-      "en": "Chiyoda City, Tokyo"
-    },
-    "lat": 35.6786,
-    "lng": 139.7443
+    "country": "JP"
   },
   {
     "id": "jp-tyo-food-tsukiji",
-    "category": "food",
-    "country": "JP",
-    "name": {
-      "zh": "築地場外市場",
-      "en": "Tsukiji Outer Market"
-    },
-    "city": {
-      "zh": "東京都中央區",
-      "en": "Chuo City, Tokyo"
-    },
-    "lat": 35.6654,
-    "lng": 139.7705
+    "category": "market",
+    "country": "JP"
   },
   {
     "id": "jp-tyo-nature-shinjukugyoen",
     "category": "nature",
-    "country": "JP",
-    "name": {
-      "zh": "新宿御苑",
-      "en": "Shinjuku Gyoen National Garden"
-    },
-    "city": {
-      "zh": "東京都新宿區",
-      "en": "Shinjuku City, Tokyo"
-    },
-    "lat": 35.6853,
-    "lng": 139.7097
+    "country": "JP"
   },
   {
     "id": "jp-spk-factory-shiroikoibito",
     "category": "factory",
-    "country": "JP",
-    "name": {
-      "zh": "白色戀人公園",
-      "en": "Shiroi Koibito Park"
-    },
-    "city": {
-      "zh": "北海道札幌市西區",
-      "en": "Nishi Ward, Sapporo"
-    },
-    "lat": 43.0887,
-    "lng": 141.2717
+    "country": "JP"
   },
   {
     "id": "jp-spk-factory-sapporobeer",
     "category": "factory",
-    "country": "JP",
-    "name": {
-      "zh": "札幌啤酒博物館",
-      "en": "Sapporo Beer Museum"
-    },
-    "city": {
-      "zh": "北海道札幌市東區",
-      "en": "Higashi Ward, Sapporo"
-    },
-    "lat": 43.0714,
-    "lng": 141.369
+    "country": "JP"
   },
   {
     "id": "jp-spk-heritage-clocktower",
     "category": "heritage",
-    "country": "JP",
-    "name": {
-      "zh": "札幌市時計台",
-      "en": "Sapporo Clock Tower"
-    },
-    "city": {
-      "zh": "北海道札幌市中央區",
-      "en": "Chuo Ward, Sapporo"
-    },
-    "lat": 43.0626,
-    "lng": 141.3537
+    "country": "JP"
   },
   {
     "id": "jp-otr-railway-otaru",
     "category": "railway",
-    "country": "JP",
-    "name": {
-      "zh": "小樽車站",
-      "en": "Otaru Station"
-    },
-    "city": {
-      "zh": "北海道小樽市",
-      "en": "Otaru, Hokkaido"
-    },
-    "lat": 43.1976,
-    "lng": 140.9939
+    "country": "JP"
   },
   {
     "id": "jp-nkf-nature-farmtomita",
     "category": "nature",
-    "country": "JP",
-    "name": {
-      "zh": "富田農場",
-      "en": "Farm Tomita"
-    },
-    "city": {
-      "zh": "北海道空知郡中富良野町",
-      "en": "Nakafurano, Hokkaido"
-    },
-    "lat": 43.4189,
-    "lng": 142.4266
+    "country": "JP"
   },
   {
     "id": "jp-kyt-heritage-kiyomizu",
-    "category": "heritage",
-    "country": "JP",
-    "name": {
-      "zh": "清水寺",
-      "en": "Kiyomizu-dera Temple"
-    },
-    "city": {
-      "zh": "京都市東山區",
-      "en": "Higashiyama Ward, Kyoto"
-    },
-    "lat": 34.9948,
-    "lng": 135.785
+    "category": "worship",
+    "country": "JP"
   },
   {
     "id": "jp-kyt-heritage-fushimiinari",
-    "category": "heritage",
-    "country": "JP",
-    "name": {
-      "zh": "伏見稻荷大社",
-      "en": "Fushimi Inari Taisha"
-    },
-    "city": {
-      "zh": "京都市伏見區",
-      "en": "Fushimi Ward, Kyoto"
-    },
-    "lat": 34.9669,
-    "lng": 135.7731
+    "category": "worship",
+    "country": "JP"
   },
   {
     "id": "jp-kyt-railway-kyoto",
     "category": "railway",
-    "country": "JP",
-    "name": {
-      "zh": "京都車站",
-      "en": "Kyoto Station"
-    },
-    "city": {
-      "zh": "京都市下京區",
-      "en": "Shimogyo Ward, Kyoto"
-    },
-    "lat": 34.9855,
-    "lng": 135.7578
+    "country": "JP"
   },
   {
     "id": "jp-kyt-food-nishiki",
-    "category": "food",
-    "country": "JP",
-    "name": {
-      "zh": "錦市場",
-      "en": "Nishiki Market"
-    },
-    "city": {
-      "zh": "京都市中京區",
-      "en": "Nakagyo Ward, Kyoto"
-    },
-    "lat": 35.005,
-    "lng": 135.7647
+    "category": "market",
+    "country": "JP"
   },
   {
     "id": "jp-kyt-nature-arashiyama",
     "category": "nature",
-    "country": "JP",
-    "name": {
-      "zh": "嵐山竹林小徑",
-      "en": "Arashiyama Bamboo Grove"
-    },
-    "city": {
-      "zh": "京都市右京區",
-      "en": "Ukyo Ward, Kyoto"
-    },
-    "lat": 35.0168,
-    "lng": 135.6716
+    "country": "JP"
   },
   {
     "id": "jp-kyt-artsvenue-railwaymuseum",
-    "category": "artsVenue",
-    "country": "JP",
-    "name": {
-      "zh": "京都鐵道博物館",
-      "en": "Kyoto Railway Museum"
-    },
-    "city": {
-      "zh": "京都市下京區",
-      "en": "Shimogyo Ward, Kyoto"
-    },
-    "lat": 34.9872,
-    "lng": 135.7425
+    "category": "museum",
+    "country": "JP"
   },
   {
     "id": "jp-osa-heritage-osakacastle",
     "category": "heritage",
-    "country": "JP",
-    "name": {
-      "zh": "大阪城",
-      "en": "Osaka Castle Main Tower"
-    },
-    "city": {
-      "zh": "大阪市中央區",
-      "en": "Chuo Ward, Osaka"
-    },
-    "lat": 34.6872,
-    "lng": 135.5258
+    "country": "JP"
   },
   {
     "id": "jp-osa-food-kuromon",
-    "category": "food",
-    "country": "JP",
-    "name": {
-      "zh": "黑門市場",
-      "en": "Kuromon Ichiba Market"
-    },
-    "city": {
-      "zh": "大阪市中央區",
-      "en": "Chuo Ward, Osaka"
-    },
-    "lat": 34.6653,
-    "lng": 135.507
+    "category": "market",
+    "country": "JP"
   },
   {
     "id": "jp-ikd-factory-cupnoodles",
     "category": "factory",
-    "country": "JP",
-    "name": {
-      "zh": "日清杯麵博物館 大阪池田",
-      "en": "CUPNOODLES MUSEUM OSAKA IKEDA"
-    },
-    "city": {
-      "zh": "大阪府池田市",
-      "en": "Ikeda, Osaka"
-    },
-    "lat": 34.818,
-    "lng": 135.4267
+    "country": "JP"
   },
   {
     "id": "jp-osa-artsvenue-nmao",
-    "category": "artsVenue",
-    "country": "JP",
-    "name": {
-      "zh": "國立國際美術館",
-      "en": "The National Museum of Art, Osaka"
-    },
-    "city": {
-      "zh": "大阪市北區",
-      "en": "Kita Ward, Osaka"
-    },
-    "lat": 34.6918,
-    "lng": 135.492
+    "category": "artMuseum",
+    "country": "JP"
   },
   {
     "id": "jp-osa-library-nakanoshima",
     "category": "library",
-    "country": "JP",
-    "name": {
-      "zh": "大阪府立中之島圖書館",
-      "en": "Osaka Prefectural Nakanoshima Library"
-    },
-    "city": {
-      "zh": "大阪市北區",
-      "en": "Kita Ward, Osaka"
-    },
-    "lat": 34.6937,
-    "lng": 135.5032
+    "country": "JP"
   },
   {
     "id": "jp-nah-heritage-shurijo",
     "category": "heritage",
-    "country": "JP",
-    "name": {
-      "zh": "首里城公園",
-      "en": "Shurijo Castle Park"
-    },
-    "city": {
-      "zh": "那霸市",
-      "en": "Naha, Okinawa"
-    },
-    "lat": 26.217,
-    "lng": 127.7195
+    "country": "JP"
   },
   {
     "id": "jp-nkg-heritage-nakagusuku",
     "category": "heritage",
-    "country": "JP",
-    "name": {
-      "zh": "中城城跡",
-      "en": "Nakagusuku Castle Ruins"
-    },
-    "city": {
-      "zh": "中頭郡中城村",
-      "en": "Nakagusuku, Okinawa"
-    },
-    "lat": 26.2842,
-    "lng": 127.8014
+    "country": "JP"
   },
   {
     "id": "jp-mtb-artsvenue-churaumi",
-    "category": "artsVenue",
-    "country": "JP",
-    "name": {
-      "zh": "沖繩美麗海水族館",
-      "en": "Okinawa Churaumi Aquarium"
-    },
-    "city": {
-      "zh": "國頭郡本部町",
-      "en": "Motobu, Okinawa"
-    },
-    "lat": 26.6947,
-    "lng": 127.8781
+    "category": "zooAquarium",
+    "country": "JP"
   },
   {
     "id": "jp-nah-food-makishi",
-    "category": "food",
-    "country": "JP",
-    "name": {
-      "zh": "第一牧志公設市場",
-      "en": "Makishi Public Market"
-    },
-    "city": {
-      "zh": "那霸市",
-      "en": "Naha, Okinawa"
-    },
-    "lat": 26.2145,
-    "lng": 127.6883
+    "category": "market",
+    "country": "JP"
   },
   {
     "id": "jp-ngo-factory-orion",
     "category": "factory",
-    "country": "JP",
-    "name": {
-      "zh": "Orion 啤酒名護工廠",
-      "en": "ORION HAPPY PARK"
-    },
-    "city": {
-      "zh": "名護市",
-      "en": "Nago, Okinawa"
-    },
-    "lat": 26.587,
-    "lng": 127.9895
+    "country": "JP"
   },
   {
     "id": "jp-onn-nature-manzamo",
     "category": "nature",
-    "country": "JP",
-    "name": {
-      "zh": "萬座毛",
-      "en": "Cape Manzamo"
-    },
-    "city": {
-      "zh": "國頭郡恩納村",
-      "en": "Onna, Okinawa"
-    },
-    "lat": 26.505,
-    "lng": 127.8503
+    "country": "JP"
   },
   {
     "id": "jp-nah-library-okinawapref",
     "category": "library",
-    "country": "JP",
-    "name": {
-      "zh": "沖繩縣立圖書館",
-      "en": "Okinawa Prefectural Library"
-    },
-    "city": {
-      "zh": "那霸市",
-      "en": "Naha, Okinawa"
-    },
-    "lat": 26.2112,
-    "lng": 127.6766
+    "country": "JP"
   },
   {
     "id": "jp-nah-railway-shuri",
     "category": "railway",
-    "country": "JP",
-    "name": {
-      "zh": "首里站",
-      "en": "Shuri Station"
-    },
-    "city": {
-      "zh": "那霸市",
-      "en": "Naha, Okinawa"
-    },
-    "lat": 26.2192,
-    "lng": 127.7256
+    "country": "JP"
   },
   {
     "id": "mo-mac-heritage-ruinsofstpaul",
     "category": "heritage",
-    "country": "MO",
-    "name": {
-      "zh": "大三巴牌坊",
-      "en": "Ruins of St. Paul's"
-    },
-    "city": {
-      "zh": "澳門半島",
-      "en": "Macao Peninsula"
-    },
-    "lat": 22.1975,
-    "lng": 113.5409
+    "country": "MO"
   },
   {
     "id": "mo-mac-heritage-senadosquare",
     "category": "heritage",
-    "country": "MO",
-    "name": {
-      "zh": "議事亭前地",
-      "en": "Senado Square"
-    },
-    "city": {
-      "zh": "澳門半島",
-      "en": "Macao Peninsula"
-    },
-    "lat": 22.1936,
-    "lng": 113.5398
+    "country": "MO"
   },
   {
     "id": "mo-mac-heritage-amatemple",
-    "category": "heritage",
-    "country": "MO",
-    "name": {
-      "zh": "媽閣廟",
-      "en": "A-Ma Temple"
-    },
-    "city": {
-      "zh": "澳門半島",
-      "en": "Macao Peninsula"
-    },
-    "lat": 22.1861,
-    "lng": 113.5313
+    "category": "worship",
+    "country": "MO"
   },
   {
     "id": "mo-mac-heritage-guiafortress",
     "category": "heritage",
-    "country": "MO",
-    "name": {
-      "zh": "東望洋炮台",
-      "en": "Guia Fortress, Chapel and Lighthouse"
-    },
-    "city": {
-      "zh": "澳門半島",
-      "en": "Macao Peninsula"
-    },
-    "lat": 22.1966,
-    "lng": 113.5497
+    "country": "MO"
   },
   {
     "id": "mo-mac-artsvenue-macaomuseum",
-    "category": "artsVenue",
-    "country": "MO",
-    "name": {
-      "zh": "澳門博物館",
-      "en": "Macao Museum"
-    },
-    "city": {
-      "zh": "澳門半島",
-      "en": "Macao Peninsula"
-    },
-    "lat": 22.1972,
-    "lng": 113.5422
+    "category": "museum",
+    "country": "MO"
   },
   {
     "id": "mo-mac-library-sirrobertho",
     "category": "library",
-    "country": "MO",
-    "name": {
-      "zh": "何東圖書館",
-      "en": "Sir Robert Ho Tung Library"
-    },
-    "city": {
-      "zh": "澳門半島",
-      "en": "Macao Peninsula"
-    },
-    "lat": 22.1925,
-    "lng": 113.5377
+    "country": "MO"
   },
   {
     "id": "mo-tpa-heritage-taipahouses",
     "category": "heritage",
-    "country": "MO",
-    "name": {
-      "zh": "龍環葡韻",
-      "en": "Taipa Houses"
-    },
-    "city": {
-      "zh": "澳門氹仔",
-      "en": "Taipa, Macao"
-    },
-    "lat": 22.154,
-    "lng": 113.5598
+    "country": "MO"
   },
   {
     "id": "mo-tpa-food-lordstows",
     "category": "food",
-    "country": "MO",
-    "name": {
-      "zh": "安德魯餅店（原店）",
-      "en": "Lord Stow's Bakery (Original Shop)"
-    },
-    "city": {
-      "zh": "澳門路環",
-      "en": "Coloane, Macao"
-    },
-    "lat": 22.1182,
-    "lng": 113.5513
+    "country": "MO"
   },
   {
     "id": "kr-sel-heritage-gyeongbokgung",
     "category": "heritage",
-    "country": "KR",
-    "name": {
-      "zh": "景福宮",
-      "en": "Gyeongbokgung Palace"
-    },
-    "city": {
-      "zh": "首爾鍾路區",
-      "en": "Jongno-gu, Seoul"
-    },
-    "lat": 37.5759,
-    "lng": 126.9768
+    "country": "KR"
   },
   {
     "id": "kr-sel-heritage-bukchon",
     "category": "heritage",
-    "country": "KR",
-    "name": {
-      "zh": "北村韓屋村",
-      "en": "Bukchon Hanok Village"
-    },
-    "city": {
-      "zh": "首爾鍾路區",
-      "en": "Jongno-gu, Seoul"
-    },
-    "lat": 37.5824,
-    "lng": 126.9859
+    "country": "KR"
   },
   {
     "id": "kr-sel-artsvenue-nmk",
-    "category": "artsVenue",
-    "country": "KR",
-    "name": {
-      "zh": "國立中央博物館",
-      "en": "National Museum of Korea"
-    },
-    "city": {
-      "zh": "首爾龍山區",
-      "en": "Yongsan-gu, Seoul"
-    },
-    "lat": 37.524,
-    "lng": 126.9803
+    "category": "museum",
+    "country": "KR"
   },
   {
     "id": "kr-sel-artsvenue-ddp",
-    "category": "artsVenue",
-    "country": "KR",
-    "name": {
-      "zh": "東大門設計廣場",
-      "en": "Dongdaemun Design Plaza"
-    },
-    "city": {
-      "zh": "首爾中區",
-      "en": "Jung-gu, Seoul"
-    },
-    "lat": 37.5671,
-    "lng": 127.0099
+    "category": "artMuseum",
+    "country": "KR"
   },
   {
     "id": "kr-sel-railway-culturestation284",
     "category": "railway",
-    "country": "KR",
-    "name": {
-      "zh": "文化站首爾284",
-      "en": "Culture Station Seoul 284"
-    },
-    "city": {
-      "zh": "首爾中區",
-      "en": "Jung-gu, Seoul"
-    },
-    "lat": 37.556,
-    "lng": 126.9715
+    "country": "KR"
   },
   {
     "id": "kr-sel-library-starfield",
     "category": "library",
-    "country": "KR",
-    "name": {
-      "zh": "星空圖書館",
-      "en": "Starfield Library"
-    },
-    "city": {
-      "zh": "首爾江南區",
-      "en": "Gangnam-gu, Seoul"
-    },
-    "lat": 37.5102,
-    "lng": 127.0601
+    "country": "KR"
   },
   {
     "id": "kr-sel-library-seoullibrary",
     "category": "library",
-    "country": "KR",
-    "name": {
-      "zh": "首爾圖書館",
-      "en": "Seoul Metropolitan Library"
-    },
-    "city": {
-      "zh": "首爾中區",
-      "en": "Jung-gu, Seoul"
-    },
-    "lat": 37.5664,
-    "lng": 126.9779
+    "country": "KR"
   },
   {
     "id": "kr-sel-food-gwangjang",
-    "category": "food",
-    "country": "KR",
-    "name": {
-      "zh": "廣藏市場",
-      "en": "Gwangjang Market"
-    },
-    "city": {
-      "zh": "首爾鍾路區",
-      "en": "Jongno-gu, Seoul"
-    },
-    "lat": 37.5702,
-    "lng": 126.9995
+    "category": "market",
+    "country": "KR"
   },
   {
     "id": "kr-sel-nature-namsan",
-    "category": "nature",
-    "country": "KR",
-    "name": {
-      "zh": "南山N首爾塔",
-      "en": "N Seoul Tower"
-    },
-    "city": {
-      "zh": "首爾龍山區",
-      "en": "Yongsan-gu, Seoul"
-    },
-    "lat": 37.5512,
-    "lng": 126.9882
+    "category": "landmark",
+    "country": "KR"
   },
   {
     "id": "kr-sel-nature-cheonggyecheon",
     "category": "nature",
-    "country": "KR",
-    "name": {
-      "zh": "清溪川",
-      "en": "Cheonggyecheon Stream"
-    },
-    "city": {
-      "zh": "首爾中區",
-      "en": "Jung-gu, Seoul"
-    },
-    "lat": 37.5692,
-    "lng": 126.9777
+    "country": "KR"
   },
   {
     "id": "kr-pus-heritage-gamcheon",
     "category": "heritage",
-    "country": "KR",
-    "name": {
-      "zh": "甘川洞文化村",
-      "en": "Gamcheon Culture Village"
-    },
-    "city": {
-      "zh": "釜山沙下區",
-      "en": "Saha-gu, Busan"
-    },
-    "lat": 35.0973,
-    "lng": 129.0104
+    "country": "KR"
   },
   {
     "id": "kr-pus-heritage-haedongyonggungsa",
-    "category": "heritage",
-    "country": "KR",
-    "name": {
-      "zh": "海東龍宮寺",
-      "en": "Haedong Yonggungsa Temple"
-    },
-    "city": {
-      "zh": "釜山機張郡",
-      "en": "Gijang-gun, Busan"
-    },
-    "lat": 35.1884,
-    "lng": 129.2231
+    "category": "worship",
+    "country": "KR"
   },
   {
     "id": "kr-pus-food-jagalchi",
-    "category": "food",
-    "country": "KR",
-    "name": {
-      "zh": "札嘎其市場",
-      "en": "Jagalchi Market"
-    },
-    "city": {
-      "zh": "釜山中區",
-      "en": "Jung-gu, Busan"
-    },
-    "lat": 35.0967,
-    "lng": 129.0306
+    "category": "market",
+    "country": "KR"
   },
   {
     "id": "kr-pus-railway-blueline",
     "category": "railway",
-    "country": "KR",
-    "name": {
-      "zh": "海雲台藍線公園 尾浦站",
-      "en": "Haeundae Blueline Park (Mipo Station)"
-    },
-    "city": {
-      "zh": "釜山海雲臺區",
-      "en": "Haeundae-gu, Busan"
-    },
-    "lat": 35.1582,
-    "lng": 129.1728
+    "country": "KR"
   },
   {
     "id": "kr-pus-nature-taejongdae",
     "category": "nature",
-    "country": "KR",
-    "name": {
-      "zh": "太宗台",
-      "en": "Taejongdae"
-    },
-    "city": {
-      "zh": "釜山影島區",
-      "en": "Yeongdo-gu, Busan"
-    },
-    "lat": 35.0586,
-    "lng": 129.087
+    "country": "KR"
   },
   {
     "id": "kr-pus-artsvenue-modernhistory",
-    "category": "artsVenue",
-    "country": "KR",
-    "name": {
-      "zh": "釜山近現代歷史館",
-      "en": "Busan Modern and Contemporary History Museum"
-    },
-    "city": {
-      "zh": "釜山中區",
-      "en": "Jung-gu, Busan"
-    },
-    "lat": 35.1022,
-    "lng": 129.0323
+    "category": "museum",
+    "country": "KR"
   },
   {
     "id": "kr-jej-nature-seongsan",
     "category": "nature",
-    "country": "KR",
-    "name": {
-      "zh": "城山日出峰",
-      "en": "Seongsan Ilchulbong"
-    },
-    "city": {
-      "zh": "濟州西歸浦市",
-      "en": "Seogwipo, Jeju"
-    },
-    "lat": 33.4589,
-    "lng": 126.9408
+    "country": "KR"
   },
   {
     "id": "kr-jej-nature-seopjikoji",
     "category": "nature",
-    "country": "KR",
-    "name": {
-      "zh": "涉地可支",
-      "en": "Seopjikoji"
-    },
-    "city": {
-      "zh": "濟州西歸浦市",
-      "en": "Seogwipo, Jeju"
-    },
-    "lat": 33.424,
-    "lng": 126.9307
+    "country": "KR"
   },
   {
     "id": "kr-jej-factory-osulloc",
     "category": "factory",
-    "country": "KR",
-    "name": {
-      "zh": "雪綠茶博物館",
-      "en": "O'sulloc Tea Museum"
-    },
-    "city": {
-      "zh": "濟州西歸浦市",
-      "en": "Seogwipo, Jeju"
-    },
-    "lat": 33.3059,
-    "lng": 126.2894
+    "country": "KR"
   },
   {
     "id": "kr-jej-food-dongmun",
+    "category": "market",
+    "country": "KR"
+  },
+  {
+    "id": "hk-kln-artmuseum-mplus",
+    "category": "artMuseum",
+    "country": "HK"
+  },
+  {
+    "id": "hk-kln-museum-hkpm",
+    "category": "museum",
+    "country": "HK"
+  },
+  {
+    "id": "hk-hki-worship-manmo",
+    "category": "worship",
+    "country": "HK"
+  },
+  {
+    "id": "hk-kln-heritage-clocktower",
+    "category": "heritage",
+    "country": "HK"
+  },
+  {
+    "id": "hk-hki-railway-peaktram",
+    "category": "railway",
+    "country": "HK"
+  },
+  {
+    "id": "hk-nt-museum-railwaymuseum",
+    "category": "museum",
+    "country": "HK"
+  },
+  {
+    "id": "hk-hki-library-central",
+    "category": "library",
+    "country": "HK"
+  },
+  {
+    "id": "hk-kln-nightmarket-templestreet",
+    "category": "nightMarket",
+    "country": "HK"
+  },
+  {
+    "id": "hk-hki-food-lanfongyuen",
     "category": "food",
-    "country": "KR",
-    "name": {
-      "zh": "濟州東門市場",
-      "en": "Jeju Dongmun Traditional Market"
-    },
-    "city": {
-      "zh": "濟州濟州市",
-      "en": "Jeju City, Jeju"
-    },
-    "lat": 33.5122,
-    "lng": 126.5276
+    "country": "HK"
+  },
+  {
+    "id": "hk-lan-worship-bigbuddha",
+    "category": "worship",
+    "country": "HK"
+  },
+  {
+    "id": "hk-hki-landmark-victoriapeak",
+    "category": "landmark",
+    "country": "HK"
+  },
+  {
+    "id": "hk-kln-nature-nanliangarden",
+    "category": "nature",
+    "country": "HK"
+  },
+  {
+    "id": "au-syd-venue-operahouse",
+    "category": "venue",
+    "country": "AU"
+  },
+  {
+    "id": "au-syd-heritage-qvb",
+    "category": "heritage",
+    "country": "AU"
+  },
+  {
+    "id": "au-syd-heritage-therocks",
+    "category": "heritage",
+    "country": "AU"
+  },
+  {
+    "id": "au-syd-railway-central",
+    "category": "railway",
+    "country": "AU"
+  },
+  {
+    "id": "au-syd-library-statelibrary",
+    "category": "library",
+    "country": "AU"
+  },
+  {
+    "id": "au-syd-market-fishmarket",
+    "category": "market",
+    "country": "AU"
+  },
+  {
+    "id": "au-syd-nature-botanicgarden",
+    "category": "nature",
+    "country": "AU"
+  },
+  {
+    "id": "au-mel-railway-flinders",
+    "category": "railway",
+    "country": "AU"
+  },
+  {
+    "id": "au-mel-library-statelibrary",
+    "category": "library",
+    "country": "AU"
+  },
+  {
+    "id": "au-mel-market-queenvictoria",
+    "category": "market",
+    "country": "AU"
+  },
+  {
+    "id": "au-mel-artmuseum-ngv",
+    "category": "artMuseum",
+    "country": "AU"
+  },
+  {
+    "id": "au-mel-heritage-royalexhibition",
+    "category": "heritage",
+    "country": "AU"
+  },
+  {
+    "id": "au-mel-nature-botanicgardens",
+    "category": "nature",
+    "country": "AU"
+  },
+  {
+    "id": "au-bne-nature-southbank",
+    "category": "nature",
+    "country": "AU"
+  },
+  {
+    "id": "au-bne-zooaquarium-lonepine",
+    "category": "zooAquarium",
+    "country": "AU"
+  },
+  {
+    "id": "au-bne-artmuseum-goma",
+    "category": "artMuseum",
+    "country": "AU"
+  },
+  {
+    "id": "au-bne-factory-xxxx",
+    "category": "factory",
+    "country": "AU"
+  },
+  {
+    "id": "au-cns-nature-esplanade",
+    "category": "nature",
+    "country": "AU"
+  },
+  {
+    "id": "au-cns-railway-kuranda",
+    "category": "railway",
+    "country": "AU"
+  },
+  {
+    "id": "au-cns-market-rustys",
+    "category": "market",
+    "country": "AU"
+  },
+  {
+    "id": "nz-akl-museum-aucklandmuseum",
+    "category": "museum",
+    "country": "NZ"
+  },
+  {
+    "id": "nz-akl-nature-mteden",
+    "category": "nature",
+    "country": "NZ"
+  },
+  {
+    "id": "nz-akl-library-central",
+    "category": "library",
+    "country": "NZ"
+  },
+  {
+    "id": "nz-akl-railway-britomart",
+    "category": "railway",
+    "country": "NZ"
+  },
+  {
+    "id": "nz-akl-market-fishmarket",
+    "category": "market",
+    "country": "NZ"
+  },
+  {
+    "id": "nz-mmv-themepark-hobbiton",
+    "category": "themePark",
+    "country": "NZ"
+  },
+  {
+    "id": "nz-rot-nature-tepuia",
+    "category": "nature",
+    "country": "NZ"
+  },
+  {
+    "id": "nz-chc-railway-christchurch",
+    "category": "railway",
+    "country": "NZ"
+  },
+  {
+    "id": "nz-chc-nature-botanicgardens",
+    "category": "nature",
+    "country": "NZ"
+  },
+  {
+    "id": "nz-zqn-landmark-skyline",
+    "category": "landmark",
+    "country": "NZ"
+  },
+  {
+    "id": "nz-zqn-food-fergburger",
+    "category": "food",
+    "country": "NZ"
+  },
+  {
+    "id": "nz-tek-worship-goodshepherd",
+    "category": "worship",
+    "country": "NZ"
+  },
+  {
+    "id": "pl-waw-heritage-oldtown",
+    "category": "heritage",
+    "country": "PL"
+  },
+  {
+    "id": "pl-waw-heritage-royalcastle",
+    "category": "heritage",
+    "country": "PL"
+  },
+  {
+    "id": "pl-waw-museum-polin",
+    "category": "museum",
+    "country": "PL"
+  },
+  {
+    "id": "pl-waw-library-buw",
+    "category": "library",
+    "country": "PL"
+  },
+  {
+    "id": "pl-waw-market-halakoszyki",
+    "category": "market",
+    "country": "PL"
+  },
+  {
+    "id": "pl-waw-nature-lazienki",
+    "category": "nature",
+    "country": "PL"
+  },
+  {
+    "id": "pl-krk-heritage-rynek",
+    "category": "heritage",
+    "country": "PL"
+  },
+  {
+    "id": "pl-krk-heritage-wawel",
+    "category": "heritage",
+    "country": "PL"
+  },
+  {
+    "id": "pl-krk-worship-stmarys",
+    "category": "worship",
+    "country": "PL"
+  },
+  {
+    "id": "pl-krk-food-placnowy",
+    "category": "food",
+    "country": "PL"
+  },
+  {
+    "id": "pl-krk-railway-glowny",
+    "category": "railway",
+    "country": "PL"
+  },
+  {
+    "id": "pl-krk-museum-schindler",
+    "category": "museum",
+    "country": "PL"
+  },
+  {
+    "id": "pl-wie-factory-saltmine",
+    "category": "factory",
+    "country": "PL"
   }
 ]

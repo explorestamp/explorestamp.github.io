@@ -7,9 +7,9 @@
     "message": "ExploreStamp",
     "description": "The alt text of navbar logo"
   },
-  "item.label.收錄景點": {
-    "message": "Places",
-    "description": "Navbar item with label 收錄景點"
+  "item.label.主題探索": {
+    "message": "Explore",
+    "description": "Navbar item with label 主題探索"
   },
   "item.label.文章": {
     "message": "Blog",

@@ -1,14 +1,12 @@
 ---
 slug: /
-title: 收錄景點
+title: 主題探索
 sidebar_position: 1
 ---
 
-import SpotList from '@site/src/components/SpotList';
+# 主題探索
 
-# 收錄景點
-
-探索印記目前收錄臺灣 43 個、日本 30 個（含沖繩）、韓國 20 個、澳門 8 個景點，分為七類，並整理成 19 條主題路線。以下是現有的完整清單，App 內的景點目錄會在背景自動更新。
+探索印記目前收錄臺灣 43 個、日本 30 個（含沖繩）、韓國 20 個、香港 12 個、澳門 8 個、澳洲 20 個、紐西蘭 12 個、波蘭 13 個，共 158 個景點，分為 20 類，並整理成 28 條主題路線。完整的景點清單與地圖都在 App 裡，景點目錄會在背景自動更新。
 
 ## 主題路線
 
@@ -18,7 +16,7 @@ import SpotList from '@site/src/components/SpotList';
 | --- | --- | --- | --- |
 | 臺灣經典老車站 6 選 | 全臺 | 6 | 從內灣到菁桐，走過六座留著木造月台與鐵道記憶的車站 |
 | 古蹟尋跡 | 全臺 | 6 | 從艋舺老街到金門城樓，六座古蹟見證荷蘭、清朝與日治時期留下的痕跡 |
-| 府城散策 | 臺南 | 6 | 古蹟、車站、圖書館與一碗豆花 |
+| [府城散策](/blog/tainan-walk-route) | 臺南 | 6 | 古蹟、車站、圖書館與一碗豆花 |
 | 北中南博物館巡禮 | 全臺 | 6 | 六座館，六種看世界的方式 |
 | 觀光工廠一日遊 | 全臺 | 6 | 威士忌、巧克力、蠟筆與漢餅 |
 | 島嶼閱讀 | 全臺 | 6 | 六座圖書館，六個城市最安靜的地方 |
@@ -36,12 +34,6 @@ import SpotList from '@site/src/components/SpotList';
 | 沖繩本島巡禮 | 沖繩 | 8 | 從那霸的首里城和市場，一路往北到萬座毛與美麗海水族館 |
 | 日本市場吃一輪 | 日本 | 4 | 築地、錦市場、黑門市場到牧志公設市場 |
 
-### 澳門
-
-| 路線 | 地區 | 景點數 | 簡介 |
-| --- | --- | --- | --- |
-| 澳門世遺散步 | 澳門 | 8 | 從大三巴、議事亭前地到媽閣廟，再去氹仔看葡式老房子，最後在路環吃一顆蛋塔 |
-
 ### 韓國
 
 | 路線 | 地區 | 景點數 | 簡介 |
@@ -51,121 +43,40 @@ import SpotList from '@site/src/components/SpotList';
 | 釜山海港散策 | 釜山 | 6 | 札嘎其市場、甘川洞文化村、太宗台、海雲台海岸列車和海東龍宮寺 |
 | 濟州島一圈 | 濟州 | 4 | 城山日出峰、涉地可支、雪綠茶博物館與東門市場 |
 
-## 臺灣景點
+### 香港
 
-點開景點名稱，可以看到它在地圖上的位置。
+| 路線 | 地區 | 景點數 | 簡介 |
+| --- | --- | --- | --- |
+| 香港初訪 | 香港 | 6 | 西九的兩座博物館、尖沙咀鐘樓、搭山頂纜車上太平山，晚上逛廟街 |
+| 香港老街與廟宇 | 香港 | 6 | 上環文武廟、結志街的絲襪奶茶、大埔舊車站，再到大嶼山看天壇大佛 |
 
-### 藝文場館
+### 澳門
 
-<SpotList category="artsVenue" country="TW" />
+| 路線 | 地區 | 景點數 | 簡介 |
+| --- | --- | --- | --- |
+| 澳門世遺散步 | 澳門 | 8 | 從大三巴、議事亭前地到媽閣廟，再去氹仔看葡式老房子，最後在路環吃一顆蛋塔 |
 
-### 古蹟遺址
+### 澳洲
 
-<SpotList category="heritage" country="TW" />
+| 路線 | 地區 | 景點數 | 簡介 |
+| --- | --- | --- | --- |
+| 雪梨港灣城市 | 雪梨 | 7 | 從歌劇院、岩石區到皇家植物園，再去維多利亞女王大廈和雪梨魚市場 |
+| 墨爾本巷弄與博物館 | 墨爾本 | 6 | 福林德斯街車站出發，走到州立圖書館、維多利亞女王市場和皇家展覽館 |
+| 昆士蘭：布里斯本與凱恩斯 | 昆士蘭 | 7 | 布里斯本的南岸公園、無尾熊和啤酒廠，再到凱恩斯搭觀光火車上庫蘭達 |
 
-### 圖書館
+### 紐西蘭
 
-<SpotList category="library" country="TW" />
+| 路線 | 地區 | 景點數 | 簡介 |
+| --- | --- | --- | --- |
+| 紐西蘭北島 | 北島 | 7 | 奧克蘭的博物館、火山丘和魚市場，再去哈比村和羅托魯瓦的地熱谷 |
+| 紐西蘭南島 | 南島 | 5 | 基督城火車站和植物園、皇后鎮的天空纜車與漢堡，最後到蒂卡波湖畔的小教堂 |
 
-### 鐵道車站
+### 波蘭
 
-<SpotList category="railway" country="TW" />
-
-### 觀光工廠
-
-<SpotList category="factory" country="TW" />
-
-### 特色美食
-
-<SpotList category="food" country="TW" />
-
-### 自然園區
-
-<SpotList category="nature" country="TW" />
-
-## 日本景點
-
-點開景點名稱，可以看到它在地圖上的位置。
-
-### 藝文場館
-
-<SpotList category="artsVenue" country="JP" />
-
-### 古蹟遺址
-
-<SpotList category="heritage" country="JP" />
-
-### 圖書館
-
-<SpotList category="library" country="JP" />
-
-### 鐵道車站
-
-<SpotList category="railway" country="JP" />
-
-### 觀光工廠
-
-<SpotList category="factory" country="JP" />
-
-### 特色美食
-
-<SpotList category="food" country="JP" />
-
-### 自然園區
-
-<SpotList category="nature" country="JP" />
-
-## 澳門景點
-
-點開景點名稱，可以看到它在地圖上的位置。
-
-### 藝文場館
-
-<SpotList category="artsVenue" country="MO" />
-
-### 古蹟遺址
-
-<SpotList category="heritage" country="MO" />
-
-### 圖書館
-
-<SpotList category="library" country="MO" />
-
-### 特色美食
-
-<SpotList category="food" country="MO" />
-
-## 韓國景點
-
-點開景點名稱，可以看到它在地圖上的位置。
-
-### 藝文場館
-
-<SpotList category="artsVenue" country="KR" />
-
-### 古蹟遺址
-
-<SpotList category="heritage" country="KR" />
-
-### 圖書館
-
-<SpotList category="library" country="KR" />
-
-### 鐵道車站
-
-<SpotList category="railway" country="KR" />
-
-### 觀光工廠
-
-<SpotList category="factory" country="KR" />
-
-### 特色美食
-
-<SpotList category="food" country="KR" />
-
-### 自然園區
-
-<SpotList category="nature" country="KR" />
+| 路線 | 地區 | 景點數 | 簡介 |
+| --- | --- | --- | --- |
+| 華沙新舊城 | 華沙 | 6 | 戰後重建的老城與皇家城堡、猶太人歷史博物館，再到屋頂花園和美食市集 |
+| 克拉科夫與鹽礦 | 克拉科夫 | 7 | 中央廣場、聖母聖殿和瓦維爾城堡，猶太區吃烤法棍披薩，再到維利奇卡鹽礦 |
 
 ## 打卡範圍
 
@@ -173,12 +84,13 @@ import SpotList from '@site/src/components/SpotList';
 
 | 分類 | 打卡範圍 |
 | --- | --- |
-| 自然園區 | 500 公尺 |
-| 觀光工廠 | 400 公尺 |
-| 藝文場館、古蹟遺址 | 300 公尺 |
-| 鐵道車站 | 250 公尺 |
+| 機場 | 1000 公尺 |
+| 主題樂園、自然景點 | 500 公尺 |
+| 動物園與水族館、大學校園、觀光工廠 | 400 公尺 |
+| 博物館、美術館、表演與運動場館、地標與觀景台、古蹟、宗教聖地、購物與商圈 | 300 公尺 |
+| 市集、夜市、鐵道車站 | 250 公尺 |
 | 圖書館 | 200 公尺 |
-| 特色美食 | 150 公尺 |
+| 書店、美食小吃、咖啡廳 | 150 公尺 |
 
 ## 建議新景點
 

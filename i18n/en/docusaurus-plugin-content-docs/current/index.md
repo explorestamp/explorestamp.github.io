@@ -1,14 +1,12 @@
 ---
 slug: /
-title: Places
+title: Explore
 sidebar_position: 1
 ---
 
-import SpotList from '@site/src/components/SpotList';
+# Explore
 
-# Places
-
-ExploreStamp currently includes 43 places in Taiwan, 30 in Japan (including Okinawa), 20 in South Korea and 8 in Macao, grouped into seven categories and organized into 19 themed routes. Below is the full list. The catalog in the app updates automatically in the background.
+ExploreStamp currently includes 158 places: 43 in Taiwan, 30 in Japan (including Okinawa), 20 in South Korea, 12 in Hong Kong, 8 in Macao, 20 in Australia, 12 in New Zealand and 13 in Poland, grouped into 20 categories and organized into 28 themed routes. The full list of places and their maps are in the app, where the catalog updates automatically in the background.
 
 ## Themed routes
 
@@ -18,7 +16,7 @@ ExploreStamp currently includes 43 places in Taiwan, 30 in Japan (including Okin
 | --- | --- | --- | --- |
 | 6 Classic Taiwan Railway Stations | Taiwan | 6 | From Neiwan to Jingtong, six stations that still have wooden platforms and the memory of the old rail lines |
 | Heritage Trail | Taiwan | 6 | From Bopiliao in Taipei to a watchtower in Kinmen, six landmarks spanning the Dutch, Qing and Japanese eras |
-| A Walk Through Tainan | Tainan | 6 | Historic sites, a station, a library and a bowl of tofu pudding |
+| [A Walk Through Tainan](/blog/tainan-walk-route) | Tainan | 6 | Historic sites, a station, a library and a bowl of tofu pudding |
 | Museum Grand Tour | Taiwan | 6 | Six museums, six ways of looking at the world |
 | Factory Tour Day Trip | Taiwan | 6 | Whisky, chocolate, crayons and pastry |
 | Reading the Island | Taiwan | 6 | Six libraries — the quietest room in six cities |
@@ -36,12 +34,6 @@ ExploreStamp currently includes 43 places in Taiwan, 30 in Japan (including Okin
 | Okinawa Main Island Loop | Okinawa | 8 | From Shuri Castle and the markets of Naha north to Cape Manzamo and the Churaumi Aquarium |
 | Japan Market Food Walk | Japan | 4 | Tsukiji, Nishiki, Kuromon and Makishi |
 
-### Macao
-
-| Route | Region | Places | About |
-| --- | --- | --- | --- |
-| Macao Heritage Walk | Macao | 8 | From the Ruins of St. Paul's and Senado Square to A-Ma Temple, then the Taipa Houses and an egg tart in Coloane |
-
 ### South Korea
 
 | Route | Region | Places | About |
@@ -51,121 +43,40 @@ ExploreStamp currently includes 43 places in Taiwan, 30 in Japan (including Okin
 | Busan Harbour Walk | Busan | 6 | Jagalchi Market, Gamcheon Culture Village, Taejongdae, the Haeundae seaside train and Haedong Yonggungsa |
 | Around Jeju Island | Jeju | 4 | Seongsan Ilchulbong, Seopjikoji, the O'sulloc Tea Museum and Dongmun Market |
 
-## Places in Taiwan
+### Hong Kong
 
-Open a place to see where it is on the map.
+| Route | Region | Places | About |
+| --- | --- | --- | --- |
+| First Time in Hong Kong | Hong Kong | 6 | The two museums in West Kowloon, the Tsim Sha Tsui clock tower, the Peak Tram up to Victoria Peak and Temple Street at night |
+| Hong Kong Old Streets and Temples | Hong Kong | 6 | Man Mo Temple, milk tea on Gage Street, the old Tai Po station and the Big Buddha on Lantau |
 
-### Museums & Arts
+### Macao
 
-<SpotList category="artsVenue" country="TW" />
+| Route | Region | Places | About |
+| --- | --- | --- | --- |
+| Macao Heritage Walk | Macao | 8 | From the Ruins of St. Paul's and Senado Square to A-Ma Temple, then the Taipa Houses and an egg tart in Coloane |
 
-### Historic Sites
+### Australia
 
-<SpotList category="heritage" country="TW" />
+| Route | Region | Places | About |
+| --- | --- | --- | --- |
+| Sydney Harbour City | Sydney | 7 | From the Opera House and The Rocks to the Royal Botanic Garden, then the QVB and the Sydney Fish Market |
+| Melbourne Laneways and Museums | Melbourne | 6 | Flinders Street Station, the State Library, Queen Victoria Market and the Royal Exhibition Building |
+| Queensland: Brisbane and Cairns | Queensland | 7 | South Bank, koalas and a brewery in Brisbane, then the scenic railway up to Kuranda from Cairns |
 
-### Libraries
+### New Zealand
 
-<SpotList category="library" country="TW" />
+| Route | Region | Places | About |
+| --- | --- | --- | --- |
+| New Zealand North Island | North Island | 7 | Auckland's museum, volcano and fish market, then Hobbiton and the geothermal valley at Rotorua |
+| New Zealand South Island | South Island | 5 | Christchurch's station and gardens, the Skyline and a burger in Queenstown, then the chapel on Lake Tekapo |
 
-### Railway Stations
+### Poland
 
-<SpotList category="railway" country="TW" />
-
-### Factory Tours
-
-<SpotList category="factory" country="TW" />
-
-### Local Food
-
-<SpotList category="food" country="TW" />
-
-### Parks & Nature
-
-<SpotList category="nature" country="TW" />
-
-## Places in Japan
-
-Open a place to see where it is on the map.
-
-### Museums & Arts
-
-<SpotList category="artsVenue" country="JP" />
-
-### Historic Sites
-
-<SpotList category="heritage" country="JP" />
-
-### Libraries
-
-<SpotList category="library" country="JP" />
-
-### Railway Stations
-
-<SpotList category="railway" country="JP" />
-
-### Factory Tours
-
-<SpotList category="factory" country="JP" />
-
-### Local Food
-
-<SpotList category="food" country="JP" />
-
-### Parks & Nature
-
-<SpotList category="nature" country="JP" />
-
-## Places in Macao
-
-Open a place to see where it is on the map.
-
-### Museums & Arts
-
-<SpotList category="artsVenue" country="MO" />
-
-### Historic Sites
-
-<SpotList category="heritage" country="MO" />
-
-### Libraries
-
-<SpotList category="library" country="MO" />
-
-### Local Food
-
-<SpotList category="food" country="MO" />
-
-## Places in South Korea
-
-Open a place to see where it is on the map.
-
-### Museums & Arts
-
-<SpotList category="artsVenue" country="KR" />
-
-### Historic Sites
-
-<SpotList category="heritage" country="KR" />
-
-### Libraries
-
-<SpotList category="library" country="KR" />
-
-### Railway Stations
-
-<SpotList category="railway" country="KR" />
-
-### Factory Tours
-
-<SpotList category="factory" country="KR" />
-
-### Local Food
-
-<SpotList category="food" country="KR" />
-
-### Parks & Nature
-
-<SpotList category="nature" country="KR" />
+| Route | Region | Places | About |
+| --- | --- | --- | --- |
+| Warsaw, Old and New | Warsaw | 6 | The rebuilt Old Town and Royal Castle, the POLIN museum, a rooftop library garden and a food hall |
+| Kraków and the Salt Mine | Kraków | 7 | The Main Market Square, St. Mary's and Wawel, zapiekanka in Kazimierz, then the Wieliczka Salt Mine |
 
 ## Check-in range
 
@@ -173,12 +84,13 @@ When you tap "Check in" at a place, the app checks how far you are from it. The 
 
 | Category | Check-in range |
 | --- | --- |
-| Parks & Nature | 500 m |
-| Factory Tours | 400 m |
-| Museums & Arts, Historic Sites | 300 m |
-| Railway Stations | 250 m |
+| Airports | 1000 m |
+| Theme Parks, Nature | 500 m |
+| Zoos & Aquariums, University Campuses, Factory Tours | 400 m |
+| Museums, Art Museums, Performance & Sports Venues, Landmarks & Viewpoints, Heritage Sites, Places of Worship, Shopping | 300 m |
+| Markets, Night Markets, Railway Stations | 250 m |
 | Libraries | 200 m |
-| Local Food | 150 m |
+| Bookstores, Local Food, Cafés | 150 m |
 
 ## Suggest a place
 

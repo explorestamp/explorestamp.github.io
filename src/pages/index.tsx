@@ -57,26 +57,29 @@ const BOOK_PREVIEW: { category: CategoryKey; name?: string; date?: string }[] =
         id: "homepage.bookPreview.neiwan",
         message: "內灣車站",
       }), date: "2026.08.02" },
-    { category: "artsVenue", name: translate({
+    { category: "museum", name: translate({
         id: "homepage.bookPreview.chimei",
         message: "奇美博物館",
       }), date: "2026.08.16" },
-    { category: "heritage" },
+    { category: "worship" },
     { category: "food", name: translate({
         id: "homepage.bookPreview.tongji",
         message: "同記豆花",
       }), date: "2026.08.16" },
-    { category: "library" },
-    { category: "factory", name: translate({
-        id: "homepage.bookPreview.chocolate",
-        message: "巧克力共和國",
-      }), date: "2026.09.06" },
-    { category: "nature" },
+    { category: "market", name: translate({
+        id: "homepage.bookPreview.nishiki",
+        message: "錦市場",
+      }), date: "2026.09.20" },
+    { category: "nightMarket" },
+    { category: "landmark", name: translate({
+        id: "homepage.bookPreview.victoriaPeak",
+        message: "太平山頂",
+      }), date: "2026.10.11" },
     { category: "heritage", name: translate({
         id: "homepage.bookPreview.chihkan",
         message: "赤崁樓",
       }), date: "2026.08.17" },
-    { category: "railway" },
+    { category: "zooAquarium" },
   ];
 
 function HomepageHeader(): ReactNode {
@@ -296,7 +299,7 @@ export default function Home(): ReactNode {
       description={translate({
         id: "homepage.meta.description",
         message:
-          "探索印記（ExploreStamp）是一本隨身的虛擬集章手冊。到博物館、古蹟、鐵道車站、觀光工廠與特色美食景點現場打卡，收集印章、記錄照片，並把旅程做成明信片分享。",
+          "探索印記（ExploreStamp）是一本隨身的虛擬集章手冊。到博物館、古蹟、老車站、市集、夜市與觀景台現場打卡，收集印章、記錄照片，並把旅程做成明信片分享。",
       })}
     >
       <HomepageHeader />

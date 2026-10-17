@@ -159,7 +159,7 @@ const SHOWCASES: Showcase[] = [
         {
           id: "homepage.showcase.collections.body1",
           message:
-            "目前收錄臺灣、日本、韓國與澳門共 {spots} 個景點，整理成 {collections} 條主題路線：老車站、府城散策、夜市小吃、京都古都散策、沖繩本島巡禮等。",
+            "目前收錄臺灣、日本、韓國、香港、澳門、澳洲、紐西蘭與波蘭共 {spots} 個景點，整理成 {collections} 條主題路線：老車站、府城散策、京都古都散策、雪梨港灣城市、克拉科夫與鹽礦等。",
         },
         {
           spots: CATALOG_STATS.spots,

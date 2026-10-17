@@ -62,7 +62,7 @@ Places currently fall into seven categories:
 | Local Food | Tong Ji Anping Tofu Pudding, Fengjia Night Market, Gongzheng Baozi |
 | Parks & Nature | Taipei Botanical Garden, Aowanda National Forest Recreation Area |
 
-See the full list under [Places](/explore).
+See the themed routes under [Explore](/explore).
 
 ## No need to wait for a long holiday
 

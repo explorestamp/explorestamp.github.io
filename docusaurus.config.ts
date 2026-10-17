@@ -142,7 +142,7 @@ const config: Config = {
           type: "docSidebar",
           sidebarId: "resourceSidebar",
           position: "left",
-          label: "收錄景點",
+          label: "主題探索",
         },
         { to: "/blog", label: "文章", position: "left" },
         { to: "/about", label: "關於", position: "left" },
@@ -166,9 +166,10 @@ const config: Config = {
         {
           title: "產品",
           items: [
-            { label: "收錄景點", to: "/explore" },
+            { label: "主題探索", to: "/explore" },
             { label: "下載 App", to: "/#download" },
             { label: "隱私權政策", to: "/privacy" },
+            { label: "感謝", to: "/credits" },
           ],
         },
         {

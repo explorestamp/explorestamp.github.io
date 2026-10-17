@@ -15,9 +15,9 @@
     "message": "Contact",
     "description": "The title of the footer links column with title=聯絡 in the footer"
   },
-  "link.item.label.收錄景點": {
-    "message": "Places",
-    "description": "The label of footer link with label=收錄景點 linking to /explore"
+  "link.item.label.主題探索": {
+    "message": "Explore",
+    "description": "The label of footer link with label=主題探索 linking to /explore"
   },
   "link.item.label.下載 App": {
     "message": "Get the app",
@@ -26,6 +26,10 @@
   "link.item.label.隱私權政策": {
     "message": "Privacy policy",
     "description": "The label of footer link with label=隱私權政策 linking to /privacy"
+  },
+  "link.item.label.感謝": {
+    "message": "Credits",
+    "description": "The label of footer link with label=感謝 linking to /credits"
   },
   "link.item.label.文章": {
     "message": "Blog",

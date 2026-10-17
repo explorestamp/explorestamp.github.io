@@ -1,45 +1,123 @@
 {
-  "product.category.artsVenue.label": {
-    "message": "Museums & Arts"
+  "product.category.museum.label": {
+    "message": "Museums"
   },
-  "product.category.artsVenue.examples": {
-    "message": "National Palace Museum, Chimei Museum, Pier-2 Art Center"
+  "product.category.museum.examples": {
+    "message": "National Palace Museum, Tokyo National Museum, Auckland War Memorial Museum"
   },
-  "product.category.heritage.label": {
-    "message": "Historic Sites"
+  "product.category.artMuseum.label": {
+    "message": "Art Museums"
   },
-  "product.category.heritage.examples": {
-    "message": "Chihkan Tower, Fort San Domingo, Lukang Longshan Temple"
+  "product.category.artMuseum.examples": {
+    "message": "Taipei Fine Arts Museum, M+, Dongdaemun Design Plaza"
+  },
+  "product.category.venue.label": {
+    "message": "Performance & Sports Venues"
+  },
+  "product.category.venue.examples": {
+    "message": "Sydney Opera House"
+  },
+  "product.category.zooAquarium.label": {
+    "message": "Zoos & Aquariums"
+  },
+  "product.category.zooAquarium.examples": {
+    "message": "Okinawa Churaumi Aquarium, Lone Pine Koala Sanctuary"
+  },
+  "product.category.themePark.label": {
+    "message": "Theme Parks"
+  },
+  "product.category.themePark.examples": {
+    "message": "Hobbiton Movie Set"
+  },
+  "product.category.landmark.label": {
+    "message": "Landmarks & Viewpoints"
+  },
+  "product.category.landmark.examples": {
+    "message": "N Seoul Tower, Victoria Peak, Skyline Queenstown"
   },
   "product.category.library.label": {
     "message": "Libraries"
   },
   "product.category.library.examples": {
-    "message": "Beitou Branch Library, National Central Library, Tainan Public Library"
+    "message": "Beitou Branch Library, Starfield Library, State Library Victoria"
   },
-  "product.category.railway.label": {
-    "message": "Railway Stations"
+  "product.category.bookstore.label": {
+    "message": "Bookstores"
   },
-  "product.category.railway.examples": {
-    "message": "Neiwan Station, Jiji Station, Jingtong Station"
+  "product.category.bookstore.examples": {
+    "message": "Eslite, Tsutaya Books, Shakespeare and Company"
   },
-  "product.category.factory.label": {
-    "message": "Factory Tours"
+  "product.category.campus.label": {
+    "message": "University Campuses"
   },
-  "product.category.factory.examples": {
-    "message": "Kavalan Whisky Distillery, Republic of Chocolate, Jiu Zhen Nan Pastry Museum"
+  "product.category.campus.examples": {
+    "message": "National Taiwan University, University of Tokyo, University of Melbourne"
+  },
+  "product.category.heritage.label": {
+    "message": "Heritage Sites"
+  },
+  "product.category.heritage.examples": {
+    "message": "Chihkan Tower, Osaka Castle, Gyeongbokgung Palace"
+  },
+  "product.category.worship.label": {
+    "message": "Places of Worship"
+  },
+  "product.category.worship.examples": {
+    "message": "Lukang Longshan Temple, Senso-ji, St. Mary's Basilica"
+  },
+  "product.category.shopping.label": {
+    "message": "Shopping"
+  },
+  "product.category.shopping.examples": {
+    "message": "Myeongdong, Causeway Bay, Harrods"
+  },
+  "product.category.market.label": {
+    "message": "Markets"
+  },
+  "product.category.market.examples": {
+    "message": "Tsukiji Outer Market, Jagalchi Market, Queen Victoria Market"
+  },
+  "product.category.nightMarket.label": {
+    "message": "Night Markets"
+  },
+  "product.category.nightMarket.examples": {
+    "message": "Fengjia Night Market, Liuhe Night Market, Temple Street Night Market"
   },
   "product.category.food.label": {
     "message": "Local Food"
   },
   "product.category.food.examples": {
-    "message": "Ay-Chung Flour-Rice Noodle, Tong Ji Anping Tofu Pudding, Penshui Turkey Rice"
+    "message": "Ay-Chung Flour-Rice Noodle, Lord Stow's Bakery, Lan Fong Yuen"
+  },
+  "product.category.cafe.label": {
+    "message": "Cafés"
+  },
+  "product.category.cafe.examples": {
+    "message": "Long-running cafés, Starbucks Reserve Roastery"
+  },
+  "product.category.airport.label": {
+    "message": "Airports"
+  },
+  "product.category.airport.examples": {
+    "message": "Taoyuan Airport, Haneda Airport, Incheon Airport"
+  },
+  "product.category.railway.label": {
+    "message": "Railway Stations"
+  },
+  "product.category.railway.examples": {
+    "message": "Neiwan Station, Tokyo Station, Flinders Street Station"
+  },
+  "product.category.factory.label": {
+    "message": "Factory Tours"
+  },
+  "product.category.factory.examples": {
+    "message": "Kavalan Whisky Distillery, Shiroi Koibito Park, Wieliczka Salt Mine"
   },
   "product.category.nature.label": {
-    "message": "Parks & Nature"
+    "message": "Nature"
   },
   "product.category.nature.examples": {
-    "message": "Taipei Botanical Garden, Aowanda Forest Recreation Area, Fuyuan Forest Recreation Area"
+    "message": "Taipei Botanical Garden, Cape Manzamo, Mount Eden"
   },
   "product.collection.tw-railway-classic-6.name": {
     "message": "6 Classic Taiwan Railway Stations"
@@ -128,11 +206,14 @@
   "homepage.bookPreview.tongji": {
     "message": "Tong Ji Douhua"
   },
-  "homepage.bookPreview.chocolate": {
-    "message": "Republic of Chocolate"
-  },
   "homepage.bookPreview.chihkan": {
     "message": "Chihkan Tower"
+  },
+  "homepage.bookPreview.nishiki": {
+    "message": "Nishiki Market"
+  },
+  "homepage.bookPreview.victoriaPeak": {
+    "message": "Victoria Peak"
   },
   "homepage.hero.eyebrow": {
     "message": "ExploreStamp"
@@ -207,7 +288,7 @@
     "message": "Turn every trip into a stamp"
   },
   "homepage.meta.description": {
-    "message": "ExploreStamp is a digital stamp book for travel. Check in on location at museums, historic sites, railway stations, factory tours and local food spots to collect stamps, keep your photos, and turn the day into a postcard to share."
+    "message": "ExploreStamp is a digital stamp book for travel. Check in on location at museums, historic sites, old railway stations, markets, night markets and viewpoints to collect stamps, keep your photos, and turn the day into a postcard to share."
   },
   "homepage.mock.checkIn.place": {
     "message": "Jiji Station · Nantou"
@@ -243,7 +324,7 @@
     "message": "Themed routes, so you know where to go before you leave"
   },
   "homepage.showcase.collections.body1": {
-    "message": "The app currently includes {spots} places in Taiwan, Japan, South Korea and Macao, organized into {collections} themed routes: old railway stations, a walk through Tainan, night-market food, Kyoto's old capital, a loop of Okinawa's main island and more."
+    "message": "The app currently includes {spots} places in Taiwan, Japan, South Korea, Hong Kong, Macao, Australia, New Zealand and Poland, organized into {collections} themed routes: old railway stations, a walk through Tainan, Kyoto's old capital, Sydney's harbour, Kraków and the salt mine, and more."
   },
   "homepage.showcase.collections.body2": {
     "message": "Each route shows your progress, and one place can belong to several routes. The catalog updates in the background, so you never need to reinstall the app."
@@ -717,9 +798,5 @@
   "theme.tags.tagsPageTitle": {
     "message": "Tags",
     "description": "The title of the tag list page"
-  },
-  "spotList.mapTitle": {
-    "message": "Map of {name}",
-    "description": "Title of the embedded Google Maps iframe on the Places page"
   }
 }
