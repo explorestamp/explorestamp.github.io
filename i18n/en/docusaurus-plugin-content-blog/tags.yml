@@ -1,0 +1,25 @@
+# permalink 與預設語系相同，讓 hreflang 對應到存在的繁中頁面。
+旅行:
+  label: Travel
+  permalink: /旅行
+  description: Posts about travel
+
+打卡:
+  label: Check-ins
+  permalink: /打卡
+  description: Location check-ins and collecting stamps
+
+景點:
+  label: Places
+  permalink: /景點
+  description: Places to visit in Taiwan
+
+城市探索:
+  label: City walks
+  permalink: /城市探索
+  description: Posts about exploring cities
+
+ExploreStamp:
+  label: ExploreStamp
+  permalink: /explorestamp
+  description: ExploreStamp product news and updates

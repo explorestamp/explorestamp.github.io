@@ -1,4 +1,5 @@
 import type { ReactNode } from "react";
+import { translate } from "@docusaurus/Translate";
 import { categoryOf, type CategoryKey } from "@site/src/data/product";
 
 /**
@@ -100,7 +101,17 @@ export default function Stamp({
       height={size}
       viewBox="0 0 100 100"
       role="img"
-      aria-label={locked ? `${cat.label}（未收集）` : `${name ?? cat.label}印章`}
+      aria-label={
+        locked
+          ? translate(
+              { id: "stamp.ariaLabel.locked", message: "{category}（未收集）" },
+              { category: cat.label },
+            )
+          : translate(
+              { id: "stamp.ariaLabel.earned", message: "{name}印章" },
+              { name: name ?? cat.label },
+            )
+      }
       style={{ transform: `rotate(${tilt}deg)`, overflow: "visible" }}
     >
       <g
@@ -128,7 +139,16 @@ export default function Stamp({
             y="63"
             textAnchor="middle"
             fill={color}
-            fontSize={name.length > 5 ? 8.5 : 10}
+            // 英文名稱字數多但字寬窄，再多兩級縮小才放得進外框。
+            fontSize={
+              name.length > 18
+                ? 6
+                : name.length > 14
+                  ? 7
+                  : name.length > 5
+                    ? 8.5
+                    : 10
+            }
             fontWeight="700"
             letterSpacing="0.5"
           >

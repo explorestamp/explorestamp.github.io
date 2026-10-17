@@ -4,9 +4,24 @@ import type * as Preset from "@docusaurus/preset-classic";
 
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
+// 網站標題與標語不在翻譯檔的範圍內，依建置中的語系挑選。
+// Docusaurus 建置每個語系時會設定 DOCUSAURUS_CURRENT_LOCALE。
+const SITE_META: Record<string, { title: string; tagline: string }> = {
+  "zh-TW": {
+    title: "ExploreStamp 探索印記",
+    tagline: "把每一次旅行，蓋成一枚印章",
+  },
+  en: {
+    title: "ExploreStamp",
+    tagline: "Turn every trip into a stamp",
+  },
+};
+const currentLocale = process.env.DOCUSAURUS_CURRENT_LOCALE ?? "zh-TW";
+const siteMeta = SITE_META[currentLocale] ?? SITE_META["zh-TW"];
+
 const config: Config = {
-  title: "ExploreStamp 探索印記",
-  tagline: "把每一次旅行，蓋成一枚印章",
+  title: siteMeta.title,
+  tagline: siteMeta.tagline,
   favicon: "/img/favicon.ico",
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -35,12 +50,15 @@ const config: Config = {
     },
   ],
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
+  // 預設語系 zh-TW 走根路徑 /，英文在 /en/ 底下。
+  // 翻譯檔在 i18n/<locale>/，新增字串後用 `npm run write-translations` 產生。
   i18n: {
-    defaultLocale: "zh-Hant",
-    locales: ["zh-Hant"],
+    defaultLocale: "zh-TW",
+    locales: ["zh-TW", "en"],
+    localeConfigs: {
+      "zh-TW": { label: "繁體中文", htmlLang: "zh-TW" },
+      en: { label: "English", htmlLang: "en" },
+    },
   },
 
   presets: [
@@ -133,6 +151,7 @@ const config: Config = {
           label: "社群",
           position: "left",
         },
+        { type: "localeDropdown", position: "right" },
         {
           to: "/#download",
           label: "下載 App",
@@ -181,7 +200,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `© ${new Date().getFullYear()} ExploreStamp 探索印記. Built with ❤️ by <a href="https://www.kdchang.com">KD Chang</a> in Taiwan.`,
+      copyright: `© ${new Date().getFullYear()} ${siteMeta.title}. Built with ❤️ by <a href="https://www.kdchang.com">KD Chang</a> in Taiwan.`,
     },
     prism: {
       theme: prismThemes.github,

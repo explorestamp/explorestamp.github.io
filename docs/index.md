@@ -4,6 +4,8 @@ title: 收錄景點
 sidebar_position: 1
 ---
 
+import SpotList from '@site/src/components/SpotList';
+
 # 收錄景點
 
 探索印記目前收錄臺灣 43 個景點，分為七類，並整理成 8 條主題路線。以下是現有的完整清單，App 內的景點目錄會在背景自動更新。
@@ -23,33 +25,35 @@ sidebar_position: 1
 
 ## 景點分類
 
+點開景點名稱，可以看到它在地圖上的位置。
+
 ### 藝文場館
 
-國立故宮博物院、臺北市立美術館、奇美博物館、國立自然科學博物館、蘭陽博物館、駁二藝術特區
+<SpotList category="artsVenue" />
 
 ### 古蹟遺址
 
-剝皮寮歷史街區、安平古堡、赤崁樓、淡水紅毛城、鹿港龍山寺、莒光樓
+<SpotList category="heritage" />
 
 ### 圖書館
 
-臺北市立圖書館北投分館、國家圖書館、臺南市立圖書館總館、臺中市立圖書館總館、宜蘭市立圖書館、高雄市立圖書館總館
+<SpotList category="library" />
 
 ### 鐵道車站
 
-內灣車站、集集車站、臺南車站、花蓮車站、勝興車站、菁桐車站
+<SpotList category="railway" />
 
 ### 觀光工廠
 
-金車噶瑪蘭威士忌酒廠、巧克力共和國、蜡藝蠟筆城堡、老樹根魔法木工場、板陶窯交趾剪黏工藝園區、舊振南漢餅文化館
+<SpotList category="factory" />
 
 ### 特色美食
 
-阿宗麵線、同記安平豆花、逢甲夜市、六合夜市、噴水雞肉飯、公正包子、七張米粉湯
+<SpotList category="food" />
 
 ### 自然園區
 
-二叭子植物園、臺北植物園、奧萬大國家森林遊樂區、藤枝國家森林遊樂區、東眼山國家森林遊樂區、富源國家森林遊樂區
+<SpotList category="nature" />
 
 ## 打卡範圍
 

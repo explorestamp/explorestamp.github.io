@@ -1,0 +1,30 @@
+{
+  "title": {
+    "message": "ExploreStamp",
+    "description": "The title in the navbar"
+  },
+  "logo.alt": {
+    "message": "ExploreStamp",
+    "description": "The alt text of navbar logo"
+  },
+  "item.label.收錄景點": {
+    "message": "Places",
+    "description": "Navbar item with label 收錄景點"
+  },
+  "item.label.文章": {
+    "message": "Blog",
+    "description": "Navbar item with label 文章"
+  },
+  "item.label.關於": {
+    "message": "About",
+    "description": "Navbar item with label 關於"
+  },
+  "item.label.社群": {
+    "message": "Community",
+    "description": "Navbar item with label 社群"
+  },
+  "item.label.下載 App": {
+    "message": "Get the app",
+    "description": "Navbar item with label 下載 App"
+  }
+}

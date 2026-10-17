@@ -1,0 +1,725 @@
+{
+  "product.category.artsVenue.label": {
+    "message": "Museums & Arts"
+  },
+  "product.category.artsVenue.examples": {
+    "message": "National Palace Museum, Chimei Museum, Pier-2 Art Center"
+  },
+  "product.category.heritage.label": {
+    "message": "Historic Sites"
+  },
+  "product.category.heritage.examples": {
+    "message": "Chihkan Tower, Fort San Domingo, Lukang Longshan Temple"
+  },
+  "product.category.library.label": {
+    "message": "Libraries"
+  },
+  "product.category.library.examples": {
+    "message": "Beitou Branch Library, National Central Library, Tainan Public Library"
+  },
+  "product.category.railway.label": {
+    "message": "Railway Stations"
+  },
+  "product.category.railway.examples": {
+    "message": "Neiwan Station, Jiji Station, Jingtong Station"
+  },
+  "product.category.factory.label": {
+    "message": "Factory Tours"
+  },
+  "product.category.factory.examples": {
+    "message": "Kavalan Whisky Distillery, Republic of Chocolate, Jiu Zhen Nan Pastry Museum"
+  },
+  "product.category.food.label": {
+    "message": "Local Food"
+  },
+  "product.category.food.examples": {
+    "message": "Ay-Chung Flour-Rice Noodle, Tong Ji Anping Tofu Pudding, Penshui Turkey Rice"
+  },
+  "product.category.nature.label": {
+    "message": "Parks & Nature"
+  },
+  "product.category.nature.examples": {
+    "message": "Taipei Botanical Garden, Aowanda Forest Recreation Area, Fuyuan Forest Recreation Area"
+  },
+  "product.collection.tw-railway-classic-6.name": {
+    "message": "6 Classic Taiwan Railway Stations"
+  },
+  "product.collection.tw-railway-classic-6.region": {
+    "message": "Taiwan"
+  },
+  "product.collection.tw-railway-classic-6.description": {
+    "message": "Six stations that still carry the memory of Taiwan's old rail lines."
+  },
+  "product.collection.tw-tainan-walk.name": {
+    "message": "A Walk Through Tainan"
+  },
+  "product.collection.tw-tainan-walk.region": {
+    "message": "Tainan"
+  },
+  "product.collection.tw-tainan-walk.description": {
+    "message": "Forts, a station, a library, and a bowl of tofu pudding — Tainan is best explored on foot."
+  },
+  "product.collection.tw-museum-grand-tour.name": {
+    "message": "Museum Grand Tour"
+  },
+  "product.collection.tw-museum-grand-tour.region": {
+    "message": "Taiwan"
+  },
+  "product.collection.tw-museum-grand-tour.description": {
+    "message": "Six museums, six ways of looking at the world."
+  },
+  "product.collection.tw-street-food-map.name": {
+    "message": "Night Markets & Street Food"
+  },
+  "product.collection.tw-street-food-map.region": {
+    "message": "Taiwan"
+  },
+  "product.collection.tw-street-food-map.description": {
+    "message": "Start with a bowl of noodles and eat your way across Taiwan."
+  },
+  "product.collection.tw-heritage-trail.name": {
+    "message": "Heritage Trail"
+  },
+  "product.collection.tw-heritage-trail.region": {
+    "message": "Taiwan"
+  },
+  "product.collection.tw-heritage-trail.description": {
+    "message": "Six landmarks spanning the Dutch, Qing, and Japanese eras."
+  },
+  "product.collection.tw-quiet-reading-room.name": {
+    "message": "Reading the Island"
+  },
+  "product.collection.tw-quiet-reading-room.region": {
+    "message": "Taiwan"
+  },
+  "product.collection.tw-quiet-reading-room.description": {
+    "message": "Six libraries — the quietest room in six cities."
+  },
+  "product.collection.tw-factory-day-trip.name": {
+    "message": "Factory Tour Day Trip"
+  },
+  "product.collection.tw-factory-day-trip.region": {
+    "message": "Taiwan"
+  },
+  "product.collection.tw-factory-day-trip.description": {
+    "message": "Whisky, chocolate, crayons and pastry — six things you can watch being made."
+  },
+  "product.collection.tw-botanical-garden-picks.name": {
+    "message": "Botanical Gardens Worth the Trip"
+  },
+  "product.collection.tw-botanical-garden-picks.region": {
+    "message": "Taiwan"
+  },
+  "product.collection.tw-botanical-garden-picks.description": {
+    "message": "Six botanical gardens and forest parks worth slowing down for."
+  },
+  "homepage.store.download": {
+    "message": "Download on"
+  },
+  "homepage.store.comingSoon": {
+    "message": "Coming soon"
+  },
+  "homepage.bookPreview.neiwan": {
+    "message": "Neiwan Station"
+  },
+  "homepage.bookPreview.chimei": {
+    "message": "Chimei Museum"
+  },
+  "homepage.bookPreview.tongji": {
+    "message": "Tong Ji Douhua"
+  },
+  "homepage.bookPreview.chocolate": {
+    "message": "Republic of Chocolate"
+  },
+  "homepage.bookPreview.chihkan": {
+    "message": "Chihkan Tower"
+  },
+  "homepage.hero.eyebrow": {
+    "message": "ExploreStamp"
+  },
+  "homepage.hero.titleLine1": {
+    "message": "Turn every trip"
+  },
+  "homepage.hero.titleLine2": {
+    "message": "into a stamp"
+  },
+  "homepage.hero.lead": {
+    "message": "ExploreStamp is a stamp book you carry in your pocket. Walk into a museum, a historic site, an old railway station or a night market, check in on location, and you collect a stamp made for that place — saved to your calendar along with the photos from that day."
+  },
+  "homepage.hero.exploreLink": {
+    "message": "See which places are included"
+  },
+  "homepage.hero.fact.noLogin": {
+    "message": "No sign-in — download and start"
+  },
+  "homepage.hero.fact.localData": {
+    "message": "Check-ins and photos stay on your phone"
+  },
+  "homepage.hero.fact.languages": {
+    "message": "繁體中文 / English"
+  },
+  "homepage.bookPreview.title": {
+    "message": "My stamps"
+  },
+  "homepage.steps.pick.title": {
+    "message": "Pick a route"
+  },
+  "homepage.steps.pick.desc": {
+    "message": "Choose one of {collections} themed collections, such as old railway stations, a walk through Tainan or night-market food — or just search for a place by name."
+  },
+  "homepage.steps.stamp.title": {
+    "message": "Stamp it on site"
+  },
+  "homepage.steps.stamp.desc": {
+    "message": "When you arrive, tap “Check in”. The app uses GPS to confirm you're within range of the place, and the stamp goes into your stamp book."
+  },
+  "homepage.steps.record.title": {
+    "message": "Keep the day"
+  },
+  "homepage.steps.record.desc": {
+    "message": "Add up to 6 photos and a short note, and the visit is saved to your calendar. When you want to share, the photo and stamp can be combined into a postcard."
+  },
+  "homepage.steps.eyebrow": {
+    "message": "How it works"
+  },
+  "homepage.steps.title": {
+    "message": "Three steps to your first stamp"
+  },
+  "homepage.download.title": {
+    "message": "Start with the stop closest to you"
+  },
+  "homepage.download.body": {
+    "message": "ExploreStamp is available for iOS and Android. It's free and needs no sign-in. Pick a weekend and collect your first stamp at a station or library nearby."
+  },
+  "homepage.newsletter.eyebrow": {
+    "message": "Newsletter"
+  },
+  "homepage.newsletter.title": {
+    "message": "Where to get your next stamp — we'll write and tell you"
+  },
+  "homepage.newsletter.lead": {
+    "message": "We also share walking ideas for museums, historic sites and old railway stations, so a weekend outing becomes a route worth keeping."
+  },
+  "homepage.newsletter.iframeTitle": {
+    "message": "Subscribe to the ExploreStamp newsletter"
+  },
+  "homepage.meta.title": {
+    "message": "Turn every trip into a stamp"
+  },
+  "homepage.meta.description": {
+    "message": "ExploreStamp is a digital stamp book for travel. Check in on location at museums, historic sites, railway stations, factory tours and local food spots to collect stamps, keep your photos, and turn the day into a postcard to share."
+  },
+  "homepage.mock.checkIn.place": {
+    "message": "Jiji Station · Nantou"
+  },
+  "homepage.mock.checkIn.stampName": {
+    "message": "Jiji Station"
+  },
+  "homepage.mock.checkIn.result": {
+    "message": "Stamp collected"
+  },
+  "homepage.mock.checkIn.hint": {
+    "message": "86 m away · within the 250 m check-in radius"
+  },
+  "homepage.mock.postcard.photoAlt": {
+    "message": "Street in front of a temple in Tainan"
+  },
+  "homepage.mock.postcard.name": {
+    "message": "Chihkan Tower"
+  },
+  "homepage.mock.postcard.cityDate": {
+    "message": "Tainan · 2026.08.17"
+  },
+  "homepage.mock.postcard.stampName": {
+    "message": "Chihkan Tower"
+  },
+  "homepage.mock.postcard.brand": {
+    "message": "ExploreStamp"
+  },
+  "homepage.showcase.collections.label": {
+    "message": "Collections"
+  },
+  "homepage.showcase.collections.title": {
+    "message": "Themed routes, so you know where to go before you leave"
+  },
+  "homepage.showcase.collections.body1": {
+    "message": "The app currently includes {spots} places in Taiwan, organized into {collections} themed routes: old railway stations, a walk through Tainan, museums across the island, night-market food, botanical gardens and more."
+  },
+  "homepage.showcase.collections.body2": {
+    "message": "Each route shows your progress, and one place can belong to several routes. The catalog updates in the background, so you never need to reinstall the app."
+  },
+  "homepage.showcase.checkIn.label": {
+    "message": "Location check-in"
+  },
+  "homepage.showcase.checkIn.title": {
+    "message": "You have to be there for the stamp to count"
+  },
+  "homepage.showcase.checkIn.body1": {
+    "message": "When you tap “Check in”, the app reads your location once to confirm you're within the place's check-in radius. The radius depends on the type of place — 250 m for a station, 400 m for a factory tour — and the accuracy your phone reports is taken into account."
+  },
+  "homepage.showcase.checkIn.body2": {
+    "message": "Every place has its own stamp. The frame shape shows the category, and the stamp carries the place's name and the date of your first visit. Coming back doesn't give you a second stamp, but every visit is saved to your calendar."
+  },
+  "homepage.showcase.postcard.label": {
+    "message": "Postcards"
+  },
+  "homepage.showcase.postcard.title": {
+    "message": "A photo plus a stamp makes a postcard"
+  },
+  "homepage.showcase.postcard.body1": {
+    "message": "After checking in, pick a photo from that day and the app combines it with the stamp, the place name and the date into a portrait postcard you can send through your phone's share sheet."
+  },
+  "homepage.showcase.postcard.body2": {
+    "message": "No photo? No problem — the app switches to a stamp-only layout."
+  },
+  "homepage.more.map.title": {
+    "message": "Map"
+  },
+  "homepage.more.map.desc": {
+    "message": "See every place on a map, with visited and unvisited places clearly marked and a filter by category."
+  },
+  "homepage.more.calendar.title": {
+    "message": "Calendar"
+  },
+  "homepage.more.calendar.desc": {
+    "message": "Each day uses a photo from that day as its cover, and each month shows how many stamps and new places you collected."
+  },
+  "homepage.more.reminder.title": {
+    "message": "Suggestions"
+  },
+  "homepage.more.reminder.desc": {
+    "message": "Daily or weekends only, at a time you choose, the app suggests a place you haven't been to yet."
+  },
+  "homepage.more.backup.title": {
+    "message": "Backup export and import"
+  },
+  "homepage.more.backup.desc": {
+    "message": "Pack your check-ins and photos into one file and import it on a new phone without creating duplicates."
+  },
+  "homepage.more.offline.title": {
+    "message": "Works offline"
+  },
+  "homepage.more.offline.desc": {
+    "message": "Place data is installed with the app, so check-ins, the stamp book and the calendar all work without a connection."
+  },
+  "homepage.more.languages.title": {
+    "message": "Chinese and English"
+  },
+  "homepage.more.languages.desc": {
+    "message": "The interface and place information are available in Traditional Chinese and English, following your system setting or chosen manually."
+  },
+  "homepage.privacy.noLogin.title": {
+    "message": "No sign-in required"
+  },
+  "homepage.privacy.noLogin.desc": {
+    "message": "Start collecting right after you download. No email, phone number or other personal details needed."
+  },
+  "homepage.privacy.locationOnce.title": {
+    "message": "Location read once"
+  },
+  "homepage.privacy.locationOnce.desc": {
+    "message": "Your location is read only when you tap check in. It isn't tracked in the background or uploaded."
+  },
+  "homepage.privacy.localData.title": {
+    "message": "Data stays on your phone by default"
+  },
+  "homepage.privacy.localData.desc": {
+    "message": "Check-ins and photos are stored in the app's own space and aren't uploaded to a server by default."
+  },
+  "homepage.more.eyebrow": {
+    "message": "More features"
+  },
+  "homepage.more.title": {
+    "message": "Beyond the stamp book"
+  },
+  "homepage.categories.eyebrow": {
+    "message": "Categories"
+  },
+  "homepage.categories.title": {
+    "message": "{count} kinds of places, each with its own stamp"
+  },
+  "homepage.categories.lead": {
+    "message": "The category sets the stamp's frame and color: hexagons for historic sites, ticket shapes for railway stations, book shapes for libraries. Once you've collected a few, flipping through your stamp book shows which kinds of places you're drawn to."
+  },
+  "homepage.privacy.eyebrow": {
+    "message": "Privacy"
+  },
+  "homepage.privacy.title": {
+    "message": "Your travel record belongs to you"
+  },
+  "homepage.privacy.body": {
+    "message": "ExploreStamp works without signing in. Where you've been and what you photographed stay on your own phone. If accounts and cloud backup are added in the future, they'll be optional and off unless you turn them on."
+  },
+  "stamp.ariaLabel.locked": {
+    "message": "{category} (not yet collected)"
+  },
+  "stamp.ariaLabel.earned": {
+    "message": "{name} stamp"
+  },
+  "theme.ErrorPageContent.title": {
+    "message": "This page crashed.",
+    "description": "The title of the fallback page when the page crashed"
+  },
+  "theme.BackToTopButton.buttonAriaLabel": {
+    "message": "Scroll back to top",
+    "description": "The ARIA label for the back to top button"
+  },
+  "theme.blog.paginator.navAriaLabel": {
+    "message": "Blog list page navigation",
+    "description": "The ARIA label for the blog pagination"
+  },
+  "theme.blog.paginator.newerEntries": {
+    "message": "Newer entries",
+    "description": "The label used to navigate to the newer blog posts page (previous page)"
+  },
+  "theme.blog.paginator.olderEntries": {
+    "message": "Older entries",
+    "description": "The label used to navigate to the older blog posts page (next page)"
+  },
+  "theme.blog.archive.title": {
+    "message": "Archive",
+    "description": "The page & hero title of the blog archive page"
+  },
+  "theme.blog.archive.description": {
+    "message": "Archive",
+    "description": "The page & hero description of the blog archive page"
+  },
+  "theme.blog.post.paginator.navAriaLabel": {
+    "message": "Blog post page navigation",
+    "description": "The ARIA label for the blog posts pagination"
+  },
+  "theme.blog.post.paginator.newerPost": {
+    "message": "Newer post",
+    "description": "The blog post button label to navigate to the newer/previous post"
+  },
+  "theme.blog.post.paginator.olderPost": {
+    "message": "Older post",
+    "description": "The blog post button label to navigate to the older/next post"
+  },
+  "theme.colorToggle.ariaLabel.mode.system": {
+    "message": "system mode",
+    "description": "The name for the system color mode"
+  },
+  "theme.colorToggle.ariaLabel.mode.light": {
+    "message": "light mode",
+    "description": "The name for the light color mode"
+  },
+  "theme.colorToggle.ariaLabel.mode.dark": {
+    "message": "dark mode",
+    "description": "The name for the dark color mode"
+  },
+  "theme.colorToggle.ariaLabel": {
+    "message": "Switch between dark and light mode (currently {mode})",
+    "description": "The ARIA label for the color mode toggle"
+  },
+  "theme.docs.breadcrumbs.navAriaLabel": {
+    "message": "Breadcrumbs",
+    "description": "The ARIA label for the breadcrumbs"
+  },
+  "theme.tags.tagsPageLink": {
+    "message": "View all tags",
+    "description": "The label of the link targeting the tag list page"
+  },
+  "theme.docs.DocCard.categoryDescription.plurals": {
+    "message": "1 item|{count} items",
+    "description": "The default description for a category card in the generated index about how many items this category includes"
+  },
+  "theme.docs.tagDocListPageTitle.nDocsTagged": {
+    "message": "One doc tagged|{count} docs tagged",
+    "description": "Pluralized label for \"{count} docs tagged\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.docs.tagDocListPageTitle": {
+    "message": "{nDocsTagged} with \"{tagName}\"",
+    "description": "The title of the page for a docs tag"
+  },
+  "theme.docs.paginator.navAriaLabel": {
+    "message": "Docs pages",
+    "description": "The ARIA label for the docs pagination"
+  },
+  "theme.docs.paginator.previous": {
+    "message": "Previous",
+    "description": "The label used to navigate to the previous doc"
+  },
+  "theme.docs.paginator.next": {
+    "message": "Next",
+    "description": "The label used to navigate to the next doc"
+  },
+  "theme.docs.versionBadge.label": {
+    "message": "Version: {versionLabel}"
+  },
+  "theme.docs.versions.unreleasedVersionLabel": {
+    "message": "This is unreleased documentation for {siteTitle} {versionLabel} version.",
+    "description": "The label used to tell the user that he's browsing an unreleased doc version"
+  },
+  "theme.docs.versions.unmaintainedVersionLabel": {
+    "message": "This is documentation for {siteTitle} {versionLabel}, which is no longer actively maintained.",
+    "description": "The label used to tell the user that he's browsing an unmaintained doc version"
+  },
+  "theme.docs.versions.latestVersionSuggestionLabel": {
+    "message": "For up-to-date documentation, see the {latestVersionLink} ({versionLabel}).",
+    "description": "The label used to tell the user to check the latest version"
+  },
+  "theme.docs.versions.latestVersionLinkLabel": {
+    "message": "latest version",
+    "description": "The label used for the latest version suggestion link label"
+  },
+  "theme.common.editThisPage": {
+    "message": "Edit this page",
+    "description": "The link label to edit the current page"
+  },
+  "theme.common.headingLinkTitle": {
+    "message": "Direct link to {heading}",
+    "description": "Title for link to heading"
+  },
+  "theme.lastUpdated.atDate": {
+    "message": " on {date}",
+    "description": "The words used to describe on which date a page has been last updated"
+  },
+  "theme.lastUpdated.byUser": {
+    "message": " by {user}",
+    "description": "The words used to describe by who the page has been last updated"
+  },
+  "theme.lastUpdated.lastUpdatedAtBy": {
+    "message": "Last updated{atDate}{byUser}",
+    "description": "The sentence used to display when a page has been last updated, and by who"
+  },
+  "theme.navbar.mobileVersionsDropdown.label": {
+    "message": "Versions",
+    "description": "The label for the navbar versions dropdown on mobile view"
+  },
+  "theme.NotFound.title": {
+    "message": "Page Not Found",
+    "description": "The title of the 404 page"
+  },
+  "theme.tags.tagsListLabel": {
+    "message": "Tags:",
+    "description": "The label alongside a tag list"
+  },
+  "theme.AnnouncementBar.closeButtonAriaLabel": {
+    "message": "Close",
+    "description": "The ARIA label for close button of announcement bar"
+  },
+  "theme.admonition.caution": {
+    "message": "caution",
+    "description": "The default label used for the Caution admonition (:::caution)"
+  },
+  "theme.admonition.danger": {
+    "message": "danger",
+    "description": "The default label used for the Danger admonition (:::danger)"
+  },
+  "theme.admonition.info": {
+    "message": "info",
+    "description": "The default label used for the Info admonition (:::info)"
+  },
+  "theme.admonition.note": {
+    "message": "note",
+    "description": "The default label used for the Note admonition (:::note)"
+  },
+  "theme.admonition.tip": {
+    "message": "tip",
+    "description": "The default label used for the Tip admonition (:::tip)"
+  },
+  "theme.admonition.warning": {
+    "message": "warning",
+    "description": "The default label used for the Warning admonition (:::warning)"
+  },
+  "theme.blog.sidebar.navAriaLabel": {
+    "message": "Blog recent posts navigation",
+    "description": "The ARIA label for recent posts in the blog sidebar"
+  },
+  "theme.DocSidebarItem.expandCategoryAriaLabel": {
+    "message": "Expand sidebar category '{label}'",
+    "description": "The ARIA label to expand the sidebar category"
+  },
+  "theme.DocSidebarItem.collapseCategoryAriaLabel": {
+    "message": "Collapse sidebar category '{label}'",
+    "description": "The ARIA label to collapse the sidebar category"
+  },
+  "theme.IconExternalLink.ariaLabel": {
+    "message": "(opens in new tab)",
+    "description": "The ARIA label for the external link icon"
+  },
+  "theme.NavBar.navAriaLabel": {
+    "message": "Main",
+    "description": "The ARIA label for the main navigation"
+  },
+  "theme.navbar.mobileLanguageDropdown.label": {
+    "message": "Languages",
+    "description": "The label for the mobile language switcher dropdown"
+  },
+  "theme.NotFound.p1": {
+    "message": "We could not find what you were looking for.",
+    "description": "The first paragraph of the 404 page"
+  },
+  "theme.NotFound.p2": {
+    "message": "Please contact the owner of the site that linked you to the original URL and let them know their link is broken.",
+    "description": "The 2nd paragraph of the 404 page"
+  },
+  "theme.TOCCollapsible.toggleButtonLabel": {
+    "message": "On this page",
+    "description": "The label used by the button on the collapsible TOC component"
+  },
+  "theme.CodeBlock.copy": {
+    "message": "Copy",
+    "description": "The copy button label on code blocks"
+  },
+  "theme.CodeBlock.copied": {
+    "message": "Copied",
+    "description": "The copied button label on code blocks"
+  },
+  "theme.CodeBlock.copyButtonAriaLabel": {
+    "message": "Copy code to clipboard",
+    "description": "The ARIA label for copy code blocks button"
+  },
+  "theme.blog.post.readingTime.plurals": {
+    "message": "One min read|{readingTime} min read",
+    "description": "Pluralized label for \"{readingTime} min read\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.docs.sidebar.collapseButtonTitle": {
+    "message": "Collapse sidebar",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.docs.sidebar.collapseButtonAriaLabel": {
+    "message": "Collapse sidebar",
+    "description": "The title attribute for collapse button of doc sidebar"
+  },
+  "theme.docs.breadcrumbs.home": {
+    "message": "Home page",
+    "description": "The ARIA label for the home page in the breadcrumbs"
+  },
+  "theme.blog.post.readMore": {
+    "message": "Read more",
+    "description": "The label used in blog post item excerpts to link to full blog posts"
+  },
+  "theme.blog.post.readMoreLabel": {
+    "message": "Read more about {title}",
+    "description": "The ARIA label for the link to full blog posts from excerpts"
+  },
+  "theme.CodeBlock.wordWrapToggle": {
+    "message": "Toggle word wrap",
+    "description": "The title attribute for toggle word wrapping button of code block lines"
+  },
+  "theme.docs.sidebar.navAriaLabel": {
+    "message": "Docs sidebar",
+    "description": "The ARIA label for the sidebar navigation"
+  },
+  "theme.docs.sidebar.closeSidebarButtonAriaLabel": {
+    "message": "Close navigation bar",
+    "description": "The ARIA label for close button of mobile sidebar"
+  },
+  "theme.navbar.mobileSidebarSecondaryMenu.backButtonLabel": {
+    "message": "← Back to main menu",
+    "description": "The label of the back button to return to main menu, inside the mobile navbar sidebar secondary menu (notably used to display the docs sidebar)"
+  },
+  "theme.navbar.mobileDropdown.collapseButton.expandAriaLabel": {
+    "message": "Expand the dropdown",
+    "description": "The ARIA label of the button to expand the mobile dropdown navbar item"
+  },
+  "theme.navbar.mobileDropdown.collapseButton.collapseAriaLabel": {
+    "message": "Collapse the dropdown",
+    "description": "The ARIA label of the button to collapse the mobile dropdown navbar item"
+  },
+  "theme.docs.sidebar.toggleSidebarButtonAriaLabel": {
+    "message": "Toggle navigation bar",
+    "description": "The ARIA label for hamburger menu button of mobile navigation"
+  },
+  "theme.docs.sidebar.expandButtonTitle": {
+    "message": "Expand sidebar",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.docs.sidebar.expandButtonAriaLabel": {
+    "message": "Expand sidebar",
+    "description": "The ARIA label and title attribute for expand button of doc sidebar"
+  },
+  "theme.SearchPage.existingResultsTitle": {
+    "message": "Search results for \"{query}\"",
+    "description": "The search page title for non-empty query"
+  },
+  "theme.SearchPage.emptyResultsTitle": {
+    "message": "Search the documentation",
+    "description": "The search page title for empty query"
+  },
+  "theme.SearchPage.searchContext.everywhere": {
+    "message": "Everywhere"
+  },
+  "theme.SearchPage.documentsFound.plurals": {
+    "message": "1 document found|{count} documents found",
+    "description": "Pluralized label for \"{count} documents found\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.SearchPage.noResultsText": {
+    "message": "No documents were found",
+    "description": "The paragraph for empty search result"
+  },
+  "theme.SearchBar.noResultsText": {
+    "message": "No results"
+  },
+  "theme.SearchBar.seeAllOutsideContext": {
+    "message": "See all results outside \"{context}\""
+  },
+  "theme.SearchBar.searchInContext": {
+    "message": "See all results within \"{context}\""
+  },
+  "theme.SearchBar.seeAll": {
+    "message": "See all results"
+  },
+  "theme.SearchBar.label": {
+    "message": "Search",
+    "description": "The ARIA label and placeholder for search button"
+  },
+  "theme.blog.post.plurals": {
+    "message": "One post|{count} posts",
+    "description": "Pluralized label for \"{count} posts\". Use as much plural forms (separated by \"|\") as your language support (see https://www.unicode.org/cldr/cldr-aux/charts/34/supplemental/language_plural_rules.html)"
+  },
+  "theme.blog.tagTitle": {
+    "message": "{nPosts} tagged with \"{tagName}\"",
+    "description": "The title of the page for a blog tag"
+  },
+  "theme.blog.author.pageTitle": {
+    "message": "{authorName} - {nPosts}",
+    "description": "The title of the page for a blog author"
+  },
+  "theme.blog.authorsList.pageTitle": {
+    "message": "Authors",
+    "description": "The title of the authors page"
+  },
+  "theme.blog.authorsList.viewAll": {
+    "message": "View all authors",
+    "description": "The label of the link targeting the blog authors page"
+  },
+  "theme.blog.author.noPosts": {
+    "message": "This author has not written any posts yet.",
+    "description": "The text for authors with 0 blog post"
+  },
+  "theme.contentVisibility.unlistedBanner.title": {
+    "message": "Unlisted page",
+    "description": "The unlisted content banner title"
+  },
+  "theme.contentVisibility.unlistedBanner.message": {
+    "message": "This page is unlisted. Search engines will not index it, and only users having a direct link can access it.",
+    "description": "The unlisted content banner message"
+  },
+  "theme.contentVisibility.draftBanner.title": {
+    "message": "Draft page",
+    "description": "The draft content banner title"
+  },
+  "theme.contentVisibility.draftBanner.message": {
+    "message": "This page is a draft. It will only be visible in dev and be excluded from the production build.",
+    "description": "The draft content banner message"
+  },
+  "theme.ErrorPageContent.tryAgain": {
+    "message": "Try again",
+    "description": "The label of the button to try again rendering when the React error boundary captures an error"
+  },
+  "theme.common.skipToMainContent": {
+    "message": "Skip to main content",
+    "description": "The skip to content label used for accessibility, allowing to rapidly navigate to main content with keyboard tab/enter navigation"
+  },
+  "theme.tags.tagsPageTitle": {
+    "message": "Tags",
+    "description": "The title of the tag list page"
+  },
+  "spotList.mapTitle": {
+    "message": "Map of {name}",
+    "description": "Title of the embedded Google Maps iframe on the Places page"
+  }
+}

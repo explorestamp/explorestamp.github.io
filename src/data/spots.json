@@ -1,0 +1,604 @@
+[
+  {
+    "id": "tw-tpe-artsvenue-npm",
+    "category": "artsVenue",
+    "name": {
+      "zh": "國立故宮博物院",
+      "en": "National Palace Museum"
+    },
+    "city": {
+      "zh": "臺北市",
+      "en": "Taipei"
+    },
+    "lat": 25.1023,
+    "lng": 121.5485
+  },
+  {
+    "id": "tw-tpe-artsvenue-tfam",
+    "category": "artsVenue",
+    "name": {
+      "zh": "臺北市立美術館",
+      "en": "Taipei Fine Arts Museum"
+    },
+    "city": {
+      "zh": "臺北市",
+      "en": "Taipei"
+    },
+    "lat": 25.0725,
+    "lng": 121.5248
+  },
+  {
+    "id": "tw-tnn-artsvenue-chimei",
+    "category": "artsVenue",
+    "name": {
+      "zh": "奇美博物館",
+      "en": "Chimei Museum"
+    },
+    "city": {
+      "zh": "臺南市",
+      "en": "Tainan"
+    },
+    "lat": 22.9346,
+    "lng": 120.226
+  },
+  {
+    "id": "tw-tcg-artsvenue-nmns",
+    "category": "artsVenue",
+    "name": {
+      "zh": "國立自然科學博物館",
+      "en": "National Museum of Natural Science"
+    },
+    "city": {
+      "zh": "臺中市",
+      "en": "Taichung"
+    },
+    "lat": 24.158,
+    "lng": 120.665
+  },
+  {
+    "id": "tw-ila-artsvenue-lanyang",
+    "category": "artsVenue",
+    "name": {
+      "zh": "蘭陽博物館",
+      "en": "Lanyang Museum"
+    },
+    "city": {
+      "zh": "宜蘭縣",
+      "en": "Yilan"
+    },
+    "lat": 24.8706,
+    "lng": 121.8318
+  },
+  {
+    "id": "tw-khh-artsvenue-pier2",
+    "category": "artsVenue",
+    "name": {
+      "zh": "駁二藝術特區",
+      "en": "Pier-2 Art Center"
+    },
+    "city": {
+      "zh": "高雄市",
+      "en": "Kaohsiung"
+    },
+    "lat": 22.6203,
+    "lng": 120.282
+  },
+  {
+    "id": "tw-tpe-heritage-bopiliao",
+    "category": "heritage",
+    "name": {
+      "zh": "剝皮寮歷史街區",
+      "en": "Bopiliao Historic Block"
+    },
+    "city": {
+      "zh": "臺北市",
+      "en": "Taipei"
+    },
+    "lat": 25.0367,
+    "lng": 121.4995
+  },
+  {
+    "id": "tw-tnn-heritage-anping",
+    "category": "heritage",
+    "name": {
+      "zh": "安平古堡",
+      "en": "Anping Fort"
+    },
+    "city": {
+      "zh": "臺南市",
+      "en": "Tainan"
+    },
+    "lat": 23.0014,
+    "lng": 120.161
+  },
+  {
+    "id": "tw-tnn-heritage-chihkan",
+    "category": "heritage",
+    "name": {
+      "zh": "赤崁樓",
+      "en": "Chihkan Tower"
+    },
+    "city": {
+      "zh": "臺南市",
+      "en": "Tainan"
+    },
+    "lat": 22.9976,
+    "lng": 120.2026
+  },
+  {
+    "id": "tw-ntp-heritage-santodomingo",
+    "category": "heritage",
+    "name": {
+      "zh": "淡水紅毛城",
+      "en": "Fort San Domingo"
+    },
+    "city": {
+      "zh": "新北市",
+      "en": "New Taipei"
+    },
+    "lat": 25.1754,
+    "lng": 121.4327
+  },
+  {
+    "id": "tw-chw-heritage-longshan",
+    "category": "heritage",
+    "name": {
+      "zh": "鹿港龍山寺",
+      "en": "Lukang Longshan Temple"
+    },
+    "city": {
+      "zh": "彰化縣",
+      "en": "Changhua"
+    },
+    "lat": 24.053,
+    "lng": 120.434
+  },
+  {
+    "id": "tw-kmn-heritage-juguang",
+    "category": "heritage",
+    "name": {
+      "zh": "莒光樓",
+      "en": "Juguang Tower"
+    },
+    "city": {
+      "zh": "金門縣",
+      "en": "Kinmen"
+    },
+    "lat": 24.4159,
+    "lng": 118.3155
+  },
+  {
+    "id": "tw-tpe-library-beitou",
+    "category": "library",
+    "name": {
+      "zh": "臺北市立圖書館北投分館",
+      "en": "Beitou Branch Library"
+    },
+    "city": {
+      "zh": "臺北市",
+      "en": "Taipei"
+    },
+    "lat": 25.1366,
+    "lng": 121.5065
+  },
+  {
+    "id": "tw-tpe-library-ncl",
+    "category": "library",
+    "name": {
+      "zh": "國家圖書館",
+      "en": "National Central Library"
+    },
+    "city": {
+      "zh": "臺北市",
+      "en": "Taipei"
+    },
+    "lat": 25.0325,
+    "lng": 121.5178
+  },
+  {
+    "id": "tw-tnn-library-main",
+    "category": "library",
+    "name": {
+      "zh": "臺南市立圖書館總館",
+      "en": "Tainan Public Library"
+    },
+    "city": {
+      "zh": "臺南市",
+      "en": "Tainan"
+    },
+    "lat": 23.029,
+    "lng": 120.253
+  },
+  {
+    "id": "tw-tcg-library-main",
+    "category": "library",
+    "name": {
+      "zh": "臺中市立圖書館總館",
+      "en": "Taichung Public Library"
+    },
+    "city": {
+      "zh": "臺中市",
+      "en": "Taichung"
+    },
+    "lat": 24.1471,
+    "lng": 120.6858
+  },
+  {
+    "id": "tw-ila-library-yilan",
+    "category": "library",
+    "name": {
+      "zh": "宜蘭市立圖書館",
+      "en": "Yilan City Library"
+    },
+    "city": {
+      "zh": "宜蘭縣",
+      "en": "Yilan"
+    },
+    "lat": 24.753,
+    "lng": 121.753
+  },
+  {
+    "id": "tw-khh-library-main",
+    "category": "library",
+    "name": {
+      "zh": "高雄市立圖書館總館",
+      "en": "Kaohsiung Main Public Library"
+    },
+    "city": {
+      "zh": "高雄市",
+      "en": "Kaohsiung"
+    },
+    "lat": 22.607,
+    "lng": 120.302
+  },
+  {
+    "id": "tw-hsq-railway-neiwan",
+    "category": "railway",
+    "name": {
+      "zh": "內灣車站",
+      "en": "Neiwan Station"
+    },
+    "city": {
+      "zh": "新竹縣",
+      "en": "Hsinchu"
+    },
+    "lat": 24.7061,
+    "lng": 121.1885
+  },
+  {
+    "id": "tw-nan-railway-jiji",
+    "category": "railway",
+    "name": {
+      "zh": "集集車站",
+      "en": "Jiji Station"
+    },
+    "city": {
+      "zh": "南投縣",
+      "en": "Nantou"
+    },
+    "lat": 23.829,
+    "lng": 120.786
+  },
+  {
+    "id": "tw-tnn-railway-tainan",
+    "category": "railway",
+    "name": {
+      "zh": "臺南車站",
+      "en": "Tainan Station"
+    },
+    "city": {
+      "zh": "臺南市",
+      "en": "Tainan"
+    },
+    "lat": 22.9971,
+    "lng": 120.212
+  },
+  {
+    "id": "tw-hua-railway-hualien",
+    "category": "railway",
+    "name": {
+      "zh": "花蓮車站",
+      "en": "Hualien Station"
+    },
+    "city": {
+      "zh": "花蓮縣",
+      "en": "Hualien"
+    },
+    "lat": 23.993,
+    "lng": 121.601
+  },
+  {
+    "id": "tw-mia-railway-shengxing",
+    "category": "railway",
+    "name": {
+      "zh": "勝興車站",
+      "en": "Shengxing Station"
+    },
+    "city": {
+      "zh": "苗栗縣",
+      "en": "Miaoli"
+    },
+    "lat": 24.39,
+    "lng": 120.777
+  },
+  {
+    "id": "tw-ntp-railway-jingtong",
+    "category": "railway",
+    "name": {
+      "zh": "菁桐車站",
+      "en": "Jingtong Station"
+    },
+    "city": {
+      "zh": "新北市",
+      "en": "New Taipei"
+    },
+    "lat": 25.024,
+    "lng": 121.724
+  },
+  {
+    "id": "tw-ila-factory-kavalan",
+    "category": "factory",
+    "name": {
+      "zh": "金車噶瑪蘭威士忌酒廠",
+      "en": "Kavalan Whisky Distillery"
+    },
+    "city": {
+      "zh": "宜蘭縣",
+      "en": "Yilan"
+    },
+    "lat": 24.759,
+    "lng": 121.715
+  },
+  {
+    "id": "tw-tyc-factory-chocolate",
+    "category": "factory",
+    "name": {
+      "zh": "巧克力共和國",
+      "en": "Republic of Chocolate"
+    },
+    "city": {
+      "zh": "桃園市",
+      "en": "Taoyuan"
+    },
+    "lat": 25.009,
+    "lng": 121.256
+  },
+  {
+    "id": "tw-ila-factory-crayon",
+    "category": "factory",
+    "name": {
+      "zh": "蜡藝蠟筆城堡",
+      "en": "Lucky Art Crayon Castle"
+    },
+    "city": {
+      "zh": "宜蘭縣",
+      "en": "Yilan"
+    },
+    "lat": 24.654,
+    "lng": 121.777
+  },
+  {
+    "id": "tw-tcg-factory-treeroots",
+    "category": "factory",
+    "name": {
+      "zh": "老樹根魔法木工場",
+      "en": "Tree Roots Wood Workshop"
+    },
+    "city": {
+      "zh": "臺中市",
+      "en": "Taichung"
+    },
+    "lat": 24.12,
+    "lng": 120.648
+  },
+  {
+    "id": "tw-cyq-factory-bantaoyao",
+    "category": "factory",
+    "name": {
+      "zh": "板陶窯交趾剪黏工藝園區",
+      "en": "Bantaoyao Crafts Studio"
+    },
+    "city": {
+      "zh": "嘉義縣",
+      "en": "Chiayi"
+    },
+    "lat": 23.459,
+    "lng": 120.236
+  },
+  {
+    "id": "tw-khh-factory-jiuzhennan",
+    "category": "factory",
+    "name": {
+      "zh": "舊振南漢餅文化館",
+      "en": "Jiu Zhen Nan Pastry Museum"
+    },
+    "city": {
+      "zh": "高雄市",
+      "en": "Kaohsiung"
+    },
+    "lat": 22.736,
+    "lng": 120.418
+  },
+  {
+    "id": "tw-tpe-food-ahchung",
+    "category": "food",
+    "name": {
+      "zh": "阿宗麵線",
+      "en": "Ay-Chung Flour-Rice Noodle"
+    },
+    "city": {
+      "zh": "臺北市",
+      "en": "Taipei"
+    },
+    "lat": 25.044,
+    "lng": 121.507
+  },
+  {
+    "id": "tw-tnn-food-tongji",
+    "category": "food",
+    "name": {
+      "zh": "同記安平豆花",
+      "en": "Tong Ji Anping Tofu Pudding"
+    },
+    "city": {
+      "zh": "臺南市",
+      "en": "Tainan"
+    },
+    "lat": 23.001,
+    "lng": 120.162
+  },
+  {
+    "id": "tw-tcg-food-fengjia",
+    "category": "food",
+    "name": {
+      "zh": "逢甲夜市",
+      "en": "Fengjia Night Market"
+    },
+    "city": {
+      "zh": "臺中市",
+      "en": "Taichung"
+    },
+    "lat": 24.179,
+    "lng": 120.647
+  },
+  {
+    "id": "tw-khh-food-liuhe",
+    "category": "food",
+    "name": {
+      "zh": "六合夜市",
+      "en": "Liuhe Night Market"
+    },
+    "city": {
+      "zh": "高雄市",
+      "en": "Kaohsiung"
+    },
+    "lat": 22.632,
+    "lng": 120.302
+  },
+  {
+    "id": "tw-cyi-food-penshui",
+    "category": "food",
+    "name": {
+      "zh": "噴水雞肉飯",
+      "en": "Penshui Turkey Rice"
+    },
+    "city": {
+      "zh": "嘉義市",
+      "en": "Chiayi"
+    },
+    "lat": 23.479,
+    "lng": 120.449
+  },
+  {
+    "id": "tw-hua-food-gongzheng",
+    "category": "food",
+    "name": {
+      "zh": "公正包子",
+      "en": "Gongzheng Baozi"
+    },
+    "city": {
+      "zh": "花蓮縣",
+      "en": "Hualien"
+    },
+    "lat": 23.977,
+    "lng": 121.606
+  },
+  {
+    "id": "tw-ntp-food-qizhang",
+    "category": "food",
+    "name": {
+      "zh": "七張米粉湯",
+      "en": "Qizhang Rice Noodle Soup"
+    },
+    "city": {
+      "zh": "新北市",
+      "en": "New Taipei"
+    },
+    "lat": 24.9727,
+    "lng": 121.5424
+  },
+  {
+    "id": "tw-ntp-nature-erbazi",
+    "category": "nature",
+    "name": {
+      "zh": "二叭子植物園",
+      "en": "Erbazi Botanical Garden"
+    },
+    "city": {
+      "zh": "新北市",
+      "en": "New Taipei"
+    },
+    "lat": 24.94,
+    "lng": 121.53
+  },
+  {
+    "id": "tw-tpe-nature-botanical",
+    "category": "nature",
+    "name": {
+      "zh": "臺北植物園",
+      "en": "Taipei Botanical Garden"
+    },
+    "city": {
+      "zh": "臺北市",
+      "en": "Taipei"
+    },
+    "lat": 25.0324,
+    "lng": 121.5106
+  },
+  {
+    "id": "tw-nan-nature-aowanda",
+    "category": "nature",
+    "name": {
+      "zh": "奧萬大國家森林遊樂區",
+      "en": "Aowanda National Forest Recreation Area"
+    },
+    "city": {
+      "zh": "南投縣",
+      "en": "Nantou"
+    },
+    "lat": 23.91,
+    "lng": 121.033
+  },
+  {
+    "id": "tw-khh-nature-tengzhi",
+    "category": "nature",
+    "name": {
+      "zh": "藤枝國家森林遊樂區",
+      "en": "Tengzhi National Forest Recreation Area"
+    },
+    "city": {
+      "zh": "高雄市",
+      "en": "Kaohsiung"
+    },
+    "lat": 23.166,
+    "lng": 120.766
+  },
+  {
+    "id": "tw-tyc-nature-dongyanshan",
+    "category": "nature",
+    "name": {
+      "zh": "東眼山國家森林遊樂區",
+      "en": "Dongyanshan National Forest Recreation Area"
+    },
+    "city": {
+      "zh": "桃園市",
+      "en": "Taoyuan"
+    },
+    "lat": 24.717,
+    "lng": 121.417
+  },
+  {
+    "id": "tw-hua-nature-fuyuan",
+    "category": "nature",
+    "name": {
+      "zh": "富源國家森林遊樂區",
+      "en": "Fuyuan National Forest Recreation Area"
+    },
+    "city": {
+      "zh": "花蓮縣",
+      "en": "Hualien"
+    },
+    "lat": 23.517,
+    "lng": 121.383
+  }
+]
