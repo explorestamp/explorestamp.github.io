@@ -788,5 +788,335 @@
     "id": "pl-wie-factory-saltmine",
     "category": "factory",
     "country": "PL"
+  },
+  {
+    "id": "gb-lon-museum-britishmuseum",
+    "category": "museum",
+    "country": "GB"
+  },
+  {
+    "id": "gb-lon-artmuseum-nationalgallery",
+    "category": "artMuseum",
+    "country": "GB"
+  },
+  {
+    "id": "gb-lon-venue-royalalberthall",
+    "category": "venue",
+    "country": "GB"
+  },
+  {
+    "id": "gb-lon-heritage-toweroflondon",
+    "category": "heritage",
+    "country": "GB"
+  },
+  {
+    "id": "gb-lon-worship-westminsterabbey",
+    "category": "worship",
+    "country": "GB"
+  },
+  {
+    "id": "gb-lon-market-borough",
+    "category": "market",
+    "country": "GB"
+  },
+  {
+    "id": "gb-lon-railway-stpancras",
+    "category": "railway",
+    "country": "GB"
+  },
+  {
+    "id": "gb-lon-landmark-londoneye",
+    "category": "landmark",
+    "country": "GB"
+  },
+  {
+    "id": "gb-lon-library-britishlibrary",
+    "category": "library",
+    "country": "GB"
+  },
+  {
+    "id": "gb-lon-shopping-harrods",
+    "category": "shopping",
+    "country": "GB"
+  },
+  {
+    "id": "gb-lon-nature-kewgardens",
+    "category": "nature",
+    "country": "GB"
+  },
+  {
+    "id": "gb-lon-bookstore-dauntbooks",
+    "category": "bookstore",
+    "country": "GB"
+  },
+  {
+    "id": "gb-lon-airport-heathrow",
+    "category": "airport",
+    "country": "GB"
+  },
+  {
+    "id": "gb-edi-heritage-edinburghcastle",
+    "category": "heritage",
+    "country": "GB"
+  },
+  {
+    "id": "gb-edi-factory-scotchwhisky",
+    "category": "factory",
+    "country": "GB"
+  },
+  {
+    "id": "gb-edi-nature-arthursseat",
+    "category": "nature",
+    "country": "GB"
+  },
+  {
+    "id": "us-nyc-artmuseum-met",
+    "category": "artMuseum",
+    "country": "US"
+  },
+  {
+    "id": "us-nyc-museum-amnh",
+    "category": "museum",
+    "country": "US"
+  },
+  {
+    "id": "us-nyc-landmark-statueofliberty",
+    "category": "landmark",
+    "country": "US"
+  },
+  {
+    "id": "us-nyc-landmark-empirestate",
+    "category": "landmark",
+    "country": "US"
+  },
+  {
+    "id": "us-nyc-railway-grandcentral",
+    "category": "railway",
+    "country": "US"
+  },
+  {
+    "id": "us-nyc-nature-centralpark",
+    "category": "nature",
+    "country": "US"
+  },
+  {
+    "id": "us-nyc-library-nypl",
+    "category": "library",
+    "country": "US"
+  },
+  {
+    "id": "us-nyc-bookstore-strand",
+    "category": "bookstore",
+    "country": "US"
+  },
+  {
+    "id": "us-nyc-venue-msg",
+    "category": "venue",
+    "country": "US"
+  },
+  {
+    "id": "us-nyc-market-chelsea",
+    "category": "market",
+    "country": "US"
+  },
+  {
+    "id": "us-sfo-landmark-goldengate",
+    "category": "landmark",
+    "country": "US"
+  },
+  {
+    "id": "us-sfo-market-ferrybuilding",
+    "category": "market",
+    "country": "US"
+  },
+  {
+    "id": "us-sfo-heritage-alcatraz",
+    "category": "heritage",
+    "country": "US"
+  },
+  {
+    "id": "us-sfo-cafe-caffetrieste",
+    "category": "cafe",
+    "country": "US"
+  },
+  {
+    "id": "us-lax-museum-griffith",
+    "category": "museum",
+    "country": "US"
+  },
+  {
+    "id": "us-ana-themepark-disneyland",
+    "category": "themePark",
+    "country": "US"
+  },
+  {
+    "id": "us-lax-themepark-universal",
+    "category": "themePark",
+    "country": "US"
+  },
+  {
+    "id": "us-lax-artmuseum-getty",
+    "category": "artMuseum",
+    "country": "US"
+  },
+  {
+    "id": "us-sea-market-pikeplace",
+    "category": "market",
+    "country": "US"
+  },
+  {
+    "id": "us-sea-landmark-spaceneedle",
+    "category": "landmark",
+    "country": "US"
+  },
+  {
+    "id": "ca-tor-landmark-cntower",
+    "category": "landmark",
+    "country": "CA"
+  },
+  {
+    "id": "ca-tor-museum-rom",
+    "category": "museum",
+    "country": "CA"
+  },
+  {
+    "id": "ca-tor-market-stlawrence",
+    "category": "market",
+    "country": "CA"
+  },
+  {
+    "id": "ca-tor-railway-union",
+    "category": "railway",
+    "country": "CA"
+  },
+  {
+    "id": "ca-tor-heritage-casaloma",
+    "category": "heritage",
+    "country": "CA"
+  },
+  {
+    "id": "ca-nia-nature-niagarafalls",
+    "category": "nature",
+    "country": "CA"
+  },
+  {
+    "id": "ca-van-nature-stanleypark",
+    "category": "nature",
+    "country": "CA"
+  },
+  {
+    "id": "ca-van-market-granvilleisland",
+    "category": "market",
+    "country": "CA"
+  },
+  {
+    "id": "ca-van-nature-capilano",
+    "category": "nature",
+    "country": "CA"
+  },
+  {
+    "id": "ca-van-zooaquarium-vancouveraquarium",
+    "category": "zooAquarium",
+    "country": "CA"
+  },
+  {
+    "id": "ca-mtl-worship-notredame",
+    "category": "worship",
+    "country": "CA"
+  },
+  {
+    "id": "ca-qc-heritage-frontenac",
+    "category": "heritage",
+    "country": "CA"
+  },
+  {
+    "id": "eg-giz-heritage-pyramids",
+    "category": "heritage",
+    "country": "EG"
+  },
+  {
+    "id": "eg-giz-museum-gem",
+    "category": "museum",
+    "country": "EG"
+  },
+  {
+    "id": "eg-cai-museum-egyptianmuseum",
+    "category": "museum",
+    "country": "EG"
+  },
+  {
+    "id": "eg-cai-market-khanelkhalili",
+    "category": "market",
+    "country": "EG"
+  },
+  {
+    "id": "eg-cai-worship-muhammadali",
+    "category": "worship",
+    "country": "EG"
+  },
+  {
+    "id": "eg-cai-nature-alazharpark",
+    "category": "nature",
+    "country": "EG"
+  },
+  {
+    "id": "eg-lxr-heritage-karnak",
+    "category": "heritage",
+    "country": "EG"
+  },
+  {
+    "id": "eg-lxr-heritage-valleyofthekings",
+    "category": "heritage",
+    "country": "EG"
+  },
+  {
+    "id": "eg-asw-heritage-abusimbel",
+    "category": "heritage",
+    "country": "EG"
+  },
+  {
+    "id": "eg-alx-library-bibliotheca",
+    "category": "library",
+    "country": "EG"
+  },
+  {
+    "id": "tw-tpe-campus-ntu",
+    "category": "campus",
+    "country": "TW"
+  },
+  {
+    "id": "tw-tnn-campus-ncku",
+    "category": "campus",
+    "country": "TW"
+  },
+  {
+    "id": "jp-tyo-campus-utokyo",
+    "category": "campus",
+    "country": "JP"
+  },
+  {
+    "id": "jp-kyt-campus-kyotou",
+    "category": "campus",
+    "country": "JP"
+  },
+  {
+    "id": "kr-sel-campus-yonsei",
+    "category": "campus",
+    "country": "KR"
+  },
+  {
+    "id": "hk-hki-campus-hku",
+    "category": "campus",
+    "country": "HK"
+  },
+  {
+    "id": "au-syd-campus-usyd",
+    "category": "campus",
+    "country": "AU"
+  },
+  {
+    "id": "au-mel-campus-unimelb",
+    "category": "campus",
+    "country": "AU"
   }
 ]

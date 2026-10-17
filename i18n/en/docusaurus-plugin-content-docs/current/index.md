@@ -6,7 +6,7 @@ sidebar_position: 1
 
 # Explore
 
-ExploreStamp currently includes 158 places: 43 in Taiwan, 30 in Japan (including Okinawa), 20 in South Korea, 12 in Hong Kong, 8 in Macao, 20 in Australia, 12 in New Zealand and 13 in Poland, grouped into 20 categories and organized into 28 themed routes. The full list of places and their maps are in the app, where the catalog updates automatically in the background.
+ExploreStamp currently includes 224 places: 45 in Taiwan, 32 in Japan (including Okinawa), 21 in South Korea, 13 in Hong Kong, 8 in Macao, 22 in Australia, 12 in New Zealand, 13 in Poland, 16 in the United Kingdom, 20 in the United States, 12 in Canada and 10 in Egypt, grouped into 20 categories and organized into 42 themed routes. The full list of places and their maps are in the app, where the catalog updates automatically in the background.
 
 ## Themed routes
 
@@ -77,6 +77,45 @@ ExploreStamp currently includes 158 places: 43 in Taiwan, 30 in Japan (including
 | --- | --- | --- | --- |
 | Warsaw, Old and New | Warsaw | 6 | The rebuilt Old Town and Royal Castle, the POLIN museum, a rooftop library garden and a food hall |
 | Kraków and the Salt Mine | Kraków | 7 | The Main Market Square, St. Mary's and Wawel, zapiekanka in Kazimierz, then the Wieliczka Salt Mine |
+
+### United Kingdom
+
+| Route | Region | Places | About |
+| --- | --- | --- | --- |
+| London Museums and Landmarks | London | 7 | The British Museum, the National Gallery, the Tower and Westminster Abbey, then the London Eye and a walk in Kew |
+| London Books, Markets and Stations | London | 6 | The British Library and Daunt Books, Borough Market and Harrods, from Heathrow to St Pancras |
+| A Day in Edinburgh | Edinburgh | 3 | The castle, whisky on the Royal Mile, then up Arthur's Seat for the view |
+
+### United States
+
+| Route | Region | Places | About |
+| --- | --- | --- | --- |
+| New York Classics | New York | 6 | The Statue of Liberty, the Empire State Building, Grand Central and Central Park, then the Met and the natural history museum |
+| New York Books and Markets | New York | 4 | The library lions, Strand, Chelsea Market, and a game at Madison Square Garden |
+| San Francisco Bay | San Francisco | 4 | The Golden Gate Bridge, the Ferry Building, a boat to Alcatraz and a coffee in North Beach |
+| Los Angeles Parks and Museums | Los Angeles | 4 | Griffith Observatory and the Getty Center, then Disneyland and Universal Studios |
+| Seattle | Seattle | 2 | Fish-throwing at Pike Place Market, then up the Space Needle |
+
+### Canada
+
+| Route | Region | Places | About |
+| --- | --- | --- | --- |
+| Toronto and Niagara Falls | Ontario | 6 | The CN Tower, the ROM, St. Lawrence Market and Casa Loma, then Horseshoe Falls |
+| Vancouver | Vancouver | 4 | Stanley Park's totem poles and aquarium, Granville Island Market and the Capilano Suspension Bridge |
+| Québec and Montréal | Québec | 2 | The blue vaults of Notre-Dame in Montréal and the Château Frontenac above Old Québec |
+
+### Egypt
+
+| Route | Region | Places | About |
+| --- | --- | --- | --- |
+| Cairo, Giza and Alexandria | Egypt | 7 | The pyramids and the Grand Egyptian Museum, old Cairo's bazaar and mosque, then the library by the sea in Alexandria |
+| Nile Temples | Nile | 3 | Karnak and the Valley of the Kings at Luxor, then south to Abu Simbel |
+
+### Across countries
+
+| Route | Region | Places | About |
+| --- | --- | --- | --- |
+| Asia-Pacific University Campuses | Asia-Pacific | 8 | From NTU's palm avenue, UTokyo's Red Gate and Kyoto's clock tower to HKU, Yonsei, Sydney and Melbourne |
 
 ## Check-in range
 

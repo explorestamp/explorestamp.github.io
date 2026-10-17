@@ -103,7 +103,7 @@ function HomepageHeader(): ReactNode {
           <StoreButtons />
           <Link to="/explore" className={styles.textLink}>
             <Translate id="homepage.hero.exploreLink">
-              先看看收錄了哪些景點
+              看看有哪些主題路線
             </Translate>
             <ArrowRight size={16} strokeWidth={2} aria-hidden />
           </Link>

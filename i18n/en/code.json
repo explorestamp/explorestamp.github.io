@@ -228,7 +228,7 @@
     "message": "ExploreStamp is a stamp book you carry in your pocket. Walk into a museum, a historic site, an old railway station or a night market, check in on location, and you collect a stamp made for that place — saved to your calendar along with the photos from that day."
   },
   "homepage.hero.exploreLink": {
-    "message": "See which places are included"
+    "message": "See the themed routes"
   },
   "homepage.hero.fact.noLogin": {
     "message": "No sign-in — download and start"
@@ -324,7 +324,7 @@
     "message": "Themed routes, so you know where to go before you leave"
   },
   "homepage.showcase.collections.body1": {
-    "message": "The app currently includes {spots} places in Taiwan, Japan, South Korea, Hong Kong, Macao, Australia, New Zealand and Poland, organized into {collections} themed routes: old railway stations, a walk through Tainan, Kyoto's old capital, Sydney's harbour, Kraków and the salt mine, and more."
+    "message": "The app currently includes {spots} places in Taiwan, Japan, South Korea, Hong Kong, Macao, Australia, New Zealand, Poland, the United Kingdom, the United States, Canada and Egypt, organized into {collections} themed routes: old railway stations, a walk through Tainan, Kyoto's old capital, London's museums and landmarks, New York classics, the Nile temples and more."
   },
   "homepage.showcase.collections.body2": {
     "message": "Each route shows your progress, and one place can belong to several routes. The catalog updates in the background, so you never need to reinstall the app."

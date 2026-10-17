@@ -48,19 +48,24 @@ ExploreStamp works without signing in. Your check-ins and photos are stored on y
 
 For now, moving to a new phone means moving your data yourself, so the app has built-in backup export and import: it packs all your records and photos into one file that you can save to whichever cloud drive you use. Optional accounts and cloud backup are planned for the future.
 
-## Seven kinds of places
+## Kinds of places
 
-Places currently fall into seven categories:
+Places fall into 20 categories. Here are the ones Taiwan has so far, with examples:
 
 | Category | Examples |
 | --- | --- |
-| Museums & Arts | National Palace Museum, Chimei Museum, Pier-2 Art Center |
-| Historic Sites | Chihkan Tower, Fort San Domingo, Lukang Longshan Temple |
-| Libraries | Taipei Public Library Beitou Branch, National Central Library |
-| Railway Stations | Neiwan Station, Jiji Station, Jingtong Station |
-| Factory Tours | Kavalan Whisky Distillery, Jiu Zhen Nan Pastry Museum |
-| Local Food | Tong Ji Anping Tofu Pudding, Fengjia Night Market, Gongzheng Baozi |
-| Parks & Nature | Taipei Botanical Garden, Aowanda National Forest Recreation Area |
+| Museum | National Palace Museum, Chimei Museum, National Museum of Natural Science |
+| Art Museum | Taipei Fine Arts Museum, Pier-2 Art Center |
+| Heritage Site | Chihkan Tower, Fort San Domingo, Anping Fort |
+| Place of Worship | Lukang Longshan Temple |
+| Library | Taipei Public Library Beitou Branch, National Central Library |
+| Railway Station | Neiwan Station, Jiji Station, Jingtong Station |
+| Factory Tour | Kavalan Whisky Distillery, Jiu Zhen Nan Pastry Museum |
+| Night Market | Fengjia Night Market, Liuhe Night Market |
+| Local Food | Tong Ji Anping Tofu Pudding, Gongzheng Baozi |
+| Nature | Taipei Botanical Garden, Aowanda National Forest Recreation Area |
+
+The other categories are zoos and aquariums, theme parks, landmarks and viewpoints, performance and sports venues, bookstores, university campuses, shopping, markets, cafés and airports, which are being added country by country.
 
 See the themed routes under [Explore](/explore).
 

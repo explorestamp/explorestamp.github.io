@@ -20,12 +20,12 @@ ExploreStamp's "A Walk Through Tainan" route picks six of them: two historic sit
 
 | Place | Category | District |
 | --- | --- | --- |
-| Tainan Station | Railway station | East |
-| Chihkan Tower | Historic site | West Central |
-| Anping Fort | Historic site | Anping |
-| Tong Ji Anping Tofu Pudding | Local food | Anping |
+| Tainan Station | Railway Station | East |
+| Chihkan Tower | Heritage Site | West Central |
+| Anping Fort | Heritage Site | Anping |
+| Tong Ji Anping Tofu Pudding | Local Food | Anping |
 | Tainan Public Library | Library | Yongkang |
-| Chimei Museum | Museums & arts | Rende |
+| Chimei Museum | Museum | Rende |
 
 The first four are between the city center and Anping and fit into a single day. The library and the museum lie to the north and south of the city, so they work better on day two.
 
