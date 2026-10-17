@@ -10,6 +10,8 @@ image: https://www.explorestamp.com/img/covers/tw-tainan-walk.jpg
 description: From the Dutch-era Anping Fort and Chihkan Tower to the Showa-era Tainan Station, the new Tainan Public Library and the Chimei Museum, finishing with a bowl of tofu pudding in Anping. The six places on ExploreStamp's "A Walk Through Tainan" route, with a two-day plan.
 ---
 
+![A Walk Through Tainan: Forts, an Old Station and Tofu Pudding in Two Days](/img/covers/tw-tainan-walk.jpg)
+
 Tainan is a city best explored on foot. A fort built by the Dutch four centuries ago, a station from the Japanese colonial era and a library that opened only a few years ago all sit on the same map, with one small food stall after another in between.
 
 ExploreStamp's "A Walk Through Tainan" route picks six of them: two historic sites, a station, a library, a museum and a bowl of tofu pudding. This post covers what's worth seeing at each one and how to fit them into two days.

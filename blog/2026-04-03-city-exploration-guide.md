@@ -11,6 +11,8 @@ image: https://www.explorestamp.com/img/covers/tw-railway-classic-6.jpg
 description: 探索印記是一本隨身的虛擬集章手冊。本文介紹 App 的運作方式：主題路線、定位打卡、集章冊、月曆紀錄與明信片，以及為什麼所有資料只存在你的手機上。
 ---
 
+![認識探索印記：把旅行蓋成一枚印章](/img/covers/tw-railway-classic-6.jpg)
+
 在臺灣旅行，很多人都有蓋紀念章的習慣。車站櫃台旁、博物館出口、老街的店門口，常常放著一顆章和一盒印泥。蓋章之所以有意思，是因為它需要你真的走到那裡。
 
 探索印記（ExploreStamp）把這件事搬到手機上，同時補上紙本集章冊做不到的部分：照片、日期、地圖，以及事先規劃好的路線。
@@ -76,3 +78,5 @@ description: 探索印記是一本隨身的虛擬集章手冊。本文介紹 App
 ---
 
 想收到新景點與新路線的消息，可以[訂閱電子報](https://explorestamp.substack.com/)，或加入 [Facebook 社團](https://facebook.com/groups/explorestamp)。
+
+_封面照片：[Jumi Park](https://unsplash.com/@zoom_in_park) / [Unsplash](https://unsplash.com/photos/yOGnM-lHBIo)_

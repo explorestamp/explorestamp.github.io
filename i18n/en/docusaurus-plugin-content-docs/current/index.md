@@ -4,138 +4,79 @@ title: Explore
 sidebar_position: 1
 ---
 
+import RouteCards from "@site/src/components/RouteCards";
+
 # Explore
 
 ExploreStamp currently includes 257 places: 45 in Taiwan, 32 in Japan (including Okinawa), 21 in South Korea, 13 in Hong Kong, 8 in Macao, 22 in Australia, 12 in New Zealand, 13 in Poland, 16 in the United Kingdom, 20 in the United States, 12 in Canada, 10 in Egypt, 13 in Norway, 10 in Sweden and 10 in Finland, grouped into 20 categories and organized into 47 themed routes. The full list of places and their maps are in the app, where the catalog updates automatically in the background.
 
 ## Themed routes
 
+Route cover photos come from [Unsplash](https://unsplash.com); the photographers are listed on the [Credits](/credits) page.
+
 ### Taiwan
 
-| Route | Region | Places | About |
-| --- | --- | --- | --- |
-| 6 Classic Taiwan Railway Stations | Taiwan | 6 | From Neiwan to Jingtong, six stations that still have wooden platforms and the memory of the old rail lines |
-| Heritage Trail | Taiwan | 6 | From Bopiliao in Taipei to a watchtower in Kinmen, six landmarks spanning the Dutch, Qing and Japanese eras |
-| [A Walk Through Tainan](/blog/tainan-walk-route) | Tainan | 6 | Historic sites, a station, a library and a bowl of tofu pudding |
-| Museum Grand Tour | Taiwan | 6 | Six museums, six ways of looking at the world |
-| Factory Tour Day Trip | Taiwan | 6 | Whisky, chocolate, crayons and pastry |
-| Reading the Island | Taiwan | 6 | Six libraries — the quietest room in six cities |
-| Night Markets & Street Food | Taiwan | 7 | Start with a bowl of noodles and eat your way across Taiwan |
-| Botanical Gardens Worth the Trip | Taiwan | 6 | Botanical gardens and forest parks worth slowing down for |
+<RouteCards country="TW" />
 
 ### Japan
 
-| Route | Region | Places | About |
-| --- | --- | --- | --- |
-| First Time in Tokyo | Tokyo | 6 | From the museum in Ueno to Senso-ji and breakfast at Tsukiji |
-| Kyoto Old Capital Walk | Kyoto | 6 | Kiyomizu-dera, Fushimi Inari, the Arashiyama bamboo and Nishiki Market |
-| A Day in Osaka | Osaka | 5 | Osaka Castle, Kuromon Market, Nakanoshima, then your own Cup Noodles in Ikeda |
-| Hokkaido: Sweets, Beer and Lavender | Hokkaido | 5 | Shiroi Koibito and the beer museum in Sapporo, Otaru's old station, Furano's lavender |
-| Okinawa Main Island Loop | Okinawa | 8 | From Shuri Castle and the markets of Naha north to Cape Manzamo and the Churaumi Aquarium |
-| Japan Market Food Walk | Japan | 4 | Tsukiji, Nishiki, Kuromon and Makishi |
+<RouteCards country="JP" />
 
 ### South Korea
 
-| Route | Region | Places | About |
-| --- | --- | --- | --- |
-| Seoul Palaces and Old Streets | Seoul | 5 | Gyeongbokgung, the hanok lanes of Bukchon, the old Seoul Station, the old City Hall and the National Museum of Korea |
-| Seoul Design, Books and Markets | Seoul | 5 | Dongdaemun Design Plaza, Starfield Library, Gwangjang Market, Cheonggyecheon and Namsan |
-| Busan Harbour Walk | Busan | 6 | Jagalchi Market, Gamcheon Culture Village, Taejongdae, the Haeundae seaside train and Haedong Yonggungsa |
-| Around Jeju Island | Jeju | 4 | Seongsan Ilchulbong, Seopjikoji, the O'sulloc Tea Museum and Dongmun Market |
+<RouteCards country="KR" />
 
 ### Hong Kong
 
-| Route | Region | Places | About |
-| --- | --- | --- | --- |
-| First Time in Hong Kong | Hong Kong | 6 | The two museums in West Kowloon, the Tsim Sha Tsui clock tower, the Peak Tram up to Victoria Peak and Temple Street at night |
-| Hong Kong Old Streets and Temples | Hong Kong | 6 | Man Mo Temple, milk tea on Gage Street, the old Tai Po station and the Big Buddha on Lantau |
+<RouteCards country="HK" />
 
 ### Macao
 
-| Route | Region | Places | About |
-| --- | --- | --- | --- |
-| Macao Heritage Walk | Macao | 8 | From the Ruins of St. Paul's and Senado Square to A-Ma Temple, then the Taipa Houses and an egg tart in Coloane |
+<RouteCards country="MO" />
 
 ### Australia
 
-| Route | Region | Places | About |
-| --- | --- | --- | --- |
-| Sydney Harbour City | Sydney | 7 | From the Opera House and The Rocks to the Royal Botanic Garden, then the QVB and the Sydney Fish Market |
-| Melbourne Laneways and Museums | Melbourne | 6 | Flinders Street Station, the State Library, Queen Victoria Market and the Royal Exhibition Building |
-| Queensland: Brisbane and Cairns | Queensland | 7 | South Bank, koalas and a brewery in Brisbane, then the scenic railway up to Kuranda from Cairns |
+<RouteCards country="AU" />
 
 ### New Zealand
 
-| Route | Region | Places | About |
-| --- | --- | --- | --- |
-| New Zealand North Island | North Island | 7 | Auckland's museum, volcano and fish market, then Hobbiton and the geothermal valley at Rotorua |
-| New Zealand South Island | South Island | 5 | Christchurch's station and gardens, the Skyline and a burger in Queenstown, then the chapel on Lake Tekapo |
+<RouteCards country="NZ" />
 
 ### Poland
 
-| Route | Region | Places | About |
-| --- | --- | --- | --- |
-| Warsaw, Old and New | Warsaw | 6 | The rebuilt Old Town and Royal Castle, the POLIN museum, a rooftop library garden and a food hall |
-| Kraków and the Salt Mine | Kraków | 7 | The Main Market Square, St. Mary's and Wawel, zapiekanka in Kazimierz, then the Wieliczka Salt Mine |
+<RouteCards country="PL" />
 
 ### United Kingdom
 
-| Route | Region | Places | About |
-| --- | --- | --- | --- |
-| London Museums and Landmarks | London | 7 | The British Museum, the National Gallery, the Tower and Westminster Abbey, then the London Eye and a walk in Kew |
-| London Books, Markets and Stations | London | 6 | The British Library and Daunt Books, Borough Market and Harrods, from Heathrow to St Pancras |
-| A Day in Edinburgh | Edinburgh | 3 | The castle, whisky on the Royal Mile, then up Arthur's Seat for the view |
+<RouteCards country="GB" />
 
 ### United States
 
-| Route | Region | Places | About |
-| --- | --- | --- | --- |
-| New York Classics | New York | 6 | The Statue of Liberty, the Empire State Building, Grand Central and Central Park, then the Met and the natural history museum |
-| New York Books and Markets | New York | 4 | The library lions, Strand, Chelsea Market, and a game at Madison Square Garden |
-| San Francisco Bay | San Francisco | 4 | The Golden Gate Bridge, the Ferry Building, a boat to Alcatraz and a coffee in North Beach |
-| Los Angeles Parks and Museums | Los Angeles | 4 | Griffith Observatory and the Getty Center, then Disneyland and Universal Studios |
-| Seattle | Seattle | 2 | Fish-throwing at Pike Place Market, then up the Space Needle |
+<RouteCards country="US" />
 
 ### Canada
 
-| Route | Region | Places | About |
-| --- | --- | --- | --- |
-| Toronto and Niagara Falls | Ontario | 6 | The CN Tower, the ROM, St. Lawrence Market and Casa Loma, then Horseshoe Falls |
-| Vancouver | Vancouver | 4 | Stanley Park's totem poles and aquarium, Granville Island Market and the Capilano Suspension Bridge |
-| Québec and Montréal | Québec | 2 | The blue vaults of Notre-Dame in Montréal and the Château Frontenac above Old Québec |
+<RouteCards country="CA" />
 
 ### Egypt
 
-| Route | Region | Places | About |
-| --- | --- | --- | --- |
-| Cairo, Giza and Alexandria | Egypt | 7 | The pyramids and the Grand Egyptian Museum, old Cairo's bazaar and mosque, then the library by the sea in Alexandria |
-| Nile Temples | Nile | 3 | Karnak and the Valley of the Kings at Luxor, then south to Abu Simbel |
+<RouteCards country="EG" />
 
 ### Norway
 
-| Route | Region | Places | About |
-| --- | --- | --- | --- |
-| Oslo | Oslo | 8 | Walk up the Opera House roof, see Munch and the Vigeland sculptures, then eat at Mathallen |
-| Norwegian Fjords and the Arctic | Norway | 5 | Bergen's Bryggen and fish market, the funicular up Fløyen, the Flåm Railway, then Tromsø above the Arctic Circle |
+<RouteCards country="NO" />
 
 ### Sweden
 
-| Route | Region | Places | About |
-| --- | --- | --- | --- |
-| Stockholm and Gothenburg | Sweden | 10 | Gamla Stan, City Hall, the Vasa and Skansen, a coffee and cinnamon bun, then Liseberg in Gothenburg |
+<RouteCards country="SE" />
 
 ### Finland
 
-| Route | Region | Places | About |
-| --- | --- | --- | --- |
-| Helsinki | Helsinki | 8 | The white cathedral, the Rock Church, Oodi and the Old Market Hall, a ferry to Suomenlinna and coffee in a seaside cabin |
-| Finnish Lapland | Lapland | 2 | Cross the Arctic Circle at Santa Claus Village in Rovaniemi, then learn about the north at Arktikum |
+<RouteCards country="FI" />
 
 ### Across countries
 
-| Route | Region | Places | About |
-| --- | --- | --- | --- |
-| Asia-Pacific University Campuses | Asia-Pacific | 8 | From NTU's palm avenue, UTokyo's Red Gate and Kyoto's clock tower to HKU, Yonsei, Sydney and Melbourne |
+<RouteCards country="multi" />
 
 ## Check-in range
 

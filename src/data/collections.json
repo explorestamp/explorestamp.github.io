@@ -1,0 +1,848 @@
+[
+  {
+    "id": "tw-railway-classic-6",
+    "country": "TW",
+    "name": {
+      "zh": "臺灣經典老車站 6 選",
+      "en": "6 Classic Taiwan Railway Stations"
+    },
+    "regionLabel": {
+      "zh": "全臺",
+      "en": "Taiwan"
+    },
+    "description": {
+      "zh": "從內灣到菁桐，走過六座留著木造月台與鐵道記憶的車站。",
+      "en": "Six stations that still carry the memory of Taiwan's old rail lines."
+    },
+    "spotCount": 6,
+    "coverImageUrl": "https://api.explorestamp.com/covers/tw-railway-classic-6.jpg"
+  },
+  {
+    "id": "tw-heritage-trail",
+    "country": "TW",
+    "name": {
+      "zh": "古蹟尋跡：六座見證統治者更迭的建築",
+      "en": "Heritage Trail: Six Landmarks, Six Eras"
+    },
+    "regionLabel": {
+      "zh": "全臺",
+      "en": "Taiwan"
+    },
+    "description": {
+      "zh": "從艋舺老街到金門城樓，六座古蹟見證了荷蘭人、清朝與日本人先後在此留下的痕跡。",
+      "en": "From an old Taipei neighborhood to a Kinmen watchtower — six landmarks spanning the Dutch, Qing, and Japanese eras."
+    },
+    "spotCount": 6,
+    "coverImageUrl": "https://api.explorestamp.com/covers/tw-heritage-trail.jpg"
+  },
+  {
+    "id": "tw-tainan-walk",
+    "country": "TW",
+    "name": {
+      "zh": "府城散策",
+      "en": "A Walk Through Tainan"
+    },
+    "regionLabel": {
+      "zh": "臺南",
+      "en": "Tainan"
+    },
+    "description": {
+      "zh": "古蹟、車站、圖書館與一碗豆花——臺南是走出來的。",
+      "en": "Forts, a station, a library, and a bowl of tofu pudding — Tainan is best explored on foot."
+    },
+    "spotCount": 6,
+    "coverImageUrl": "https://api.explorestamp.com/covers/tw-tainan-walk.jpg"
+  },
+  {
+    "id": "tw-museum-grand-tour",
+    "country": "TW",
+    "name": {
+      "zh": "北中南博物館巡禮",
+      "en": "Museum Grand Tour"
+    },
+    "regionLabel": {
+      "zh": "全臺",
+      "en": "Taiwan"
+    },
+    "description": {
+      "zh": "六座館，六種看世界的方式。",
+      "en": "Six museums, six ways of looking at the world."
+    },
+    "spotCount": 6,
+    "coverImageUrl": "https://api.explorestamp.com/covers/tw-museum-grand-tour.jpg"
+  },
+  {
+    "id": "tw-factory-day-trip",
+    "country": "TW",
+    "name": {
+      "zh": "觀光工廠一日遊",
+      "en": "Factory Tour Day Trip"
+    },
+    "regionLabel": {
+      "zh": "全臺",
+      "en": "Taiwan"
+    },
+    "description": {
+      "zh": "威士忌、巧克力、蠟筆與漢餅，六種被做出來的味道。",
+      "en": "Whisky, chocolate, crayons and pastry — six things you can watch being made."
+    },
+    "spotCount": 6,
+    "coverImageUrl": "https://api.explorestamp.com/covers/tw-factory-day-trip.jpg"
+  },
+  {
+    "id": "tw-quiet-reading-room",
+    "country": "TW",
+    "name": {
+      "zh": "島嶼閱讀",
+      "en": "Reading the Island"
+    },
+    "regionLabel": {
+      "zh": "全臺",
+      "en": "Taiwan"
+    },
+    "description": {
+      "zh": "六座圖書館，六個城市最安靜的地方。",
+      "en": "Six libraries — the quietest room in six cities."
+    },
+    "spotCount": 6,
+    "coverImageUrl": "https://api.explorestamp.com/covers/tw-quiet-reading-room.jpg"
+  },
+  {
+    "id": "tw-street-food-map",
+    "country": "TW",
+    "name": {
+      "zh": "夜市與小吃地圖",
+      "en": "Night Markets & Street Food"
+    },
+    "regionLabel": {
+      "zh": "全臺",
+      "en": "Taiwan"
+    },
+    "description": {
+      "zh": "從一碗麵線開始，把台灣吃過一遍。",
+      "en": "Start with a bowl of noodles and eat your way across Taiwan."
+    },
+    "spotCount": 7,
+    "coverImageUrl": "https://api.explorestamp.com/covers/tw-street-food-map.jpg"
+  },
+  {
+    "id": "tw-botanical-garden-picks",
+    "country": "TW",
+    "name": {
+      "zh": "必逛植物園清單",
+      "en": "6 Botanical Gardens and Forest Parks Worth the Trip"
+    },
+    "regionLabel": {
+      "zh": "全臺",
+      "en": "Taiwan"
+    },
+    "description": {
+      "zh": "從碧潭邊的二叭子到瑞穗的樟樹林，六座植物園與森林遊樂區，適合放慢腳步、聞著草木呼吸。",
+      "en": "From a quiet garden by Bitan to a camphor forest in Ruisui — six botanical gardens and forest parks worth slowing down for."
+    },
+    "spotCount": 6,
+    "coverImageUrl": "https://api.explorestamp.com/covers/tw-botanical-garden-picks.jpg"
+  },
+  {
+    "id": "jp-tokyo-first-visit",
+    "country": "JP",
+    "name": {
+      "zh": "東京初訪",
+      "en": "First Time in Tokyo"
+    },
+    "regionLabel": {
+      "zh": "東京",
+      "en": "Tokyo"
+    },
+    "description": {
+      "zh": "從上野的博物館到淺草寺，再到築地吃一輪，六個地方認識東京。",
+      "en": "From the museum in Ueno to Senso-ji and breakfast at Tsukiji, six places to start with Tokyo."
+    },
+    "spotCount": 6,
+    "coverImageUrl": "https://api.explorestamp.com/covers/jp-tokyo-first-visit.jpg"
+  },
+  {
+    "id": "jp-kyoto-old-capital",
+    "country": "JP",
+    "name": {
+      "zh": "京都古都散策",
+      "en": "Kyoto Old Capital Walk"
+    },
+    "regionLabel": {
+      "zh": "京都",
+      "en": "Kyoto"
+    },
+    "description": {
+      "zh": "清水寺、千本鳥居、嵐山竹林與錦市場，京都要慢慢走。",
+      "en": "Kiyomizu-dera, the torii of Fushimi Inari, the Arashiyama bamboo and Nishiki Market: Kyoto is best taken slowly."
+    },
+    "spotCount": 6,
+    "coverImageUrl": "https://api.explorestamp.com/covers/jp-kyoto-old-capital.jpg"
+  },
+  {
+    "id": "jp-osaka-day-out",
+    "country": "JP",
+    "name": {
+      "zh": "大阪一日遊",
+      "en": "A Day in Osaka"
+    },
+    "regionLabel": {
+      "zh": "大阪",
+      "en": "Osaka"
+    },
+    "description": {
+      "zh": "大阪城、黑門市場、中之島的美術館和圖書館，再去池田做一杯自己的杯麵。",
+      "en": "Osaka Castle, Kuromon Market, the museum and library on Nakanoshima, then your own Cup Noodles in Ikeda."
+    },
+    "spotCount": 5,
+    "coverImageUrl": "https://api.explorestamp.com/covers/jp-osaka-day-out.jpg"
+  },
+  {
+    "id": "jp-hokkaido-sweets-beer-flowers",
+    "country": "JP",
+    "name": {
+      "zh": "北海道：甜點、啤酒與花田",
+      "en": "Hokkaido: Sweets, Beer and Lavender"
+    },
+    "regionLabel": {
+      "zh": "北海道",
+      "en": "Hokkaido"
+    },
+    "description": {
+      "zh": "札幌的白色戀人與啤酒博物館、小樽的老車站，夏天再到富良野看薰衣草。",
+      "en": "Shiroi Koibito and the beer museum in Sapporo, Otaru's old station, and Furano's lavender in summer."
+    },
+    "spotCount": 5,
+    "coverImageUrl": "https://api.explorestamp.com/covers/jp-hokkaido-sweets-beer-flowers.jpg"
+  },
+  {
+    "id": "jp-okinawa-island-loop",
+    "country": "JP",
+    "name": {
+      "zh": "沖繩本島巡禮",
+      "en": "Okinawa Main Island Loop"
+    },
+    "regionLabel": {
+      "zh": "沖繩",
+      "en": "Okinawa"
+    },
+    "description": {
+      "zh": "從那霸的首里城和市場，一路往北到萬座毛與美麗海水族館。",
+      "en": "From Shuri Castle and the markets of Naha north to Cape Manzamo and the Churaumi Aquarium."
+    },
+    "spotCount": 8,
+    "coverImageUrl": "https://api.explorestamp.com/covers/jp-okinawa-island-loop.jpg"
+  },
+  {
+    "id": "jp-market-food-walk",
+    "country": "JP",
+    "name": {
+      "zh": "日本市場吃一輪",
+      "en": "Japan Market Food Walk"
+    },
+    "regionLabel": {
+      "zh": "日本",
+      "en": "Japan"
+    },
+    "description": {
+      "zh": "築地、錦市場、黑門市場到牧志公設市場，四座市場邊走邊吃。",
+      "en": "Tsukiji, Nishiki, Kuromon and Makishi: four markets to eat your way through."
+    },
+    "spotCount": 4,
+    "coverImageUrl": "https://api.explorestamp.com/covers/jp-market-food-walk.jpg"
+  },
+  {
+    "id": "mo-heritage-walk",
+    "country": "MO",
+    "name": {
+      "zh": "澳門世遺散步",
+      "en": "Macao Heritage Walk"
+    },
+    "regionLabel": {
+      "zh": "澳門",
+      "en": "Macao"
+    },
+    "description": {
+      "zh": "從大三巴、議事亭前地到媽閣廟，再去氹仔看葡式老房子，最後在路環吃一顆蛋塔。",
+      "en": "From the Ruins of St. Paul's and Senado Square to A-Ma Temple, then the Taipa Houses and an egg tart in Coloane."
+    },
+    "spotCount": 8,
+    "coverImageUrl": "https://api.explorestamp.com/covers/mo-heritage-walk.jpg"
+  },
+  {
+    "id": "kr-seoul-palaces-old-streets",
+    "country": "KR",
+    "name": {
+      "zh": "首爾宮殿與老街",
+      "en": "Seoul Palaces and Old Streets"
+    },
+    "regionLabel": {
+      "zh": "首爾",
+      "en": "Seoul"
+    },
+    "description": {
+      "zh": "從景福宮走進北村韓屋村，再到舊首爾站、舊市廳和國立中央博物館，看首爾的過去。",
+      "en": "From Gyeongbokgung into the hanok lanes of Bukchon, then the old Seoul Station, the old City Hall and the National Museum of Korea."
+    },
+    "spotCount": 5,
+    "coverImageUrl": "https://api.explorestamp.com/covers/kr-seoul-palaces-old-streets.jpg"
+  },
+  {
+    "id": "kr-seoul-design-markets",
+    "country": "KR",
+    "name": {
+      "zh": "首爾設計、書牆與市場",
+      "en": "Seoul Design, Books and Markets"
+    },
+    "regionLabel": {
+      "zh": "首爾",
+      "en": "Seoul"
+    },
+    "description": {
+      "zh": "東大門設計廣場、星空圖書館、廣藏市場，沿清溪川散步，最後上南山看夜景。",
+      "en": "Dongdaemun Design Plaza, Starfield Library and Gwangjang Market, a walk along Cheonggyecheon, then up Namsan for the view."
+    },
+    "spotCount": 5,
+    "coverImageUrl": "https://api.explorestamp.com/covers/kr-seoul-design-markets.jpg"
+  },
+  {
+    "id": "kr-busan-harbor",
+    "country": "KR",
+    "name": {
+      "zh": "釜山海港散策",
+      "en": "Busan Harbour Walk"
+    },
+    "regionLabel": {
+      "zh": "釜山",
+      "en": "Busan"
+    },
+    "description": {
+      "zh": "從札嘎其市場和甘川洞文化村，到太宗台的斷崖、海雲台的海岸列車和海邊的龍宮寺。",
+      "en": "From Jagalchi Market and Gamcheon Culture Village to the cliffs of Taejongdae, the Haeundae seaside train and the temple by the sea."
+    },
+    "spotCount": 6,
+    "coverImageUrl": "https://api.explorestamp.com/covers/kr-busan-harbor.jpg"
+  },
+  {
+    "id": "kr-jeju-island",
+    "country": "KR",
+    "name": {
+      "zh": "濟州島一圈",
+      "en": "Around Jeju Island"
+    },
+    "regionLabel": {
+      "zh": "濟州",
+      "en": "Jeju"
+    },
+    "description": {
+      "zh": "城山日出峰看日出、涉地可支走海岬，再到茶園喝綠茶、東門市場吃宵夜。",
+      "en": "Sunrise at Seongsan Ilchulbong, the Seopjikoji headland, green tea among the fields and a late snack at Dongmun Market."
+    },
+    "spotCount": 4,
+    "coverImageUrl": "https://api.explorestamp.com/covers/kr-jeju-island.jpg"
+  },
+  {
+    "id": "hk-first-visit",
+    "country": "HK",
+    "name": {
+      "zh": "香港初訪",
+      "en": "First Time in Hong Kong"
+    },
+    "regionLabel": {
+      "zh": "香港",
+      "en": "Hong Kong"
+    },
+    "description": {
+      "zh": "西九的兩座博物館、尖沙咀鐘樓，搭山頂纜車上太平山，晚上逛廟街。",
+      "en": "The two museums in West Kowloon, the Tsim Sha Tsui clock tower, the Peak Tram up to Victoria Peak and Temple Street at night."
+    },
+    "spotCount": 6,
+    "coverImageUrl": "https://api.explorestamp.com/covers/hk-first-visit.jpg"
+  },
+  {
+    "id": "hk-old-streets-temples",
+    "country": "HK",
+    "name": {
+      "zh": "香港老街與廟宇",
+      "en": "Hong Kong Old Streets and Temples"
+    },
+    "regionLabel": {
+      "zh": "香港",
+      "en": "Hong Kong"
+    },
+    "description": {
+      "zh": "上環文武廟、結志街的絲襪奶茶、大埔舊車站，再到大嶼山看天壇大佛。",
+      "en": "Man Mo Temple, milk tea on Gage Street, the old Tai Po station and the Big Buddha on Lantau."
+    },
+    "spotCount": 6,
+    "coverImageUrl": "https://api.explorestamp.com/covers/hk-old-streets-temples.jpg"
+  },
+  {
+    "id": "au-sydney-harbour-city",
+    "country": "AU",
+    "name": {
+      "zh": "雪梨港灣城市",
+      "en": "Sydney Harbour City"
+    },
+    "regionLabel": {
+      "zh": "雪梨",
+      "en": "Sydney"
+    },
+    "description": {
+      "zh": "從歌劇院、岩石區到皇家植物園，再去維多利亞女王大廈和新的雪梨魚市場。",
+      "en": "From the Opera House and The Rocks to the Royal Botanic Garden, then the QVB and the new Sydney Fish Market."
+    },
+    "spotCount": 7,
+    "coverImageUrl": "https://api.explorestamp.com/covers/au-sydney-harbour-city.jpg"
+  },
+  {
+    "id": "au-melbourne-laneways-museums",
+    "country": "AU",
+    "name": {
+      "zh": "墨爾本巷弄與博物館",
+      "en": "Melbourne Laneways and Museums"
+    },
+    "regionLabel": {
+      "zh": "墨爾本",
+      "en": "Melbourne"
+    },
+    "description": {
+      "zh": "福林德斯街車站出發，走到州立圖書館、維多利亞女王市場和皇家展覽館。",
+      "en": "Start at Flinders Street Station, then the State Library, Queen Victoria Market and the Royal Exhibition Building."
+    },
+    "spotCount": 6,
+    "coverImageUrl": "https://api.explorestamp.com/covers/au-melbourne-laneways-museums.jpg"
+  },
+  {
+    "id": "au-queensland-brisbane-cairns",
+    "country": "AU",
+    "name": {
+      "zh": "昆士蘭：布里斯本與凱恩斯",
+      "en": "Queensland: Brisbane and Cairns"
+    },
+    "regionLabel": {
+      "zh": "昆士蘭",
+      "en": "Queensland"
+    },
+    "description": {
+      "zh": "布里斯本的南岸公園、無尾熊和啤酒廠，再到凱恩斯搭觀光火車上庫蘭達。",
+      "en": "South Bank, koalas and a brewery in Brisbane, then the scenic railway up to Kuranda from Cairns."
+    },
+    "spotCount": 7,
+    "coverImageUrl": "https://api.explorestamp.com/covers/au-queensland-brisbane-cairns.jpg"
+  },
+  {
+    "id": "nz-north-island",
+    "country": "NZ",
+    "name": {
+      "zh": "紐西蘭北島",
+      "en": "New Zealand North Island"
+    },
+    "regionLabel": {
+      "zh": "北島",
+      "en": "North Island"
+    },
+    "description": {
+      "zh": "奧克蘭的博物館、火山丘和魚市場，再去哈比村和羅托魯瓦的地熱谷。",
+      "en": "Auckland's museum, volcano and fish market, then Hobbiton and the geothermal valley at Rotorua."
+    },
+    "spotCount": 7,
+    "coverImageUrl": "https://api.explorestamp.com/covers/nz-north-island.jpg"
+  },
+  {
+    "id": "nz-south-island",
+    "country": "NZ",
+    "name": {
+      "zh": "紐西蘭南島",
+      "en": "New Zealand South Island"
+    },
+    "regionLabel": {
+      "zh": "南島",
+      "en": "South Island"
+    },
+    "description": {
+      "zh": "基督城火車站和植物園，皇后鎮的天空纜車與漢堡，最後到蒂卡波湖畔的小教堂。",
+      "en": "Christchurch's station and gardens, the Skyline and a burger in Queenstown, then the chapel on Lake Tekapo."
+    },
+    "spotCount": 5,
+    "coverImageUrl": "https://api.explorestamp.com/covers/nz-south-island.jpg"
+  },
+  {
+    "id": "pl-warsaw-old-and-new",
+    "country": "PL",
+    "name": {
+      "zh": "華沙新舊城",
+      "en": "Warsaw, Old and New"
+    },
+    "regionLabel": {
+      "zh": "華沙",
+      "en": "Warsaw"
+    },
+    "description": {
+      "zh": "戰後重建的老城與皇家城堡、猶太人歷史博物館，再到屋頂花園和美食市集。",
+      "en": "The rebuilt Old Town and Royal Castle, the POLIN museum, a rooftop library garden and a food hall."
+    },
+    "spotCount": 6,
+    "coverImageUrl": "https://api.explorestamp.com/covers/pl-warsaw-old-and-new.jpg"
+  },
+  {
+    "id": "pl-krakow-royal-city",
+    "country": "PL",
+    "name": {
+      "zh": "克拉科夫與鹽礦",
+      "en": "Kraków and the Salt Mine"
+    },
+    "regionLabel": {
+      "zh": "克拉科夫",
+      "en": "Kraków"
+    },
+    "description": {
+      "zh": "中央廣場、聖母聖殿和瓦維爾城堡，猶太區吃烤法棍披薩，再到維利奇卡鹽礦。",
+      "en": "The Main Market Square, St. Mary's and Wawel, zapiekanka in Kazimierz, then the Wieliczka Salt Mine."
+    },
+    "spotCount": 7,
+    "coverImageUrl": "https://api.explorestamp.com/covers/pl-krakow-royal-city.jpg"
+  },
+  {
+    "id": "gb-london-museums-landmarks",
+    "country": "GB",
+    "name": {
+      "zh": "倫敦博物館與地標",
+      "en": "London Museums and Landmarks"
+    },
+    "regionLabel": {
+      "zh": "倫敦",
+      "en": "London"
+    },
+    "description": {
+      "zh": "大英博物館、國家美術館、倫敦塔和西敏寺，再搭倫敦眼、到邱園散步。",
+      "en": "The British Museum, the National Gallery, the Tower and Westminster Abbey, then the London Eye and a walk in Kew."
+    },
+    "spotCount": 7,
+    "coverImageUrl": "https://api.explorestamp.com/covers/gb-london-museums-landmarks.jpg"
+  },
+  {
+    "id": "gb-london-books-markets",
+    "country": "GB",
+    "name": {
+      "zh": "倫敦書店、市集與車站",
+      "en": "London Books, Markets and Stations"
+    },
+    "regionLabel": {
+      "zh": "倫敦",
+      "en": "London"
+    },
+    "description": {
+      "zh": "大英圖書館和 Daunt Books、波羅市場和哈洛德百貨，從希斯洛機場到聖潘克拉斯車站。",
+      "en": "The British Library and Daunt Books, Borough Market and Harrods, from Heathrow to St Pancras."
+    },
+    "spotCount": 6,
+    "coverImageUrl": "https://api.explorestamp.com/covers/gb-london-books-markets.jpg"
+  },
+  {
+    "id": "gb-edinburgh",
+    "country": "GB",
+    "name": {
+      "zh": "愛丁堡一日",
+      "en": "A Day in Edinburgh"
+    },
+    "regionLabel": {
+      "zh": "愛丁堡",
+      "en": "Edinburgh"
+    },
+    "description": {
+      "zh": "城堡、皇家哩大道上的威士忌，最後爬上亞瑟王座看整座城。",
+      "en": "The castle, whisky on the Royal Mile, then up Arthur's Seat for the view."
+    },
+    "spotCount": 3,
+    "coverImageUrl": "https://api.explorestamp.com/covers/gb-edinburgh.jpg"
+  },
+  {
+    "id": "us-nyc-classics",
+    "country": "US",
+    "name": {
+      "zh": "紐約經典",
+      "en": "New York Classics"
+    },
+    "regionLabel": {
+      "zh": "紐約",
+      "en": "New York"
+    },
+    "description": {
+      "zh": "自由女神、帝國大廈、中央車站和中央公園，再看大都會與自然史博物館。",
+      "en": "The Statue of Liberty, the Empire State Building, Grand Central and Central Park, then the Met and the natural history museum."
+    },
+    "spotCount": 6,
+    "coverImageUrl": "https://api.explorestamp.com/covers/us-nyc-classics.jpg"
+  },
+  {
+    "id": "us-nyc-books-markets",
+    "country": "US",
+    "name": {
+      "zh": "紐約書店與市集",
+      "en": "New York Books and Markets"
+    },
+    "regionLabel": {
+      "zh": "紐約",
+      "en": "New York"
+    },
+    "description": {
+      "zh": "公共圖書館的石獅、Strand 書店、雀兒喜市場，晚上到麥迪遜廣場花園看球。",
+      "en": "The library lions, Strand, Chelsea Market, and a game at Madison Square Garden."
+    },
+    "spotCount": 4,
+    "coverImageUrl": "https://api.explorestamp.com/covers/us-nyc-books-markets.jpg"
+  },
+  {
+    "id": "us-sf-bay",
+    "country": "US",
+    "name": {
+      "zh": "舊金山灣區",
+      "en": "San Francisco Bay"
+    },
+    "regionLabel": {
+      "zh": "舊金山",
+      "en": "San Francisco"
+    },
+    "description": {
+      "zh": "金門大橋、渡輪大廈市集、搭船上惡魔島，最後在北灘喝一杯咖啡。",
+      "en": "The Golden Gate Bridge, the Ferry Building, a boat to Alcatraz and a coffee in North Beach."
+    },
+    "spotCount": 4,
+    "coverImageUrl": "https://api.explorestamp.com/covers/us-sf-bay.jpg"
+  },
+  {
+    "id": "us-la-parks-museums",
+    "country": "US",
+    "name": {
+      "zh": "洛杉磯樂園與博物館",
+      "en": "Los Angeles Parks and Museums"
+    },
+    "regionLabel": {
+      "zh": "洛杉磯",
+      "en": "Los Angeles"
+    },
+    "description": {
+      "zh": "格里菲斯天文台和蓋蒂中心，再去迪士尼樂園和環球影城。",
+      "en": "Griffith Observatory and the Getty Center, then Disneyland and Universal Studios."
+    },
+    "spotCount": 4,
+    "coverImageUrl": "https://api.explorestamp.com/covers/us-la-parks-museums.jpg"
+  },
+  {
+    "id": "us-seattle",
+    "country": "US",
+    "name": {
+      "zh": "西雅圖",
+      "en": "Seattle"
+    },
+    "regionLabel": {
+      "zh": "西雅圖",
+      "en": "Seattle"
+    },
+    "description": {
+      "zh": "派克市場看魚販拋魚，再上太空針塔。",
+      "en": "Fish-throwing at Pike Place Market, then up the Space Needle."
+    },
+    "spotCount": 2,
+    "coverImageUrl": "https://api.explorestamp.com/covers/us-seattle.jpg"
+  },
+  {
+    "id": "ca-toronto-niagara",
+    "country": "CA",
+    "name": {
+      "zh": "多倫多與尼加拉瀑布",
+      "en": "Toronto and Niagara Falls"
+    },
+    "regionLabel": {
+      "zh": "安大略",
+      "en": "Ontario"
+    },
+    "description": {
+      "zh": "CN 塔、皇家安大略博物館、聖勞倫斯市場和卡薩羅馬城堡，再去看馬蹄瀑布。",
+      "en": "The CN Tower, the ROM, St. Lawrence Market and Casa Loma, then Horseshoe Falls."
+    },
+    "spotCount": 6,
+    "coverImageUrl": "https://api.explorestamp.com/covers/ca-toronto-niagara.jpg"
+  },
+  {
+    "id": "ca-vancouver",
+    "country": "CA",
+    "name": {
+      "zh": "溫哥華",
+      "en": "Vancouver"
+    },
+    "regionLabel": {
+      "zh": "溫哥華",
+      "en": "Vancouver"
+    },
+    "description": {
+      "zh": "史丹利公園的圖騰柱與水族館、格蘭維爾島市場，再走一趟卡皮拉諾吊橋。",
+      "en": "Stanley Park's totem poles and aquarium, Granville Island Market and the Capilano Suspension Bridge."
+    },
+    "spotCount": 4,
+    "coverImageUrl": "https://api.explorestamp.com/covers/ca-vancouver.jpg"
+  },
+  {
+    "id": "ca-quebec-montreal",
+    "country": "CA",
+    "name": {
+      "zh": "魁北克與蒙特婁",
+      "en": "Québec and Montréal"
+    },
+    "regionLabel": {
+      "zh": "魁北克",
+      "en": "Québec"
+    },
+    "description": {
+      "zh": "蒙特婁聖母大教堂的藍色拱頂，和魁北克舊城上的芳堤娜城堡。",
+      "en": "The blue vaults of Notre-Dame in Montréal and the Château Frontenac above Old Québec."
+    },
+    "spotCount": 2,
+    "coverImageUrl": "https://api.explorestamp.com/covers/ca-quebec-montreal.jpg"
+  },
+  {
+    "id": "eg-cairo-giza-alexandria",
+    "country": "EG",
+    "name": {
+      "zh": "開羅、吉薩與亞歷山大港",
+      "en": "Cairo, Giza and Alexandria"
+    },
+    "regionLabel": {
+      "zh": "埃及",
+      "en": "Egypt"
+    },
+    "description": {
+      "zh": "金字塔與大埃及博物館、開羅老城的市集和清真寺，再到海邊的亞歷山大圖書館。",
+      "en": "The pyramids and the Grand Egyptian Museum, old Cairo's bazaar and mosque, then the library by the sea in Alexandria."
+    },
+    "spotCount": 7,
+    "coverImageUrl": "https://api.explorestamp.com/covers/eg-cairo-giza-alexandria.jpg"
+  },
+  {
+    "id": "eg-nile-temples",
+    "country": "EG",
+    "name": {
+      "zh": "尼羅河神殿",
+      "en": "Nile Temples"
+    },
+    "regionLabel": {
+      "zh": "尼羅河",
+      "en": "Nile"
+    },
+    "description": {
+      "zh": "路克索的卡納克神廟和帝王谷，一路往南到阿布辛貝神殿。",
+      "en": "Karnak and the Valley of the Kings at Luxor, then south to Abu Simbel."
+    },
+    "spotCount": 3,
+    "coverImageUrl": "https://api.explorestamp.com/covers/eg-nile-temples.jpg"
+  },
+  {
+    "id": "campus-asia-pacific",
+    "country": "multi",
+    "name": {
+      "zh": "亞太大學校園巡禮",
+      "en": "Asia-Pacific University Campuses"
+    },
+    "regionLabel": {
+      "zh": "亞太",
+      "en": "Asia-Pacific"
+    },
+    "description": {
+      "zh": "從臺大椰林大道、東大赤門、京大時計台，到港大、延世、雪梨和墨爾本大學。",
+      "en": "From NTU's palm avenue, UTokyo's Red Gate and Kyoto's clock tower to HKU, Yonsei, Sydney and Melbourne."
+    },
+    "spotCount": 8,
+    "coverImageUrl": "https://api.explorestamp.com/covers/campus-asia-pacific.jpg"
+  },
+  {
+    "id": "no-oslo",
+    "country": "NO",
+    "name": {
+      "zh": "奧斯陸",
+      "en": "Oslo"
+    },
+    "regionLabel": {
+      "zh": "奧斯陸",
+      "en": "Oslo"
+    },
+    "description": {
+      "zh": "走上歌劇院的屋頂、看孟克的《吶喊》和維格蘭雕塑公園，再到美食市集吃一輪。",
+      "en": "Walk up the Opera House roof, see Munch and the Vigeland sculptures, then eat at Mathallen."
+    },
+    "spotCount": 8,
+    "coverImageUrl": "https://api.explorestamp.com/covers/no-oslo.jpg"
+  },
+  {
+    "id": "no-fjords-arctic",
+    "country": "NO",
+    "name": {
+      "zh": "挪威峽灣與北極",
+      "en": "Norwegian Fjords and the Arctic"
+    },
+    "regionLabel": {
+      "zh": "挪威",
+      "en": "Norway"
+    },
+    "description": {
+      "zh": "卑爾根的布呂根木屋和魚市場、搭纜車上弗洛伊恩山，再搭弗洛姆鐵道，最後到北極圈的特羅姆瑟。",
+      "en": "Bergen's Bryggen and fish market, the funicular up Fløyen, the Flåm Railway, then Tromsø above the Arctic Circle."
+    },
+    "spotCount": 5,
+    "coverImageUrl": "https://api.explorestamp.com/covers/no-fjords-arctic.jpg"
+  },
+  {
+    "id": "se-stockholm-gothenburg",
+    "country": "SE",
+    "name": {
+      "zh": "斯德哥爾摩與哥德堡",
+      "en": "Stockholm and Gothenburg"
+    },
+    "regionLabel": {
+      "zh": "瑞典",
+      "en": "Sweden"
+    },
+    "description": {
+      "zh": "舊城大廣場、市政廳、瓦薩沉船和斯堪森，喝杯咖啡配肉桂捲，再到哥德堡的遊樂園。",
+      "en": "Gamla Stan, City Hall, the Vasa and Skansen, a coffee and cinnamon bun, then Liseberg in Gothenburg."
+    },
+    "spotCount": 10,
+    "coverImageUrl": "https://api.explorestamp.com/covers/se-stockholm-gothenburg.jpg"
+  },
+  {
+    "id": "fi-helsinki",
+    "country": "FI",
+    "name": {
+      "zh": "赫爾辛基",
+      "en": "Helsinki"
+    },
+    "regionLabel": {
+      "zh": "赫爾辛基",
+      "en": "Helsinki"
+    },
+    "description": {
+      "zh": "白色大教堂、岩石教堂、Oodi 圖書館和老市場大廳，搭渡輪到芬蘭堡，最後在海邊小木屋喝咖啡。",
+      "en": "The white cathedral, the Rock Church, Oodi and the Old Market Hall, a ferry to Suomenlinna and coffee in a seaside cabin."
+    },
+    "spotCount": 8,
+    "coverImageUrl": "https://api.explorestamp.com/covers/fi-helsinki.jpg"
+  },
+  {
+    "id": "fi-lapland",
+    "country": "FI",
+    "name": {
+      "zh": "芬蘭拉普蘭",
+      "en": "Finnish Lapland"
+    },
+    "regionLabel": {
+      "zh": "拉普蘭",
+      "en": "Lapland"
+    },
+    "description": {
+      "zh": "在羅瓦涅米跨過北極圈、拜訪聖誕老人村，再到北極博物館認識極地。",
+      "en": "Cross the Arctic Circle at Santa Claus Village in Rovaniemi, then learn about the north at Arktikum."
+    },
+    "spotCount": 2,
+    "coverImageUrl": "https://api.explorestamp.com/covers/fi-lapland.jpg"
+  }
+]

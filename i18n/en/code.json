@@ -810,5 +810,13 @@
   },
   "homepage.more.spotDetail.desc": {
     "message": "Each place has a map, address, check-in range and description, with links to its website, reference photos and directions in Google Maps."
+  },
+  "routeCards.spotCount": {
+    "message": "{count} places",
+    "description": "Spot count on a route card"
+  },
+  "routeCards.readArticle": {
+    "message": "Read about this route →",
+    "description": "Link from a route card to its article"
   }
 }
