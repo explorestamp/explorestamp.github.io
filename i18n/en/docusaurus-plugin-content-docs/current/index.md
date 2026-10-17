@@ -6,7 +6,7 @@ sidebar_position: 1
 
 # Explore
 
-ExploreStamp currently includes 224 places: 45 in Taiwan, 32 in Japan (including Okinawa), 21 in South Korea, 13 in Hong Kong, 8 in Macao, 22 in Australia, 12 in New Zealand, 13 in Poland, 16 in the United Kingdom, 20 in the United States, 12 in Canada and 10 in Egypt, grouped into 20 categories and organized into 42 themed routes. The full list of places and their maps are in the app, where the catalog updates automatically in the background.
+ExploreStamp currently includes 257 places: 45 in Taiwan, 32 in Japan (including Okinawa), 21 in South Korea, 13 in Hong Kong, 8 in Macao, 22 in Australia, 12 in New Zealand, 13 in Poland, 16 in the United Kingdom, 20 in the United States, 12 in Canada, 10 in Egypt, 13 in Norway, 10 in Sweden and 10 in Finland, grouped into 20 categories and organized into 47 themed routes. The full list of places and their maps are in the app, where the catalog updates automatically in the background.
 
 ## Themed routes
 
@@ -110,6 +110,26 @@ ExploreStamp currently includes 224 places: 45 in Taiwan, 32 in Japan (including
 | --- | --- | --- | --- |
 | Cairo, Giza and Alexandria | Egypt | 7 | The pyramids and the Grand Egyptian Museum, old Cairo's bazaar and mosque, then the library by the sea in Alexandria |
 | Nile Temples | Nile | 3 | Karnak and the Valley of the Kings at Luxor, then south to Abu Simbel |
+
+### Norway
+
+| Route | Region | Places | About |
+| --- | --- | --- | --- |
+| Oslo | Oslo | 8 | Walk up the Opera House roof, see Munch and the Vigeland sculptures, then eat at Mathallen |
+| Norwegian Fjords and the Arctic | Norway | 5 | Bergen's Bryggen and fish market, the funicular up Fløyen, the Flåm Railway, then Tromsø above the Arctic Circle |
+
+### Sweden
+
+| Route | Region | Places | About |
+| --- | --- | --- | --- |
+| Stockholm and Gothenburg | Sweden | 10 | Gamla Stan, City Hall, the Vasa and Skansen, a coffee and cinnamon bun, then Liseberg in Gothenburg |
+
+### Finland
+
+| Route | Region | Places | About |
+| --- | --- | --- | --- |
+| Helsinki | Helsinki | 8 | The white cathedral, the Rock Church, Oodi and the Old Market Hall, a ferry to Suomenlinna and coffee in a seaside cabin |
+| Finnish Lapland | Lapland | 2 | Cross the Arctic Circle at Santa Claus Village in Rovaniemi, then learn about the north at Arktikum |
 
 ### Across countries
 

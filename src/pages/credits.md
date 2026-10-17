@@ -49,3 +49,8 @@ App 裡任務集的封面照片來自 [Unsplash](https://unsplash.com/)，依 [U
 - 開羅、吉薩與亞歷山大港：[Osama Elsayed](https://unsplash.com/@osamaabosaadia) 拍攝的[照片](https://unsplash.com/photos/vqRMXgVtGXM)
 - 尼羅河神殿：[Mo Gabrail](https://unsplash.com/@gabrail) 拍攝的[照片](https://unsplash.com/photos/JXQoqzSzpAw)
 - 亞太大學校園巡禮：[Camille Chen](https://unsplash.com/@camille1030) 拍攝的[照片](https://unsplash.com/photos/Bfrlsegt8hc)
+- 奧斯陸：[Vidar Nordli-Mathisen](https://unsplash.com/@vidarnm) 拍攝的[照片](https://unsplash.com/photos/q-fr4QsIyic)
+- 挪威峽灣與北極：[Agent J](https://unsplash.com/@agentj) 拍攝的[照片](https://unsplash.com/photos/w4KkOsqV4tI)
+- 斯德哥爾摩與哥德堡：[Alicja Gancarz](https://unsplash.com/@alisonstardust) 拍攝的[照片](https://unsplash.com/photos/12vdz0gGROI)
+- 赫爾辛基：[Tapio Haaja](https://unsplash.com/@tap5a) 拍攝的[照片](https://unsplash.com/photos/bpDJvls-h-0)
+- 芬蘭拉普蘭：[Dylan Shaw](https://unsplash.com/@dylanshaw) 拍攝的[照片](https://unsplash.com/photos/Eidt4pzNYFU)

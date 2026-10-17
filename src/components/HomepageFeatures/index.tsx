@@ -159,7 +159,7 @@ const SHOWCASES: Showcase[] = [
         {
           id: "homepage.showcase.collections.body1",
           message:
-            "目前收錄臺灣、日本、韓國、香港、澳門、澳洲、紐西蘭、波蘭、英國、美國、加拿大與埃及共 {spots} 個景點，整理成 {collections} 條主題路線：老車站、府城散策、京都古都散策、倫敦博物館與地標、紐約經典、尼羅河神殿等。",
+            "目前收錄臺灣、日本、韓國、香港、澳門、澳洲、紐西蘭、波蘭、英國、美國、加拿大、埃及、挪威、瑞典與芬蘭共 {spots} 個景點，整理成 {collections} 條主題路線：老車站、府城散策、京都古都散策、倫敦博物館與地標、紐約經典、尼羅河神殿等。",
         },
         {
           spots: CATALOG_STATS.spots,

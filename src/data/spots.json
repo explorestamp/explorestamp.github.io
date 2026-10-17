@@ -1118,5 +1118,170 @@
     "id": "au-mel-campus-unimelb",
     "category": "campus",
     "country": "AU"
+  },
+  {
+    "id": "no-osl-venue-opera",
+    "category": "venue",
+    "country": "NO"
+  },
+  {
+    "id": "no-osl-artmuseum-vigeland",
+    "category": "artMuseum",
+    "country": "NO"
+  },
+  {
+    "id": "no-osl-artmuseum-munch",
+    "category": "artMuseum",
+    "country": "NO"
+  },
+  {
+    "id": "no-osl-heritage-akershus",
+    "category": "heritage",
+    "country": "NO"
+  },
+  {
+    "id": "no-osl-railway-central",
+    "category": "railway",
+    "country": "NO"
+  },
+  {
+    "id": "no-osl-library-deichman",
+    "category": "library",
+    "country": "NO"
+  },
+  {
+    "id": "no-osl-museum-fram",
+    "category": "museum",
+    "country": "NO"
+  },
+  {
+    "id": "no-osl-market-mathallen",
+    "category": "market",
+    "country": "NO"
+  },
+  {
+    "id": "no-bgo-heritage-bryggen",
+    "category": "heritage",
+    "country": "NO"
+  },
+  {
+    "id": "no-bgo-landmark-floyen",
+    "category": "landmark",
+    "country": "NO"
+  },
+  {
+    "id": "no-bgo-market-fishmarket",
+    "category": "market",
+    "country": "NO"
+  },
+  {
+    "id": "no-flm-railway-flam",
+    "category": "railway",
+    "country": "NO"
+  },
+  {
+    "id": "no-tos-worship-arcticcathedral",
+    "category": "worship",
+    "country": "NO"
+  },
+  {
+    "id": "se-sto-museum-vasa",
+    "category": "museum",
+    "country": "SE"
+  },
+  {
+    "id": "se-sto-artmuseum-moderna",
+    "category": "artMuseum",
+    "country": "SE"
+  },
+  {
+    "id": "se-sto-heritage-stortorget",
+    "category": "heritage",
+    "country": "SE"
+  },
+  {
+    "id": "se-sto-landmark-cityhall",
+    "category": "landmark",
+    "country": "SE"
+  },
+  {
+    "id": "se-sto-market-ostermalm",
+    "category": "market",
+    "country": "SE"
+  },
+  {
+    "id": "se-sto-railway-tcentralen",
+    "category": "railway",
+    "country": "SE"
+  },
+  {
+    "id": "se-sto-museum-skansen",
+    "category": "museum",
+    "country": "SE"
+  },
+  {
+    "id": "se-sto-heritage-drottningholm",
+    "category": "heritage",
+    "country": "SE"
+  },
+  {
+    "id": "se-sto-cafe-vetekatten",
+    "category": "cafe",
+    "country": "SE"
+  },
+  {
+    "id": "se-got-themepark-liseberg",
+    "category": "themePark",
+    "country": "SE"
+  },
+  {
+    "id": "fi-hel-worship-cathedral",
+    "category": "worship",
+    "country": "FI"
+  },
+  {
+    "id": "fi-hel-worship-temppeliaukio",
+    "category": "worship",
+    "country": "FI"
+  },
+  {
+    "id": "fi-hel-heritage-suomenlinna",
+    "category": "heritage",
+    "country": "FI"
+  },
+  {
+    "id": "fi-hel-library-oodi",
+    "category": "library",
+    "country": "FI"
+  },
+  {
+    "id": "fi-hel-artmuseum-ateneum",
+    "category": "artMuseum",
+    "country": "FI"
+  },
+  {
+    "id": "fi-hel-railway-central",
+    "category": "railway",
+    "country": "FI"
+  },
+  {
+    "id": "fi-hel-market-oldmarkethall",
+    "category": "market",
+    "country": "FI"
+  },
+  {
+    "id": "fi-hel-cafe-regatta",
+    "category": "cafe",
+    "country": "FI"
+  },
+  {
+    "id": "fi-rvn-themepark-santaclausvillage",
+    "category": "themePark",
+    "country": "FI"
+  },
+  {
+    "id": "fi-rvn-museum-arktikum",
+    "category": "museum",
+    "country": "FI"
   }
 ]

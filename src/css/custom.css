@@ -163,3 +163,10 @@ h4 {
   font-size: clamp(1.75rem, 3.5vw, 2.25rem);
   line-height: 1.35;
 }
+
+/* 語言選單只顯示文字（繁體中文 / English），不要前面的地球圖示。
+   圖示的 class 是 CSS module 產生的雜湊名稱（iconLanguage_xxxx），
+   只能用前綴比對。 */
+.navbar [class*="iconLanguage"] {
+  display: none;
+}

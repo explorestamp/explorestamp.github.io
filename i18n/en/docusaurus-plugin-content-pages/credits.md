@@ -49,3 +49,8 @@ The cover photos of the collections in the app come from [Unsplash](https://unsp
 - Cairo, Giza and Alexandria: [photo](https://unsplash.com/photos/vqRMXgVtGXM) by [Osama Elsayed](https://unsplash.com/@osamaabosaadia)
 - Nile Temples: [photo](https://unsplash.com/photos/JXQoqzSzpAw) by [Mo Gabrail](https://unsplash.com/@gabrail)
 - Asia-Pacific University Campuses: [photo](https://unsplash.com/photos/Bfrlsegt8hc) by [Camille Chen](https://unsplash.com/@camille1030)
+- Oslo: [photo](https://unsplash.com/photos/q-fr4QsIyic) by [Vidar Nordli-Mathisen](https://unsplash.com/@vidarnm)
+- Norwegian Fjords and the Arctic: [photo](https://unsplash.com/photos/w4KkOsqV4tI) by [Agent J](https://unsplash.com/@agentj)
+- Stockholm and Gothenburg: [photo](https://unsplash.com/photos/12vdz0gGROI) by [Alicja Gancarz](https://unsplash.com/@alisonstardust)
+- Helsinki: [photo](https://unsplash.com/photos/bpDJvls-h-0) by [Tapio Haaja](https://unsplash.com/@tap5a)
+- Finnish Lapland: [photo](https://unsplash.com/photos/Eidt4pzNYFU) by [Dylan Shaw](https://unsplash.com/@dylanshaw)
