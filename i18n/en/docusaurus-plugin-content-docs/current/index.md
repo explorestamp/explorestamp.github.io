@@ -129,7 +129,7 @@ When you tap "Check in" at a place, the app checks how far you are from it. The 
 | Museums, Art Museums, Performance & Sports Venues, Landmarks & Viewpoints, Heritage Sites, Places of Worship, Shopping | 300 m |
 | Markets, Night Markets, Railway Stations | 250 m |
 | Libraries | 200 m |
-| Bookstores, Local Food, Cafés | 150 m |
+| Bookstores, Food, Cafés | 150 m |
 
 ## Suggest a place
 

@@ -266,7 +266,7 @@ export const CATEGORIES: Category[] = [
     key: "food",
     label: translate({
       id: "product.category.food.label",
-      message: "美食小吃",
+      message: "美食",
     }),
     color: "#B7343C",
     icon: Soup,

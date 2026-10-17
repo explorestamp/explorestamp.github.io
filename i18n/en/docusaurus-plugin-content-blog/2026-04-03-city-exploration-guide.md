@@ -62,7 +62,7 @@ Places fall into 20 categories. Here are the ones Taiwan has so far, with exampl
 | Railway Station | Neiwan Station, Jiji Station, Jingtong Station |
 | Factory Tour | Kavalan Whisky Distillery, Jiu Zhen Nan Pastry Museum |
 | Night Market | Fengjia Night Market, Liuhe Night Market |
-| Local Food | Tong Ji Anping Tofu Pudding, Gongzheng Baozi |
+| Food | Tong Ji Anping Tofu Pudding, Gongzheng Baozi |
 | Nature | Taipei Botanical Garden, Aowanda National Forest Recreation Area |
 
 The other categories are zoos and aquariums, theme parks, landmarks and viewpoints, performance and sports venues, bookstores, university campuses, shopping, markets, cafés and airports, which are being added country by country.

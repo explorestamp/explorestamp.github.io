@@ -23,7 +23,7 @@ ExploreStamp's "A Walk Through Tainan" route picks six of them: two historic sit
 | Tainan Station | Railway Station | East |
 | Chihkan Tower | Heritage Site | West Central |
 | Anping Fort | Heritage Site | Anping |
-| Tong Ji Anping Tofu Pudding | Local Food | Anping |
+| Tong Ji Anping Tofu Pudding | Food | Anping |
 | Tainan Public Library | Library | Yongkang |
 | Chimei Museum | Museum | Rende |
 
