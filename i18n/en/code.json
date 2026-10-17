@@ -246,7 +246,7 @@
     "message": "Pick a route"
   },
   "homepage.steps.pick.desc": {
-    "message": "Choose one of {collections} themed collections, such as old railway stations, a walk through Tainan or night-market food — or just search for a place by name."
+    "message": "Choose a country or region, then pick one of {collections} themed collections, such as old railway stations, a walk through Tainan or Kyoto's old capital. You can also search for places or collections directly."
   },
   "homepage.steps.stamp.title": {
     "message": "Stamp it on site"
@@ -348,7 +348,7 @@
     "message": "A photo plus a stamp makes a postcard"
   },
   "homepage.showcase.postcard.body1": {
-    "message": "After checking in, pick a photo from that day and the app combines it with the stamp, the place name and the date into a portrait postcard you can send through your phone's share sheet."
+    "message": "Pick a photo from that day and combine it with the stamp, the place name and the date into a portrait postcard, then send it to friends or post it through the system share sheet. No time at the place? Make one later from the spot's visit list or the calendar, and share it again whenever you like."
   },
   "homepage.showcase.postcard.body2": {
     "message": "No photo? No problem — the app switches to a stamp-only layout."
@@ -357,7 +357,7 @@
     "message": "Map"
   },
   "homepage.more.map.desc": {
-    "message": "See every place on a map, with visited and unvisited places clearly marked and a filter by category."
+    "message": "See every place on the map with visited and unvisited ones told apart; filter by category, switch countries and jump back to where you are."
   },
   "homepage.more.calendar.title": {
     "message": "Calendar"
@@ -798,5 +798,17 @@
   "theme.tags.tagsPageTitle": {
     "message": "Tags",
     "description": "The title of the tag list page"
+  },
+  "homepage.more.countries.title": {
+    "message": "Many countries"
+  },
+  "homepage.more.countries.desc": {
+    "message": "{countries} countries and regions, {categories} kinds of places. Switch country and Explore, the stamp book and the map follow."
+  },
+  "homepage.more.spotDetail.title": {
+    "message": "Spot details"
+  },
+  "homepage.more.spotDetail.desc": {
+    "message": "Each place has a map, address, check-in range and description, with links to its website, reference photos and directions in Google Maps."
   }
 }

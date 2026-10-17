@@ -5,12 +5,14 @@ import Translate, { translate } from "@docusaurus/Translate";
 import {
   ArchiveRestore,
   Bell,
+  Globe,
   CalendarDays,
   CircleCheck,
   HardDrive,
   Languages,
   Map as MapIcon,
   MapPin,
+  MapPinned,
   UserX,
   WifiOff,
 } from "lucide-react";
@@ -210,7 +212,7 @@ const SHOWCASES: Showcase[] = [
       translate({
         id: "homepage.showcase.postcard.body1",
         message:
-          "打卡後可以選一張當天的照片，與印章、景點名稱和日期合成一張直式明信片，透過系統分享面板傳給朋友或貼到社群。",
+          "選一張當天的照片，與印章、景點名稱和日期合成一張直式明信片，透過系統分享面板傳給朋友或貼到社群。打卡當下沒空也沒關係，之後從景點的造訪紀錄或月曆隨時做、隨時再分享。",
       }),
       translate({
         id: "homepage.showcase.postcard.body2",
@@ -223,6 +225,33 @@ const SHOWCASES: Showcase[] = [
 
 const MORE_FEATURES = [
   {
+    icon: Globe,
+    title: translate({
+      id: "homepage.more.countries.title",
+      message: "多國景點",
+    }),
+    desc: translate(
+      {
+        id: "homepage.more.countries.desc",
+        message:
+          "收錄 {countries} 個國家或地區、{categories} 類景點。切換國家後，探索、集章冊與地圖都跟著換。",
+      },
+      { countries: 15, categories: CATALOG_STATS.categories },
+    ),
+  },
+  {
+    icon: MapPinned,
+    title: translate({
+      id: "homepage.more.spotDetail.title",
+      message: "景點詳情",
+    }),
+    desc: translate({
+      id: "homepage.more.spotDetail.desc",
+      message:
+        "每個景點都有地圖、地址、打卡範圍與簡介，可以開官方網站、看參考圖片，或在 Google 地圖開啟導航。",
+    }),
+  },
+  {
     icon: MapIcon,
     title: translate({
       id: "homepage.more.map.title",
@@ -230,7 +259,7 @@ const MORE_FEATURES = [
     }),
     desc: translate({
       id: "homepage.more.map.desc",
-      message: "在地圖上看所有景點，已打卡與未打卡一眼分開，可依分類篩選。",
+      message: "在地圖上看所有景點，已打卡與未打卡一眼分開；可依分類篩選、切換國家，一鍵回到目前位置。",
     }),
   },
   {
@@ -274,7 +303,7 @@ const MORE_FEATURES = [
     }),
     desc: translate({
       id: "homepage.more.offline.desc",
-      message: "景點資料隨 App 一起安裝，打卡、印章冊與月曆都不需要網路。",
+      message: "景點資料隨 App 一起安裝，打卡、集章冊與月曆都不需要網路。",
     }),
   },
   {
@@ -400,7 +429,7 @@ export default function HomepageFeatures(): ReactNode {
             </Heading>
             <p className={styles.sectionLead}>
               <Translate id="homepage.categories.lead">
-                分類決定印章的外框與顏色：古蹟是六角形、鐵道是車票形、圖書館是書冊形。收集多了，翻印章冊就能看出自己偏好哪一類地方。
+                分類決定印章的外框與顏色：古蹟是六角形、鐵道是車票形、圖書館是書冊形。收集多了，翻集章冊就能看出自己偏好哪一類地方。
               </Translate>
             </p>
           </div>

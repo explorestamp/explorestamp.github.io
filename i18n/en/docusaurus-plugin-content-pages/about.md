@@ -12,17 +12,19 @@ In Taiwan, many railway stations, museums and tourist spots keep a commemorative
 
 ## What the app does
 
-**Themed collections**: places are grouped into routes by theme, such as "6 Classic Taiwan Railway Stations", "A Walk Through Tainan" and "Night Markets & Street Food". Each route shows your progress.
+**Countries and themed collections**: places fall into 20 categories and are grouped into routes by theme, such as "6 Classic Taiwan Railway Stations", "Kyoto Old Capital Walk" and "London Museums and Landmarks". Switch country or region and Explore, the stamp book and the map follow; each route shows your progress, and you can search places or collections directly.
 
-**Location check-in**: tap "Check in" at a place, and the app confirms you're within its check-in range. Once you are, the stamp goes into your stamp book. The range depends on the type of place, usually between 150 and 500 meters.
+**Location check-in**: tap "Check in" at a place, and the app confirms you're within its check-in range and shows how far away you are. Once you are in range, the stamp goes into your stamp book. The range depends on the type of place, usually between 150 and 500 meters, and 1 km for airports.
 
 **Stamp book**: every place has its own stamp. The frame shape shows the category, and the stamp carries the place's name and the date of your first visit. Places you haven't been to yet appear as dashed outlines.
 
 **Calendar**: every visit is saved to your calendar, with a photo from that day as the cover. Each check-in can include up to 6 photos and a short note.
 
-**Postcards**: combine a photo from the day with the stamp, the place name and the date into a postcard, and send it through your phone's share sheet.
+**Postcards**: combine a photo from the day with the stamp, the place name and the date into a postcard, and send it through your phone's share sheet. Make one right after checking in, or later from a visit list or the calendar.
 
-**Map, reminders and backup**: see every place and your check-in status on a map; set daily or weekend reminders that suggest a place; export your records and photos to a backup file and import it on a new phone.
+**Spot details**: each place has a map, address, check-in range and description, with links to its website, reference photos and directions in Google Maps.
+
+**Map, reminders and backup**: see every place and your check-in status on a map, filter by category, switch countries and jump back to where you are; set daily or weekend reminders that suggest a place; export your records and photos to a backup file and import it on a new phone.
 
 ## What's included
 

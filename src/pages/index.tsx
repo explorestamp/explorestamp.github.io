@@ -168,7 +168,7 @@ function HowItWorks(): ReactNode {
         {
           id: "homepage.steps.pick.desc",
           message:
-            "從 {collections} 個主題任務集挑一條，例如老車站、府城散策或夜市小吃；也可以直接搜尋景點名稱。",
+            "先選國家或地區，再從 {collections} 個主題任務集挑一條，例如老車站、府城散策或京都古都散策；也可以直接搜尋景點或任務集。",
         },
         { collections: CATALOG_STATS.collections },
       ),
@@ -182,7 +182,7 @@ function HowItWorks(): ReactNode {
       desc: translate({
         id: "homepage.steps.stamp.desc",
         message:
-          "抵達景點後按下「蓋章打卡」。App 以 GPS 確認你在景點範圍內，通過後印章就會收進印章冊。",
+          "抵達景點後按下「蓋章打卡」。App 以 GPS 確認你在景點範圍內，通過後印章就會收進集章冊。",
       }),
     },
     {
