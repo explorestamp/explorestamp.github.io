@@ -26,7 +26,7 @@ image: https://www.explorestamp.com/img/logo.png
 
 ## 收錄範圍
 
-目前收錄臺灣 43 個景點，分為七類：藝文場館、古蹟遺址、圖書館、鐵道車站、觀光工廠、特色美食、自然園區。景點目錄會在 App 背景自動更新，不需要重新安裝。
+目前收錄臺灣 43 個、日本 30 個景點（含沖繩），分為七類：藝文場館、古蹟遺址、圖書館、鐵道車站、觀光工廠、特色美食、自然園區。景點目錄會在 App 背景自動更新，不需要重新安裝。
 
 完整清單請見[收錄景點](/explore)。
 
@@ -39,3 +39,22 @@ image: https://www.explorestamp.com/img/logo.png
 景點建議、資料更正或合作洽詢，歡迎來信至[聯絡信箱](mailto:explorestamp@gmail.com)。
 
 也可以加入 [Facebook 社團](https://facebook.com/groups/explorestamp)，或追蹤 [Instagram](https://www.instagram.com/explorestamp)。
+
+## 感謝
+
+App 裡任務集的封面照片來自 [Unsplash](https://unsplash.com/)，依 [Unsplash 授權](https://unsplash.com/license)使用。謝謝這些攝影師：
+
+- 臺灣經典老車站 6 選：[Jumi Park](https://unsplash.com/@zoom_in_park) 拍攝的[照片](https://unsplash.com/photos/yOGnM-lHBIo)
+- 古蹟尋跡：六座見證統治者更迭的建築：[Poh Soo Donald Soh](https://unsplash.com/@donaldart) 拍攝的[照片](https://unsplash.com/photos/k-0dpx_h70k)
+- 府城散策：[Eagan Hsu](https://unsplash.com/@eaganhsu) 拍攝的[照片](https://unsplash.com/photos/a0AIBFxVrb4)
+- 北中南博物館巡禮：[Ricky LK](https://unsplash.com/@rickyrynselo) 拍攝的[照片](https://unsplash.com/photos/rCQCm8rvtgo)
+- 觀光工廠一日遊：[Dominik Scythe](https://unsplash.com/@drscythe) 拍攝的[照片](https://unsplash.com/photos/3cIvvzjE6Lk)
+- 島嶼閱讀：[Camille San Vicente](https://unsplash.com/@camillesanvicente) 拍攝的[照片](https://unsplash.com/photos/COWudta0H-w)
+- 夜市與小吃地圖：[Vernon Raineil Cenzon](https://unsplash.com/@thevernon) 拍攝的[照片](https://unsplash.com/photos/6rEPAbrXNaY)
+- 必逛植物園清單：[Eldines Hoo](https://unsplash.com/@eldines) 拍攝的[照片](https://unsplash.com/photos/7trKqt0tT-I)
+- 東京初訪：[Tsuyoshi Kozu](https://unsplash.com/@tsuyoshikozu) 拍攝的[照片](https://unsplash.com/photos/Qhm8ZFKRsN8)
+- 京都古都散策：[David Emrich](https://unsplash.com/@davidemrich) 拍攝的[照片](https://unsplash.com/photos/EJvGBYjrwEA)
+- 大阪一日遊：[fumiko nishida](https://unsplash.com/@pontanishida) 拍攝的[照片](https://unsplash.com/photos/BZ9aSxEJXcc)
+- 北海道：甜點、啤酒與花田：[Cindy Bissig](https://unsplash.com/@cindybissig) 拍攝的[照片](https://unsplash.com/photos/KzAiQAFcfIc)
+- 沖繩本島巡禮：[Monineath Horn](https://unsplash.com/@neathhorn) 拍攝的[照片](https://unsplash.com/photos/II5G3-Jb9AY)
+- 日本市場吃一輪：[EMANUELE Ricciardi](https://unsplash.com/@manuricc2_kl) 拍攝的[照片](https://unsplash.com/photos/iGHMrA4iLCg)

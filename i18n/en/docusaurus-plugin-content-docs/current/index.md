@@ -8,9 +8,11 @@ import SpotList from '@site/src/components/SpotList';
 
 # Places
 
-ExploreStamp currently includes 43 places in Taiwan, grouped into seven categories and organized into 8 themed routes. Below is the full list. The catalog in the app updates automatically in the background.
+ExploreStamp currently includes 43 places in Taiwan and 30 in Japan (including Okinawa), grouped into seven categories and organized into 14 themed routes. Below is the full list. The catalog in the app updates automatically in the background.
 
 ## Themed routes
+
+### Taiwan
 
 | Route | Region | Places | About |
 | --- | --- | --- | --- |
@@ -23,37 +25,80 @@ ExploreStamp currently includes 43 places in Taiwan, grouped into seven categori
 | Night Markets & Street Food | Taiwan | 7 | Start with a bowl of noodles and eat your way across Taiwan |
 | Botanical Gardens Worth the Trip | Taiwan | 6 | Botanical gardens and forest parks worth slowing down for |
 
-## Categories
+### Japan
+
+| Route | Region | Places | About |
+| --- | --- | --- | --- |
+| First Time in Tokyo | Tokyo | 6 | From the museum in Ueno to Senso-ji and breakfast at Tsukiji |
+| Kyoto Old Capital Walk | Kyoto | 6 | Kiyomizu-dera, Fushimi Inari, the Arashiyama bamboo and Nishiki Market |
+| A Day in Osaka | Osaka | 5 | Osaka Castle, Kuromon Market, Nakanoshima, then your own Cup Noodles in Ikeda |
+| Hokkaido: Sweets, Beer and Lavender | Hokkaido | 5 | Shiroi Koibito and the beer museum in Sapporo, Otaru's old station, Furano's lavender |
+| Okinawa Main Island Loop | Okinawa | 8 | From Shuri Castle and the markets of Naha north to Cape Manzamo and the Churaumi Aquarium |
+| Japan Market Food Walk | Japan | 4 | Tsukiji, Nishiki, Kuromon and Makishi |
+
+## Places in Taiwan
 
 Open a place to see where it is on the map.
 
 ### Museums & Arts
 
-<SpotList category="artsVenue" />
+<SpotList category="artsVenue" country="TW" />
 
 ### Historic Sites
 
-<SpotList category="heritage" />
+<SpotList category="heritage" country="TW" />
 
 ### Libraries
 
-<SpotList category="library" />
+<SpotList category="library" country="TW" />
 
 ### Railway Stations
 
-<SpotList category="railway" />
+<SpotList category="railway" country="TW" />
 
 ### Factory Tours
 
-<SpotList category="factory" />
+<SpotList category="factory" country="TW" />
 
 ### Local Food
 
-<SpotList category="food" />
+<SpotList category="food" country="TW" />
 
 ### Parks & Nature
 
-<SpotList category="nature" />
+<SpotList category="nature" country="TW" />
+
+## Places in Japan
+
+Open a place to see where it is on the map.
+
+### Museums & Arts
+
+<SpotList category="artsVenue" country="JP" />
+
+### Historic Sites
+
+<SpotList category="heritage" country="JP" />
+
+### Libraries
+
+<SpotList category="library" country="JP" />
+
+### Railway Stations
+
+<SpotList category="railway" country="JP" />
+
+### Factory Tours
+
+<SpotList category="factory" country="JP" />
+
+### Local Food
+
+<SpotList category="food" country="JP" />
+
+### Parks & Nature
+
+<SpotList category="nature" country="JP" />
 
 ## Check-in range
 

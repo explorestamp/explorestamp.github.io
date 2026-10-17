@@ -11,6 +11,7 @@ import styles from "./styles.module.css";
 type Spot = {
   id: string;
   category: string;
+  country: string;
   name: { zh: string | null; en: string | null };
   city: { zh: string | null; en: string | null };
   lat: number;
@@ -22,7 +23,7 @@ function pick(text: Spot["name"], isEn: boolean): string {
 }
 
 function SpotRow({ spot, isEn }: { spot: Spot; isEn: boolean }): ReactNode {
-  // 只有展開過才掛上 iframe：整頁有 43 個景點，一進來就各載一份 Google
+  // 只有展開過才掛上 iframe：整頁有幾十個景點，一進來就各載一份 Google
   // 地圖太重，也會讓沒點開的人一樣向 Google 發出請求。
   const [opened, setOpened] = useState(false);
   const name = pick(spot.name, isEn);
@@ -61,14 +62,19 @@ function SpotRow({ spot, isEn }: { spot: Spot; isEn: boolean }): ReactNode {
 
 export default function SpotList({
   category,
+  country,
 }: {
   category: CategoryKey;
+  /** ISO 3166-1 alpha-2，例如 `TW`、`JP`。 */
+  country: string;
 }): ReactNode {
   const {
     i18n: { currentLocale },
   } = useDocusaurusContext();
   const isEn = currentLocale === "en";
-  const list = (spots as Spot[]).filter((s) => s.category === category);
+  const list = (spots as Spot[]).filter(
+    (s) => s.category === category && s.country === country,
+  );
 
   return (
     <div className={styles.list}>

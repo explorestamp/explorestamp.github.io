@@ -9,6 +9,7 @@ import {
   TrainFront,
   Trees,
 } from "lucide-react";
+import spots from "@site/src/data/spots.json";
 
 /**
  * 官網上所有產品事實的單一來源。
@@ -293,8 +294,10 @@ export const COLLECTIONS: Collection[] = [
   },
 ];
 
+// COLLECTIONS 只列首頁展示用的幾條任務集，不是全部。總數跟著
+// explorestamp-data-api 的 data/collections.json，目錄更新時一起改。
 export const CATALOG_STATS = {
-  spots: 43,
+  spots: spots.length,
   categories: CATEGORIES.length,
-  collections: COLLECTIONS.length,
+  collections: 14,
 };

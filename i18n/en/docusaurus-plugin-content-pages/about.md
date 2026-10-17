@@ -26,7 +26,7 @@ In Taiwan, many railway stations, museums and tourist spots keep a commemorative
 
 ## What's included
 
-The app currently includes 43 places in Taiwan in seven categories: museums and arts, historic sites, libraries, railway stations, factory tours, local food, and parks and nature. The catalog updates automatically in the background, with no need to reinstall.
+The app currently includes 43 places in Taiwan and 30 in Japan (including Okinawa), in seven categories: museums and arts, historic sites, libraries, railway stations, factory tours, local food, and parks and nature. The catalog updates automatically in the background, with no need to reinstall.
 
 See the full list under [Places](/explore).
 
@@ -39,3 +39,22 @@ ExploreStamp works without signing in. Your location is read once, only when you
 For place suggestions, data corrections or partnership inquiries, please [email us](mailto:explorestamp@gmail.com).
 
 You can also join the [Facebook group](https://facebook.com/groups/explorestamp) or follow us on [Instagram](https://www.instagram.com/explorestamp).
+
+## Thanks
+
+The cover photos of the collections in the app come from [Unsplash](https://unsplash.com/) and are used under the [Unsplash License](https://unsplash.com/license). Thank you to these photographers:
+
+- 6 Classic Taiwan Railway Stations: [photo](https://unsplash.com/photos/yOGnM-lHBIo) by [Jumi Park](https://unsplash.com/@zoom_in_park)
+- Heritage Trail: Six Landmarks, Six Eras: [photo](https://unsplash.com/photos/k-0dpx_h70k) by [Poh Soo Donald Soh](https://unsplash.com/@donaldart)
+- A Walk Through Tainan: [photo](https://unsplash.com/photos/a0AIBFxVrb4) by [Eagan Hsu](https://unsplash.com/@eaganhsu)
+- Museum Grand Tour: [photo](https://unsplash.com/photos/rCQCm8rvtgo) by [Ricky LK](https://unsplash.com/@rickyrynselo)
+- Factory Tour Day Trip: [photo](https://unsplash.com/photos/3cIvvzjE6Lk) by [Dominik Scythe](https://unsplash.com/@drscythe)
+- Reading the Island: [photo](https://unsplash.com/photos/COWudta0H-w) by [Camille San Vicente](https://unsplash.com/@camillesanvicente)
+- Night Markets & Street Food: [photo](https://unsplash.com/photos/6rEPAbrXNaY) by [Vernon Raineil Cenzon](https://unsplash.com/@thevernon)
+- 6 Botanical Gardens and Forest Parks Worth the Trip: [photo](https://unsplash.com/photos/7trKqt0tT-I) by [Eldines Hoo](https://unsplash.com/@eldines)
+- First Time in Tokyo: [photo](https://unsplash.com/photos/Qhm8ZFKRsN8) by [Tsuyoshi Kozu](https://unsplash.com/@tsuyoshikozu)
+- Kyoto Old Capital Walk: [photo](https://unsplash.com/photos/EJvGBYjrwEA) by [David Emrich](https://unsplash.com/@davidemrich)
+- A Day in Osaka: [photo](https://unsplash.com/photos/BZ9aSxEJXcc) by [fumiko nishida](https://unsplash.com/@pontanishida)
+- Hokkaido: Sweets, Beer and Lavender: [photo](https://unsplash.com/photos/KzAiQAFcfIc) by [Cindy Bissig](https://unsplash.com/@cindybissig)
+- Okinawa Main Island Loop: [photo](https://unsplash.com/photos/II5G3-Jb9AY) by [Monineath Horn](https://unsplash.com/@neathhorn)
+- Japan Market Food Walk: [photo](https://unsplash.com/photos/iGHMrA4iLCg) by [EMANUELE Ricciardi](https://unsplash.com/@manuricc2_kl)
