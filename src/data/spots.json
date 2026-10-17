@@ -1093,5 +1093,125 @@
     },
     "lat": 26.2192,
     "lng": 127.7256
+  },
+  {
+    "id": "mo-mac-heritage-ruinsofstpaul",
+    "category": "heritage",
+    "country": "MO",
+    "name": {
+      "zh": "大三巴牌坊",
+      "en": "Ruins of St. Paul's"
+    },
+    "city": {
+      "zh": "澳門半島",
+      "en": "Macao Peninsula"
+    },
+    "lat": 22.1975,
+    "lng": 113.5409
+  },
+  {
+    "id": "mo-mac-heritage-senadosquare",
+    "category": "heritage",
+    "country": "MO",
+    "name": {
+      "zh": "議事亭前地",
+      "en": "Senado Square"
+    },
+    "city": {
+      "zh": "澳門半島",
+      "en": "Macao Peninsula"
+    },
+    "lat": 22.1936,
+    "lng": 113.5398
+  },
+  {
+    "id": "mo-mac-heritage-amatemple",
+    "category": "heritage",
+    "country": "MO",
+    "name": {
+      "zh": "媽閣廟",
+      "en": "A-Ma Temple"
+    },
+    "city": {
+      "zh": "澳門半島",
+      "en": "Macao Peninsula"
+    },
+    "lat": 22.1861,
+    "lng": 113.5313
+  },
+  {
+    "id": "mo-mac-heritage-guiafortress",
+    "category": "heritage",
+    "country": "MO",
+    "name": {
+      "zh": "東望洋炮台",
+      "en": "Guia Fortress, Chapel and Lighthouse"
+    },
+    "city": {
+      "zh": "澳門半島",
+      "en": "Macao Peninsula"
+    },
+    "lat": 22.1966,
+    "lng": 113.5497
+  },
+  {
+    "id": "mo-mac-artsvenue-macaomuseum",
+    "category": "artsVenue",
+    "country": "MO",
+    "name": {
+      "zh": "澳門博物館",
+      "en": "Macao Museum"
+    },
+    "city": {
+      "zh": "澳門半島",
+      "en": "Macao Peninsula"
+    },
+    "lat": 22.1972,
+    "lng": 113.5422
+  },
+  {
+    "id": "mo-mac-library-sirrobertho",
+    "category": "library",
+    "country": "MO",
+    "name": {
+      "zh": "何東圖書館",
+      "en": "Sir Robert Ho Tung Library"
+    },
+    "city": {
+      "zh": "澳門半島",
+      "en": "Macao Peninsula"
+    },
+    "lat": 22.1925,
+    "lng": 113.5377
+  },
+  {
+    "id": "mo-tpa-heritage-taipahouses",
+    "category": "heritage",
+    "country": "MO",
+    "name": {
+      "zh": "龍環葡韻",
+      "en": "Taipa Houses"
+    },
+    "city": {
+      "zh": "澳門氹仔",
+      "en": "Taipa, Macao"
+    },
+    "lat": 22.154,
+    "lng": 113.5598
+  },
+  {
+    "id": "mo-tpa-food-lordstows",
+    "category": "food",
+    "country": "MO",
+    "name": {
+      "zh": "安德魯餅店（原店）",
+      "en": "Lord Stow's Bakery (Original Shop)"
+    },
+    "city": {
+      "zh": "澳門路環",
+      "en": "Coloane, Macao"
+    },
+    "lat": 22.1182,
+    "lng": 113.5513
   }
 ]

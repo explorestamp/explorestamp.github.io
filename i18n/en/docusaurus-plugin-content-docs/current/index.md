@@ -8,7 +8,7 @@ import SpotList from '@site/src/components/SpotList';
 
 # Places
 
-ExploreStamp currently includes 43 places in Taiwan and 30 in Japan (including Okinawa), grouped into seven categories and organized into 14 themed routes. Below is the full list. The catalog in the app updates automatically in the background.
+ExploreStamp currently includes 43 places in Taiwan, 30 in Japan (including Okinawa) and 8 in Macao, grouped into seven categories and organized into 15 themed routes. Below is the full list. The catalog in the app updates automatically in the background.
 
 ## Themed routes
 
@@ -35,6 +35,12 @@ ExploreStamp currently includes 43 places in Taiwan and 30 in Japan (including O
 | Hokkaido: Sweets, Beer and Lavender | Hokkaido | 5 | Shiroi Koibito and the beer museum in Sapporo, Otaru's old station, Furano's lavender |
 | Okinawa Main Island Loop | Okinawa | 8 | From Shuri Castle and the markets of Naha north to Cape Manzamo and the Churaumi Aquarium |
 | Japan Market Food Walk | Japan | 4 | Tsukiji, Nishiki, Kuromon and Makishi |
+
+### Macao
+
+| Route | Region | Places | About |
+| --- | --- | --- | --- |
+| Macao Heritage Walk | Macao | 8 | From the Ruins of St. Paul's and Senado Square to A-Ma Temple, then the Taipa Houses and an egg tart in Coloane |
 
 ## Places in Taiwan
 
@@ -99,6 +105,26 @@ Open a place to see where it is on the map.
 ### Parks & Nature
 
 <SpotList category="nature" country="JP" />
+
+## Places in Macao
+
+Open a place to see where it is on the map.
+
+### Museums & Arts
+
+<SpotList category="artsVenue" country="MO" />
+
+### Historic Sites
+
+<SpotList category="heritage" country="MO" />
+
+### Libraries
+
+<SpotList category="library" country="MO" />
+
+### Local Food
+
+<SpotList category="food" country="MO" />
 
 ## Check-in range
 

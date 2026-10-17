@@ -26,7 +26,7 @@ In Taiwan, many railway stations, museums and tourist spots keep a commemorative
 
 ## What's included
 
-The app currently includes 43 places in Taiwan and 30 in Japan (including Okinawa), in seven categories: museums and arts, historic sites, libraries, railway stations, factory tours, local food, and parks and nature. The catalog updates automatically in the background, with no need to reinstall.
+The app currently includes 43 places in Taiwan, 30 in Japan (including Okinawa) and 8 in Macao, in seven categories: museums and arts, historic sites, libraries, railway stations, factory tours, local food, and parks and nature. The catalog updates automatically in the background, with no need to reinstall.
 
 See the full list under [Places](/explore).
 
@@ -58,3 +58,4 @@ The cover photos of the collections in the app come from [Unsplash](https://unsp
 - Hokkaido: Sweets, Beer and Lavender: [photo](https://unsplash.com/photos/KzAiQAFcfIc) by [Cindy Bissig](https://unsplash.com/@cindybissig)
 - Okinawa Main Island Loop: [photo](https://unsplash.com/photos/II5G3-Jb9AY) by [Monineath Horn](https://unsplash.com/@neathhorn)
 - Japan Market Food Walk: [photo](https://unsplash.com/photos/iGHMrA4iLCg) by [EMANUELE Ricciardi](https://unsplash.com/@manuricc2_kl)
+- Macao Heritage Walk: [photo](https://unsplash.com/photos/qR9JKwEt2dI) by [Stephan HK](https://unsplash.com/@chromatograph)

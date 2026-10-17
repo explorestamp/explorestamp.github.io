@@ -8,7 +8,7 @@ import SpotList from '@site/src/components/SpotList';
 
 # 收錄景點
 
-探索印記目前收錄臺灣 43 個、日本 30 個景點（含沖繩），分為七類，並整理成 14 條主題路線。以下是現有的完整清單，App 內的景點目錄會在背景自動更新。
+探索印記目前收錄臺灣 43 個、日本 30 個（含沖繩）、澳門 8 個景點，分為七類，並整理成 15 條主題路線。以下是現有的完整清單，App 內的景點目錄會在背景自動更新。
 
 ## 主題路線
 
@@ -35,6 +35,12 @@ import SpotList from '@site/src/components/SpotList';
 | 北海道：甜點、啤酒與花田 | 北海道 | 5 | 札幌的白色戀人與啤酒博物館、小樽老車站、富良野薰衣草 |
 | 沖繩本島巡禮 | 沖繩 | 8 | 從那霸的首里城和市場，一路往北到萬座毛與美麗海水族館 |
 | 日本市場吃一輪 | 日本 | 4 | 築地、錦市場、黑門市場到牧志公設市場 |
+
+### 澳門
+
+| 路線 | 地區 | 景點數 | 簡介 |
+| --- | --- | --- | --- |
+| 澳門世遺散步 | 澳門 | 8 | 從大三巴、議事亭前地到媽閣廟，再去氹仔看葡式老房子，最後在路環吃一顆蛋塔 |
 
 ## 臺灣景點
 
@@ -99,6 +105,26 @@ import SpotList from '@site/src/components/SpotList';
 ### 自然園區
 
 <SpotList category="nature" country="JP" />
+
+## 澳門景點
+
+點開景點名稱，可以看到它在地圖上的位置。
+
+### 藝文場館
+
+<SpotList category="artsVenue" country="MO" />
+
+### 古蹟遺址
+
+<SpotList category="heritage" country="MO" />
+
+### 圖書館
+
+<SpotList category="library" country="MO" />
+
+### 特色美食
+
+<SpotList category="food" country="MO" />
 
 ## 打卡範圍
 

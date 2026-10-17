@@ -26,7 +26,7 @@ image: https://www.explorestamp.com/img/logo.png
 
 ## 收錄範圍
 
-目前收錄臺灣 43 個、日本 30 個景點（含沖繩），分為七類：藝文場館、古蹟遺址、圖書館、鐵道車站、觀光工廠、特色美食、自然園區。景點目錄會在 App 背景自動更新，不需要重新安裝。
+目前收錄臺灣 43 個、日本 30 個（含沖繩）、澳門 8 個景點，分為七類：藝文場館、古蹟遺址、圖書館、鐵道車站、觀光工廠、特色美食、自然園區。景點目錄會在 App 背景自動更新，不需要重新安裝。
 
 完整清單請見[收錄景點](/explore)。
 
@@ -58,3 +58,4 @@ App 裡任務集的封面照片來自 [Unsplash](https://unsplash.com/)，依 [U
 - 北海道：甜點、啤酒與花田：[Cindy Bissig](https://unsplash.com/@cindybissig) 拍攝的[照片](https://unsplash.com/photos/KzAiQAFcfIc)
 - 沖繩本島巡禮：[Monineath Horn](https://unsplash.com/@neathhorn) 拍攝的[照片](https://unsplash.com/photos/II5G3-Jb9AY)
 - 日本市場吃一輪：[EMANUELE Ricciardi](https://unsplash.com/@manuricc2_kl) 拍攝的[照片](https://unsplash.com/photos/iGHMrA4iLCg)
+- 澳門世遺散步：[Stephan HK](https://unsplash.com/@chromatograph) 拍攝的[照片](https://unsplash.com/photos/qR9JKwEt2dI)
