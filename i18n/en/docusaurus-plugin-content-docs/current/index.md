@@ -8,7 +8,7 @@ import SpotList from '@site/src/components/SpotList';
 
 # Places
 
-ExploreStamp currently includes 43 places in Taiwan, 30 in Japan (including Okinawa) and 8 in Macao, grouped into seven categories and organized into 15 themed routes. Below is the full list. The catalog in the app updates automatically in the background.
+ExploreStamp currently includes 43 places in Taiwan, 30 in Japan (including Okinawa), 20 in South Korea and 8 in Macao, grouped into seven categories and organized into 19 themed routes. Below is the full list. The catalog in the app updates automatically in the background.
 
 ## Themed routes
 
@@ -41,6 +41,15 @@ ExploreStamp currently includes 43 places in Taiwan, 30 in Japan (including Okin
 | Route | Region | Places | About |
 | --- | --- | --- | --- |
 | Macao Heritage Walk | Macao | 8 | From the Ruins of St. Paul's and Senado Square to A-Ma Temple, then the Taipa Houses and an egg tart in Coloane |
+
+### South Korea
+
+| Route | Region | Places | About |
+| --- | --- | --- | --- |
+| Seoul Palaces and Old Streets | Seoul | 5 | Gyeongbokgung, the hanok lanes of Bukchon, the old Seoul Station, the old City Hall and the National Museum of Korea |
+| Seoul Design, Books and Markets | Seoul | 5 | Dongdaemun Design Plaza, Starfield Library, Gwangjang Market, Cheonggyecheon and Namsan |
+| Busan Harbour Walk | Busan | 6 | Jagalchi Market, Gamcheon Culture Village, Taejongdae, the Haeundae seaside train and Haedong Yonggungsa |
+| Around Jeju Island | Jeju | 4 | Seongsan Ilchulbong, Seopjikoji, the O'sulloc Tea Museum and Dongmun Market |
 
 ## Places in Taiwan
 
@@ -125,6 +134,38 @@ Open a place to see where it is on the map.
 ### Local Food
 
 <SpotList category="food" country="MO" />
+
+## Places in South Korea
+
+Open a place to see where it is on the map.
+
+### Museums & Arts
+
+<SpotList category="artsVenue" country="KR" />
+
+### Historic Sites
+
+<SpotList category="heritage" country="KR" />
+
+### Libraries
+
+<SpotList category="library" country="KR" />
+
+### Railway Stations
+
+<SpotList category="railway" country="KR" />
+
+### Factory Tours
+
+<SpotList category="factory" country="KR" />
+
+### Local Food
+
+<SpotList category="food" country="KR" />
+
+### Parks & Nature
+
+<SpotList category="nature" country="KR" />
 
 ## Check-in range
 

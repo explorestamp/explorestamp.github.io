@@ -299,5 +299,5 @@ export const COLLECTIONS: Collection[] = [
 export const CATALOG_STATS = {
   spots: spots.length,
   categories: CATEGORIES.length,
-  collections: 15,
+  collections: 19,
 };

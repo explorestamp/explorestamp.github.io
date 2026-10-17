@@ -8,7 +8,7 @@ import SpotList from '@site/src/components/SpotList';
 
 # 收錄景點
 
-探索印記目前收錄臺灣 43 個、日本 30 個（含沖繩）、澳門 8 個景點，分為七類，並整理成 15 條主題路線。以下是現有的完整清單，App 內的景點目錄會在背景自動更新。
+探索印記目前收錄臺灣 43 個、日本 30 個（含沖繩）、韓國 20 個、澳門 8 個景點，分為七類，並整理成 19 條主題路線。以下是現有的完整清單，App 內的景點目錄會在背景自動更新。
 
 ## 主題路線
 
@@ -41,6 +41,15 @@ import SpotList from '@site/src/components/SpotList';
 | 路線 | 地區 | 景點數 | 簡介 |
 | --- | --- | --- | --- |
 | 澳門世遺散步 | 澳門 | 8 | 從大三巴、議事亭前地到媽閣廟，再去氹仔看葡式老房子，最後在路環吃一顆蛋塔 |
+
+### 韓國
+
+| 路線 | 地區 | 景點數 | 簡介 |
+| --- | --- | --- | --- |
+| 首爾宮殿與老街 | 首爾 | 5 | 從景福宮走進北村韓屋村，再到舊首爾站、舊市廳和國立中央博物館 |
+| 首爾設計、書牆與市場 | 首爾 | 5 | 東大門設計廣場、星空圖書館、廣藏市場，沿清溪川散步，最後上南山 |
+| 釜山海港散策 | 釜山 | 6 | 札嘎其市場、甘川洞文化村、太宗台、海雲台海岸列車和海東龍宮寺 |
+| 濟州島一圈 | 濟州 | 4 | 城山日出峰、涉地可支、雪綠茶博物館與東門市場 |
 
 ## 臺灣景點
 
@@ -125,6 +134,38 @@ import SpotList from '@site/src/components/SpotList';
 ### 特色美食
 
 <SpotList category="food" country="MO" />
+
+## 韓國景點
+
+點開景點名稱，可以看到它在地圖上的位置。
+
+### 藝文場館
+
+<SpotList category="artsVenue" country="KR" />
+
+### 古蹟遺址
+
+<SpotList category="heritage" country="KR" />
+
+### 圖書館
+
+<SpotList category="library" country="KR" />
+
+### 鐵道車站
+
+<SpotList category="railway" country="KR" />
+
+### 觀光工廠
+
+<SpotList category="factory" country="KR" />
+
+### 特色美食
+
+<SpotList category="food" country="KR" />
+
+### 自然園區
+
+<SpotList category="nature" country="KR" />
 
 ## 打卡範圍
 

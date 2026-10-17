@@ -1213,5 +1213,305 @@
     },
     "lat": 22.1182,
     "lng": 113.5513
+  },
+  {
+    "id": "kr-sel-heritage-gyeongbokgung",
+    "category": "heritage",
+    "country": "KR",
+    "name": {
+      "zh": "景福宮",
+      "en": "Gyeongbokgung Palace"
+    },
+    "city": {
+      "zh": "首爾鍾路區",
+      "en": "Jongno-gu, Seoul"
+    },
+    "lat": 37.5759,
+    "lng": 126.9768
+  },
+  {
+    "id": "kr-sel-heritage-bukchon",
+    "category": "heritage",
+    "country": "KR",
+    "name": {
+      "zh": "北村韓屋村",
+      "en": "Bukchon Hanok Village"
+    },
+    "city": {
+      "zh": "首爾鍾路區",
+      "en": "Jongno-gu, Seoul"
+    },
+    "lat": 37.5824,
+    "lng": 126.9859
+  },
+  {
+    "id": "kr-sel-artsvenue-nmk",
+    "category": "artsVenue",
+    "country": "KR",
+    "name": {
+      "zh": "國立中央博物館",
+      "en": "National Museum of Korea"
+    },
+    "city": {
+      "zh": "首爾龍山區",
+      "en": "Yongsan-gu, Seoul"
+    },
+    "lat": 37.524,
+    "lng": 126.9803
+  },
+  {
+    "id": "kr-sel-artsvenue-ddp",
+    "category": "artsVenue",
+    "country": "KR",
+    "name": {
+      "zh": "東大門設計廣場",
+      "en": "Dongdaemun Design Plaza"
+    },
+    "city": {
+      "zh": "首爾中區",
+      "en": "Jung-gu, Seoul"
+    },
+    "lat": 37.5671,
+    "lng": 127.0099
+  },
+  {
+    "id": "kr-sel-railway-culturestation284",
+    "category": "railway",
+    "country": "KR",
+    "name": {
+      "zh": "文化站首爾284",
+      "en": "Culture Station Seoul 284"
+    },
+    "city": {
+      "zh": "首爾中區",
+      "en": "Jung-gu, Seoul"
+    },
+    "lat": 37.556,
+    "lng": 126.9715
+  },
+  {
+    "id": "kr-sel-library-starfield",
+    "category": "library",
+    "country": "KR",
+    "name": {
+      "zh": "星空圖書館",
+      "en": "Starfield Library"
+    },
+    "city": {
+      "zh": "首爾江南區",
+      "en": "Gangnam-gu, Seoul"
+    },
+    "lat": 37.5102,
+    "lng": 127.0601
+  },
+  {
+    "id": "kr-sel-library-seoullibrary",
+    "category": "library",
+    "country": "KR",
+    "name": {
+      "zh": "首爾圖書館",
+      "en": "Seoul Metropolitan Library"
+    },
+    "city": {
+      "zh": "首爾中區",
+      "en": "Jung-gu, Seoul"
+    },
+    "lat": 37.5664,
+    "lng": 126.9779
+  },
+  {
+    "id": "kr-sel-food-gwangjang",
+    "category": "food",
+    "country": "KR",
+    "name": {
+      "zh": "廣藏市場",
+      "en": "Gwangjang Market"
+    },
+    "city": {
+      "zh": "首爾鍾路區",
+      "en": "Jongno-gu, Seoul"
+    },
+    "lat": 37.5702,
+    "lng": 126.9995
+  },
+  {
+    "id": "kr-sel-nature-namsan",
+    "category": "nature",
+    "country": "KR",
+    "name": {
+      "zh": "南山N首爾塔",
+      "en": "N Seoul Tower"
+    },
+    "city": {
+      "zh": "首爾龍山區",
+      "en": "Yongsan-gu, Seoul"
+    },
+    "lat": 37.5512,
+    "lng": 126.9882
+  },
+  {
+    "id": "kr-sel-nature-cheonggyecheon",
+    "category": "nature",
+    "country": "KR",
+    "name": {
+      "zh": "清溪川",
+      "en": "Cheonggyecheon Stream"
+    },
+    "city": {
+      "zh": "首爾中區",
+      "en": "Jung-gu, Seoul"
+    },
+    "lat": 37.5692,
+    "lng": 126.9777
+  },
+  {
+    "id": "kr-pus-heritage-gamcheon",
+    "category": "heritage",
+    "country": "KR",
+    "name": {
+      "zh": "甘川洞文化村",
+      "en": "Gamcheon Culture Village"
+    },
+    "city": {
+      "zh": "釜山沙下區",
+      "en": "Saha-gu, Busan"
+    },
+    "lat": 35.0973,
+    "lng": 129.0104
+  },
+  {
+    "id": "kr-pus-heritage-haedongyonggungsa",
+    "category": "heritage",
+    "country": "KR",
+    "name": {
+      "zh": "海東龍宮寺",
+      "en": "Haedong Yonggungsa Temple"
+    },
+    "city": {
+      "zh": "釜山機張郡",
+      "en": "Gijang-gun, Busan"
+    },
+    "lat": 35.1884,
+    "lng": 129.2231
+  },
+  {
+    "id": "kr-pus-food-jagalchi",
+    "category": "food",
+    "country": "KR",
+    "name": {
+      "zh": "札嘎其市場",
+      "en": "Jagalchi Market"
+    },
+    "city": {
+      "zh": "釜山中區",
+      "en": "Jung-gu, Busan"
+    },
+    "lat": 35.0967,
+    "lng": 129.0306
+  },
+  {
+    "id": "kr-pus-railway-blueline",
+    "category": "railway",
+    "country": "KR",
+    "name": {
+      "zh": "海雲台藍線公園 尾浦站",
+      "en": "Haeundae Blueline Park (Mipo Station)"
+    },
+    "city": {
+      "zh": "釜山海雲臺區",
+      "en": "Haeundae-gu, Busan"
+    },
+    "lat": 35.1582,
+    "lng": 129.1728
+  },
+  {
+    "id": "kr-pus-nature-taejongdae",
+    "category": "nature",
+    "country": "KR",
+    "name": {
+      "zh": "太宗台",
+      "en": "Taejongdae"
+    },
+    "city": {
+      "zh": "釜山影島區",
+      "en": "Yeongdo-gu, Busan"
+    },
+    "lat": 35.0586,
+    "lng": 129.087
+  },
+  {
+    "id": "kr-pus-artsvenue-modernhistory",
+    "category": "artsVenue",
+    "country": "KR",
+    "name": {
+      "zh": "釜山近現代歷史館",
+      "en": "Busan Modern and Contemporary History Museum"
+    },
+    "city": {
+      "zh": "釜山中區",
+      "en": "Jung-gu, Busan"
+    },
+    "lat": 35.1022,
+    "lng": 129.0323
+  },
+  {
+    "id": "kr-jej-nature-seongsan",
+    "category": "nature",
+    "country": "KR",
+    "name": {
+      "zh": "城山日出峰",
+      "en": "Seongsan Ilchulbong"
+    },
+    "city": {
+      "zh": "濟州西歸浦市",
+      "en": "Seogwipo, Jeju"
+    },
+    "lat": 33.4589,
+    "lng": 126.9408
+  },
+  {
+    "id": "kr-jej-nature-seopjikoji",
+    "category": "nature",
+    "country": "KR",
+    "name": {
+      "zh": "涉地可支",
+      "en": "Seopjikoji"
+    },
+    "city": {
+      "zh": "濟州西歸浦市",
+      "en": "Seogwipo, Jeju"
+    },
+    "lat": 33.424,
+    "lng": 126.9307
+  },
+  {
+    "id": "kr-jej-factory-osulloc",
+    "category": "factory",
+    "country": "KR",
+    "name": {
+      "zh": "雪綠茶博物館",
+      "en": "O'sulloc Tea Museum"
+    },
+    "city": {
+      "zh": "濟州西歸浦市",
+      "en": "Seogwipo, Jeju"
+    },
+    "lat": 33.3059,
+    "lng": 126.2894
+  },
+  {
+    "id": "kr-jej-food-dongmun",
+    "category": "food",
+    "country": "KR",
+    "name": {
+      "zh": "濟州東門市場",
+      "en": "Jeju Dongmun Traditional Market"
+    },
+    "city": {
+      "zh": "濟州濟州市",
+      "en": "Jeju City, Jeju"
+    },
+    "lat": 33.5122,
+    "lng": 126.5276
   }
 ]
