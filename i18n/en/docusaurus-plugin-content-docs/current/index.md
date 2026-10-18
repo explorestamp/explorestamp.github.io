@@ -8,7 +8,7 @@ import RouteCards from "@site/src/components/RouteCards";
 
 # Explore
 
-ExploreStamp currently includes 257 places: 45 in Taiwan, 32 in Japan (including Okinawa), 21 in South Korea, 13 in Hong Kong, 8 in Macao, 22 in Australia, 12 in New Zealand, 13 in Poland, 16 in the United Kingdom, 20 in the United States, 12 in Canada, 10 in Egypt, 13 in Norway, 10 in Sweden and 10 in Finland, grouped into 20 categories and organized into 47 themed routes. The full list of places and their maps are in the app, where the catalog updates automatically in the background.
+ExploreStamp currently includes 842 places: 422 in Taiwan, 240 in Japan (including Okinawa), 21 in South Korea, 13 in Hong Kong, 8 in Macao, 22 in Australia, 12 in New Zealand, 13 in Poland, 16 in the United Kingdom, 20 in the United States, 12 in Canada, 10 in Egypt, 13 in Norway, 10 in Sweden and 10 in Finland, grouped into 20 categories and organized into 137 themed routes. The full list of places and their maps are in the app, where the catalog updates automatically in the background.
 
 ## Themed routes
 

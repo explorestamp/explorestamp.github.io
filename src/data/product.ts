@@ -25,6 +25,7 @@ import {
 // 只留 id、分類與國家，用來算景點數。名稱與經緯度刻意不放進官網，
 // 完整目錄留在 App 與 explorestamp-data-api。
 import spots from "@site/src/data/spots.json";
+import collections from "@site/src/data/collections.json";
 
 /**
  * 官網上所有產品事實的單一來源。
@@ -494,9 +495,9 @@ export const COLLECTIONS: Collection[] = [
 ];
 
 // COLLECTIONS 只列首頁展示用的幾條任務集，不是全部。總數跟著
-// explorestamp-data-api 的 data/collections.json，目錄更新時一起改。
+// explorestamp-data-api 的 data/collections.json（src/data/collections.json 是它的副本），目錄更新時一起改。
 export const CATALOG_STATS = {
   spots: spots.length,
   categories: CATEGORIES.length,
-  collections: 47,
+  collections: collections.length,
 };
