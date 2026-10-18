@@ -12,7 +12,7 @@ In Taiwan, many railway stations, museums and tourist spots keep a commemorative
 
 ## What the app does
 
-**Countries and themed collections**: places fall into 20 categories and are grouped into routes by theme, such as "6 Classic Taiwan Railway Stations", "Kyoto Old Capital Walk" and "London Museums and Landmarks". Switch country or region and Explore, the stamp book and the map follow; each route shows your progress, and you can search places or collections directly. The Spots tab in Explore lists every place, filtered by category and sorted by distance or city.
+**Countries and themed collections**: places fall into 28 categories and are grouped into routes by theme, such as "6 Classic Taiwan Railway Stations", "Kyoto Old Capital Walk" and "London Museums and Landmarks". Switch country or region and Explore, the stamp book and the map follow; each route shows your progress, and you can search places or collections directly. The Spots tab in Explore lists every place, filtered by category and sorted by distance or city.
 
 **Location check-in**: tap "Check in" at a place, and the app confirms you're within its check-in range. If you're not there yet, it tells you how much farther you have to go; get closer and tap "Locate again". Once you are in range, the stamp goes into your stamp book. The range depends on the type of place, usually between 150 and 500 meters, and 1 km for airports.
 
@@ -32,7 +32,7 @@ In Taiwan, many railway stations, museums and tourist spots keep a commemorative
 
 ## What's included
 
-The app currently includes 842 places: 422 in Taiwan, 240 in Japan (including Okinawa), 21 in South Korea, 13 in Hong Kong, 8 in Macao, 22 in Australia, 12 in New Zealand, 13 in Poland, 16 in the United Kingdom, 20 in the United States, 12 in Canada, 10 in Egypt, 13 in Norway, 10 in Sweden and 10 in Finland, in 20 categories such as museums, heritage sites, places of worship, libraries, railway stations, markets, night markets and nature. The catalog updates automatically in the background, with no need to reinstall.
+The app currently includes 842 places: 422 in Taiwan, 240 in Japan (including Okinawa), 21 in South Korea, 13 in Hong Kong, 8 in Macao, 22 in Australia, 12 in New Zealand, 13 in Poland, 16 in the United Kingdom, 20 in the United States, 12 in Canada, 10 in Egypt, 13 in Norway, 10 in Sweden and 10 in Finland, in 28 categories such as museums, heritage sites, castles and palaces, places of worship, libraries, railway stations, markets, night markets, parks and gardens, and nature. The catalog updates automatically in the background, with no need to reinstall.
 
 See the themed routes under [Explore](/explore).
 

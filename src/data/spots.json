@@ -191,7 +191,7 @@
   },
   {
     "id": "tw-tpe-nature-botanical",
-    "category": "nature",
+    "category": "parkGarden",
     "country": "TW"
   },
   {
@@ -301,7 +301,7 @@
   },
   {
     "id": "jp-osa-heritage-osakacastle",
-    "category": "heritage",
+    "category": "castlePalace",
     "country": "JP"
   },
   {
@@ -406,7 +406,7 @@
   },
   {
     "id": "kr-sel-heritage-gyeongbokgung",
-    "category": "heritage",
+    "category": "castlePalace",
     "country": "KR"
   },
   {

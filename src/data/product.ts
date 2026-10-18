@@ -1,25 +1,33 @@
 import type { LucideIcon } from "lucide-react";
 import { translate } from "@docusaurus/Translate";
 import {
+  Bath,
+  BedDouble,
   Binoculars,
   BookOpen,
   Castle,
   Church,
   Coffee,
+  Crown,
   Factory,
   FerrisWheel,
   Fish,
+  Flower2,
   GraduationCap,
+  House,
   ImageIcon,
   Landmark,
   Library,
+  Medal,
   MoonStar,
   Plane,
+  Pyramid,
   ShoppingBag,
   Soup,
   Store,
   Theater,
   TrainFront,
+  TreePalm,
   Trees,
 } from "lucide-react";
 // 只留 id、分類與國家，用來算景點數。名稱與經緯度刻意不放進官網，
@@ -67,7 +75,15 @@ export type CategoryKey =
   | "airport"
   | "railway"
   | "factory"
-  | "nature";
+  | "nature"
+  | "archaeologicalSite"
+  | "historicDistrict"
+  | "castlePalace"
+  | "memorial"
+  | "parkGarden"
+  | "beachIsland"
+  | "hotSpring"
+  | "hotelStay";
 
 export type Category = {
   key: CategoryKey;
@@ -208,7 +224,7 @@ export const CATEGORIES: Category[] = [
     icon: Castle,
     examples: translate({
       id: "product.category.heritage.examples",
-      message: "赤崁樓、大阪城、景福宮",
+      message: "赤崁樓、億載金城、大三巴牌坊",
     }),
   },
   {
@@ -338,7 +354,111 @@ export const CATEGORIES: Category[] = [
     icon: Trees,
     examples: translate({
       id: "product.category.nature.examples",
-      message: "臺北植物園、萬座毛、伊甸山",
+      message: "萬座毛、尼加拉瀑布、太魯閣國家公園",
+    }),
+  },
+  {
+    key: "archaeologicalSite",
+    label: translate({
+      id: "product.category.archaeologicalSite.label",
+      message: "考古遺址",
+    }),
+    color: "#B5654A",
+    icon: Pyramid,
+    examples: translate({
+      id: "product.category.archaeologicalSite.examples",
+      message: "吉薩金字塔、阿布辛貝神殿、今歸仁城跡",
+    }),
+  },
+  {
+    key: "historicDistrict",
+    label: translate({
+      id: "product.category.historicDistrict.label",
+      message: "歷史街區與特色聚落",
+    }),
+    color: "#B56576",
+    icon: House,
+    examples: translate({
+      id: "product.category.historicDistrict.examples",
+      message: "九份老街、京都祇園、白川鄉合掌村",
+    }),
+  },
+  {
+    key: "castlePalace",
+    label: translate({
+      id: "product.category.castlePalace.label",
+      message: "城堡與宮殿",
+    }),
+    color: "#5B2C83",
+    icon: Crown,
+    examples: translate({
+      id: "product.category.castlePalace.examples",
+      message: "大阪城、景福宮、姬路城",
+    }),
+  },
+  {
+    key: "memorial",
+    label: translate({
+      id: "product.category.memorial.label",
+      message: "紀念地",
+    }),
+    color: "#7E6E8F",
+    icon: Medal,
+    examples: translate({
+      id: "product.category.memorial.examples",
+      message: "廣島和平紀念公園、國立中正紀念堂",
+    }),
+  },
+  {
+    key: "parkGarden",
+    label: translate({
+      id: "product.category.parkGarden.label",
+      message: "公園與花園",
+    }),
+    color: "#43A047",
+    icon: Flower2,
+    examples: translate({
+      id: "product.category.parkGarden.examples",
+      message: "臺北植物園、中央公園、兼六園",
+    }),
+  },
+  {
+    key: "beachIsland",
+    label: translate({
+      id: "product.category.beachIsland.label",
+      message: "海灘與島嶼",
+    }),
+    color: "#1E88E5",
+    icon: TreePalm,
+    examples: translate({
+      id: "product.category.beachIsland.examples",
+      message: "白沙灣、七星潭、漁光島",
+    }),
+  },
+  {
+    key: "hotSpring",
+    label: translate({
+      id: "product.category.hotSpring.label",
+      message: "溫泉",
+    }),
+    color: "#C75B12",
+    icon: Bath,
+    examples: translate({
+      id: "product.category.hotSpring.examples",
+      message: "北投地熱谷、礁溪溫泉公園",
+    }),
+  },
+  {
+    key: "hotelStay",
+    label: translate({
+      id: "product.category.hotelStay.label",
+      message: "住宿與特色旅宿",
+    }),
+    color: "#A07A10",
+    icon: BedDouble,
+    examples: translate({
+      id: "product.category.hotelStay.examples",
+      message: "圓山大飯店、芳堤娜城堡",
     }),
   },
 ];

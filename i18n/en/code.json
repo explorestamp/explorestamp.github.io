@@ -57,7 +57,7 @@
     "message": "Heritage Sites"
   },
   "product.category.heritage.examples": {
-    "message": "Chihkan Tower, Osaka Castle, Gyeongbokgung Palace"
+    "message": "Chihkan Tower, Eternal Golden Castle, Ruins of St. Paul's"
   },
   "product.category.worship.label": {
     "message": "Places of Worship"
@@ -117,7 +117,7 @@
     "message": "Nature"
   },
   "product.category.nature.examples": {
-    "message": "Taipei Botanical Garden, Cape Manzamo, Mount Eden"
+    "message": "Cape Manzamo, Niagara Falls, Taroko National Park"
   },
   "product.collection.tw-railway-classic-6.name": {
     "message": "Six Old Stations with Wooden Platforms"
@@ -824,5 +824,53 @@
   "routeCards.readArticle": {
     "message": "Read about this route →",
     "description": "Link from a route card to its article"
+  },
+  "product.category.archaeologicalSite.label": {
+    "message": "Archaeological Sites"
+  },
+  "product.category.archaeologicalSite.examples": {
+    "message": "Giza Pyramids, Abu Simbel Temples, Nakijin Castle Ruins"
+  },
+  "product.category.historicDistrict.label": {
+    "message": "Historic Districts & Villages"
+  },
+  "product.category.historicDistrict.examples": {
+    "message": "Jiufen Old Street, Gion in Kyoto, Shirakawa-go"
+  },
+  "product.category.castlePalace.label": {
+    "message": "Castles & Palaces"
+  },
+  "product.category.castlePalace.examples": {
+    "message": "Osaka Castle, Gyeongbokgung Palace, Himeji Castle"
+  },
+  "product.category.memorial.label": {
+    "message": "Memorials"
+  },
+  "product.category.memorial.examples": {
+    "message": "Hiroshima Peace Memorial Park, National Chiang Kai-shek Memorial Hall"
+  },
+  "product.category.parkGarden.label": {
+    "message": "Parks & Gardens"
+  },
+  "product.category.parkGarden.examples": {
+    "message": "Taipei Botanical Garden, Central Park, Kenrokuen Garden"
+  },
+  "product.category.beachIsland.label": {
+    "message": "Beaches & Islands"
+  },
+  "product.category.beachIsland.examples": {
+    "message": "Baishawan Beach, Qixingtan Beach, Yuguang Island"
+  },
+  "product.category.hotSpring.label": {
+    "message": "Hot Springs"
+  },
+  "product.category.hotSpring.examples": {
+    "message": "Beitou Thermal Valley, Jiaoxi Hot Spring Park"
+  },
+  "product.category.hotelStay.label": {
+    "message": "Hotels & Unique Stays"
+  },
+  "product.category.hotelStay.examples": {
+    "message": "The Grand Hotel, Fairmont Le Château Frontenac"
   }
 }
