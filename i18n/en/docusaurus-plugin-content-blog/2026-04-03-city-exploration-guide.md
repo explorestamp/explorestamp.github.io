@@ -21,14 +21,14 @@ ExploreStamp brings this onto your phone and adds what a paper stamp book can't 
 
 ## Start with a route
 
-When you open the app, the first screen shows themed collections. Each route picks 6 or 7 places around one theme, for example:
+When you open the app, the first screen shows themed collections. Each route picks a set of places around one theme, for example:
 
-- **6 Classic Taiwan Railway Stations**: Neiwan, Jiji, Shengxing, Jingtong and other stations that still have their wooden station buildings
-- **A Walk Through Tainan**: historic sites, a station and a library in Tainan, finished off with a bowl of tofu pudding
-- **Night Markets & Street Food**: from Ay-Chung Flour-Rice Noodle to Penshui Turkey Rice
-- **Botanical Gardens Worth the Trip**: from Erbazi Botanical Garden to the Fuyuan forest park
+- **Old Stations with Wooden Platforms**: Neiwan, Jiji, Shengxing, Jingtong and other stations that still have their wooden station buildings
+- **A Walk Through Tainan: Forts, a Station and Tofu Pudding**: historic sites, a station and a library in Tainan, finished off with a bowl of tofu pudding
+- **Night Markets: Eat Your Way Around Taiwan**: from Ay-Chung Flour-Rice Noodle to Penshui Turkey Rice
+- **Gardens and Forests to Slow Down In**: from Erbazi Botanical Garden to the Fuyuan forest park
 
-Every route shows your progress. If you'd rather not follow a route, you can search for a place by name. There are currently 43 places and 8 routes, and the place data updates automatically in the background.
+Every route shows your progress. If you'd rather not follow a route, you can search for a place by name. Places and routes keep growing, and the data updates automatically in the background.
 
 ## You have to be there to get the stamp
 

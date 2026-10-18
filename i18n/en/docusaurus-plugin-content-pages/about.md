@@ -12,7 +12,7 @@ In Taiwan, many railway stations, museums and tourist spots keep a commemorative
 
 ## What the app does
 
-**Countries and themed collections**: places fall into 28 categories and are grouped into routes by theme, such as "6 Classic Taiwan Railway Stations", "Kyoto Old Capital Walk" and "London Museums and Landmarks". Switch country or region and Explore, the stamp book and the map follow; each route shows your progress, and you can search places or collections directly. The Spots tab in Explore lists every place, filtered by category and sorted by distance or city.
+**Countries and themed collections**: places fall into 28 categories and are grouped into routes by theme, such as "Old Stations with Wooden Platforms", "Old Kyoto: Torii Gates to the Bamboo Grove" and "London: Museums, the Tower and the Eye". Switch country or region and Explore, the stamp book and the map follow; each route shows your progress, and you can search places or collections directly. The Spots tab in Explore lists every place, filtered by category and sorted by distance or city.
 
 **Location check-in**: tap "Check in" at a place, and the app confirms you're within its check-in range. If you're not there yet, it tells you how much farther you have to go; get closer and tap "Locate again". Once you are in range, the stamp goes into your stamp book. The range depends on the type of place, usually between 150 and 500 meters, and 1 km for airports.
 
