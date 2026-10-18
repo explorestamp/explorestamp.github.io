@@ -130,7 +130,7 @@ function HomepageHeader(): ReactNode {
           <div className={styles.bookCard}>
             <div className={styles.bookHeader}>
               <span>
-                <Translate id="homepage.bookPreview.title">我的印記</Translate>
+                <Translate id="homepage.bookPreview.title">集章冊</Translate>
               </span>
               <span className={styles.bookCount}>
                 6 / {CATALOG_STATS.spots}
