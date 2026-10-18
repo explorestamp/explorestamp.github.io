@@ -12,19 +12,23 @@ In Taiwan, many railway stations, museums and tourist spots keep a commemorative
 
 ## What the app does
 
-**Countries and themed collections**: places fall into 20 categories and are grouped into routes by theme, such as "6 Classic Taiwan Railway Stations", "Kyoto Old Capital Walk" and "London Museums and Landmarks". Switch country or region and Explore, the stamp book and the map follow; each route shows your progress, and you can search places or collections directly.
+**Countries and themed collections**: places fall into 20 categories and are grouped into routes by theme, such as "6 Classic Taiwan Railway Stations", "Kyoto Old Capital Walk" and "London Museums and Landmarks". Switch country or region and Explore, the stamp book and the map follow; each route shows your progress, and you can search places or collections directly. The Spots tab in Explore lists every place, filtered by category and sorted by distance or city.
 
-**Location check-in**: tap "Check in" at a place, and the app confirms you're within its check-in range and shows how far away you are. Once you are in range, the stamp goes into your stamp book. The range depends on the type of place, usually between 150 and 500 meters, and 1 km for airports.
+**Location check-in**: tap "Check in" at a place, and the app confirms you're within its check-in range. If you're not there yet, it tells you how much farther you have to go; get closer and tap "Locate again". Once you are in range, the stamp goes into your stamp book. The range depends on the type of place, usually between 150 and 500 meters, and 1 km for airports.
 
-**Stamp book**: every place has its own stamp. The frame shape shows the category, and the stamp carries the place's name and the date of your first visit. Places you haven't been to yet appear as dashed outlines.
+**Stamp book**: every place has its own stamp. The frame shape shows the category, and the stamp carries the place's name and the date of your first visit. Places you haven't been to yet appear as dashed outlines. Browse the stamp book by category or by route, and use the menu to jump straight to a category or route instead of scrolling to the end.
 
-**Calendar**: every visit is saved to your calendar, with a photo from that day as the cover. Each check-in can include up to 6 photos and a short note.
+**Stamp cards**: turn any route into a stamp card showing its stamps and your progress. When you complete a route, the app reminds you to make one and share it.
 
-**Postcards**: combine a photo from the day with the stamp, the place name and the date into a postcard, and send it through your phone's share sheet. Make one right after checking in, or later from a visit list or the calendar.
+**Calendar and check-ins**: every visit is saved to the explore calendar, with a photo from that day as the cover, and Recent check-ins lists every visit in order with photo thumbnails. Each check-in can include up to 6 photos and a short note.
 
-**Spot details**: each place has a map, address, check-in range and description, with links to its website, reference photos and directions in Google Maps.
+**Postcards**: combine a photo from the day with the stamp, the place name and the date into a postcard, portrait or landscape to match the photo, and send it through your phone's share sheet. Make one right after checking in, or later from a visit list or the calendar; add a photo from your library if you didn't take one then, or choose "Stamp only".
 
-**Map, reminders and backup**: see every place and your check-in status on a map, filter by category, switch countries and jump back to where you are; set daily or weekend reminders that suggest a place; export your records and photos to a backup file and import it on a new phone.
+**Spot details**: each place has a map, address, check-in range and description. The official website, photos and Google Maps open inside the app, so you're back at the place when you close them, and you can copy the coordinates into your favorite navigation app.
+
+**Map, reminders and backup**: see every place and your check-in status on a map, with nearby places grouped together; filter by category, switch countries and jump back to where you are; set daily or weekend reminders that suggest a place, optionally in a country or region you pick; export your records and photos to a backup file and import it on a new phone.
+
+**Language and units**: the interface is available in Traditional Chinese and English, following your system setting or chosen manually, and distances can be shown in metric or imperial units.
 
 ## What's included
 

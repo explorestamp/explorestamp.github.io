@@ -40,9 +40,9 @@ You can visit the same place many times. There's only ever one stamp, but every 
 
 ## Photos, calendar and postcards
 
-When you check in, you can add up to 6 photos and a short note. These visits are saved to your calendar, where each day uses the first photo you took that day as its cover, and each month shows how many stamps you collected and how many new places you visited.
+When you check in, you can add up to 6 photos and a short note. These visits are saved to your calendar, where each day uses the first photo you took that day as its cover, and each month shows how many stamps you collected and how many new places you visited. To look back in order, switch to Recent check-ins.
 
-If you want to share the trip, the photo, stamp, place name and date can be combined into a portrait postcard that you send to friends or post on social media through your phone's share sheet. If you didn't take a photo, the app uses a stamp-focused layout instead.
+If you want to share the trip, the photo, stamp, place name and date can be combined into a postcard, portrait or landscape to match the photo, that you send to friends or post on social media through your phone's share sheet. If you didn't take a photo then, add one from your library later or choose "Stamp only". Once you complete a route, you can also make a stamp card that lays out every stamp on the route to share.
 
 ## No sign-in needed to start
 

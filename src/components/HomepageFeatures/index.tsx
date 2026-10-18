@@ -15,6 +15,7 @@ import {
   MapPinned,
   UserX,
   WifiOff,
+  Stamp as StampIcon,
 } from "lucide-react";
 import Stamp from "@site/src/components/Stamp";
 import {
@@ -179,7 +180,7 @@ const SHOWCASES: Showcase[] = [
       translate({
         id: "homepage.showcase.collections.body2",
         message:
-          "每條路線顯示完成進度，同一個景點也可以同時屬於多條路線。景點目錄會在背景自動更新，不需要重新下載 App。",
+          "每條路線顯示完成進度，同一個景點也可以同時屬於多條路線。想找單一景點，切到「景點」分頁，可以依分類篩選，或依距離、城市排列。景點目錄會在背景自動更新，不需要重新下載 App。",
       }),
     ],
     visual: <CollectionsMock />,
@@ -197,12 +198,12 @@ const SHOWCASES: Showcase[] = [
       translate({
         id: "homepage.showcase.checkIn.body1",
         message:
-          "按下「蓋章打卡」時，App 會讀取一次目前位置，確認你在景點的打卡半徑內。半徑依景點類型設定，例如車站 250 公尺、觀光工廠 400 公尺，並會把手機回報的定位誤差一起納入判斷。",
+          "按下「蓋章打卡」時，App 會讀取一次目前位置，確認你在景點的打卡半徑內。半徑依景點類型設定，例如車站 250 公尺、觀光工廠 400 公尺，並會把手機回報的定位誤差一起納入判斷。還不在範圍內時，App 會告訴你還差多遠，走近後重新定位就好。",
       }),
       translate({
         id: "homepage.showcase.checkIn.body2",
         message:
-          "每個景點各有一枚印章，外框形狀代表分類，上面印著景點名稱和第一次造訪的日期。重複造訪不會多一枚章，但每一次都會記在月曆上。",
+          "每個景點各有一枚印章，外框形狀代表分類，上面印著景點名稱和第一次造訪的日期。重複造訪不會多一枚章，但每一次都會記在月曆上。集章冊可以依分類或依任務集翻看，也能用選單直接跳到想看的那一段。",
       }),
     ],
     visual: <CheckInMock />,
@@ -220,11 +221,11 @@ const SHOWCASES: Showcase[] = [
       translate({
         id: "homepage.showcase.postcard.body1",
         message:
-          "選一張當天的照片，與印章、景點名稱和日期合成一張直式明信片，透過系統分享面板傳給朋友或貼到社群。打卡當下沒空也沒關係，之後從景點的造訪紀錄或月曆隨時做、隨時再分享。",
+          "選一張當天的照片，與印章、景點名稱和日期合成一張明信片，直式或橫式跟著照片的方向，再透過系統分享面板傳給朋友或貼到社群。打卡當下沒空也沒關係，之後從景點的造訪紀錄、探索月曆或最近打卡紀錄隨時做；當時沒拍照，也可以從相簿補一張，照片會一起存進那次造訪。",
       }),
       translate({
         id: "homepage.showcase.postcard.body2",
-        message: "沒有拍照也沒關係，App 會改用印章為主的版面。",
+        message: "不想放照片的話，選「只放印章」，做成一張以印章為主的卡片。",
       }),
     ],
     visual: <PostcardMock />,
@@ -256,7 +257,7 @@ const MORE_FEATURES = [
     desc: translate({
       id: "homepage.more.spotDetail.desc",
       message:
-        "每個景點都有地圖、地址、打卡範圍與簡介，可以開官方網站、看參考圖片，或在 Google 地圖開啟導航。",
+        "每個景點都有地圖、地址、打卡範圍與簡介。官方網站、參考圖片與 Google 地圖都在 App 內開啟，看完就回到景點；座標也能複製到慣用的導航 App。",
     }),
   },
   {
@@ -267,18 +268,32 @@ const MORE_FEATURES = [
     }),
     desc: translate({
       id: "homepage.more.map.desc",
-      message: "在地圖上看所有景點，已打卡與未打卡一眼分開；可依分類篩選、切換國家，一鍵回到目前位置。",
+      message:
+        "在地圖上看所有景點，已打卡與未打卡一眼分開，景點密集時自動聚合；可依分類篩選、切換國家，一鍵回到目前位置。",
     }),
   },
   {
     icon: CalendarDays,
     title: translate({
       id: "homepage.more.calendar.title",
-      message: "月曆紀錄",
+      message: "探索月曆與打卡紀錄",
     }),
     desc: translate({
       id: "homepage.more.calendar.desc",
-      message: "每一天以當天的照片當封面，月份上方統計本月印記數與新景點數。",
+      message:
+        "月曆的每一天以當天的照片當封面，月份上方統計本月印記數與新景點數；也能切到「最近打卡紀錄」，依時間看每一次打卡。",
+    }),
+  },
+  {
+    icon: StampIcon,
+    title: translate({
+      id: "homepage.more.stampCard.title",
+      message: "集章卡",
+    }),
+    desc: translate({
+      id: "homepage.more.stampCard.desc",
+      message:
+        "每條任務集都能做成一張集章卡，排出這條路線的印章與收集進度；集滿時 App 會提醒你做一張分享出去。",
     }),
   },
   {
@@ -289,7 +304,8 @@ const MORE_FEATURES = [
     }),
     desc: translate({
       id: "homepage.more.reminder.desc",
-      message: "每天或只在週末，於你選定的時間推薦一個還沒去過的景點。",
+      message:
+        "每天或只在週末，於你選定的時間推薦一個還沒蓋過章的景點，也可以指定國家或地區。",
     }),
   },
   {
@@ -322,7 +338,8 @@ const MORE_FEATURES = [
     }),
     desc: translate({
       id: "homepage.more.languages.desc",
-      message: "介面與景點資訊提供繁體中文與英文，可跟隨系統或手動切換。",
+      message:
+        "介面與景點資訊提供繁體中文與英文，可跟隨系統或手動切換；距離可選公制或英制。",
     }),
   },
 ];

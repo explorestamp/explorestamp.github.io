@@ -327,7 +327,7 @@
     "message": "The app currently includes {spots} places in Taiwan, Japan, South Korea, Hong Kong, Macao, Australia, New Zealand, Poland, the United Kingdom, the United States, Canada, Egypt, Norway, Sweden and Finland, organized into {collections} themed routes: old railway stations, a walk through Tainan, Kyoto's old capital, London's museums and landmarks, New York classics, the Nile temples and more."
   },
   "homepage.showcase.collections.body2": {
-    "message": "Each route shows your progress, and one place can belong to several routes. The catalog updates in the background, so you never need to reinstall the app."
+    "message": "Each route shows your progress, and one place can belong to several routes. To find a single place, switch to the Spots tab to filter by category or sort by distance or city. The catalog updates in the background, so you never need to reinstall the app."
   },
   "homepage.showcase.checkIn.label": {
     "message": "Location check-in"
@@ -336,10 +336,10 @@
     "message": "You have to be there for the stamp to count"
   },
   "homepage.showcase.checkIn.body1": {
-    "message": "When you tap “Check in”, the app reads your location once to confirm you're within the place's check-in radius. The radius depends on the type of place — 250 m for a station, 400 m for a factory tour — and the accuracy your phone reports is taken into account."
+    "message": "When you tap “Check in”, the app reads your location once to confirm you're within the place's check-in radius. The radius depends on the type of place — 250 m for a station, 400 m for a factory tour — and the accuracy your phone reports is taken into account. If you're not in range yet, the app tells you how much farther you have to go; get closer and locate again."
   },
   "homepage.showcase.checkIn.body2": {
-    "message": "Every place has its own stamp. The frame shape shows the category, and the stamp carries the place's name and the date of your first visit. Coming back doesn't give you a second stamp, but every visit is saved to your calendar."
+    "message": "Every place has its own stamp. The frame shape shows the category, and the stamp carries the place's name and the date of your first visit. Coming back doesn't give you a second stamp, but every visit is saved to your calendar. Browse the stamp book by category or by route, and use the menu to jump straight to the section you want."
   },
   "homepage.showcase.postcard.label": {
     "message": "Postcards"
@@ -348,28 +348,34 @@
     "message": "A photo plus a stamp makes a postcard"
   },
   "homepage.showcase.postcard.body1": {
-    "message": "Pick a photo from that day and combine it with the stamp, the place name and the date into a portrait postcard, then send it to friends or post it through the system share sheet. No time at the place? Make one later from the spot's visit list or the calendar, and share it again whenever you like."
+    "message": "Pick a photo from that day and combine it with the stamp, the place name and the date into a postcard, portrait or landscape to match the photo, then send it to friends or post it through the system share sheet. No time at the place? Make one later from the spot's visit history, the explore calendar or your recent check-ins. Didn't take a photo then? Add one from your library, and it's saved to that visit too."
   },
   "homepage.showcase.postcard.body2": {
-    "message": "No photo? No problem — the app switches to a stamp-only layout."
+    "message": "Rather leave the photo out? Choose “Stamp only” for a card built around the stamp."
   },
   "homepage.more.map.title": {
     "message": "Map"
   },
   "homepage.more.map.desc": {
-    "message": "See every place on the map with visited and unvisited ones told apart; filter by category, switch countries and jump back to where you are."
+    "message": "See every place on the map with visited and unvisited ones told apart and nearby places grouped together; filter by category, switch countries and jump back to where you are."
   },
   "homepage.more.calendar.title": {
-    "message": "Calendar"
+    "message": "Calendar and check-ins"
   },
   "homepage.more.calendar.desc": {
-    "message": "Each day uses a photo from that day as its cover, and each month shows how many stamps and new places you collected."
+    "message": "Each day in the calendar uses a photo from that day as its cover, and each month shows how many stamps and new places you collected. Switch to Recent check-ins to see every visit in order."
+  },
+  "homepage.more.stampCard.title": {
+    "message": "Stamp cards"
+  },
+  "homepage.more.stampCard.desc": {
+    "message": "Turn any route into a stamp card showing its stamps and your progress; when you complete a route, the app reminds you to make one and share it."
   },
   "homepage.more.reminder.title": {
     "message": "Suggestions"
   },
   "homepage.more.reminder.desc": {
-    "message": "Daily or weekends only, at a time you choose, the app suggests a place you haven't been to yet."
+    "message": "Daily or weekends only, at a time you choose, the app suggests a place you haven't stamped yet, optionally in a country or region you pick."
   },
   "homepage.more.backup.title": {
     "message": "Backup export and import"
@@ -387,7 +393,7 @@
     "message": "Chinese and English"
   },
   "homepage.more.languages.desc": {
-    "message": "The interface and place information are available in Traditional Chinese and English, following your system setting or chosen manually."
+    "message": "The interface and place information are available in Traditional Chinese and English, following your system setting or chosen manually. Distances can be shown in metric or imperial units."
   },
   "homepage.privacy.noLogin.title": {
     "message": "No sign-in required"
@@ -809,7 +815,7 @@
     "message": "Spot details"
   },
   "homepage.more.spotDetail.desc": {
-    "message": "Each place has a map, address, check-in range and description, with links to its website, reference photos and directions in Google Maps."
+    "message": "Each place has a map, address, check-in range and description. The official website, photos and Google Maps open inside the app, so you're back at the place when you close them; you can also copy the coordinates into your favorite navigation app."
   },
   "routeCards.spotCount": {
     "message": "{count} places",
