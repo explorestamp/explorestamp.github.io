@@ -84,7 +84,7 @@ When you tap "Check in" at a place, the app checks how far you are from it. The 
 | --- | --- |
 | Airports | 1000 m |
 | Theme Parks, Nature | 500 m |
-| Zoos & Aquariums, University Campuses, Factory Tours | 400 m |
+| Zoos & Aquariums, Campuses, Factory Tours | 400 m |
 | Museums, Art Museums, Performance & Sports Venues, Landmarks & Viewpoints, Heritage Sites, Places of Worship, Shopping | 300 m |
 | Markets, Night Markets, Railway Stations | 250 m |
 | Libraries | 200 m |

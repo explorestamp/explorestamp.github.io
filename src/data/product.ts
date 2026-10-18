@@ -95,7 +95,7 @@ export type Category = {
 };
 
 // 順序同 explorestamp-data-api 的 docs/categories.md，也就是 App 裡的顯示順序。
-// 還沒有景點的分類（書店、大學校園、購物與商圈、咖啡廳、機場）範例取自規範文件。
+// 還沒有景點的分類（書店、校園、購物與商圈、咖啡廳、機場）範例取自規範文件。
 export const CATEGORIES: Category[] = [
   {
     key: "museum",
@@ -205,7 +205,7 @@ export const CATEGORIES: Category[] = [
     key: "campus",
     label: translate({
       id: "product.category.campus.label",
-      message: "大學校園",
+      message: "校園",
     }),
     color: "#7D8F2A",
     icon: GraduationCap,

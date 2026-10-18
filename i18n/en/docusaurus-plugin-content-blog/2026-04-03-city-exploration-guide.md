@@ -68,7 +68,7 @@ Places fall into 28 categories. Here are the ones Taiwan has so far, with exampl
 | Nature | Aowanda National Forest Recreation Area, Taroko National Park |
 | Park & Garden | Taipei Botanical Garden |
 
-The other categories are zoos and aquariums, theme parks, landmarks and viewpoints, performance and sports venues, bookstores, university campuses, shopping, markets, cafés, airports, archaeological sites, historic districts and villages, castles and palaces, memorials, beaches and islands, hot springs, and hotels and unique stays, which are being added country by country.
+The other categories are zoos and aquariums, theme parks, landmarks and viewpoints, performance and sports venues, bookstores, campuses, shopping, markets, cafés, airports, archaeological sites, historic districts and villages, castles and palaces, memorials, beaches and islands, hot springs, and hotels and unique stays, which are being added country by country.
 
 See the themed routes under [Explore](/explore).
 
