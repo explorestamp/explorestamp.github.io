@@ -6,7 +6,7 @@ tags:
   - 旅行
   - 景點
 image: https://www.explorestamp.com/img/covers/tw-sugar-mills.jpg
-description: Walk under the chimney at Yuemei, ride Xihu's steam-hauled cane train, smell the sugar at Huwei and eat ice pops all the way to Guangfu in Hualien. The ten mills on ExploreStamp's "Taiwan's Sugar Mills" route, with regional trips for collecting the stamps.
+description: 'Walk under the chimney at Yuemei, ride Xihu''s steam-hauled cane train, smell the sugar at Huwei and eat ice pops all the way to Guangfu in Hualien. The ten mills on ExploreStamp''s "Sugar Mill Trail: Ice Pops from Taichung to Hualien" route, with regional trips for collecting the stamps.'
 ---
 
 ![Taiwan's Sugar Mills cover photo](/img/covers/tw-sugar-mills.jpg)
@@ -123,7 +123,7 @@ Save it for last. Finish your final ice pop in the valley breeze, check in for y
 
 ## Collecting this route with ExploreStamp
 
-Open ExploreStamp, find "Taiwan's Sugar Mills" among the themed routes and tap "Check in" at each mill you reach. The app confirms you're within range, adds the place's stamp to your stamp book and records the date of your first visit.
+Open ExploreStamp, find "Sugar Mill Trail: Ice Pops from Taichung to Hualien" among the themed routes and tap "Check in" at each mill you reach. The app confirms you're within range, adds the place's stamp to your stamp book and records the date of your first visit.
 
 There's no rush on this route. Maybe it's Xihu this weekend, maybe Hualien next summer. Every sugar mill ice pop adds another stamp.
 

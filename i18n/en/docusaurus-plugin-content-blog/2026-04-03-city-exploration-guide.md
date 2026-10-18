@@ -73,7 +73,7 @@ See the themed routes under [Explore](/explore).
 
 ## No need to wait for a long holiday
 
-Collecting stamps doesn't have to mean a big trip. If you live in Taipei, you can visit the Beitou library or Bopiliao on a weekend; in Tainan, you can cover most of "A Walk Through Tainan" in an afternoon. Turn on place suggestion reminders in the app's settings, and it will suggest somewhere you haven't been yet at a time you choose.
+Collecting stamps doesn't have to mean a big trip. If you live in Taipei, you can visit the Beitou library or Bopiliao on a weekend; in Tainan, you can cover most of "A Walk Through Tainan: Forts, a Station and Tofu Pudding" in an afternoon. Turn on place suggestion reminders in the app's settings, and it will suggest somewhere you haven't been yet at a time you choose.
 
 ---
 

@@ -6,7 +6,7 @@ tags:
   - 旅行
   - 景點
 image: https://www.explorestamp.com/img/covers/tw-yun-xiluo-douliu.jpg
-description: Walk out onto the Xiluo Bridge, opened in 1953, smell the soy sauce on Yanping Old Street and visit the Taiping Mazu, then explore Douliu's Baroque old street and the Japanese-style houses of Yunzhong Street before a day at Janfusun Fancyworld. The eight places on ExploreStamp's "Xiluo and Douliu" route, with a two-day plan.
+description: Walk out onto the Xiluo Bridge, opened in 1953, smell the soy sauce on Yanping Old Street and visit the Taiping Mazu, then explore Douliu's Baroque old street and the Japanese-style houses of Yunzhong Street before a day at Janfusun Fancyworld. The eight places on ExploreStamp's "Xiluo Bridge, Soy Sauce and Douliu Old Street" route, with a two-day plan.
 ---
 
 ![Xiluo and Douliu cover photo](/img/covers/tw-yun-xiluo-douliu.jpg)
@@ -107,7 +107,7 @@ To make the most of Janfusun, give it a day of its own and eat at the YunTech ni
 
 ## Collecting this route with ExploreStamp
 
-Open ExploreStamp, find "Xiluo and Douliu" among the themed routes and tap "Check in" at each place you reach. The app confirms you're within range, adds the place's stamp to your stamp book and records the date of your first visit. Collect all eight, and a bridge, two old streets and a roller coaster ride will all live in your stamp book.
+Open ExploreStamp, find "Xiluo Bridge, Soy Sauce and Douliu Old Street" among the themed routes and tap "Check in" at each place you reach. The app confirms you're within range, adds the place's stamp to your stamp book and records the date of your first visit. Collect all eight, and a bridge, two old streets and a roller coaster ride will all live in your stamp book.
 
 See the other routes under [Explore](/explore).
 

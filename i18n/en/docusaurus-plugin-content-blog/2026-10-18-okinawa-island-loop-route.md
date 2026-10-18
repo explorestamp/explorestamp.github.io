@@ -7,7 +7,7 @@ tags:
   - 景點
   - 探索印記
 image: https://www.explorestamp.com/img/covers/jp-okinawa-island-loop.jpg
-description: Pick your seafood at Naha's Makishi Public Market, walk the Ryukyu Kingdom's Shuri Castle and Nakagusuku ruins, then head north for sunset at Cape Manzamo, the Orion brewery and the whale sharks of Churaumi Aquarium. The eight places on ExploreStamp's "Okinawa Main Island Loop" route, with a three-day plan.
+description: 'Pick your seafood at Naha''s Makishi Public Market, walk the Ryukyu Kingdom''s Shuri Castle and Nakagusuku ruins, then head north for sunset at Cape Manzamo, the Orion brewery and the whale sharks of Churaumi Aquarium. The eight places on ExploreStamp''s "Okinawa Loop: Shuri Castle to Churaumi" route, with a three-day plan.'
 ---
 
 ![Okinawa Main Island Loop: Shuri Castle, Markets and Churaumi — A Three-Day Stamp Route North from Naha](/img/covers/jp-okinawa-island-loop.jpg)
@@ -127,7 +127,7 @@ Some places, such as Shuri Castle and Cape Manzamo, appear on more than one rout
 
 ## Collecting this route with ExploreStamp
 
-Open ExploreStamp, switch the country to Japan, find "Okinawa Main Island Loop" among the themed routes and tap "Check in" at each place you reach. The app confirms you're within range, adds the place's stamp to your stamp book and records the date of your first visit. Collect all eight, and next time you fly to Okinawa, you'll know what's waiting beyond the beach.
+Open ExploreStamp, switch the country to Japan, find "Okinawa Loop: Shuri Castle to Churaumi" among the themed routes and tap "Check in" at each place you reach. The app confirms you're within range, adds the place's stamp to your stamp book and records the date of your first visit. Collect all eight, and next time you fly to Okinawa, you'll know what's waiting beyond the beach.
 
 See the other routes under [Explore](/explore).
 

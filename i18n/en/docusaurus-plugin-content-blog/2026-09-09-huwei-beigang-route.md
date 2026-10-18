@@ -6,7 +6,7 @@ tags:
   - 旅行
   - 景點
 image: https://www.explorestamp.com/img/covers/tw-yun-huwei-beigang.jpg
-description: Start at THSR Yunlin Station, see the Huwei Sugar Factory's chimney still smoking, glove puppets in an Imperial Crown-style hall and cakes made of towels, then visit Beigang's Chaotian Temple and old street before a sunset at Chenglong Wetlands. The eight places on ExploreStamp's "Huwei and Beigang" route, with a two-day plan.
+description: Start at THSR Yunlin Station, see the Huwei Sugar Factory's chimney still smoking, glove puppets in an Imperial Crown-style hall and cakes made of towels, then visit Beigang's Chaotian Temple and old street before a sunset at Chenglong Wetlands. The eight places on ExploreStamp's "Huwei Puppetry and Beigang's Matsu Temple" route, with a two-day plan.
 ---
 
 ![Huwei and Beigang cover photo](/img/covers/tw-yun-huwei-beigang.jpg)
@@ -104,7 +104,7 @@ Come in the late afternoon. The sun sets over the water, the artworks turn into 
 
 ## Collecting this route with ExploreStamp
 
-Open ExploreStamp, find "Huwei and Beigang" among the themed routes and tap "Check in" at each place you reach. The app confirms you're within range, adds the place's stamp to your stamp book and records the date of your first visit. Collect all eight, and the next time your train passes through Yunlin, you can say: "I've been there."
+Open ExploreStamp, find "Huwei Puppetry and Beigang's Matsu Temple" among the themed routes and tap "Check in" at each place you reach. The app confirms you're within range, adds the place's stamp to your stamp book and records the date of your first visit. Collect all eight, and the next time your train passes through Yunlin, you can say: "I've been there."
 
 See the other routes under [Explore](/explore).
 

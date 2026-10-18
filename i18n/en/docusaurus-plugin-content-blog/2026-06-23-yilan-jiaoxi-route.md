@@ -7,14 +7,14 @@ tags:
   - 城市探索
   - 景點
 image: https://www.explorestamp.com/img/covers/tw-ila-yilan-jiaoxi.jpg
-description: Start at Jimmy Liao's plaza by Yilan Station, walk past the Yilan Memorial Hall, the century-old Yilan Winery and an art museum in a former bank, then spend day two soaking your feet for free in Jiaoxi and strolling Toucheng's old street. The eight places on ExploreStamp's "Yilan City and Jiaoxi" route, with a two-day plan.
+description: 'Start at Jimmy Liao''s plaza by Yilan Station, walk past the Yilan Memorial Hall, the century-old Yilan Winery and an art museum in a former bank, then spend day two soaking your feet for free in Jiaoxi and strolling Toucheng''s old street. The eight places on ExploreStamp''s "Yilan and Jiaoxi: Foot Baths and Jimmy Liao" route, with a two-day plan.'
 ---
 
 ![Yilan City and Jiaoxi cover photo](/img/covers/tw-ila-yilan-jiaoxi.jpg)
 
 Yilan is little more than an hour from Taipei by train or bus. Many people treat it as a day trip, but Yilan City rewards a slower pace: a Japanese-era official residence, a century-old winery and an old bank all sit in the old town near the station. One stop north is Jiaoxi, where free hot spring foot baths line the streets.
 
-ExploreStamp's "Yilan City and Jiaoxi" route covers eight places in the area. This post covers what's worth seeing at each one and how to fit them into two days.
+ExploreStamp's "Yilan and Jiaoxi: Foot Baths and Jimmy Liao" route covers eight places in the area. This post covers what's worth seeing at each one and how to fit them into two days.
 
 <!-- truncate -->
 
@@ -97,7 +97,7 @@ With only one day, do the five places in Yilan City and save Jiaoxi and Toucheng
 
 ## Collecting this route with ExploreStamp
 
-Open ExploreStamp, find "Yilan City and Jiaoxi" among the themed routes and tap "Check in" at each place you reach. The app confirms you're within range, adds the place's stamp to your stamp book and records the date of your first visit. Collect all eight stamps to complete the route.
+Open ExploreStamp, find "Yilan and Jiaoxi: Foot Baths and Jimmy Liao" among the themed routes and tap "Check in" at each place you reach. The app confirms you're within range, adds the place's stamp to your stamp book and records the date of your first visit. Collect all eight stamps to complete the route.
 
 See the other routes under [Explore](/explore).
 

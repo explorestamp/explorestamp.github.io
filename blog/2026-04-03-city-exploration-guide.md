@@ -7,11 +7,11 @@ tags:
   - 城市探索
   - 打卡
   - 景點
-image: https://www.explorestamp.com/img/covers/tw-railway-classic-6.jpg
+image: https://www.explorestamp.com/img/covers/intro.jpg
 description: 探索印記是一本隨身的虛擬集章手冊。本文介紹 App 的運作方式：主題路線、定位打卡、集章冊、月曆紀錄與明信片，以及為什麼所有資料只存在你的手機上。
 ---
 
-![認識探索印記：把旅行蓋成一枚印章](/img/covers/tw-railway-classic-6.jpg)
+![認識探索印記：把旅行蓋成一枚印章](/img/covers/intro.jpg)
 
 在臺灣旅行，很多人都有蓋紀念章的習慣。車站櫃台旁、博物館出口、老街的店門口，常常放著一顆章和一盒印泥。蓋章之所以有意思，是因為它需要你真的走到那裡。
 
