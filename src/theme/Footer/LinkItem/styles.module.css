@@ -1,0 +1,71 @@
+/* footer 是深色底：按鈕用淡色細框融進 footer，展開的選單用紙色底，
+   跟頁面其他地方的卡片一樣。 */
+.switcher {
+  position: relative;
+  display: inline-block;
+}
+
+.toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 10px;
+  background: transparent;
+  color: var(--ifm-footer-link-color);
+  border: 1px solid rgba(246, 241, 231, 0.3);
+  border-radius: 6px;
+  font: inherit;
+  font-size: 0.875rem;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: border-color 0.15s, color 0.15s;
+}
+
+.toggle:hover,
+.toggle[aria-expanded="true"] {
+  color: var(--ifm-footer-link-hover-color);
+  border-color: rgba(246, 241, 231, 0.6);
+}
+
+.caret {
+  border-style: solid;
+  border-width: 0.3em 0.3em 0;
+  border-color: currentColor transparent;
+}
+
+.menu {
+  position: absolute;
+  bottom: calc(100% + 6px);
+  left: 0;
+  z-index: 10;
+  min-width: 150px;
+  margin: 0;
+  padding: 6px;
+  list-style: none;
+  background: var(--es-paper);
+  border: 1px solid var(--es-line);
+  border-radius: 8px;
+  box-shadow: 0 8px 24px rgba(43, 38, 32, 0.18);
+}
+
+.option {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 8px 10px;
+  border-radius: 6px;
+  color: var(--es-ink-soft);
+  font-size: 0.875rem;
+}
+
+.option:hover {
+  background: var(--es-paper-deep);
+  color: var(--es-ink);
+  text-decoration: none;
+}
+
+.optionActive {
+  color: var(--es-seal);
+  font-weight: 700;
+}

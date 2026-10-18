@@ -62,5 +62,9 @@
   "link.title.語言": {
     "message": "Language",
     "description": "The title of the footer links column with title=語言 in the footer"
+  },
+  "link.item.label.語言": {
+    "message": "Language",
+    "description": "Placeholder label of the footer language dropdown (not shown)"
   }
 }

@@ -875,5 +875,8 @@
   },
   "navbar.localeDropdown.ariaLabel": {
     "message": "Choose language"
+  },
+  "footer.localeDropdown.ariaLabel": {
+    "message": "Choose language"
   }
 }

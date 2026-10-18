@@ -182,8 +182,3 @@ h4 {
 .navbar__link.navbar__locale::after {
   font-size: 1rem;
 }
-
-/* footer「語言」欄目前所在的語言：不換色、加粗，看得出現在是哪一個。 */
-.footer__link-item--current {
-  font-weight: 600;
-}
