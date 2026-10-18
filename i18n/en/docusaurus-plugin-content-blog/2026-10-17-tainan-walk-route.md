@@ -1,6 +1,6 @@
 ---
 slug: tainan-walk-route
-title: "A Walk Through Tainan: Forts, an Old Station and Tofu Pudding in Two Days"
+title: "A Walk Through Tainan: Forts, an Old Station and Tofu Pudding — A Two-Day Walking Itinerary"
 authors: explorestamp
 tags:
   - 旅行

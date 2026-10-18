@@ -12,8 +12,6 @@ import RouteCards from "@site/src/components/RouteCards";
 
 ## 主題路線
 
-路線封面照片來自 [Unsplash](https://unsplash.com)，攝影師列在[感謝](/credits)頁面。
-
 ### 臺灣
 
 <RouteCards country="TW" />
@@ -95,3 +93,7 @@ import RouteCards from "@site/src/components/RouteCards";
 ## 建議新景點
 
 想推薦景點或回報資料錯誤，請來信至[聯絡信箱](mailto:explorestamp@gmail.com)。
+
+---
+
+<small>路線封面照片來自 [Unsplash](https://unsplash.com)，攝影師列在[感謝](/credits)頁面。</small>

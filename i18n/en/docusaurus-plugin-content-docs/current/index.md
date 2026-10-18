@@ -12,8 +12,6 @@ ExploreStamp currently includes 842 places: 422 in Taiwan, 240 in Japan (includi
 
 ## Themed routes
 
-Route cover photos come from [Unsplash](https://unsplash.com); the photographers are listed on the [Credits](/credits) page.
-
 ### Taiwan
 
 <RouteCards country="TW" />
@@ -95,3 +93,7 @@ When you tap "Check in" at a place, the app checks how far you are from it. The 
 ## Suggest a place
 
 To suggest a place or report a data error, please [email us](mailto:explorestamp@gmail.com).
+
+---
+
+<small>Route cover photos come from [Unsplash](https://unsplash.com); the photographers are listed on the [Credits](/credits) page.</small>
