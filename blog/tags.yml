@@ -22,3 +22,13 @@ ExploreStamp:
   label: ExploreStamp
   permalink: /explorestamp
   description: 探索印記產品介紹與更新
+
+城市尋寶:
+  label: 城市尋寶
+  permalink: /城市尋寶
+  description: 在城市裡尋找景點、收集印章
+
+探索印記:
+  label: 探索印記
+  permalink: /探索印記
+  description: 用探索印記集章的路線與景點

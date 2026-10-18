@@ -13,7 +13,7 @@ image: https://www.explorestamp.com/img/covers/tw-tainan-walk.jpg
 description: 從荷蘭時期的安平古堡、赤崁樓，到昭和年代的臺南車站、新落成的市立圖書館總館與奇美博物館，最後以一碗安平豆花收尾。探索印記「府城散策」路線的 6 個景點介紹與兩天行程建議。
 ---
 
-![府城散策：古堡、老車站與一碗豆花，臺南兩天走 6 站](/img/covers/tw-tainan-walk.jpg)
+![府城散策：古堡、老車站與一碗豆花，臺南兩天走讀推薦行程](/img/covers/tw-tainan-walk.jpg)
 
 臺南是一座適合用走的城市。四百年前荷蘭人蓋的城堡、日治時期的車站、近幾年才落成的圖書館，散落在同一張地圖上，中間夾著一家又一家的小吃店。
 

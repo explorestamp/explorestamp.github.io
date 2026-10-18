@@ -23,3 +23,13 @@ ExploreStamp:
   label: ExploreStamp
   permalink: /explorestamp
   description: ExploreStamp product news and updates
+
+城市尋寶:
+  label: City treasure hunts
+  permalink: /城市尋寶
+  description: Hunting for places and collecting stamps around the city
+
+探索印記:
+  label: Collecting with ExploreStamp
+  permalink: /探索印記
+  description: Routes and places to collect stamps with ExploreStamp
