@@ -3,16 +3,16 @@
     "id": "tw-railway-classic-6",
     "country": "TW",
     "name": {
-      "zh": "臺灣經典老車站 6 選",
-      "en": "6 Classic Taiwan Railway Stations"
+      "zh": "老車站 6 選：木造月台的時光",
+      "en": "Six Old Stations with Wooden Platforms"
     },
     "regionLabel": {
       "zh": "全臺",
       "en": "Taiwan"
     },
     "description": {
-      "zh": "從內灣到菁桐，走過六座留著木造月台與鐵道記憶的車站。",
-      "en": "Six stations that still carry the memory of Taiwan's old rail lines."
+      "zh": "從山城內灣到平溪菁桐，六座老車站還留著木造站房和手寫時刻表的味道，一站蓋一枚。",
+      "en": "From hillside Neiwan to Jingtong on the Pingxi line, six stations that still keep their wooden halls and old-railway feel."
     },
     "spotCount": 6,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-railway-classic-6.jpg"
@@ -21,16 +21,16 @@
     "id": "tw-heritage-trail",
     "country": "TW",
     "name": {
-      "zh": "古蹟尋跡：六座見證統治者更迭的建築",
-      "en": "Heritage Trail: Six Landmarks, Six Eras"
+      "zh": "古蹟尋跡：荷蘭、清朝到日治",
+      "en": "Heritage Trail: Dutch, Qing and Japanese Eras"
     },
     "regionLabel": {
       "zh": "全臺",
       "en": "Taiwan"
     },
     "description": {
-      "zh": "從艋舺老街到金門城樓，六座古蹟見證了荷蘭人、清朝與日本人先後在此留下的痕跡。",
-      "en": "From an old Taipei neighborhood to a Kinmen watchtower — six landmarks spanning the Dutch, Qing, and Japanese eras."
+      "zh": "荷蘭人的紅磚、清朝的廟宇、日治的街屋，六座古蹟串起四百年的島嶼故事。",
+      "en": "Dutch brick, Qing temples and Japanese-era shophouses: six sites that tell four hundred years of the island's story."
     },
     "spotCount": 6,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-heritage-trail.jpg"
@@ -39,16 +39,16 @@
     "id": "tw-tainan-walk",
     "country": "TW",
     "name": {
-      "zh": "府城散策",
-      "en": "A Walk Through Tainan"
+      "zh": "府城散策：古堡、老車站與一碗豆花",
+      "en": "A Walk Through Tainan: Forts, a Station and Tofu Pudding"
     },
     "regionLabel": {
       "zh": "臺南",
       "en": "Tainan"
     },
     "description": {
-      "zh": "古蹟、車站、圖書館與一碗豆花——臺南是走出來的。",
-      "en": "Forts, a station, a library, and a bowl of tofu pudding — Tainan is best explored on foot."
+      "zh": "走過荷蘭城堡和昭和車站，看完新圖書館與奇美，最後在安平吃一碗豆花收尾。",
+      "en": "A Dutch fort, a Shōwa-era station, a new library and the Chimei Museum, finished with a bowl of tofu pudding in Anping."
     },
     "spotCount": 6,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-tainan-walk.jpg"
@@ -57,16 +57,16 @@
     "id": "tw-museum-grand-tour",
     "country": "TW",
     "name": {
-      "zh": "北中南博物館巡禮",
-      "en": "Museum Grand Tour"
+      "zh": "北中南博物館：六種看世界的方式",
+      "en": "Six Museums, Six Ways to See the World"
     },
     "regionLabel": {
       "zh": "全臺",
       "en": "Taiwan"
     },
     "description": {
-      "zh": "六座館，六種看世界的方式。",
-      "en": "Six museums, six ways of looking at the world."
+      "zh": "從故宮的翠玉白菜到科博館的恐龍，北中南六座館，一趟看遍藝術、自然與海港。",
+      "en": "From jade cabbage at the Palace Museum to dinosaurs in Taichung, six museums from north to south."
     },
     "spotCount": 6,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-museum-grand-tour.jpg"
@@ -75,16 +75,16 @@
     "id": "tw-factory-day-trip",
     "country": "TW",
     "name": {
-      "zh": "觀光工廠一日遊",
-      "en": "Factory Tour Day Trip"
+      "zh": "觀光工廠：威士忌、巧克力與漢餅",
+      "en": "Factory Tours: Whisky, Chocolate and Pastry"
     },
     "regionLabel": {
       "zh": "全臺",
       "en": "Taiwan"
     },
     "description": {
-      "zh": "威士忌、巧克力、蠟筆與漢餅，六種被做出來的味道。",
-      "en": "Whisky, chocolate, crayons and pastry — six things you can watch being made."
+      "zh": "聞一聞威士忌桶、捏一塊巧克力、畫一支蠟筆，六座觀光工廠都能動手做。",
+      "en": "Smell whisky casks, shape chocolate, paint a crayon: six factories where you get to make something yourself."
     },
     "spotCount": 6,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-factory-day-trip.jpg"
@@ -93,16 +93,16 @@
     "id": "tw-quiet-reading-room",
     "country": "TW",
     "name": {
-      "zh": "島嶼閱讀",
-      "en": "Reading the Island"
+      "zh": "島嶼閱讀：六座城市最安靜的角落",
+      "en": "Island Reading: Six Quiet Libraries"
     },
     "regionLabel": {
       "zh": "全臺",
       "en": "Taiwan"
     },
     "description": {
-      "zh": "六座圖書館，六個城市最安靜的地方。",
-      "en": "Six libraries — the quietest room in six cities."
+      "zh": "森林裡的北投分館、綠美圖的玻璃書牆，六座圖書館是每座城市最安靜的角落。",
+      "en": "Beitou's library in the trees, Taichung's glass book walls: six libraries that are each city's quietest corner."
     },
     "spotCount": 6,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-quiet-reading-room.jpg"
@@ -111,16 +111,16 @@
     "id": "tw-street-food-map",
     "country": "TW",
     "name": {
-      "zh": "夜市與小吃地圖",
-      "en": "Night Markets & Street Food"
+      "zh": "夜市小吃：把臺灣吃過一遍",
+      "en": "Night Markets: Eat Your Way Around Taiwan"
     },
     "regionLabel": {
       "zh": "全臺",
       "en": "Taiwan"
     },
     "description": {
-      "zh": "從一碗麵線開始，把台灣吃過一遍。",
-      "en": "Start with a bowl of noodles and eat your way across Taiwan."
+      "zh": "一碗大腸麵線、一盤火雞肉飯、一顆包子，七站吃完，臺灣的小吃地圖就蓋滿了。",
+      "en": "Intestine noodles, turkey rice, steamed buns: seven stops and your Taiwan snack map is complete."
     },
     "spotCount": 7,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-street-food-map.jpg"
@@ -129,16 +129,16 @@
     "id": "tw-botanical-garden-picks",
     "country": "TW",
     "name": {
-      "zh": "必逛植物園清單",
-      "en": "6 Botanical Gardens and Forest Parks Worth the Trip"
+      "zh": "植物園與森林：放慢腳步呼吸",
+      "en": "Gardens and Forests to Slow Down In"
     },
     "regionLabel": {
       "zh": "全臺",
       "en": "Taiwan"
     },
     "description": {
-      "zh": "從碧潭邊的二叭子到瑞穗的樟樹林，六座植物園與森林遊樂區，適合放慢腳步、聞著草木呼吸。",
-      "en": "From a quiet garden by Bitan to a camphor forest in Ruisui — six botanical gardens and forest parks worth slowing down for."
+      "zh": "城市裡的植物園到山裡的森林遊樂區，六個地方適合放慢腳步，聞著樹的味道走一段。",
+      "en": "From city botanical gardens to mountain forest parks, six places to slow down and walk among the trees."
     },
     "spotCount": 6,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-botanical-garden-picks.jpg"
@@ -147,16 +147,16 @@
     "id": "jp-tokyo-first-visit",
     "country": "JP",
     "name": {
-      "zh": "東京初訪",
-      "en": "First Time in Tokyo"
+      "zh": "東京初訪：博物館、淺草寺與築地",
+      "en": "First Time in Tokyo: Museums, Sensō-ji and Tsukiji"
     },
     "regionLabel": {
       "zh": "東京",
       "en": "Tokyo"
     },
     "description": {
-      "zh": "從上野的博物館到淺草寺，再到築地吃一輪，六個地方認識東京。",
-      "en": "From the museum in Ueno to Senso-ji and breakfast at Tsukiji, six places to start with Tokyo."
+      "zh": "上野看國寶、淺草寺求籤、築地吃玉子燒，第一次來東京，從這六個地方開始。",
+      "en": "National treasures in Ueno, a fortune at Sensō-ji and tamagoyaki in Tsukiji: six places to start your first Tokyo trip."
     },
     "spotCount": 6,
     "coverImageUrl": "https://api.explorestamp.com/covers/jp-tokyo-first-visit.jpg"
@@ -165,16 +165,16 @@
     "id": "jp-kyoto-old-capital",
     "country": "JP",
     "name": {
-      "zh": "京都古都散策",
-      "en": "Kyoto Old Capital Walk"
+      "zh": "京都古都：千本鳥居到竹林小徑",
+      "en": "Old Kyoto: Torii Gates to the Bamboo Grove"
     },
     "regionLabel": {
       "zh": "京都",
       "en": "Kyoto"
     },
     "description": {
-      "zh": "清水寺、千本鳥居、嵐山竹林與錦市場，京都要慢慢走。",
-      "en": "Kiyomizu-dera, the torii of Fushimi Inari, the Arashiyama bamboo and Nishiki Market: Kyoto is best taken slowly."
+      "zh": "穿過千本鳥居、走進嵐山竹林、在錦市場邊走邊吃，京都要用腳慢慢認識。",
+      "en": "Walk through a thousand torii, into the Arashiyama bamboo and down Nishiki Market: Kyoto is best taken slowly, on foot."
     },
     "spotCount": 6,
     "coverImageUrl": "https://api.explorestamp.com/covers/jp-kyoto-old-capital.jpg"
@@ -183,16 +183,16 @@
     "id": "jp-osaka-day-out",
     "country": "JP",
     "name": {
-      "zh": "大阪一日遊",
-      "en": "A Day in Osaka"
+      "zh": "大阪一日：城堡、市場與自己的杯麵",
+      "en": "A Day in Osaka: Castle, Market and Your Own Cup Noodles"
     },
     "regionLabel": {
       "zh": "大阪",
       "en": "Osaka"
     },
     "description": {
-      "zh": "大阪城、黑門市場、中之島的美術館和圖書館，再去池田做一杯自己的杯麵。",
-      "en": "Osaka Castle, Kuromon Market, the museum and library on Nakanoshima, then your own Cup Noodles in Ikeda."
+      "zh": "登大阪城、在黑門市場吃海鮮，最後到池田畫一個只屬於自己的杯麵杯。",
+      "en": "Climb Osaka Castle, eat seafood in Kuromon Market, then design your own cup noodles in Ikeda."
     },
     "spotCount": 5,
     "coverImageUrl": "https://api.explorestamp.com/covers/jp-osaka-day-out.jpg"
@@ -201,7 +201,7 @@
     "id": "jp-hokkaido-sweets-beer-flowers",
     "country": "JP",
     "name": {
-      "zh": "北海道：甜點、啤酒與花田",
+      "zh": "北海道：甜點、啤酒與薰衣草",
       "en": "Hokkaido: Sweets, Beer and Lavender"
     },
     "regionLabel": {
@@ -209,8 +209,8 @@
       "en": "Hokkaido"
     },
     "description": {
-      "zh": "札幌的白色戀人與啤酒博物館、小樽的老車站，夏天再到富良野看薰衣草。",
-      "en": "Shiroi Koibito and the beer museum in Sapporo, Otaru's old station, and Furano's lavender in summer."
+      "zh": "白色戀人的工廠、札幌啤酒的紅磚館、小樽老車站，夏天再到富良野看紫色花田。",
+      "en": "The Shiroi Koibito factory, Sapporo's red-brick beer museum and Otaru's old station, with Furano's lavender in summer."
     },
     "spotCount": 5,
     "coverImageUrl": "https://api.explorestamp.com/covers/jp-hokkaido-sweets-beer-flowers.jpg"
@@ -219,16 +219,16 @@
     "id": "jp-okinawa-island-loop",
     "country": "JP",
     "name": {
-      "zh": "沖繩本島巡禮",
-      "en": "Okinawa Main Island Loop"
+      "zh": "沖繩本島：首里城一路到美麗海",
+      "en": "Okinawa Loop: Shuri Castle to Churaumi"
     },
     "regionLabel": {
       "zh": "沖繩",
       "en": "Okinawa"
     },
     "description": {
-      "zh": "從那霸的首里城和市場，一路往北到萬座毛與美麗海水族館。",
-      "en": "From Shuri Castle and the markets of Naha north to Cape Manzamo and the Churaumi Aquarium."
+      "zh": "從首里城和那霸市場出發，一路往北到萬座毛的斷崖和美麗海的鯨鯊。",
+      "en": "From Shuri Castle and Naha's market up the coast to the cliffs of Manzamo and the whale sharks at Churaumi."
     },
     "spotCount": 8,
     "coverImageUrl": "https://api.explorestamp.com/covers/jp-okinawa-island-loop.jpg"
@@ -237,16 +237,16 @@
     "id": "jp-market-food-walk",
     "country": "JP",
     "name": {
-      "zh": "日本市場吃一輪",
-      "en": "Japan Market Food Walk"
+      "zh": "日本市場：邊走邊吃四座市場",
+      "en": "Four Japanese Markets to Snack Through"
     },
     "regionLabel": {
       "zh": "日本",
       "en": "Japan"
     },
     "description": {
-      "zh": "築地、錦市場、黑門市場到牧志公設市場，四座市場邊走邊吃。",
-      "en": "Tsukiji, Nishiki, Kuromon and Makishi: four markets to eat your way through."
+      "zh": "東京、京都、大阪、那霸各一座市場，空著肚子去，邊走邊吃蓋滿四枚章。",
+      "en": "One market each in Tokyo, Kyoto, Osaka and Naha: come hungry and eat your way to four stamps."
     },
     "spotCount": 4,
     "coverImageUrl": "https://api.explorestamp.com/covers/jp-market-food-walk.jpg"
@@ -255,16 +255,16 @@
     "id": "mo-heritage-walk",
     "country": "MO",
     "name": {
-      "zh": "澳門世遺散步",
-      "en": "Macao Heritage Walk"
+      "zh": "澳門世遺：大三巴走到一顆蛋塔",
+      "en": "Macao Heritage: From the Ruins to an Egg Tart"
     },
     "regionLabel": {
       "zh": "澳門",
       "en": "Macao"
     },
     "description": {
-      "zh": "從大三巴、議事亭前地到媽閣廟，再去氹仔看葡式老房子，最後在路環吃一顆蛋塔。",
-      "en": "From the Ruins of St. Paul's and Senado Square to A-Ma Temple, then the Taipa Houses and an egg tart in Coloane."
+      "zh": "從大三巴的石階走過葡式碎石路和老炮台，一路到路環，最後咬一口剛出爐的蛋塔。",
+      "en": "Up the steps of St Paul's, along Portuguese mosaic streets and old forts, ending with a warm egg tart in Coloane."
     },
     "spotCount": 8,
     "coverImageUrl": "https://api.explorestamp.com/covers/mo-heritage-walk.jpg"
@@ -273,16 +273,16 @@
     "id": "kr-seoul-palaces-old-streets",
     "country": "KR",
     "name": {
-      "zh": "首爾宮殿與老街",
-      "en": "Seoul Palaces and Old Streets"
+      "zh": "首爾宮殿與韓屋村",
+      "en": "Seoul's Palaces and Hanok Lanes"
     },
     "regionLabel": {
       "zh": "首爾",
       "en": "Seoul"
     },
     "description": {
-      "zh": "從景福宮走進北村韓屋村，再到舊首爾站、舊市廳和國立中央博物館，看首爾的過去。",
-      "en": "From Gyeongbokgung into the hanok lanes of Bukchon, then the old Seoul Station, the old City Hall and the National Museum of Korea."
+      "zh": "在景福宮看守門將換崗，走進北村的韓屋巷弄，再到老首爾站看這座城的過去。",
+      "en": "Watch the guard change at Gyeongbokgung, wander Bukchon's hanok lanes, then see old Seoul at the former station."
     },
     "spotCount": 5,
     "coverImageUrl": "https://api.explorestamp.com/covers/kr-seoul-palaces-old-streets.jpg"
@@ -291,16 +291,16 @@
     "id": "kr-seoul-design-markets",
     "country": "KR",
     "name": {
-      "zh": "首爾設計、書牆與市場",
-      "en": "Seoul Design, Books and Markets"
+      "zh": "首爾：書牆、市場與南山夜景",
+      "en": "Seoul: Book Walls, Markets and Namsan at Night"
     },
     "regionLabel": {
       "zh": "首爾",
       "en": "Seoul"
     },
     "description": {
-      "zh": "東大門設計廣場、星空圖書館、廣藏市場，沿清溪川散步，最後上南山看夜景。",
-      "en": "Dongdaemun Design Plaza, Starfield Library and Gwangjang Market, a walk along Cheonggyecheon, then up Namsan for the view."
+      "zh": "東大門的銀色曲面、星空圖書館的書牆、廣藏市場的綠豆煎餅，晚上再上南山看夜景。",
+      "en": "Silver curves at DDP, the Starfield book walls, mung-bean pancakes at Gwangjang, then the night view from Namsan."
     },
     "spotCount": 5,
     "coverImageUrl": "https://api.explorestamp.com/covers/kr-seoul-design-markets.jpg"
@@ -309,16 +309,16 @@
     "id": "kr-busan-harbor",
     "country": "KR",
     "name": {
-      "zh": "釜山海港散策",
-      "en": "Busan Harbour Walk"
+      "zh": "釜山：魚市場、甘川洞與海岸列車",
+      "en": "Busan: Fish Market, Gamcheon and the Coastal Train"
     },
     "regionLabel": {
       "zh": "釜山",
       "en": "Busan"
     },
     "description": {
-      "zh": "從札嘎其市場和甘川洞文化村，到太宗台的斷崖、海雲台的海岸列車和海邊的龍宮寺。",
-      "en": "From Jagalchi Market and Gamcheon Culture Village to the cliffs of Taejongdae, the Haeundae seaside train and the temple by the sea."
+      "zh": "札嘎其的海鮮、甘川洞的彩色山城、太宗台的斷崖，最後到海邊的龍宮寺聽浪。",
+      "en": "Seafood at Jagalchi, the colourful hills of Gamcheon, the cliffs of Taejongdae and a temple right on the waves."
     },
     "spotCount": 6,
     "coverImageUrl": "https://api.explorestamp.com/covers/kr-busan-harbor.jpg"
@@ -327,16 +327,16 @@
     "id": "kr-jeju-island",
     "country": "KR",
     "name": {
-      "zh": "濟州島一圈",
-      "en": "Around Jeju Island"
+      "zh": "濟州島：日出峰、茶園與海岬",
+      "en": "Jeju: Sunrise Peak, Tea Fields and Sea Cliffs"
     },
     "regionLabel": {
       "zh": "濟州",
       "en": "Jeju"
     },
     "description": {
-      "zh": "城山日出峰看日出、涉地可支走海岬，再到茶園喝綠茶、東門市場吃宵夜。",
-      "en": "Sunrise at Seongsan Ilchulbong, the Seopjikoji headland, green tea among the fields and a late snack at Dongmun Market."
+      "zh": "清晨爬上城山日出峰，沿涉地可支的海岬散步，再到綠茶園和東門市場吃一輪。",
+      "en": "Climb Seongsan for sunrise, walk the Seopjikoji headland, then green tea fields and Dongmun Market."
     },
     "spotCount": 4,
     "coverImageUrl": "https://api.explorestamp.com/covers/kr-jeju-island.jpg"
@@ -345,16 +345,16 @@
     "id": "hk-first-visit",
     "country": "HK",
     "name": {
-      "zh": "香港初訪",
-      "en": "First Time in Hong Kong"
+      "zh": "香港初訪：山頂纜車與廟街",
+      "en": "First Time in Hong Kong: Peak Tram and Temple Street"
     },
     "regionLabel": {
       "zh": "香港",
       "en": "Hong Kong"
     },
     "description": {
-      "zh": "西九的兩座博物館、尖沙咀鐘樓，搭山頂纜車上太平山，晚上逛廟街。",
-      "en": "The two museums in West Kowloon, the Tsim Sha Tsui clock tower, the Peak Tram up to Victoria Peak and Temple Street at night."
+      "zh": "西九的兩座新博物館、尖沙咀鐘樓，搭纜車上山頂看維港，晚上到廟街吃煲仔飯。",
+      "en": "Two new museums in West Kowloon, the clock tower, the Peak Tram up to the harbour view and Temple Street at night."
     },
     "spotCount": 6,
     "coverImageUrl": "https://api.explorestamp.com/covers/hk-first-visit.jpg"
@@ -363,16 +363,16 @@
     "id": "hk-old-streets-temples",
     "country": "HK",
     "name": {
-      "zh": "香港老街與廟宇",
-      "en": "Hong Kong Old Streets and Temples"
+      "zh": "香港老街、廟宇與天壇大佛",
+      "en": "Hong Kong's Old Streets, Temples and the Big Buddha"
     },
     "regionLabel": {
       "zh": "香港",
       "en": "Hong Kong"
     },
     "description": {
-      "zh": "上環文武廟、結志街的絲襪奶茶、大埔舊車站，再到大嶼山看天壇大佛。",
-      "en": "Man Mo Temple, milk tea on Gage Street, the old Tai Po station and the Big Buddha on Lantau."
+      "zh": "文武廟的盤香、一杯絲襪奶茶、大埔的老火車站，再上大嶼山看天壇大佛。",
+      "en": "Incense coils at Man Mo, a cup of silk-stocking milk tea, the old Tai Po station and the Big Buddha on Lantau."
     },
     "spotCount": 6,
     "coverImageUrl": "https://api.explorestamp.com/covers/hk-old-streets-temples.jpg"
@@ -381,16 +381,16 @@
     "id": "au-sydney-harbour-city",
     "country": "AU",
     "name": {
-      "zh": "雪梨港灣城市",
-      "en": "Sydney Harbour City"
+      "zh": "雪梨港：歌劇院與岩石區",
+      "en": "Sydney Harbour: The Opera House and The Rocks"
     },
     "regionLabel": {
       "zh": "雪梨",
       "en": "Sydney"
     },
     "description": {
-      "zh": "從歌劇院、岩石區到皇家植物園，再去維多利亞女王大廈和新的雪梨魚市場。",
-      "en": "From the Opera House and The Rocks to the Royal Botanic Garden, then the QVB and the new Sydney Fish Market."
+      "zh": "從歌劇院的白色風帆走進岩石區老街，再到植物園、維多利亞女王大廈和新魚市場。",
+      "en": "From the Opera House sails into The Rocks, then the botanic garden, the QVB and the new fish market."
     },
     "spotCount": 7,
     "coverImageUrl": "https://api.explorestamp.com/covers/au-sydney-harbour-city.jpg"
@@ -399,16 +399,16 @@
     "id": "au-melbourne-laneways-museums",
     "country": "AU",
     "name": {
-      "zh": "墨爾本巷弄與博物館",
-      "en": "Melbourne Laneways and Museums"
+      "zh": "墨爾本：巷弄、圖書館與市場",
+      "en": "Melbourne: Laneways, Library and Market"
     },
     "regionLabel": {
       "zh": "墨爾本",
       "en": "Melbourne"
     },
     "description": {
-      "zh": "福林德斯街車站出發，走到州立圖書館、維多利亞女王市場和皇家展覽館。",
-      "en": "Start at Flinders Street Station, then the State Library, Queen Victoria Market and the Royal Exhibition Building."
+      "zh": "從福林德斯街車站出發，鑽進咖啡巷弄，走到州立圖書館的圓頂閱覽室和女王市場。",
+      "en": "Start at Flinders Street, duck through coffee laneways and end at the domed library and Queen Victoria Market."
     },
     "spotCount": 6,
     "coverImageUrl": "https://api.explorestamp.com/covers/au-melbourne-laneways-museums.jpg"
@@ -417,16 +417,16 @@
     "id": "au-queensland-brisbane-cairns",
     "country": "AU",
     "name": {
-      "zh": "昆士蘭：布里斯本與凱恩斯",
-      "en": "Queensland: Brisbane and Cairns"
+      "zh": "昆士蘭：抱無尾熊、搭火車上山",
+      "en": "Queensland: Koalas and a Train to Kuranda"
     },
     "regionLabel": {
       "zh": "昆士蘭",
       "en": "Queensland"
     },
     "description": {
-      "zh": "布里斯本的南岸公園、無尾熊和啤酒廠，再到凱恩斯搭觀光火車上庫蘭達。",
-      "en": "South Bank, koalas and a brewery in Brisbane, then the scenic railway up to Kuranda from Cairns."
+      "zh": "在布里斯本抱無尾熊、喝 XXXX 啤酒，再到凱恩斯搭百年觀光火車上庫蘭達。",
+      "en": "Meet koalas and taste XXXX in Brisbane, then ride the century-old railway up to Kuranda from Cairns."
     },
     "spotCount": 7,
     "coverImageUrl": "https://api.explorestamp.com/covers/au-queensland-brisbane-cairns.jpg"
@@ -435,16 +435,16 @@
     "id": "nz-north-island",
     "country": "NZ",
     "name": {
-      "zh": "紐西蘭北島",
-      "en": "New Zealand North Island"
+      "zh": "紐西蘭北島：火山、哈比村與地熱",
+      "en": "North Island: Volcanoes, Hobbiton and Hot Springs"
     },
     "regionLabel": {
       "zh": "北島",
       "en": "North Island"
     },
     "description": {
-      "zh": "奧克蘭的博物館、火山丘和魚市場，再去哈比村和羅托魯瓦的地熱谷。",
-      "en": "Auckland's museum, volcano and fish market, then Hobbiton and the geothermal valley at Rotorua."
+      "zh": "奧克蘭的火山丘和魚市場，再到哈比村的圓門小屋和羅托魯瓦冒煙的地熱谷。",
+      "en": "Auckland's volcanic cones and fish market, then Hobbiton's round doors and the steaming valley at Rotorua."
     },
     "spotCount": 7,
     "coverImageUrl": "https://api.explorestamp.com/covers/nz-north-island.jpg"
@@ -453,16 +453,16 @@
     "id": "nz-south-island",
     "country": "NZ",
     "name": {
-      "zh": "紐西蘭南島",
-      "en": "New Zealand South Island"
+      "zh": "紐西蘭南島：纜車、漢堡與湖畔教堂",
+      "en": "South Island: Gondola, Burgers and a Lakeside Church"
     },
     "regionLabel": {
       "zh": "南島",
       "en": "South Island"
     },
     "description": {
-      "zh": "基督城火車站和植物園，皇后鎮的天空纜車與漢堡，最後到蒂卡波湖畔的小教堂。",
-      "en": "Christchurch's station and gardens, the Skyline and a burger in Queenstown, then the chapel on Lake Tekapo."
+      "zh": "基督城的老車站和植物園，皇后鎮搭纜車、吃一個大漢堡，再到蒂卡波看湖邊小教堂。",
+      "en": "Christchurch's old station and gardens, a gondola and a big burger in Queenstown, then the lakeside church at Tekapo."
     },
     "spotCount": 5,
     "coverImageUrl": "https://api.explorestamp.com/covers/nz-south-island.jpg"
@@ -471,16 +471,16 @@
     "id": "pl-warsaw-old-and-new",
     "country": "PL",
     "name": {
-      "zh": "華沙新舊城",
-      "en": "Warsaw, Old and New"
+      "zh": "華沙：重建的老城與新的華沙",
+      "en": "Warsaw: The Rebuilt Old Town and the New City"
     },
     "regionLabel": {
       "zh": "華沙",
       "en": "Warsaw"
     },
     "description": {
-      "zh": "戰後重建的老城與皇家城堡、猶太人歷史博物館，再到屋頂花園和美食市集。",
-      "en": "The rebuilt Old Town and Royal Castle, the POLIN museum, a rooftop library garden and a food hall."
+      "zh": "戰後一磚一瓦重建的老城，加上猶太人歷史博物館和屋頂花園，看華沙怎麼重新站起來。",
+      "en": "An old town rebuilt brick by brick, a museum of Polish Jewish history and a rooftop garden: how Warsaw rose again."
     },
     "spotCount": 6,
     "coverImageUrl": "https://api.explorestamp.com/covers/pl-warsaw-old-and-new.jpg"
@@ -489,16 +489,16 @@
     "id": "pl-krakow-royal-city",
     "country": "PL",
     "name": {
-      "zh": "克拉科夫與鹽礦",
-      "en": "Kraków and the Salt Mine"
+      "zh": "克拉科夫：王城與地下鹽礦",
+      "en": "Kraków: Royal City and the Salt Mine"
     },
     "regionLabel": {
       "zh": "克拉科夫",
       "en": "Kraków"
     },
     "description": {
-      "zh": "中央廣場、聖母聖殿和瓦維爾城堡，猶太區吃烤法棍披薩，再到維利奇卡鹽礦。",
-      "en": "The Main Market Square, St. Mary's and Wawel, zapiekanka in Kazimierz, then the Wieliczka Salt Mine."
+      "zh": "中央廣場的號角聲、瓦維爾的王城，再下到維利奇卡鹽礦看鹽雕的教堂。",
+      "en": "The bugle call over the main square, Wawel's royal hill and a chapel carved from salt deep in Wieliczka."
     },
     "spotCount": 7,
     "coverImageUrl": "https://api.explorestamp.com/covers/pl-krakow-royal-city.jpg"
@@ -507,16 +507,16 @@
     "id": "gb-london-museums-landmarks",
     "country": "GB",
     "name": {
-      "zh": "倫敦博物館與地標",
-      "en": "London Museums and Landmarks"
+      "zh": "倫敦：博物館、倫敦塔與倫敦眼",
+      "en": "London: Museums, the Tower and the Eye"
     },
     "regionLabel": {
       "zh": "倫敦",
       "en": "London"
     },
     "description": {
-      "zh": "大英博物館、國家美術館、倫敦塔和西敏寺，再搭倫敦眼、到邱園散步。",
-      "en": "The British Museum, the National Gallery, the Tower and Westminster Abbey, then the London Eye and a walk in Kew."
+      "zh": "大英博物館的羅塞塔石碑、倫敦塔的王冠，再搭倫敦眼、到邱園的溫室散步。",
+      "en": "The Rosetta Stone, the Crown Jewels, a turn on the London Eye and a walk through the glasshouses at Kew."
     },
     "spotCount": 7,
     "coverImageUrl": "https://api.explorestamp.com/covers/gb-london-museums-landmarks.jpg"
@@ -525,16 +525,16 @@
     "id": "gb-london-books-markets",
     "country": "GB",
     "name": {
-      "zh": "倫敦書店、市集與車站",
-      "en": "London Books, Markets and Stations"
+      "zh": "倫敦：書店、市集與老車站",
+      "en": "London: Bookshops, Markets and Stations"
     },
     "regionLabel": {
       "zh": "倫敦",
       "en": "London"
     },
     "description": {
-      "zh": "大英圖書館和 Daunt Books、波羅市場和哈洛德百貨，從希斯洛機場到聖潘克拉斯車站。",
-      "en": "The British Library and Daunt Books, Borough Market and Harrods, from Heathrow to St Pancras."
+      "zh": "大英圖書館、Daunt Books 的綠色書架、波羅市場的小吃，在聖潘克拉斯的大鐘下結束。",
+      "en": "The British Library, Daunt Books' green shelves and Borough Market, ending under the clock at St Pancras."
     },
     "spotCount": 6,
     "coverImageUrl": "https://api.explorestamp.com/covers/gb-london-books-markets.jpg"
@@ -543,16 +543,16 @@
     "id": "gb-edinburgh",
     "country": "GB",
     "name": {
-      "zh": "愛丁堡一日",
-      "en": "A Day in Edinburgh"
+      "zh": "愛丁堡：城堡、威士忌與亞瑟王座",
+      "en": "Edinburgh: Castle, Whisky and Arthur's Seat"
     },
     "regionLabel": {
       "zh": "愛丁堡",
       "en": "Edinburgh"
     },
     "description": {
-      "zh": "城堡、皇家哩大道上的威士忌，最後爬上亞瑟王座看整座城。",
-      "en": "The castle, whisky on the Royal Mile, then up Arthur's Seat for the view."
+      "zh": "從城堡沿皇家哩大道走下來，喝一杯蘇格蘭威士忌，最後爬上亞瑟王座看整座城。",
+      "en": "Walk down the Royal Mile from the castle, taste Scotch on the way and climb Arthur's Seat for the whole city."
     },
     "spotCount": 3,
     "coverImageUrl": "https://api.explorestamp.com/covers/gb-edinburgh.jpg"
@@ -561,16 +561,16 @@
     "id": "us-nyc-classics",
     "country": "US",
     "name": {
-      "zh": "紐約經典",
-      "en": "New York Classics"
+      "zh": "紐約經典：自由女神到中央公園",
+      "en": "Classic New York: Liberty to Central Park"
     },
     "regionLabel": {
       "zh": "紐約",
       "en": "New York"
     },
     "description": {
-      "zh": "自由女神、帝國大廈、中央車站和中央公園，再看大都會與自然史博物館。",
-      "en": "The Statue of Liberty, the Empire State Building, Grand Central and Central Park, then the Met and the natural history museum."
+      "zh": "搭船看自由女神、登帝國大廈、穿過中央車站的大廳，再到中央公園和博物館。",
+      "en": "Take the ferry to Liberty, go up the Empire State, cross Grand Central's concourse and finish in Central Park."
     },
     "spotCount": 6,
     "coverImageUrl": "https://api.explorestamp.com/covers/us-nyc-classics.jpg"
@@ -579,16 +579,16 @@
     "id": "us-nyc-books-markets",
     "country": "US",
     "name": {
-      "zh": "紐約書店與市集",
-      "en": "New York Books and Markets"
+      "zh": "紐約：石獅、書店與市集",
+      "en": "New York: Library Lions, Bookshops and Markets"
     },
     "regionLabel": {
       "zh": "紐約",
       "en": "New York"
     },
     "description": {
-      "zh": "公共圖書館的石獅、Strand 書店、雀兒喜市場，晚上到麥迪遜廣場花園看球。",
-      "en": "The library lions, Strand, Chelsea Market, and a game at Madison Square Garden."
+      "zh": "跟公共圖書館的石獅子打招呼，逛 Strand 的十八英里書架，晚上到麥迪遜廣場花園。",
+      "en": "Say hello to the library lions, browse Strand's eighteen miles of books and catch a game at the Garden."
     },
     "spotCount": 4,
     "coverImageUrl": "https://api.explorestamp.com/covers/us-nyc-books-markets.jpg"
@@ -597,16 +597,16 @@
     "id": "us-sf-bay",
     "country": "US",
     "name": {
-      "zh": "舊金山灣區",
-      "en": "San Francisco Bay"
+      "zh": "舊金山：金門大橋與惡魔島",
+      "en": "San Francisco: Golden Gate and Alcatraz"
     },
     "regionLabel": {
       "zh": "舊金山",
       "en": "San Francisco"
     },
     "description": {
-      "zh": "金門大橋、渡輪大廈市集、搭船上惡魔島，最後在北灘喝一杯咖啡。",
-      "en": "The Golden Gate Bridge, the Ferry Building, a boat to Alcatraz and a coffee in North Beach."
+      "zh": "走上金門大橋、在渡輪大廈吃生蠔，搭船登惡魔島，最後在北灘喝一杯義式咖啡。",
+      "en": "Walk the Golden Gate, eat oysters at the Ferry Building, take the boat to Alcatraz and end with espresso in North Beach."
     },
     "spotCount": 4,
     "coverImageUrl": "https://api.explorestamp.com/covers/us-sf-bay.jpg"
@@ -615,16 +615,16 @@
     "id": "us-la-parks-museums",
     "country": "US",
     "name": {
-      "zh": "洛杉磯樂園與博物館",
-      "en": "Los Angeles Parks and Museums"
+      "zh": "洛杉磯：天文台、美術館與樂園",
+      "en": "Los Angeles: Observatory, Art and Theme Parks"
     },
     "regionLabel": {
       "zh": "洛杉磯",
       "en": "Los Angeles"
     },
     "description": {
-      "zh": "格里菲斯天文台和蓋蒂中心，再去迪士尼樂園和環球影城。",
-      "en": "Griffith Observatory and the Getty Center, then Disneyland and Universal Studios."
+      "zh": "在格里菲斯天文台看好萊塢標誌，到蓋蒂中心看花園，再去迪士尼和環球影城。",
+      "en": "See the Hollywood sign from Griffith Observatory, the gardens at the Getty, then Disneyland and Universal."
     },
     "spotCount": 4,
     "coverImageUrl": "https://api.explorestamp.com/covers/us-la-parks-museums.jpg"
@@ -633,16 +633,16 @@
     "id": "us-seattle",
     "country": "US",
     "name": {
-      "zh": "西雅圖",
-      "en": "Seattle"
+      "zh": "西雅圖：拋魚市場與太空針",
+      "en": "Seattle: Flying Fish and the Space Needle"
     },
     "regionLabel": {
       "zh": "西雅圖",
       "en": "Seattle"
     },
     "description": {
-      "zh": "派克市場看魚販拋魚，再上太空針塔。",
-      "en": "Fish-throwing at Pike Place Market, then up the Space Needle."
+      "zh": "在派克市場看魚販把鮭魚拋過櫃台，再上太空針塔看雷尼爾山。",
+      "en": "Watch fishmongers throw salmon at Pike Place, then ride up the Space Needle for Mount Rainier."
     },
     "spotCount": 2,
     "coverImageUrl": "https://api.explorestamp.com/covers/us-seattle.jpg"
@@ -659,8 +659,8 @@
       "en": "Ontario"
     },
     "description": {
-      "zh": "CN 塔、皇家安大略博物館、聖勞倫斯市場和卡薩羅馬城堡，再去看馬蹄瀑布。",
-      "en": "The CN Tower, the ROM, St. Lawrence Market and Casa Loma, then Horseshoe Falls."
+      "zh": "登上 CN 塔、逛聖勞倫斯市場和卡薩羅馬城堡，再到尼加拉站在馬蹄瀑布的水霧裡。",
+      "en": "Up the CN Tower, through St. Lawrence Market and Casa Loma, then into the mist at Horseshoe Falls."
     },
     "spotCount": 6,
     "coverImageUrl": "https://api.explorestamp.com/covers/ca-toronto-niagara.jpg"
@@ -669,16 +669,16 @@
     "id": "ca-vancouver",
     "country": "CA",
     "name": {
-      "zh": "溫哥華",
-      "en": "Vancouver"
+      "zh": "溫哥華：圖騰柱、市場與吊橋",
+      "en": "Vancouver: Totems, Market and the Suspension Bridge"
     },
     "regionLabel": {
       "zh": "溫哥華",
       "en": "Vancouver"
     },
     "description": {
-      "zh": "史丹利公園的圖騰柱與水族館、格蘭維爾島市場，再走一趟卡皮拉諾吊橋。",
-      "en": "Stanley Park's totem poles and aquarium, Granville Island Market and the Capilano Suspension Bridge."
+      "zh": "史丹利公園的圖騰柱、格蘭維爾島的市場，再走過卡皮拉諾高空吊橋。",
+      "en": "Totem poles in Stanley Park, the market on Granville Island and the swaying Capilano Suspension Bridge."
     },
     "spotCount": 4,
     "coverImageUrl": "https://api.explorestamp.com/covers/ca-vancouver.jpg"
@@ -687,16 +687,16 @@
     "id": "ca-quebec-montreal",
     "country": "CA",
     "name": {
-      "zh": "魁北克與蒙特婁",
-      "en": "Québec and Montréal"
+      "zh": "魁北克與蒙特婁：法式老城",
+      "en": "Québec and Montréal: The French Old Towns"
     },
     "regionLabel": {
       "zh": "魁北克",
       "en": "Québec"
     },
     "description": {
-      "zh": "蒙特婁聖母大教堂的藍色拱頂，和魁北克舊城上的芳堤娜城堡。",
-      "en": "The blue vaults of Notre-Dame in Montréal and the Château Frontenac above Old Québec."
+      "zh": "蒙特婁聖母大教堂的藍色星空拱頂，魁北克舊城上的芳堤娜城堡，像走進一座法國小城。",
+      "en": "The blue starry vault of Notre-Dame in Montréal and Château Frontenac above old Québec, a little piece of France."
     },
     "spotCount": 2,
     "coverImageUrl": "https://api.explorestamp.com/covers/ca-quebec-montreal.jpg"
@@ -705,16 +705,16 @@
     "id": "eg-cairo-giza-alexandria",
     "country": "EG",
     "name": {
-      "zh": "開羅、吉薩與亞歷山大港",
-      "en": "Cairo, Giza and Alexandria"
+      "zh": "開羅與吉薩：站到金字塔前",
+      "en": "Cairo and Giza: Stand Before the Pyramids"
     },
     "regionLabel": {
       "zh": "埃及",
       "en": "Egypt"
     },
     "description": {
-      "zh": "金字塔與大埃及博物館、開羅老城的市集和清真寺，再到海邊的亞歷山大圖書館。",
-      "en": "The pyramids and the Grand Egyptian Museum, old Cairo's bazaar and mosque, then the library by the sea in Alexandria."
+      "zh": "站到吉薩金字塔前，看大埃及博物館的法老寶藏，逛開羅老市集，再到海邊的亞歷山大圖書館。",
+      "en": "Stand before the Giza pyramids, see the pharaohs' treasures, wander old Cairo's bazaar and visit the library by the sea."
     },
     "spotCount": 7,
     "coverImageUrl": "https://api.explorestamp.com/covers/eg-cairo-giza-alexandria.jpg"
@@ -723,16 +723,16 @@
     "id": "eg-nile-temples",
     "country": "EG",
     "name": {
-      "zh": "尼羅河神殿",
-      "en": "Nile Temples"
+      "zh": "尼羅河神殿：路克索到阿布辛貝",
+      "en": "Nile Temples: Luxor to Abu Simbel"
     },
     "regionLabel": {
       "zh": "尼羅河",
       "en": "Nile"
     },
     "description": {
-      "zh": "路克索的卡納克神廟和帝王谷，一路往南到阿布辛貝神殿。",
-      "en": "Karnak and the Valley of the Kings at Luxor, then south to Abu Simbel."
+      "zh": "卡納克的巨柱廳、帝王谷的彩繪墓室，一路往南到阿布辛貝的四尊巨像。",
+      "en": "The great hall of columns at Karnak, painted tombs in the Valley of the Kings and the four colossi of Abu Simbel."
     },
     "spotCount": 3,
     "coverImageUrl": "https://api.explorestamp.com/covers/eg-nile-temples.jpg"
@@ -741,16 +741,16 @@
     "id": "campus-asia-pacific",
     "country": "multi",
     "name": {
-      "zh": "亞太大學校園巡禮",
-      "en": "Asia-Pacific University Campuses"
+      "zh": "亞太名校：在校門口蓋一枚章",
+      "en": "Great Campuses of Asia-Pacific"
     },
     "regionLabel": {
       "zh": "亞太",
       "en": "Asia-Pacific"
     },
     "description": {
-      "zh": "從臺大椰林大道、東大赤門、京大時計台，到港大、延世、雪梨和墨爾本大學。",
-      "en": "From NTU's palm avenue, UTokyo's Red Gate and Kyoto's clock tower to HKU, Yonsei, Sydney and Melbourne."
+      "zh": "臺大的椰林大道、東大赤門、京大時計台，到港大、延世和雪梨、墨爾本，每所名校蓋一枚。",
+      "en": "NTU's palm boulevard, UTokyo's Red Gate, Kyoto's clock tower and more: one stamp at each great campus."
     },
     "spotCount": 8,
     "coverImageUrl": "https://api.explorestamp.com/covers/campus-asia-pacific.jpg"
@@ -759,16 +759,16 @@
     "id": "no-oslo",
     "country": "NO",
     "name": {
-      "zh": "奧斯陸",
-      "en": "Oslo"
+      "zh": "奧斯陸：走上歌劇院屋頂",
+      "en": "Oslo: Walk Up the Opera House Roof"
     },
     "regionLabel": {
       "zh": "奧斯陸",
       "en": "Oslo"
     },
     "description": {
-      "zh": "走上歌劇院的屋頂、看孟克的《吶喊》和維格蘭雕塑公園，再到美食市集吃一輪。",
-      "en": "Walk up the Opera House roof, see Munch and the Vigeland sculptures, then eat at Mathallen."
+      "zh": "走上歌劇院的白色斜屋頂，看孟克的《吶喊》和維格蘭雕塑，再到市集吃一輪。",
+      "en": "Walk up the Opera House's sloping roof, see Munch's Scream and the Vigeland sculptures, then eat at the food hall."
     },
     "spotCount": 8,
     "coverImageUrl": "https://api.explorestamp.com/covers/no-oslo.jpg"
@@ -777,16 +777,16 @@
     "id": "no-fjords-arctic",
     "country": "NO",
     "name": {
-      "zh": "挪威峽灣與北極",
-      "en": "Norwegian Fjords and the Arctic"
+      "zh": "挪威峽灣到北極圈",
+      "en": "Norway: Fjords to the Arctic Circle"
     },
     "regionLabel": {
       "zh": "挪威",
       "en": "Norway"
     },
     "description": {
-      "zh": "卑爾根的布呂根木屋和魚市場、搭纜車上弗洛伊恩山，再搭弗洛姆鐵道，最後到北極圈的特羅姆瑟。",
-      "en": "Bergen's Bryggen and fish market, the funicular up Fløyen, the Flåm Railway, then Tromsø above the Arctic Circle."
+      "zh": "卑爾根的彩色木屋和魚市場，搭弗洛姆鐵道穿過峽灣，最後到北極圈的特羅姆瑟。",
+      "en": "Bergen's coloured wharf houses and fish market, the Flåm Railway through the fjords and on to Arctic Tromsø."
     },
     "spotCount": 5,
     "coverImageUrl": "https://api.explorestamp.com/covers/no-fjords-arctic.jpg"
@@ -795,16 +795,16 @@
     "id": "se-stockholm-gothenburg",
     "country": "SE",
     "name": {
-      "zh": "斯德哥爾摩與哥德堡",
-      "en": "Stockholm and Gothenburg"
+      "zh": "斯德哥爾摩：沉船、舊城與肉桂捲",
+      "en": "Stockholm: A Warship, the Old Town and Cinnamon Buns"
     },
     "regionLabel": {
       "zh": "瑞典",
       "en": "Sweden"
     },
     "description": {
-      "zh": "舊城大廣場、市政廳、瓦薩沉船和斯堪森，喝杯咖啡配肉桂捲，再到哥德堡的遊樂園。",
-      "en": "Gamla Stan, City Hall, the Vasa and Skansen, a coffee and cinnamon bun, then Liseberg in Gothenburg."
+      "zh": "舊城廣場的彩色房子、瓦薩沉船、一杯咖啡配肉桂捲，再到哥德堡坐雲霄飛車。",
+      "en": "Coloured houses in Gamla stan, the Vasa warship, coffee and a cinnamon bun, then rollercoasters in Gothenburg."
     },
     "spotCount": 10,
     "coverImageUrl": "https://api.explorestamp.com/covers/se-stockholm-gothenburg.jpg"
@@ -813,16 +813,16 @@
     "id": "fi-helsinki",
     "country": "FI",
     "name": {
-      "zh": "赫爾辛基",
-      "en": "Helsinki"
+      "zh": "赫爾辛基：教堂、圖書館與海上要塞",
+      "en": "Helsinki: Churches, a Library and a Sea Fortress"
     },
     "regionLabel": {
       "zh": "赫爾辛基",
       "en": "Helsinki"
     },
     "description": {
-      "zh": "白色大教堂、岩石教堂、Oodi 圖書館和老市場大廳，搭渡輪到芬蘭堡，最後在海邊小木屋喝咖啡。",
-      "en": "The white cathedral, the Rock Church, Oodi and the Old Market Hall, a ferry to Suomenlinna and coffee in a seaside cabin."
+      "zh": "白色大教堂、岩石教堂、Oodi 圖書館的三樓，搭渡輪到芬蘭堡，最後在海邊小木屋喝咖啡。",
+      "en": "The white cathedral, the rock church, Oodi's top floor, the ferry to Suomenlinna and coffee in a seaside cabin."
     },
     "spotCount": 8,
     "coverImageUrl": "https://api.explorestamp.com/covers/fi-helsinki.jpg"
@@ -831,16 +831,16 @@
     "id": "fi-lapland",
     "country": "FI",
     "name": {
-      "zh": "芬蘭拉普蘭",
-      "en": "Finnish Lapland"
+      "zh": "拉普蘭：跨過北極圈找聖誕老人",
+      "en": "Lapland: Cross the Arctic Circle to Meet Santa"
     },
     "regionLabel": {
       "zh": "拉普蘭",
       "en": "Lapland"
     },
     "description": {
-      "zh": "在羅瓦涅米跨過北極圈、拜訪聖誕老人村，再到北極博物館認識極地。",
-      "en": "Cross the Arctic Circle at Santa Claus Village in Rovaniemi, then learn about the north at Arktikum."
+      "zh": "在羅瓦涅米跨過北極圈的線，跟聖誕老人握個手，再到北極博物館認識極地。",
+      "en": "Step over the Arctic Circle line in Rovaniemi, shake hands with Santa and learn about the north at Arktikum."
     },
     "spotCount": 2,
     "coverImageUrl": "https://api.explorestamp.com/covers/fi-lapland.jpg"
@@ -849,16 +849,16 @@
     "id": "tw-tpe-dadaocheng",
     "country": "TW",
     "name": {
-      "zh": "大稻埕散步",
-      "en": "A Walk Through Dadaocheng"
+      "zh": "大稻埕：茶行、廟埕與百年西餐廳",
+      "en": "Dadaocheng: Tea Houses, Temples and a 1934 Restaurant"
     },
     "regionLabel": {
       "zh": "臺北",
       "en": "Taipei"
     },
     "description": {
-      "zh": "從碼頭走進迪化街，老茶行、廟埕小吃與百年西餐廳都在幾條街內。",
-      "en": "From the riverside wharf into Dihua Street: old tea houses, temple-front snacks and a restaurant that has served since 1934."
+      "zh": "從河邊碼頭走進迪化街，老茶行飄著焙茶香，廟埕吃一碗米粉湯，再到 1934 年開業的波麗路。",
+      "en": "From the riverside wharf into Dihua Street, past roasting tea houses and temple-front snacks to Bolero, open since 1934."
     },
     "spotCount": 8,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-tpe-dadaocheng.jpg"
@@ -867,16 +867,16 @@
     "id": "tw-tpe-beitou-hotspring",
     "country": "TW",
     "name": {
-      "zh": "北投溫泉散步",
-      "en": "Beitou Hot Spring Walk"
+      "zh": "北投：溫泉霧裡的一個下午",
+      "en": "Beitou: An Afternoon in the Hot-Spring Steam"
     },
     "regionLabel": {
       "zh": "臺北",
       "en": "Taipei"
     },
     "description": {
-      "zh": "從新北投站出發，沿著溫泉溪走過老浴場、地熱谷與森林裡的圖書館。",
-      "en": "From Xinbeitou Station along the hot-spring stream, past an old bathhouse, Thermal Valley and a library in the trees."
+      "zh": "出了新北投站就聞得到硫磺味，沿溫泉溪走過老浴場、森林裡的圖書館，終點是冒著白煙的地熱谷。",
+      "en": "The sulphur hits you at Xinbeitou Station: follow the stream past an old bathhouse and a library in the trees to steaming Thermal Valley."
     },
     "spotCount": 8,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-tpe-beitou-hotspring.jpg"
@@ -885,16 +885,16 @@
     "id": "tw-tpe-wanhua-ximen",
     "country": "TW",
     "name": {
-      "zh": "艋舺與西門",
-      "en": "Bangka and Ximen"
+      "zh": "艋舺與西門：臺北最老的街區",
+      "en": "Bangka and Ximen: Taipei's Oldest Streets"
     },
     "regionLabel": {
       "zh": "臺北",
       "en": "Taipei"
     },
     "description": {
-      "zh": "臺北最老的街區：龍山寺、剝皮寮、紅樓，再吃一碗麵線。",
-      "en": "Taipei's oldest quarter: Lungshan Temple, Bopiliao and the Red House, with a bowl of noodles on the way."
+      "zh": "龍山寺的香火、剝皮寮的紅磚街、八角形的紅樓，中間停下來吃一碗站著吃的麵線。",
+      "en": "Incense at Lungshan Temple, Bopiliao's red-brick lane and the octagonal Red House, with noodles eaten standing up."
     },
     "spotCount": 8,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-tpe-wanhua-ximen.jpg"
@@ -903,16 +903,16 @@
     "id": "tw-tpe-xinyi-songshan",
     "country": "TW",
     "name": {
-      "zh": "信義與松山",
-      "en": "Xinyi and Songshan"
+      "zh": "從眷村走到 101",
+      "en": "From a Military Village to Taipei 101"
     },
     "regionLabel": {
       "zh": "臺北",
       "en": "Taipei"
     },
     "description": {
-      "zh": "從眷村到摩天大樓，再爬上象山看一眼台北101。",
-      "en": "From an old military village to the tallest tower, then up Elephant Mountain for the view back at Taipei 101."
+      "zh": "在四四南村的眷村老屋前看見台北 101，爬上象山回頭再看一次，晚上到饒河街吃胡椒餅。",
+      "en": "See Taipei 101 rise behind the old military village, look back at it from Elephant Mountain, then pepper buns at Raohe."
     },
     "spotCount": 8,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-tpe-xinyi-songshan.jpg"
@@ -921,16 +921,16 @@
     "id": "tw-ntp-tamsui",
     "country": "TW",
     "name": {
-      "zh": "淡水半日",
-      "en": "An Afternoon in Tamsui"
+      "zh": "淡水：紅毛城走到夕陽",
+      "en": "Tamsui: From the Fort to the Sunset"
     },
     "regionLabel": {
       "zh": "新北",
       "en": "New Taipei"
     },
     "description": {
-      "zh": "紅毛城、小白宮與老教堂，走到漁人碼頭看夕陽。",
-      "en": "Fort San Domingo, the Little White House and an old church, then on to Fisherman's Wharf for sunset."
+      "zh": "紅毛城的紅磚、小白宮的拱廊、馬偕的老教堂，沿著河岸一路走到漁人碼頭看夕陽。",
+      "en": "Fort San Domingo's red brick, the Little White House and Mackay's old church, then along the river to the sunset at the wharf."
     },
     "spotCount": 8,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-ntp-tamsui.jpg"
@@ -939,16 +939,16 @@
     "id": "tw-tpe-books-coffee",
     "country": "TW",
     "name": {
-      "zh": "書店與老咖啡館",
-      "en": "Bookshops and Old Cafés"
+      "zh": "老咖啡館與書店的一天",
+      "en": "A Day of Old Cafés and Bookshops"
     },
     "regionLabel": {
       "zh": "臺北",
       "en": "Taipei"
     },
     "description": {
-      "zh": "幾家開了半世紀的咖啡館，加上獨立書店與舊書店，適合慢慢逛一天。",
-      "en": "Cafés that have poured coffee for half a century, plus independent and secondhand bookshops for a slow day."
+      "zh": "在半世紀的咖啡館點一杯，翻翻舊書店的老雜誌，再到紀州庵的日式老屋坐一個下午。",
+      "en": "Order a cup in a fifty-year-old café, browse old magazines in secondhand shops and spend the afternoon at Kishu An."
     },
     "spotCount": 7,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-tpe-books-coffee.jpg"
@@ -957,16 +957,16 @@
     "id": "tw-tpe-mrt-transfer",
     "country": "TW",
     "name": {
-      "zh": "捷運轉乘站",
-      "en": "MRT Transfer Stations"
+      "zh": "通勤集章：捷運轉乘大站",
+      "en": "Commuter Stamps: Big MRT Interchanges"
     },
     "regionLabel": {
       "zh": "臺北",
       "en": "Taipei"
     },
     "description": {
-      "zh": "每天通勤就會經過的轉乘大站，上下班順手蓋一枚。",
-      "en": "The big interchange stations you pass on the daily commute; collect one on the way to work."
+      "zh": "上下班本來就會經過的八個轉乘大站，出站前順手蓋一枚，通勤也能集滿一條路線。",
+      "en": "Eight interchange stations you pass anyway on the commute: tap a stamp on the way out and finish a route without trying."
     },
     "spotCount": 8,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-tpe-mrt-transfer.jpg"
@@ -975,16 +975,16 @@
     "id": "tw-tpe-government-district",
     "country": "TW",
     "name": {
-      "zh": "博愛特區與中正紀念堂",
-      "en": "Around Liberty Square"
+      "zh": "總統府走到自由廣場",
+      "en": "From the Presidential Office to Liberty Square"
     },
     "regionLabel": {
       "zh": "臺北",
       "en": "Taipei"
     },
     "description": {
-      "zh": "總統府、博物館與公園，一路走到中正紀念堂的大廣場。",
-      "en": "The Presidential Office, a museum and a park, ending at the great square of the Chiang Kai-shek Memorial Hall."
+      "zh": "從總統府前的凱達格蘭大道出發，穿過二二八公園和臺博館，走到自由廣場的白色牌樓下。",
+      "en": "Start on the boulevard before the Presidential Office, cross 228 Park and the museum, and end under Liberty Square's white gate."
     },
     "spotCount": 8,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-tpe-government-district.jpg"
@@ -993,16 +993,16 @@
     "id": "tw-tpe-shida-yongkang",
     "country": "TW",
     "name": {
-      "zh": "師大與永康",
-      "en": "Shida and Yongkang"
+      "zh": "師大永康：小籠包與日式老宅",
+      "en": "Shida and Yongkang: Dumplings and Old Houses"
     },
     "regionLabel": {
       "zh": "臺北",
       "en": "Taipei"
     },
     "description": {
-      "zh": "大學、老宅、市場和一籠小籠包，最後在大安森林公園休息。",
-      "en": "A university, an old Japanese-era house, a market and a basket of soup dumplings, ending in Da'an Forest Park."
+      "zh": "在師大逛夜市、在青田七六的日式老宅喝杯茶，吃一籠小籠包，最後到大安森林公園躺一下。",
+      "en": "Shida's night market, tea in a Japanese-era house at Qingtian 76, a basket of soup dumplings and a rest in Da'an Park."
     },
     "spotCount": 7,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-tpe-shida-yongkang.jpg"
@@ -1011,16 +1011,16 @@
     "id": "tw-tpe-shilin",
     "country": "TW",
     "name": {
-      "zh": "士林一日",
-      "en": "A Day in Shilin"
+      "zh": "士林：看星星，再吃夜市",
+      "en": "Shilin: Stargazing, Then the Night Market"
     },
     "regionLabel": {
       "zh": "臺北",
       "en": "Taipei"
     },
     "description": {
-      "zh": "白天看科學館與天文館，傍晚逛官邸花園，晚上吃士林夜市。",
-      "en": "Science museum and planetarium by day, the residence gardens at dusk, then Shilin Night Market."
+      "zh": "白天在天文館看星空、在科教館玩實驗，傍晚逛官邸的玫瑰園，晚上吃士林夜市。",
+      "en": "Stars at the planetarium and experiments at the science centre by day, the residence's rose garden at dusk, then Shilin Night Market."
     },
     "spotCount": 7,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-tpe-shilin.jpg"
@@ -1029,16 +1029,16 @@
     "id": "tw-tpe-dalongdong-yuanshan",
     "country": "TW",
     "name": {
-      "zh": "大龍峒與圓山",
-      "en": "Dalongdong and Yuanshan"
+      "zh": "大龍峒：孔廟、保安宮與圓山",
+      "en": "Dalongdong: Two Temples and the Grand Hotel"
     },
     "regionLabel": {
       "zh": "臺北",
       "en": "Taipei"
     },
     "description": {
-      "zh": "孔廟與保安宮比鄰而立，再走到花博公園，遠望圓山大飯店。",
-      "en": "The Confucius Temple and Bao'an Temple side by side, then the Expo Park with the Grand Hotel on the hill."
+      "zh": "孔廟的安靜和保安宮的熱鬧只隔一條街，再走到花博公園，抬頭看圓山大飯店的紅柱子。",
+      "en": "The quiet Confucius Temple and lively Bao'an Temple sit a street apart; walk on to Expo Park and the Grand Hotel's red columns."
     },
     "spotCount": 7,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-tpe-dalongdong-yuanshan.jpg"
@@ -1047,16 +1047,16 @@
     "id": "tw-tpe-zoo-maokong",
     "country": "TW",
     "name": {
-      "zh": "動物園與貓空",
-      "en": "The Zoo and Maokong"
+      "zh": "動物園，再搭纜車上山喝茶",
+      "en": "The Zoo, Then the Gondola Up for Tea"
     },
     "regionLabel": {
       "zh": "臺北",
       "en": "Taipei"
     },
     "description": {
-      "zh": "上午逛動物園，下午搭纜車上貓空喝茶，順路到指南宮。",
-      "en": "The zoo in the morning, the gondola up to Maokong's tea houses in the afternoon, with a stop at Zhinan Temple."
+      "zh": "上午去動物園看貓熊，下午搭纜車晃上貓空，在山上的茶館喝一壺鐵觀音看臺北。",
+      "en": "Pandas at the zoo in the morning, then the gondola up to Maokong for a pot of Tieguanyin and a view of the city."
     },
     "spotCount": 5,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-tpe-zoo-maokong.jpg"
@@ -1065,16 +1065,16 @@
     "id": "tw-ntp-xindian-wulai",
     "country": "TW",
     "name": {
-      "zh": "新店與烏來",
-      "en": "Xindian and Wulai"
+      "zh": "碧潭吊橋一路到烏來瀑布",
+      "en": "From Bitan Bridge to Wulai Falls"
     },
     "regionLabel": {
       "zh": "新北",
       "en": "New Taipei"
     },
     "description": {
-      "zh": "碧潭吊橋出發，一路往山裡到烏來的老街、台車與瀑布。",
-      "en": "From the Bitan suspension bridge up into the hills to Wulai's old street, trolley and waterfall."
+      "zh": "從碧潭吊橋出發，一路往山裡走，在烏來老街吃山豬肉，搭台車到瀑布前。",
+      "en": "Start at the Bitan suspension bridge, head into the mountains, eat wild-boar sausage on Wulai Old Street and ride the cart to the falls."
     },
     "spotCount": 6,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-ntp-xindian-wulai.jpg"
@@ -1083,16 +1083,16 @@
     "id": "tw-ntp-north-coast",
     "country": "TW",
     "name": {
-      "zh": "北海岸",
-      "en": "The North Coast"
+      "zh": "北海岸：女王頭與最北的燈塔",
+      "en": "North Coast: The Queen's Head and the Northern Tip"
     },
     "regionLabel": {
       "zh": "新北",
       "en": "New Taipei"
     },
     "description": {
-      "zh": "女王頭、白沙灣與最北端的燈塔，回程在金山吃一碗鴨肉。",
-      "en": "The Queen's Head, Baishawan beach and the northernmost lighthouse, with duck at Jinshan on the way back."
+      "zh": "在野柳看女王頭，到最北端的富貴角吹海風，回程在金山老街吃一碗鴨肉。",
+      "en": "See the Queen's Head at Yehliu, feel the wind at Fuguijiao on the northern tip, and have duck in Jinshan on the way back."
     },
     "spotCount": 6,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-ntp-north-coast.jpg"
@@ -1101,16 +1101,16 @@
     "id": "tw-tpe-everyday",
     "country": "TW",
     "name": {
-      "zh": "日常的臺北",
-      "en": "Everyday Taipei"
+      "zh": "日常的臺北：公園、市場與圖書館",
+      "en": "Everyday Taipei: Parks, Markets and Libraries"
     },
     "regionLabel": {
       "zh": "雙北",
       "en": "Taipei area"
     },
     "description": {
-      "zh": "住在臺北的人平常會去的公園、圖書館、市場和書店。",
-      "en": "The parks, libraries, markets and bookshops Taipei people use every week."
+      "zh": "不是觀光景點，是臺北人平常會去的地方：公園、市場、書店和圖書館，週末散步順手蓋。",
+      "en": "Not sights, just the places Taipei people actually use: parks, a market, a bookshop and a library to stamp on a weekend stroll."
     },
     "spotCount": 6,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-tpe-everyday.jpg"
@@ -1119,16 +1119,16 @@
     "id": "tw-ntp-banqiao",
     "country": "TW",
     "name": {
-      "zh": "板橋半日",
-      "en": "Half a Day in Banqiao"
+      "zh": "板橋：林家花園與湳雅夜市",
+      "en": "Banqiao: The Lin Garden and Nanya Night Market"
     },
     "regionLabel": {
       "zh": "新北",
       "en": "New Taipei"
     },
     "description": {
-      "zh": "林家花園的亭臺樓閣，市民廣場與新圖書館，晚上逛湳雅夜市。",
-      "en": "The pavilions of the Lin Family Garden, the city square and new library, then Nanya Night Market."
+      "zh": "林家花園的亭臺樓閣像走進古裝劇，再到新圖書館和市民廣場，晚上逛湳雅夜市。",
+      "en": "The Lin Family Garden's pavilions feel like a period drama; then the new library, the city square and Nanya Night Market."
     },
     "spotCount": 6,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-ntp-banqiao.jpg"
@@ -1137,16 +1137,16 @@
     "id": "tw-ntp-yingge-sanxia",
     "country": "TW",
     "name": {
-      "zh": "鶯歌與三峽",
-      "en": "Yingge and Sanxia"
+      "zh": "鶯歌陶瓷與三峽老街",
+      "en": "Yingge Ceramics and Sanxia Old Street"
     },
     "regionLabel": {
       "zh": "新北",
       "en": "New Taipei"
     },
     "description": {
-      "zh": "陶瓷老街與美術館，再到三峽看祖師廟的精細雕刻。",
-      "en": "The ceramics street and art museum in Yingge, then the finely carved Zushi Temple in Sanxia."
+      "zh": "在鶯歌陶瓷老街捏一個杯子，看新北市美術館，再到三峽祖師廟看一刀一刀刻出來的石柱。",
+      "en": "Throw a cup on Yingge's ceramics street, visit the new art museum, then see the hand-carved pillars of Sanxia's Zushi Temple."
     },
     "spotCount": 6,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-ntp-yingge-sanxia.jpg"
@@ -1155,16 +1155,16 @@
     "id": "tw-ntp-jiufen-jinguashi",
     "country": "TW",
     "name": {
-      "zh": "九份與金瓜石",
-      "en": "Jiufen and Jinguashi"
+      "zh": "九份山城、黃金與十分天燈",
+      "en": "Jiufen, Gold Mines and Shifen Lanterns"
     },
     "regionLabel": {
       "zh": "新北",
       "en": "New Taipei"
     },
     "description": {
-      "zh": "山城老街、老戲院和黃金博物館，回程到十分放天燈。",
-      "en": "A hillside old street, an old theatre and the Gold Museum, with a stop at Shifen on the way back."
+      "zh": "九份的階梯和紅燈籠、金瓜石的大金磚、陰陽海的兩色海水，回程到十分放一盞天燈。",
+      "en": "Jiufen's steps and red lanterns, the giant gold bar at Jinguashi, the two-toned sea, and a sky lantern at Shifen."
     },
     "spotCount": 6,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-ntp-jiufen-jinguashi.jpg"
@@ -1173,16 +1173,16 @@
     "id": "tw-ntp-xinzhuang-yonghe",
     "country": "TW",
     "name": {
-      "zh": "新莊與中永和",
-      "en": "Xinzhuang, Zhonghe and Yonghe"
+      "zh": "新莊廟街到永和豆漿",
+      "en": "Xinzhuang Temple Street to Yonghe Soy Milk"
     },
     "regionLabel": {
       "zh": "新北",
       "en": "New Taipei"
     },
     "description": {
-      "zh": "老街廟口、大學校園、河濱大公園，再上烘爐地看夜景、喝碗豆漿。",
-      "en": "An old temple street, a campus and a riverside park, then the night view from Hongludi and a bowl of soy milk."
+      "zh": "新莊的廟街小吃、大學校園和河濱大公園，晚上上烘爐地看夜景，最後一碗永和豆漿。",
+      "en": "Temple-street snacks in Xinzhuang, a campus and a riverside park, the night view from Hongludi and a bowl of Yonghe soy milk."
     },
     "spotCount": 5,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-ntp-xinzhuang-yonghe.jpg"
@@ -1191,16 +1191,16 @@
     "id": "tw-tpe-nangang-neihu",
     "country": "TW",
     "name": {
-      "zh": "南港與內湖",
-      "en": "Nangang and Neihu"
+      "zh": "南港內湖：音樂、展覽與摩天輪",
+      "en": "Nangang and Neihu: Music, Expos and a Ferris Wheel"
     },
     "regionLabel": {
       "zh": "臺北",
       "en": "Taipei"
     },
     "description": {
-      "zh": "展覽館、流行音樂中心與胡適故居，最後到碧湖散步、搭摩天輪。",
-      "en": "An exhibition hall, the pop music centre and Hu Shih's home, then a lakeside walk and the Ferris wheel."
+      "zh": "胡適住過的老宅、流行音樂中心的新建築，傍晚到碧湖散步，再搭摩天輪看內湖的燈。",
+      "en": "Hu Shih's old home, the new pop music centre, an evening walk around Bihu Lake and the Ferris wheel over Neihu."
     },
     "spotCount": 6,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-tpe-nangang-neihu.jpg"
@@ -1209,16 +1209,16 @@
     "id": "tw-tpe-big-stages",
     "country": "TW",
     "name": {
-      "zh": "臺北的大舞台",
-      "en": "Taipei's Big Stages"
+      "zh": "演唱會、球賽與出發的地方",
+      "en": "Concerts, Ball Games and Departures"
     },
     "regionLabel": {
       "zh": "臺北",
       "en": "Taipei"
     },
     "description": {
-      "zh": "演唱會、球賽、表演和出發旅行的地方，順路看看清代的北門。",
-      "en": "Where Taipei goes for concerts, ball games and shows, and where trips begin, with the Qing-era North Gate on the way."
+      "zh": "小巨蛋、大巨蛋、北藝中心和松山機場，看演唱會、球賽或出國前都能順手蓋一枚。",
+      "en": "The two domes, the performing arts centre and Songshan Airport: collect a stamp before a concert, a game or a flight."
     },
     "spotCount": 6,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-tpe-big-stages.jpg"
@@ -1227,16 +1227,16 @@
     "id": "tw-tcg-old-town",
     "country": "TW",
     "name": {
-      "zh": "臺中舊城散步",
-      "en": "Old Taichung on Foot"
+      "zh": "臺中舊城：綠川與宮原眼科",
+      "en": "Old Taichung: Lüchuan and Miyahara"
     },
     "regionLabel": {
       "zh": "臺中",
       "en": "Taichung"
     },
     "description": {
-      "zh": "從新舊兩座車站出發，沿綠川走到宮原眼科與日治時期的官廳。",
-      "en": "From the old and new stations along the Lüchuan stream to Miyahara and the Japanese-era government halls."
+      "zh": "出了臺中車站先看百年紅磚舊站，沿綠川走到宮原眼科吃冰淇淋，再看日治時期的州廳。",
+      "en": "Step out of Taichung Station to the century-old brick one, follow Lüchuan to ice cream at Miyahara and the old prefecture hall."
     },
     "spotCount": 8,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-tcg-old-town.jpg"
@@ -1245,16 +1245,16 @@
     "id": "tw-tcg-park-and-old-houses",
     "country": "TW",
     "name": {
-      "zh": "臺中公園與老屋",
-      "en": "Taichung Park and Old Houses"
+      "zh": "臺中公園、老屋與第一杯珍奶",
+      "en": "Taichung Park, Old Houses and the First Bubble Tea"
     },
     "regionLabel": {
       "zh": "臺中",
       "en": "Taichung"
     },
     "description": {
-      "zh": "湖心亭、老酒廠與日式宿舍，再到孔廟和寶覺寺，最後在春水堂喝一杯珍奶。",
-      "en": "The lake pavilion, an old winery and Japanese-era houses, the Confucius Temple and Baojue Temple, with a bubble tea where it began."
+      "zh": "臺中公園的湖心亭、老酒廠、刑務所演武場，再到春水堂喝一杯據說最早的珍珠奶茶。",
+      "en": "The lake pavilion, an old winery, the prison's martial-arts hall, and bubble tea where it is said to have begun."
     },
     "spotCount": 10,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-tcg-park-and-old-houses.jpg"
@@ -1263,16 +1263,16 @@
     "id": "tw-tcg-calligraphy-greenway",
     "country": "TW",
     "name": {
-      "zh": "草悟道",
-      "en": "Along the Calligraphy Greenway"
+      "zh": "草悟道：美術館到審計新村",
+      "en": "Calligraphy Greenway: Art Museum to Shenji Village"
     },
     "regionLabel": {
       "zh": "臺中",
       "en": "Taichung"
     },
     "description": {
-      "zh": "沿著綠園道走過美術館、科博館與審計新村，晚上到一中街。",
-      "en": "Down the greenway past the art museum, the science museum and Shenji Village, ending on Yizhong Street."
+      "zh": "沿著草悟道的綠蔭走，看國美館、科博館的恐龍，逛審計新村的小店，晚上到一中街。",
+      "en": "Walk the shady greenway past the art museum and dinosaurs, shop the little stores of Shenji Village and end on Yizhong Street."
     },
     "spotCount": 6,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-tcg-calligraphy-greenway.jpg"
@@ -1281,16 +1281,16 @@
     "id": "tw-tcg-new-city",
     "country": "TW",
     "name": {
-      "zh": "臺中新市區",
-      "en": "Taichung's New City"
+      "zh": "臺中新地標：歌劇院與綠美圖",
+      "en": "Taichung's New Landmarks: The Opera and the Green Library"
     },
     "regionLabel": {
       "zh": "臺中",
       "en": "Taichung"
     },
     "description": {
-      "zh": "歌劇院、秋紅谷到水湳的中央公園與綠美圖，晚上逛逢甲。",
-      "en": "The Opera House and Calligraphy Lake, the new central park and library in Shuinan, then Fengjia at night."
+      "zh": "伊東豊雄設計的歌劇院、秋紅谷的湖，再到水湳的綠美圖，晚上逛逢甲夜市。",
+      "en": "Toyo Ito's opera house, the lake at Calligraphy Park, the new green library in Shuinan and Fengjia Night Market at night."
     },
     "spotCount": 9,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-tcg-new-city.jpg"
@@ -1299,16 +1299,16 @@
     "id": "tw-khh-yancheng-pier2",
     "country": "TW",
     "name": {
-      "zh": "鹽埕與駁二",
-      "en": "Yancheng and Pier-2"
+      "zh": "鹽埕駁二：港邊倉庫與大港橋",
+      "en": "Yancheng and Pier-2: Warehouses and the Swing Bridge"
     },
     "regionLabel": {
       "zh": "高雄",
       "en": "Kaohsiung"
     },
     "description": {
-      "zh": "從美麗島站到駁二與大港橋，沿愛河走到流行音樂中心。",
-      "en": "From Formosa Boulevard Station to Pier-2 and the Dagang Bridge, along the Love River to the Pop Music Center."
+      "zh": "從美麗島站的光之穹頂出發，沿愛河走到駁二倉庫，等大港橋轉開，再看流行音樂中心的燈。",
+      "en": "Start under the Dome of Light, follow the Love River to the Pier-2 warehouses, watch the bridge swing and see the music centre lit up."
     },
     "spotCount": 8,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-khh-yancheng-pier2.jpg"
@@ -1317,16 +1317,16 @@
     "id": "tw-tcg-nantun-wufeng",
     "country": "TW",
     "name": {
-      "zh": "南屯與霧峰",
-      "en": "Nantun and Wufeng"
+      "zh": "南屯老街到霧峰林家",
+      "en": "Nantun Old Street to the Lin Mansion"
     },
     "regionLabel": {
       "zh": "臺中",
       "en": "Taichung"
     },
     "description": {
-      "zh": "老街與萬和宮，往南到林家宮保第和九二一地震教育園區。",
-      "en": "An old street and Wanhe Temple, then south to the Lin family mansion and the 921 Earthquake Museum."
+      "zh": "萬和宮前的南屯老街、霧峰林家的大宅院，再到九二一地震園區看斷掉的操場。",
+      "en": "Nantun Old Street before Wanhe Temple, the Lin family mansion in Wufeng and the broken running track at the 921 museum."
     },
     "spotCount": 8,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-tcg-nantun-wufeng.jpg"
@@ -1335,16 +1335,16 @@
     "id": "tw-tcg-tunghai-coast",
     "country": "TW",
     "name": {
-      "zh": "東海與海線",
-      "en": "Tunghai and the Coast"
+      "zh": "路思義教堂到高美濕地夕陽",
+      "en": "Luce Chapel to Sunset at Gaomei"
     },
     "regionLabel": {
       "zh": "臺中",
       "en": "Taichung"
     },
     "description": {
-      "zh": "路思義教堂、彩虹眷村，傍晚到高美濕地看夕陽。",
-      "en": "The Luce Chapel and Rainbow Village, then sunset at Gaomei Wetlands."
+      "zh": "東海大學的路思義教堂、彩虹眷村的彩繪，傍晚到高美濕地踩著水看風車和夕陽。",
+      "en": "Tunghai's Luce Chapel and the painted Rainbow Village, then wade out at Gaomei to watch the turbines and the sunset."
     },
     "spotCount": 7,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-tcg-tunghai-coast.jpg"
@@ -1353,16 +1353,16 @@
     "id": "tw-tcg-fengyuan-houli",
     "country": "TW",
     "name": {
-      "zh": "豐原與后里",
-      "en": "Fengyuan and Houli"
+      "zh": "豐原后里：騎鐵馬、吃糖廠冰",
+      "en": "Fengyuan and Houli: Bike Paths and Sugar-Mill Ice"
     },
     "regionLabel": {
       "zh": "臺中",
       "en": "Taichung"
     },
     "description": {
-      "zh": "廟東小吃、自行車綠廊和糖廠冰品，再去麗寶樂園。",
-      "en": "Snacks by Ciji Temple, a bike path on an old railway, sugar-factory ice, then Lihpao Land."
+      "zh": "在廟東吃排骨酥，騎上舊鐵道改成的自行車綠廊，到月眉糖廠吃一支冰，再去麗寶樂園。",
+      "en": "Pork rib soup by Ciji Temple, a bike ride on an old rail line, an ice pop at Yuemei Sugar Factory and then Lihpao Land."
     },
     "spotCount": 8,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-tcg-fengyuan-houli.jpg"
@@ -1371,16 +1371,16 @@
     "id": "tw-khh-hamasen-cijin",
     "country": "TW",
     "name": {
-      "zh": "哈瑪星與旗津",
-      "en": "Hamasen and Cijin"
+      "zh": "哈瑪星搭渡輪到旗津",
+      "en": "Hamasen and the Ferry to Cijin"
     },
     "regionLabel": {
       "zh": "高雄",
       "en": "Kaohsiung"
     },
     "description": {
-      "zh": "鐵道館、武德殿和英國領事館，搭渡輪到旗津看燈塔。",
-      "en": "The railway museum, the martial arts hall and the British consulate, then the ferry to Cijin's lighthouse."
+      "zh": "哈瑪星的鐵道館、山坡上的英國領事館，搭五分鐘渡輪到旗津，爬上燈塔看港口。",
+      "en": "Hamasen's railway museum, the British consulate on the hill, a five-minute ferry to Cijin and the lighthouse above the harbour."
     },
     "spotCount": 10,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-khh-hamasen-cijin.jpg"
@@ -1389,16 +1389,16 @@
     "id": "tw-khh-countryside",
     "country": "TW",
     "name": {
-      "zh": "高雄郊外",
-      "en": "Out of Kaohsiung"
+      "zh": "高雄郊外：佛陀、糖廠與月世界",
+      "en": "Out of Kaohsiung: Buddha, Sugar and Moon World"
     },
     "regionLabel": {
       "zh": "高雄",
       "en": "Kaohsiung"
     },
     "description": {
-      "zh": "佛陀紀念館、糖廠、旗山老街與美濃，還有月世界的泥岩地形。",
-      "en": "The Buddha Museum, a sugar factory, Qishan's old street, Meinong and the mudstone hills of Moon World."
+      "zh": "佛陀紀念館的大佛、橋頭糖廠的老煙囪、旗山的香蕉老街，最後到月世界看泥岩山。",
+      "en": "The great Buddha, the old chimneys at Qiaotou sugar mill, Qishan's banana street and the bare mudstone hills of Moon World."
     },
     "spotCount": 9,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-khh-countryside.jpg"
@@ -1407,16 +1407,16 @@
     "id": "tw-khh-zuoying-lotus",
     "country": "TW",
     "name": {
-      "zh": "左營與蓮池潭",
-      "en": "Zuoying and Lotus Pond"
+      "zh": "蓮池潭：龍虎塔與舊城門",
+      "en": "Lotus Pond: Dragon and Tiger Pagodas"
     },
     "regionLabel": {
       "zh": "高雄",
       "en": "Kaohsiung"
     },
     "description": {
-      "zh": "龍虎塔、舊城門與美術館，晚上逛瑞豐夜市。",
-      "en": "The Dragon and Tiger Pagodas, an old city gate and the art museum, then Ruifeng Night Market."
+      "zh": "走進龍虎塔的龍口、從虎口出來，沿蓮池潭看舊城門，晚上到瑞豐夜市。",
+      "en": "In through the dragon's mouth and out the tiger's at the pagodas, along Lotus Pond to the old city gate, then Ruifeng Night Market."
     },
     "spotCount": 9,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-khh-zuoying-lotus.jpg"
@@ -1425,16 +1425,16 @@
     "id": "tw-khh-station-sanmin",
     "country": "TW",
     "name": {
-      "zh": "高雄車站與三民",
-      "en": "Around Kaohsiung Station"
+      "zh": "高雄車站周邊：廟街與老站",
+      "en": "Around Kaohsiung Station: Temple Street and the Old Station"
     },
     "regionLabel": {
       "zh": "高雄",
       "en": "Kaohsiung"
     },
     "description": {
-      "zh": "三鳳宮與年貨大街、百年老車站，再吃一碗牛肉麵。",
-      "en": "Sanfeng Temple and its market street, a century-old station building and a bowl of beef noodles."
+      "zh": "三鳳宮前的年貨大街、百年三塊厝車站和蒸汽火車頭，再吃一碗港園牛肉麵。",
+      "en": "The New Year market street at Sanfeng Temple, a century-old station with its steam engine and a bowl of beef noodles."
     },
     "spotCount": 7,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-khh-station-sanmin.jpg"
@@ -1443,16 +1443,16 @@
     "id": "tw-khh-harbour-city",
     "country": "TW",
     "name": {
-      "zh": "高雄港灣新區",
-      "en": "Kaohsiung's Harbour District"
+      "zh": "高雄港灣：圖書館到夢時代",
+      "en": "Kaohsiung Harbour: Library to Dream Mall"
     },
     "regionLabel": {
       "zh": "高雄",
       "en": "Kaohsiung"
     },
     "description": {
-      "zh": "新堀江、中央公園、圖書館總館與港邊的展覽館和夢時代。",
-      "en": "Xinkujiang, Central Park, the main library and the harbourside exhibition hall and Dream Mall."
+      "zh": "新堀江逛街、中央公園散步，在港邊的圖書館總館看海，再到夢時代搭摩天輪。",
+      "en": "Shop in Xinkujiang, walk Central Park, read with a sea view at the main library and ride the wheel at Dream Mall."
     },
     "spotCount": 6,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-khh-harbour-city.jpg"
@@ -1461,16 +1461,16 @@
     "id": "tw-khh-fengshan",
     "country": "TW",
     "name": {
-      "zh": "鳳山",
-      "en": "Fengshan"
+      "zh": "鳳山：衛武營的大屋頂",
+      "en": "Fengshan: Under Weiwuying's Great Roof"
     },
     "regionLabel": {
       "zh": "高雄",
       "en": "Kaohsiung"
     },
     "description": {
-      "zh": "衛武營的大屋頂、書院與龍山寺，再到澄清湖散步。",
-      "en": "The great roof of Weiwuying, an old academy and Longshan Temple, then a walk around Chengcing Lake."
+      "zh": "衛武營像一片大樹冠的屋頂下散步，看鳳儀書院和龍山寺，最後到澄清湖的九曲橋。",
+      "en": "Walk under Weiwuying's great canopy roof, see the old academy and Longshan Temple, and finish on Chengcing Lake's zigzag bridge."
     },
     "spotCount": 6,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-khh-fengshan.jpg"
@@ -1479,16 +1479,16 @@
     "id": "tw-tnn-central-west",
     "country": "TW",
     "name": {
-      "zh": "府城中西區",
-      "en": "Central Tainan"
+      "zh": "府城中西區：孔廟、武廟與林百貨",
+      "en": "Central Tainan: Temples and Hayashi"
     },
     "regionLabel": {
       "zh": "臺南",
       "en": "Tainan"
     },
     "description": {
-      "zh": "孔廟、武廟、大天后宮與林百貨，半天走完府城的老中心。",
-      "en": "The Confucius Temple, the Martial Temple, the Grand Matsu Temple and Hayashi, all in one half-day walk."
+      "zh": "孔廟、武廟、大天后宮都在幾條街內，再到林百貨搭老電梯上屋頂，半天走完府城的老中心。",
+      "en": "The Confucius, Martial and Matsu temples within a few streets, then the old lift up to Hayashi's rooftop: old Tainan in half a day."
     },
     "spotCount": 9,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-tnn-central-west.jpg"
@@ -1498,15 +1498,15 @@
     "country": "TW",
     "name": {
       "zh": "府城小吃與老巷",
-      "en": "Tainan Snacks and Lanes"
+      "en": "Tainan's Snacks and Lanes"
     },
     "regionLabel": {
       "zh": "臺南",
       "en": "Tainan"
     },
     "description": {
-      "zh": "神農街、水仙宮市場與擔仔麵，晚上挑一個夜市。",
-      "en": "Shennong Street, Shuixian Market and danzai noodles, then pick one of the night markets."
+      "zh": "神農街的老屋、水仙宮市場的魚丸湯、度小月的擔仔麵，晚上再挑一個夜市繼續吃。",
+      "en": "Old houses on Shennong Street, fish-ball soup at Shuixian market, danzai noodles, then pick a night market to keep going."
     },
     "spotCount": 9,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-tnn-snacks-lanes.jpg"
@@ -1515,16 +1515,16 @@
     "id": "tw-hsz-hsinchu-city",
     "country": "TW",
     "name": {
-      "zh": "新竹市散步",
-      "en": "A Walk in Hsinchu City"
+      "zh": "新竹：老車站、城隍廟與東門城",
+      "en": "Hsinchu: Old Station, City God and East Gate"
     },
     "regionLabel": {
       "zh": "新竹",
       "en": "Hsinchu"
     },
     "description": {
-      "zh": "老車站、城隍廟、東門城與公園，市區一個下午走得完。",
-      "en": "The old station, the City God Temple, the East Gate and the park, all in one afternoon."
+      "zh": "新竹車站的巴洛克老站房、城隍廟口的貢丸米粉，再到東門城和新竹公園散步。",
+      "en": "The baroque old station, meatball soup by the City God Temple, then the East Gate and a walk in Hsinchu Park."
     },
     "spotCount": 8,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-hsz-hsinchu-city.jpg"
@@ -1533,16 +1533,16 @@
     "id": "tw-hsinchu-hills-sea",
     "country": "TW",
     "name": {
-      "zh": "新竹山海與老街",
-      "en": "Hsinchu Hills, Coast and Old Streets"
+      "zh": "新竹海港與客家老街",
+      "en": "Hsinchu's Harbour and Hakka Old Streets"
     },
     "regionLabel": {
       "zh": "新竹",
       "en": "Hsinchu"
     },
     "description": {
-      "zh": "兩所大學、海邊漁港和濕地，再到北埔與內灣的客家老街。",
-      "en": "Two universities, a fishing harbour and wetland, then the Hakka old streets of Beipu and Neiwan."
+      "zh": "南寮漁港看海、香山濕地看招潮蟹，再到北埔和內灣吃客家粄條、擂茶。",
+      "en": "Sea views at Nanliao, fiddler crabs at Xiangshan, then Hakka noodles and pounded tea in Beipu and Neiwan."
     },
     "spotCount": 9,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-hsinchu-hills-sea.jpg"
@@ -1551,16 +1551,16 @@
     "id": "tw-tyc-daxi-cihu",
     "country": "TW",
     "name": {
-      "zh": "大溪與慈湖",
-      "en": "Daxi and Cihu"
+      "zh": "大溪老街與慈湖",
+      "en": "Daxi Old Street and Cihu"
     },
     "regionLabel": {
       "zh": "桃園",
       "en": "Taoyuan"
     },
     "description": {
-      "zh": "老街的木藝與牌樓，再到慈湖和角板山。",
-      "en": "Daxi's woodcraft and arcaded street, then Cihu and Jiaobanshan."
+      "zh": "大溪老街的巴洛克牌樓和木器行，再到慈湖看滿園的銅像，往山裡去石門水庫。",
+      "en": "Daxi's baroque arcades and woodcraft shops, the field of statues at Cihu, then up to the Shimen Reservoir."
     },
     "spotCount": 6,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-tyc-daxi-cihu.jpg"
@@ -1569,16 +1569,16 @@
     "id": "tw-tyc-taoyuan",
     "country": "TW",
     "name": {
-      "zh": "桃園一日",
-      "en": "A Day in Taoyuan"
+      "zh": "桃園：機場、水族館與漁港",
+      "en": "Taoyuan: Airport, Aquarium and Harbours"
     },
     "regionLabel": {
       "zh": "桃園",
       "en": "Taoyuan"
     },
     "description": {
-      "zh": "機場、水族館、新圖書館和漁港，出國前後都順路。",
-      "en": "The airport, the aquarium, the new library and the fishing harbours, easy before or after a flight."
+      "zh": "出國前後順路：機場、高鐵站旁的水族館、新圖書館和兩座漁港，小人國也在路線上。",
+      "en": "Easy before or after a flight: the airport, the aquarium by the HSR station, the new library, two harbours and Window on China."
     },
     "spotCount": 12,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-tyc-taoyuan.jpg"
@@ -1587,16 +1587,16 @@
     "id": "tw-tnn-anping",
     "country": "TW",
     "name": {
-      "zh": "安平",
-      "en": "Anping"
+      "zh": "安平：古堡、樹屋與綠色隧道",
+      "en": "Anping: Forts, the Tree House and a Mangrove Tunnel"
     },
     "regionLabel": {
       "zh": "臺南",
       "en": "Tainan"
     },
     "description": {
-      "zh": "古堡、樹屋、億載金城和老街，傍晚到漁光島看海。",
-      "en": "The fort, the Tree House, the Eternal Golden Castle and the old street, then the sea at Yuguang Island."
+      "zh": "安平古堡的四百年城牆、被榕樹吞掉的樹屋，再搭竹筏穿過四草的綠色隧道。",
+      "en": "Four-hundred-year-old fort walls, a warehouse swallowed by banyans, and a raft through the mangrove tunnel at Sicao."
     },
     "spotCount": 8,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-tnn-anping.jpg"
@@ -1605,16 +1605,16 @@
     "id": "tw-tnn-north-east",
     "country": "TW",
     "name": {
-      "zh": "府城北區與東區",
-      "en": "North and East Tainan"
+      "zh": "成大、開元寺到奇美博物館",
+      "en": "NCKU, Kaiyuan Temple and the Chimei Museum"
     },
     "regionLabel": {
       "zh": "臺南",
       "en": "Tainan"
     },
     "description": {
-      "zh": "老車站、成大校園、臺南公園和開元寺，往南到奇美博物館。",
-      "en": "The old station, the NCKU campus, Tainan Park and Kaiyuan Temple, then south to the Chimei Museum."
+      "zh": "從臺南車站走進成大的榕園，到開元寺和臺南公園，再往南去奇美博物館的白色宮殿。",
+      "en": "From Tainan Station into NCKU's banyan garden, on to Kaiyuan Temple and the park, then south to Chimei's white palace."
     },
     "spotCount": 8,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-tnn-north-east.jpg"
@@ -1623,16 +1623,16 @@
     "id": "tw-tnn-salt-coast",
     "country": "TW",
     "name": {
-      "zh": "臺南鹽鄉海岸",
-      "en": "Tainan's Salt Coast"
+      "zh": "鹽山與瓦盤鹽田",
+      "en": "Salt Mountain and Tile-Bed Salt Fields"
     },
     "regionLabel": {
       "zh": "臺南",
       "en": "Tainan"
     },
     "description": {
-      "zh": "臺史博、鹽山、瓦盤鹽田與南鯤鯓，一天認識臺南的海邊。",
-      "en": "The history museum, the salt mountain, tile-bed salt fields and Nankunshen Temple along the coast."
+      "zh": "爬上白色的七股鹽山，看井仔腳瓦盤鹽田的夕陽倒影，再到南鯤鯓代天府。",
+      "en": "Climb the white salt mountain at Qigu, watch the sunset on Jingzaijiao's tiled salt pans and visit Nankunshen Temple."
     },
     "spotCount": 4,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-tnn-salt-coast.jpg"
@@ -1641,16 +1641,16 @@
     "id": "tw-tnn-old-towns",
     "country": "TW",
     "name": {
-      "zh": "臺南溪北老鎮",
-      "en": "Old Towns North of Tainan"
+      "zh": "臺南溪北：老街、糖廠與水庫",
+      "en": "Northern Tainan: Old Streets, Sugar and a Reservoir"
     },
     "regionLabel": {
       "zh": "臺南",
       "en": "Tainan"
     },
     "description": {
-      "zh": "糖廠、老街與烏山頭水庫，看看府城以外的臺南。",
-      "en": "Sugar mills, old streets and the Wushantou Reservoir, the Tainan beyond the old city."
+      "zh": "新化老街的巴洛克立面、糖廠改成的鼓樂園區，再到烏山頭水庫和菁寮的老街。",
+      "en": "Xinhua's baroque façades, a sugar mill turned drum park, the Wushantou Reservoir and Jingliao's old street."
     },
     "spotCount": 7,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-tnn-old-towns.jpg"
@@ -1659,16 +1659,16 @@
     "id": "tw-hua-rift-valley",
     "country": "TW",
     "name": {
-      "zh": "花東縱谷北段",
-      "en": "The Northern Rift Valley"
+      "zh": "花東縱谷：林場、糖廠與牧場",
+      "en": "Rift Valley: Forestry Village, Sugar Mill and Ranch"
     },
     "regionLabel": {
       "zh": "花蓮",
       "en": "Hualien"
     },
     "description": {
-      "zh": "林田山、光復糖廠和瑞穗牧場，沿著縱谷一路往南。",
-      "en": "Lintianshan, the Guangfu sugar factory and Ruisui Ranch, heading south down the valley."
+      "zh": "林田山的檜木宿舍、光復糖廠的冰、瑞穗牧場的鮮奶，沿著縱谷一路往南。",
+      "en": "Cypress houses at Lintianshan, ice at the Guangfu sugar mill and fresh milk at Ruisui, heading south down the valley."
     },
     "spotCount": 4,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-hua-rift-valley.jpg"
@@ -1677,16 +1677,16 @@
     "id": "tw-hua-hualien-city",
     "country": "TW",
     "name": {
-      "zh": "花蓮市區",
-      "en": "Hualien City"
+      "zh": "花蓮市區：松園、將軍府與夜市",
+      "en": "Hualien City: Pine Garden, Old Residences and a Night Market"
     },
     "regionLabel": {
       "zh": "花蓮",
       "en": "Hualien"
     },
     "description": {
-      "zh": "文創園區、松園別館與將軍府，晚上吃東大門夜市。",
-      "en": "The creative park, the Pine Garden and the General's Residence, then Dongdamen Night Market."
+      "zh": "松園別館的老松、將軍府的日式宿舍、文創園區的酒廠倉庫，晚上吃東大門夜市。",
+      "en": "The old pines at Pine Garden, Japanese-era residences, the winery warehouses of the creative park and Dongdamen at night."
     },
     "spotCount": 9,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-hua-hualien-city.jpg"
@@ -1695,16 +1695,16 @@
     "id": "tw-hua-mountains-sea",
     "country": "TW",
     "name": {
-      "zh": "花蓮山海",
-      "en": "Hualien Mountains and Sea"
+      "zh": "七星潭、太魯閣與鯉魚潭",
+      "en": "Qixingtan, Taroko and Liyu Lake"
     },
     "regionLabel": {
       "zh": "花蓮",
       "en": "Hualien"
     },
     "description": {
-      "zh": "七星潭的礫石海灘、太魯閣與鯉魚潭，加上海洋公園。",
-      "en": "The pebble beach at Qixingtan, Taroko and Liyu Lake, plus the ocean park."
+      "zh": "七星潭的礫石海灘聽浪、太魯閣的峽谷，再到鯉魚潭划船，海洋公園也在路線上。",
+      "en": "Listen to the pebble beach at Qixingtan, see Taroko's gorge, paddle on Liyu Lake and visit the ocean park."
     },
     "spotCount": 6,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-hua-mountains-sea.jpg"
@@ -1713,16 +1713,16 @@
     "id": "tw-ila-yilan-jiaoxi",
     "country": "TW",
     "name": {
-      "zh": "宜蘭市與礁溪",
-      "en": "Yilan City and Jiaoxi"
+      "zh": "宜蘭市與礁溪：泡腳、看幾米",
+      "en": "Yilan and Jiaoxi: Foot Baths and Jimmy Liao"
     },
     "regionLabel": {
       "zh": "宜蘭",
       "en": "Yilan"
     },
     "description": {
-      "zh": "幾米廣場、老酒廠與美術館，再到礁溪泡腳、頭城老街。",
-      "en": "Jimmy Liao's plaza, an old winery and the art museum, then a foot soak in Jiaoxi and Toucheng's old street."
+      "zh": "宜蘭車站前的幾米公園、老酒廠，再到礁溪泡腳，最後走一段頭城老街。",
+      "en": "Jimmy Liao's park by Yilan Station and the old winery, a foot soak in Jiaoxi and a stroll down Toucheng Old Street."
     },
     "spotCount": 8,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-ila-yilan-jiaoxi.jpg"
@@ -1731,16 +1731,16 @@
     "id": "tw-ila-luodong-suao",
     "country": "TW",
     "name": {
-      "zh": "羅東與蘇澳",
-      "en": "Luodong and Su'ao"
+      "zh": "羅東夜市、傳藝中心與冷泉",
+      "en": "Luodong Night Market, Arts Centre and Cold Springs"
     },
     "regionLabel": {
       "zh": "宜蘭",
       "en": "Yilan"
     },
     "description": {
-      "zh": "林業園區、傳藝中心和羅東夜市，往南到蘇澳泡冷泉。",
-      "en": "The forestry park, the traditional arts centre and Luodong Night Market, then cold springs in Su'ao."
+      "zh": "羅東林場的貯木池、傳藝中心的老街，晚上逛羅東夜市，隔天到蘇澳泡冷泉。",
+      "en": "The log ponds at Luodong, the traditional arts centre, Luodong Night Market, and a cold-spring soak in Su'ao."
     },
     "spotCount": 8,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-ila-luodong-suao.jpg"
@@ -1749,16 +1749,16 @@
     "id": "tw-ila-mountains-sea",
     "country": "TW",
     "name": {
-      "zh": "宜蘭山與海",
-      "en": "Yilan's Mountains and Sea"
+      "zh": "宜蘭山海：太平山到威士忌",
+      "en": "Yilan: Taipingshan to the Whisky Distillery"
     },
     "regionLabel": {
       "zh": "宜蘭",
       "en": "Yilan"
     },
     "description": {
-      "zh": "從海邊的蘭陽博物館到太平山，中間停在瀑布與威士忌酒廠。",
-      "en": "From the seaside Lanyang Museum up to Taipingshan, with a waterfall and a whisky distillery on the way."
+      "zh": "從海邊像單面山的蘭陽博物館，到五峰旗瀑布、噶瑪蘭酒廠，再上太平山的檜木林。",
+      "en": "From the Lanyang Museum, shaped like a cuesta by the sea, to Wufengqi Falls, the Kavalan distillery and Taipingshan's cypress forest."
     },
     "spotCount": 4,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-ila-mountains-sea.jpg"
@@ -1767,16 +1767,16 @@
     "id": "tw-cyi-chiayi-city",
     "country": "TW",
     "name": {
-      "zh": "嘉義市散步",
-      "en": "A Walk in Chiayi City"
+      "zh": "嘉義：火雞肉飯與舊監獄",
+      "en": "Chiayi: Turkey Rice and the Old Prison"
     },
     "regionLabel": {
       "zh": "嘉義",
       "en": "Chiayi"
     },
     "description": {
-      "zh": "火雞肉飯、舊監獄、美術館和文化路夜市。",
-      "en": "Turkey rice, the old prison, the art museum and Wenhua Road Night Market."
+      "zh": "一碗噴水火雞肉飯開場，看日治時期的舊監獄和美術館，晚上逛文化路夜市。",
+      "en": "Start with Penshui's turkey rice, tour the Japanese-era prison and the art museum, then Wenhua Road Night Market."
     },
     "spotCount": 6,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-cyi-chiayi-city.jpg"
@@ -1785,16 +1785,16 @@
     "id": "tw-cyi-hinoki-alishan",
     "country": "TW",
     "name": {
-      "zh": "檜木與阿里山",
-      "en": "Cypress and Alishan"
+      "zh": "搭森林鐵路上阿里山",
+      "en": "Up to Alishan on the Forest Railway"
     },
     "regionLabel": {
       "zh": "嘉義",
       "en": "Chiayi"
     },
     "description": {
-      "zh": "從北門車站與檜意森活村，搭森林鐵路上奮起湖與阿里山。",
-      "en": "From Beimen Station and Hinoki Village up the forest railway to Fenqihu and Alishan."
+      "zh": "從北門車站和檜木老屋出發，搭森林鐵路上奮起湖吃便當，終點是阿里山的神木。",
+      "en": "From Beimen Station and the cypress houses, ride the forest railway to a lunchbox at Fenqihu and the giant trees of Alishan."
     },
     "spotCount": 6,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-cyi-hinoki-alishan.jpg"
@@ -1803,16 +1803,16 @@
     "id": "tw-cyq-chiayi-county",
     "country": "TW",
     "name": {
-      "zh": "嘉義縣",
-      "en": "Chiayi County"
+      "zh": "故宮南院、新港與東石海邊",
+      "en": "Southern Palace Museum, Xingang and the Sea"
     },
     "regionLabel": {
       "zh": "嘉義",
       "en": "Chiayi"
     },
     "description": {
-      "zh": "故宮南院、新港奉天宮與交趾陶，最後到東石看海。",
-      "en": "The Southern Palace Museum, Fengtian Temple and koji pottery, ending by the sea at Dongshi."
+      "zh": "故宮南院的亞洲文物、新港奉天宮、板陶窯的交趾陶，最後到東石漁人碼頭看海。",
+      "en": "Asian treasures at the Southern Palace Museum, Fengtian Temple, koji pottery at Bantaoyao and the sea at Dongshi."
     },
     "spotCount": 5,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-cyq-chiayi-county.jpg"
@@ -1821,16 +1821,16 @@
     "id": "jp-tyo-yamanote-stations",
     "country": "JP",
     "name": {
-      "zh": "山手線車站巡禮",
-      "en": "Yamanote Line Stations"
+      "zh": "山手線一圈，一站一章",
+      "en": "Round the Yamanote Line, a Stamp at Each Stop"
     },
     "regionLabel": {
       "zh": "東京",
       "en": "Tokyo"
     },
     "description": {
-      "zh": "沿著山手線一圈，在各大站收集站章，順便看看站外的街區。",
-      "en": "Around the Yamanote loop, one stamp at each major station and a look at the streets outside."
+      "zh": "山手線一圈的十個大站，每站出閘口走一小段，從秋葉原的電器街到原宿的新站房，一站蓋一枚。",
+      "en": "Ten big stations around the Yamanote loop: step out at each, from Akihabara's electric town to Harajuku's new station, and collect a stamp."
     },
     "spotCount": 10,
     "coverImageUrl": "https://api.explorestamp.com/covers/jp-tyo-yamanote-stations.jpg"
@@ -1839,16 +1839,16 @@
     "id": "jp-tyo-shibuya-shinjuku",
     "country": "JP",
     "name": {
-      "zh": "澀谷與新宿",
-      "en": "Shibuya and Shinjuku"
+      "zh": "澀谷十字路口到新宿橫丁",
+      "en": "Shibuya Crossing to Shinjuku's Alleys"
     },
     "regionLabel": {
       "zh": "東京",
       "en": "Tokyo"
     },
     "description": {
-      "zh": "十字路口、明治神宮和竹下通，晚上到新宿的展望台與橫丁。",
-      "en": "The crossing, Meiji Jingu and Takeshita Street, then Shinjuku's free observatory and its old alleys."
+      "zh": "站在澀谷十字路口的人潮裡、上 SHIBUYA SKY 看夕陽，走過明治神宮，晚上鑽進新宿的回憶橫丁。",
+      "en": "Stand in the Shibuya scramble, watch sunset from Shibuya Sky, walk through Meiji Jingu and squeeze into Omoide Yokocho at night."
     },
     "spotCount": 7,
     "coverImageUrl": "https://api.explorestamp.com/covers/jp-tyo-shibuya-shinjuku.jpg"
@@ -1857,16 +1857,16 @@
     "id": "jp-tyo-ueno-yanaka",
     "country": "JP",
     "name": {
-      "zh": "上野與谷中",
-      "en": "Ueno and Yanaka"
+      "zh": "上野博物館與谷中老街",
+      "en": "Ueno's Museums and Yanaka's Old Streets"
     },
     "regionLabel": {
       "zh": "東京",
       "en": "Tokyo"
     },
     "description": {
-      "zh": "上野的博物館與動物園，再走到谷中銀座和根津神社的老街區。",
-      "en": "Ueno's museums and zoo, then the old streets of Yanaka Ginza and Nezu Shrine."
+      "zh": "上野公園裡三座博物館和動物園，逛阿美橫町，再走進谷中銀座的老商店街和根津神社的鳥居。",
+      "en": "Three museums and a zoo in Ueno Park, a stroll through Ameyoko, then old shops in Yanaka Ginza and the torii of Nezu Shrine."
     },
     "spotCount": 9,
     "coverImageUrl": "https://api.explorestamp.com/covers/jp-tyo-ueno-yanaka.jpg"
@@ -1875,16 +1875,16 @@
     "id": "jp-kyt-arashiyama",
     "country": "JP",
     "name": {
-      "zh": "嵐山",
-      "en": "Arashiyama"
+      "zh": "嵐山：渡月橋、竹林與小火車",
+      "en": "Arashiyama: Bridge, Bamboo and the Scenic Train"
     },
     "regionLabel": {
       "zh": "京都",
       "en": "Kyoto"
     },
     "description": {
-      "zh": "嵐電到嵐山，渡月橋、天龍寺與竹林，再搭小火車。",
-      "en": "The Randen tram to Arashiyama: Togetsukyō, Tenryū-ji and the bamboo grove, then the scenic train."
+      "zh": "搭嵐電到嵐山，走過渡月橋和天龍寺，穿過竹林小徑，再搭小火車沿保津川峽谷。",
+      "en": "Take the Randen tram to Arashiyama, cross Togetsukyō, visit Tenryū-ji, walk the bamboo grove and ride the scenic train along the gorge."
     },
     "spotCount": 5,
     "coverImageUrl": "https://api.explorestamp.com/covers/jp-kyt-arashiyama.jpg"
@@ -1893,16 +1893,16 @@
     "id": "jp-tyo-tower-views",
     "country": "JP",
     "name": {
-      "zh": "東京高塔與老東京",
-      "en": "Tokyo Towers and Old Edo"
+      "zh": "晴空塔、東京鐵塔與老江戶",
+      "en": "Skytree, Tokyo Tower and Old Edo"
     },
     "regionLabel": {
       "zh": "東京",
       "en": "Tokyo"
     },
     "description": {
-      "zh": "晴空塔與東京鐵塔，加上淺草寺、日本橋與兩國的相撲。",
-      "en": "Skytree and Tokyo Tower, with Sensō-ji, Nihonbashi and sumo in Ryōgoku."
+      "zh": "淺草寺的雷門、晴空塔和東京鐵塔，加上兩國國技館和日本橋，看新舊東京疊在一起。",
+      "en": "Sensō-ji's Thunder Gate, Skytree and Tokyo Tower, plus sumo at Ryōgoku and Nihonbashi: old and new Tokyo layered together."
     },
     "spotCount": 8,
     "coverImageUrl": "https://api.explorestamp.com/covers/jp-tyo-tower-views.jpg"
@@ -1911,16 +1911,16 @@
     "id": "jp-tyo-books-bay",
     "country": "JP",
     "name": {
-      "zh": "書店街與灣岸",
-      "en": "Book Town and the Bay"
+      "zh": "神保町書街到豐洲",
+      "en": "Jimbōchō's Bookshops to Toyosu"
     },
     "regionLabel": {
       "zh": "東京",
       "en": "Tokyo"
     },
     "description": {
-      "zh": "神保町與代官山的書店，銀座和豐洲，再到六本木的美術館。",
-      "en": "Bookshops in Jimbōchō and Daikanyama, Ginza and Toyosu, then the art museum in Roppongi."
+      "zh": "在神保町翻舊書、代官山蔦屋喝咖啡，再到豐洲市場吃海鮮丼、teamLab 走進光影裡。",
+      "en": "Old books in Jimbōchō, coffee at Daikanyama Tsutaya, a seafood bowl at Toyosu and a walk into the light at teamLab."
     },
     "spotCount": 10,
     "coverImageUrl": "https://api.explorestamp.com/covers/jp-tyo-books-bay.jpg"
@@ -1929,16 +1929,16 @@
     "id": "jp-tyo-west-tokyo",
     "country": "JP",
     "name": {
-      "zh": "吉祥寺與三鷹",
-      "en": "Kichijōji and Mitaka"
+      "zh": "吉祥寺：井之頭公園與吉卜力",
+      "en": "Kichijōji: Inokashira Park and Ghibli"
     },
     "regionLabel": {
       "zh": "東京",
       "en": "Tokyo"
     },
     "description": {
-      "zh": "井之頭公園散步，到吉卜力美術館，再去豪德寺看招財貓。",
-      "en": "A walk in Inokashira Park, the Ghibli Museum, then the beckoning cats of Gōtoku-ji."
+      "zh": "井之頭公園划天鵝船、三鷹的吉卜力美術館，再到豪德寺看滿坑滿谷的招財貓。",
+      "en": "Swan boats in Inokashira Park, the Ghibli Museum in Mitaka and the hundreds of beckoning cats at Gōtoku-ji."
     },
     "spotCount": 4,
     "coverImageUrl": "https://api.explorestamp.com/covers/jp-tyo-west-tokyo.jpg"
@@ -1947,16 +1947,16 @@
     "id": "jp-tyo-gateways",
     "country": "JP",
     "name": {
-      "zh": "東京的出入口",
-      "en": "Tokyo's Gateways"
+      "zh": "東京的起點與終點：機場與迪士尼",
+      "en": "Tokyo's Gateways: Airports and Disneyland"
     },
     "regionLabel": {
       "zh": "東京",
       "en": "Tokyo"
     },
     "description": {
-      "zh": "兩座機場、東京車站與迪士尼，旅程的開頭和結尾。",
-      "en": "Two airports, Tokyo Station and Disneyland, where trips begin and end."
+      "zh": "羽田、成田兩座機場和東京迪士尼，抵達、離開和最開心的那一天都能蓋一枚。",
+      "en": "Haneda, Narita and Tokyo Disneyland: a stamp for the day you arrive, the day you leave and the happiest day in between."
     },
     "spotCount": 3,
     "coverImageUrl": "https://api.explorestamp.com/covers/jp-tyo-gateways.jpg"
@@ -1965,16 +1965,16 @@
     "id": "tw-yun-huwei-beigang",
     "country": "TW",
     "name": {
-      "zh": "虎尾與北港",
-      "en": "Huwei and Beigang"
+      "zh": "虎尾布袋戲與北港媽祖",
+      "en": "Huwei Puppetry and Beigang's Matsu Temple"
     },
     "regionLabel": {
       "zh": "雲林",
       "en": "Yunlin"
     },
     "description": {
-      "zh": "布袋戲的故鄉、還在冒煙的糖廠，再到北港朝天宮和老街。",
-      "en": "The home of glove puppetry and a sugar mill that still runs, then Beigang's Chaotian Temple and old street."
+      "zh": "在虎尾看布袋戲、聞糖廠的甜味，到北港朝天宮拜媽祖，再去成龍濕地看裝置藝術。",
+      "en": "Glove puppets and the sweet smell of the sugar mill in Huwei, Matsu at Beigang's Chaotian Temple and art at Chenglong Wetlands."
     },
     "spotCount": 8,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-yun-huwei-beigang.jpg"
@@ -1983,16 +1983,16 @@
     "id": "tw-yun-xiluo-douliu",
     "country": "TW",
     "name": {
-      "zh": "西螺與斗六",
-      "en": "Xiluo and Douliu"
+      "zh": "西螺大橋、醬油與斗六老街",
+      "en": "Xiluo Bridge, Soy Sauce and Douliu Old Street"
     },
     "regionLabel": {
       "zh": "雲林",
       "en": "Yunlin"
     },
     "description": {
-      "zh": "西螺大橋與醬油老街，再到斗六的巴洛克老街和日式宿舍，玩一趟劍湖山。",
-      "en": "The Xiluo Bridge and its soy-sauce street, Douliu's baroque arcades and Japanese-era houses, and a day at Janfusun."
+      "zh": "走過紅色的西螺大橋，在延平老街聞醬油香，再到斗六的巴洛克老街和日式宿舍。",
+      "en": "Cross the red Xiluo Bridge, follow the smell of soy sauce down Yanping Street, then Douliu's baroque arcades and old houses."
     },
     "spotCount": 8,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-yun-xiluo-douliu.jpg"
@@ -2001,16 +2001,16 @@
     "id": "tw-sugar-mills",
     "country": "TW",
     "name": {
-      "zh": "臺灣糖廠巡禮",
-      "en": "Taiwan's Sugar Mills"
+      "zh": "糖廠巡禮：一路吃冰到花蓮",
+      "en": "Sugar Mill Trail: Ice Pops from Taichung to Hualien"
     },
     "regionLabel": {
       "zh": "全臺",
       "en": "Taiwan"
     },
     "description": {
-      "zh": "從臺中到花蓮，走訪老糖廠的煙囪、五分車和一支冰棒。",
-      "en": "Old sugar mills from Taichung to Hualien: chimneys, narrow-gauge cane trains and an ice pop at each."
+      "zh": "從臺中月眉到花蓮光復，十座老糖廠各有煙囪、五分車和一支冰棒，吃完一路就集滿了。",
+      "en": "From Yuemei to Guangfu, ten old sugar mills, each with a chimney, a cane train and an ice pop to finish the route."
     },
     "spotCount": 10,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-sugar-mills.jpg"
@@ -2019,16 +2019,16 @@
     "id": "jp-kyt-higashiyama",
     "country": "JP",
     "name": {
-      "zh": "京都東山",
-      "en": "Higashiyama, Kyoto"
+      "zh": "清水寺走到祇園",
+      "en": "From Kiyomizu-dera to Gion"
     },
     "regionLabel": {
       "zh": "京都",
       "en": "Kyoto"
     },
     "description": {
-      "zh": "清水寺、二年坂三年坂、八坂神社到祇園，京都最經典的一段路。",
-      "en": "Kiyomizu-dera, Ninenzaka and Sannenzaka, Yasaka Shrine and Gion, Kyoto's classic walk."
+      "zh": "清水寺的舞台、二年坂三年坂的石板路、八坂神社，一路走到祇園的花見小路和先斗町。",
+      "en": "Kiyomizu-dera's stage, the stone lanes of Ninenzaka and Sannenzaka, Yasaka Shrine, then Gion's Hanamikoji and Pontochō."
     },
     "spotCount": 7,
     "coverImageUrl": "https://api.explorestamp.com/covers/jp-kyt-higashiyama.jpg"
@@ -2037,16 +2037,16 @@
     "id": "jp-kyt-north-temples",
     "country": "JP",
     "name": {
-      "zh": "京都北邊的寺社",
-      "en": "Temples of North Kyoto"
+      "zh": "金閣寺、龍安寺與京都御所",
+      "en": "Kinkaku-ji, Ryōan-ji and the Imperial Palace"
     },
     "regionLabel": {
       "zh": "京都",
       "en": "Kyoto"
     },
     "description": {
-      "zh": "金閣寺、龍安寺和北野天滿宮，再到下鴨神社與御所。",
-      "en": "Kinkaku-ji, Ryōan-ji and Kitano Tenmangū, then Shimogamo Shrine and the Imperial Palace."
+      "zh": "金閣寺映在池裡、龍安寺的石庭、二條城的鶯聲地板，再到御所和下鴨神社的森林。",
+      "en": "Kinkaku-ji reflected in its pond, Ryōan-ji's rock garden, Nijō Castle's nightingale floors, the Imperial Palace and Shimogamo's forest."
     },
     "spotCount": 8,
     "coverImageUrl": "https://api.explorestamp.com/covers/jp-kyt-north-temples.jpg"
@@ -2055,16 +2055,16 @@
     "id": "jp-kyt-philosophers-path",
     "country": "JP",
     "name": {
-      "zh": "哲學之道",
-      "en": "The Philosopher's Path"
+      "zh": "哲學之道：銀閣寺走到南禪寺",
+      "en": "Philosopher's Path: Ginkaku-ji to Nanzen-ji"
     },
     "regionLabel": {
       "zh": "京都",
       "en": "Kyoto"
     },
     "description": {
-      "zh": "銀閣寺沿著水渠走到南禪寺，再到平安神宮。",
-      "en": "From Ginkaku-ji along the canal to Nanzen-ji, then on to Heian Shrine."
+      "zh": "從銀閣寺沿著水渠走，春天是櫻花、秋天是紅葉，走到南禪寺的水路閣，再到平安神宮的大鳥居。",
+      "en": "Follow the canal from Ginkaku-ji under cherry blossom or autumn leaves to Nanzen-ji's aqueduct and Heian Shrine's great torii."
     },
     "spotCount": 4,
     "coverImageUrl": "https://api.explorestamp.com/covers/jp-kyt-philosophers-path.jpg"
@@ -2073,16 +2073,16 @@
     "id": "jp-kyt-south-uji",
     "country": "JP",
     "name": {
-      "zh": "京都車站與宇治",
-      "en": "Kyoto Station to Uji"
+      "zh": "伏見稻荷到宇治抹茶",
+      "en": "Fushimi Inari to Matcha in Uji"
     },
     "regionLabel": {
       "zh": "京都",
       "en": "Kyoto"
     },
     "description": {
-      "zh": "京都塔、東寺、鐵道博物館與伏見稻荷，最後到宇治喝抹茶。",
-      "en": "Kyoto Tower, Tō-ji, the railway museum and Fushimi Inari, ending with matcha in Uji."
+      "zh": "京都塔、東寺的五重塔、鐵道博物館的蒸汽火車，穿過伏見稻荷的千本鳥居，最後到宇治喝抹茶。",
+      "en": "Kyoto Tower, Tō-ji's pagoda, steam engines at the railway museum, Fushimi Inari's torii and matcha in Uji."
     },
     "spotCount": 7,
     "coverImageUrl": "https://api.explorestamp.com/covers/jp-kyt-south-uji.jpg"
@@ -2091,16 +2091,16 @@
     "id": "jp-nra-nara",
     "country": "JP",
     "name": {
-      "zh": "奈良",
-      "en": "Nara"
+      "zh": "奈良：鹿、大佛與春日大社",
+      "en": "Nara: Deer, the Great Buddha and Kasuga"
     },
     "regionLabel": {
       "zh": "奈良",
       "en": "Nara"
     },
     "description": {
-      "zh": "奈良公園的鹿、東大寺大佛與春日大社，再到奈良町和法隆寺。",
-      "en": "The deer of Nara Park, the Great Buddha and Kasuga Taisha, then Naramachi and Hōryū-ji."
+      "zh": "在奈良公園被鹿鞠躬，看東大寺的大佛和春日大社的石燈籠，再到法隆寺看最古老的木造建築。",
+      "en": "Get bowed to by deer in Nara Park, see the Great Buddha and Kasuga's stone lanterns, then the world's oldest wooden buildings at Hōryū-ji."
     },
     "spotCount": 7,
     "coverImageUrl": "https://api.explorestamp.com/covers/jp-nra-nara.jpg"
@@ -2109,16 +2109,16 @@
     "id": "jp-osa-minami",
     "country": "JP",
     "name": {
-      "zh": "大阪南區",
-      "en": "Minami, Osaka"
+      "zh": "道頓堀到通天閣",
+      "en": "Dōtonbori to Tsūtenkaku"
     },
     "regionLabel": {
       "zh": "大阪",
       "en": "Osaka"
     },
     "description": {
-      "zh": "道頓堀、心齋橋與黑門市場，再到通天閣和阿倍野。",
-      "en": "Dōtonbori, Shinsaibashi and Kuromon Market, then Tsūtenkaku and Abeno."
+      "zh": "在道頓堀的固力果跑跑人前拍照，逛心齋橋和黑門市場，到新世界吃串炸、登通天閣。",
+      "en": "Pose in front of the Glico runner at Dōtonbori, shop Shinsaibashi and Kuromon, then kushikatsu and Tsūtenkaku in Shinsekai."
     },
     "spotCount": 8,
     "coverImageUrl": "https://api.explorestamp.com/covers/jp-osa-minami.jpg"
@@ -2127,16 +2127,16 @@
     "id": "jp-osa-kita",
     "country": "JP",
     "name": {
-      "zh": "大阪北區",
-      "en": "Kita, Osaka"
+      "zh": "梅田空中庭園與大阪城",
+      "en": "Umeda Sky Building and Osaka Castle"
     },
     "regionLabel": {
       "zh": "大阪",
       "en": "Osaka"
     },
     "description": {
-      "zh": "梅田的空中庭園、天神橋筋與天滿宮，再到中之島。",
-      "en": "The Umeda Sky Building, Tenjinbashi-suji and Tenmangū, then Nakanoshima."
+      "zh": "梅田空中庭園的環形展望台、日本最長的天神橋筋商店街，再到中之島和大阪城。",
+      "en": "The ring-shaped deck at the Umeda Sky Building, Japan's longest shopping street at Tenjinbashi, then Nakanoshima and Osaka Castle."
     },
     "spotCount": 7,
     "coverImageUrl": "https://api.explorestamp.com/covers/jp-osa-kita.jpg"
@@ -2145,16 +2145,16 @@
     "id": "jp-osa-bay-expo",
     "country": "JP",
     "name": {
-      "zh": "大阪灣與萬博",
-      "en": "Osaka Bay and Expo Park"
+      "zh": "環球影城、海遊館與太陽之塔",
+      "en": "Universal Studios, Kaiyukan and the Tower of the Sun"
     },
     "regionLabel": {
       "zh": "大阪",
       "en": "Osaka"
     },
     "description": {
-      "zh": "環球影城、海遊館與萬博公園的太陽之塔。",
-      "en": "Universal Studios, the Kaiyukan aquarium and the Tower of the Sun in Expo Park."
+      "zh": "環球影城玩一整天、海遊館看鯨鯊，再到萬博公園抬頭看太陽之塔的三張臉。",
+      "en": "A full day at Universal Studios, whale sharks at Kaiyukan and the three faces of the Tower of the Sun in Expo Park."
     },
     "spotCount": 6,
     "coverImageUrl": "https://api.explorestamp.com/covers/jp-osa-bay-expo.jpg"
@@ -2163,16 +2163,16 @@
     "id": "jp-kbe-kobe-himeji",
     "country": "JP",
     "name": {
-      "zh": "神戶與姬路",
-      "en": "Kobe and Himeji"
+      "zh": "神戶港與白鷺城",
+      "en": "Kobe Harbour and Himeji Castle"
     },
     "regionLabel": {
       "zh": "神戶",
       "en": "Kobe"
     },
     "description": {
-      "zh": "港塔、異人館與南京町，再到姬路看白鷺城。",
-      "en": "The port tower, the foreign residences and Nankinmachi, then Himeji's white castle."
+      "zh": "北野異人館的洋房、南京町的小籠包、紅色的神戶港塔，再搭電車到姬路看白鷺城。",
+      "en": "Western houses in Kitano, dumplings in Nankinmachi and the red Port Tower, then the train to Himeji's white castle."
     },
     "spotCount": 7,
     "coverImageUrl": "https://api.explorestamp.com/covers/jp-kbe-kobe-himeji.jpg"
@@ -2181,16 +2181,16 @@
     "id": "jp-fuk-hakata-tenjin",
     "country": "JP",
     "name": {
-      "zh": "博多與天神",
-      "en": "Hakata and Tenjin"
+      "zh": "博多：屋台與一蘭總本店",
+      "en": "Hakata: Yatai Stalls and Ichiran's Main Shop"
     },
     "regionLabel": {
       "zh": "福岡",
       "en": "Fukuoka"
     },
     "description": {
-      "zh": "博多站、櫛田神社和運河城，晚上到中洲吃屋台、一蘭。",
-      "en": "Hakata Station, Kushida Shrine and Canal City, then yatai stalls and ramen in Nakasu."
+      "zh": "博多站、櫛田神社和運河城，晚上在中洲的屋台吃拉麵關東煮，再去一蘭總本店。",
+      "en": "Hakata Station, Kushida Shrine and Canal City, then ramen and oden at the Nakasu yatai and Ichiran's main shop."
     },
     "spotCount": 10,
     "coverImageUrl": "https://api.explorestamp.com/covers/jp-fuk-hakata-tenjin.jpg"
@@ -2199,16 +2199,16 @@
     "id": "jp-fuk-ohori-momochi",
     "country": "JP",
     "name": {
-      "zh": "大濠公園與百道",
-      "en": "Ōhori Park and Momochi"
+      "zh": "大濠公園到福岡塔",
+      "en": "Ōhori Park to Fukuoka Tower"
     },
     "regionLabel": {
       "zh": "福岡",
       "en": "Fukuoka"
     },
     "description": {
-      "zh": "城跡與大濠公園，再到海邊的福岡塔與巨蛋。",
-      "en": "The castle ruins and Ōhori Park, then Fukuoka Tower and the dome by the sea."
+      "zh": "福岡城跡的石垣、大濠公園的湖，再到百道濱海邊看福岡塔和巨蛋。",
+      "en": "The stone walls of Fukuoka Castle, the lake at Ōhori Park, then the beach at Momochi with Fukuoka Tower and the dome."
     },
     "spotCount": 7,
     "coverImageUrl": "https://api.explorestamp.com/covers/jp-fuk-ohori-momochi.jpg"
@@ -2217,16 +2217,16 @@
     "id": "jp-fuk-day-trips",
     "country": "JP",
     "name": {
-      "zh": "福岡近郊",
-      "en": "Day Trips from Fukuoka"
+      "zh": "太宰府、柳川遊船與門司港",
+      "en": "Dazaifu, Yanagawa Boats and Mojikō"
     },
     "regionLabel": {
       "zh": "福岡",
       "en": "Fukuoka"
     },
     "description": {
-      "zh": "太宰府、柳川遊船、門司港和糸島的夫婦岩。",
-      "en": "Dazaifu, a punt in Yanagawa, Mojikō and the wedded rocks of Itoshima."
+      "zh": "太宰府吃梅枝餅、柳川坐小船穿過水道，再到門司港的懷舊街區和糸島的夫婦岩。",
+      "en": "Plum cakes at Dazaifu, a punt through Yanagawa's canals, Mojikō's retro harbour and the wedded rocks of Itoshima."
     },
     "spotCount": 8,
     "coverImageUrl": "https://api.explorestamp.com/covers/jp-fuk-day-trips.jpg"
@@ -2235,16 +2235,16 @@
     "id": "jp-hkd-hakodate",
     "country": "JP",
     "name": {
-      "zh": "函館",
-      "en": "Hakodate"
+      "zh": "函館：朝市、紅磚倉庫與百萬夜景",
+      "en": "Hakodate: Morning Market, Red Bricks and the Night View"
     },
     "regionLabel": {
       "zh": "北海道",
       "en": "Hokkaido"
     },
     "description": {
-      "zh": "朝市、紅磚倉庫、八幡坂與五稜郭，晚上上函館山看夜景。",
-      "en": "The morning market, the red-brick warehouses, Hachiman-zaka and Goryōkaku, then the night view from Mt Hakodate."
+      "zh": "函館朝市的海鮮丼、金森紅磚倉庫、八幡坂看海，從五稜郭塔看星形城郭，晚上搭纜車看夜景。",
+      "en": "A seafood bowl at the morning market, the red-brick warehouses, the sea from Hachiman-zaka, the star fort and the night view."
     },
     "spotCount": 6,
     "coverImageUrl": "https://api.explorestamp.com/covers/jp-hkd-hakodate.jpg"
@@ -2253,16 +2253,16 @@
     "id": "jp-hok-furano-biei",
     "country": "JP",
     "name": {
-      "zh": "富良野與美瑛",
-      "en": "Furano and Biei"
+      "zh": "富良野薰衣草與美瑛青池",
+      "en": "Furano Lavender and Biei's Blue Pond"
     },
     "regionLabel": {
       "zh": "北海道",
       "en": "Hokkaido"
     },
     "description": {
-      "zh": "薰衣草田、青池和森林精靈露台，再到旭山動物園。",
-      "en": "Lavender fields, the Blue Pond and Ningle Terrace, then Asahiyama Zoo."
+      "zh": "富田農場的紫色薰衣草、森林精靈露台的小木屋，美瑛白金青池的藍，再到旭山動物園看企鵝。",
+      "en": "Purple lavender at Farm Tomita, the cabins of Ningle Terrace, the blue of Shirogane pond and penguins at Asahiyama Zoo."
     },
     "spotCount": 4,
     "coverImageUrl": "https://api.explorestamp.com/covers/jp-hok-furano-biei.jpg"
@@ -2271,16 +2271,16 @@
     "id": "jp-nah-naha",
     "country": "JP",
     "name": {
-      "zh": "那霸市區",
-      "en": "Naha"
+      "zh": "那霸：國際通與市場",
+      "en": "Naha: Kokusai-dōri and the Market"
     },
     "regionLabel": {
       "zh": "沖繩",
       "en": "Okinawa"
     },
     "description": {
-      "zh": "國際通、市場、壺屋陶器街與波上宮，搭單軌就能走完。",
-      "en": "Kokusai-dōri, the market, Tsuboya's pottery street and Naminoue Shrine, all by monorail."
+      "zh": "國際通的商店街、牧志市場樓上現煮海鮮，壺屋陶器街和海邊懸崖上的波上宮。",
+      "en": "The shops of Kokusai-dōri, seafood cooked upstairs at Makishi market, Tsuboya's pottery street and Naminoue Shrine on its cliff."
     },
     "spotCount": 9,
     "coverImageUrl": "https://api.explorestamp.com/covers/jp-nah-naha.jpg"
@@ -2289,16 +2289,16 @@
     "id": "jp-oki-ryukyu-heritage",
     "country": "JP",
     "name": {
-      "zh": "琉球王國遺產",
-      "en": "Heritage of the Ryūkyū Kingdom"
+      "zh": "琉球王國：首里城與聖地",
+      "en": "The Ryūkyū Kingdom: Shuri Castle and Sacred Sites"
     },
     "regionLabel": {
       "zh": "沖繩",
       "en": "Okinawa"
     },
     "description": {
-      "zh": "首里城、玉陵、齋場御嶽和幾座城跡，認識琉球的歷史。",
-      "en": "Shuri Castle, Tamaudun, Sēfa-utaki and the castle ruins of the old Ryūkyū kingdom."
+      "zh": "首里城、王族的陵墓玉陵、聖地齋場御嶽，再到中城和今歸仁的城跡看琉球王國的過去。",
+      "en": "Shuri Castle, the royal tombs of Tamaudun, the sacred site of Sēfa-utaki and the castle ruins of Nakagusuku and Nakijin."
     },
     "spotCount": 7,
     "coverImageUrl": "https://api.explorestamp.com/covers/jp-oki-ryukyu-heritage.jpg"
@@ -2307,16 +2307,16 @@
     "id": "jp-oki-north-coast",
     "country": "JP",
     "name": {
-      "zh": "沖繩西海岸與北部",
-      "en": "Okinawa's West Coast and North"
+      "zh": "沖繩海岸：古宇利大橋到美麗海",
+      "en": "Okinawa's Coast: Kōri Bridge to Churaumi"
     },
     "regionLabel": {
       "zh": "沖繩",
       "en": "Okinawa"
     },
     "description": {
-      "zh": "美國村、真榮田岬、萬座毛，一路到古宇利大橋與美麗海。",
-      "en": "American Village, Cape Maeda and Manzamo, up to the Kōri Bridge and Churaumi."
+      "zh": "美國村的摩天輪、真榮田岬的藍洞、萬座毛的象鼻岩，開過古宇利大橋，最後到美麗海水族館。",
+      "en": "American Village, the blue waters of Cape Maeda, Manzamo's elephant rock, the drive over Kōri Bridge and Churaumi."
     },
     "spotCount": 8,
     "coverImageUrl": "https://api.explorestamp.com/covers/jp-oki-north-coast.jpg"
@@ -2325,16 +2325,16 @@
     "id": "jp-knz-kanazawa",
     "country": "JP",
     "name": {
-      "zh": "金澤與白川鄉",
-      "en": "Kanazawa and Shirakawa-gō"
+      "zh": "金澤兼六園，再到白川鄉",
+      "en": "Kanazawa's Kenroku-en, Then Shirakawa-gō"
     },
     "regionLabel": {
       "zh": "金澤",
       "en": "Kanazawa"
     },
     "description": {
-      "zh": "兼六園、21世紀美術館、近江町市場與茶屋街，再搭巴士到白川鄉。",
-      "en": "Kenroku-en, the 21st Century Museum, Ōmichō Market and the teahouse districts, then a bus to Shirakawa-gō."
+      "zh": "兼六園的雪吊松、21世紀美術館的游泳池、近江町市場的海鮮，再搭巴士到白川鄉的合掌村。",
+      "en": "Kenroku-en's roped pines, the swimming pool at the 21st Century Museum, Ōmichō's seafood and a bus to Shirakawa-gō's farmhouses."
     },
     "spotCount": 14,
     "coverImageUrl": "https://api.explorestamp.com/covers/jp-knz-kanazawa.jpg"
@@ -2343,16 +2343,16 @@
     "id": "jp-spk-sapporo",
     "country": "JP",
     "name": {
-      "zh": "札幌",
-      "en": "Sapporo"
+      "zh": "札幌：大通公園到薄野",
+      "en": "Sapporo: Ōdōri Park to Susukino"
     },
     "regionLabel": {
       "zh": "北海道",
       "en": "Hokkaido"
     },
     "description": {
-      "zh": "大通公園、電視塔、時計台和二條市場，晚上到薄野。",
-      "en": "Ōdōri Park, the TV Tower, the Clock Tower and Nijō Market, then Susukino at night."
+      "zh": "從北海道大學走到紅磚的舊道廳和時計台，大通公園上電視塔，晚上到薄野吃味噌拉麵。",
+      "en": "From Hokkaido University to the red-brick government hall and clock tower, up the TV Tower, then miso ramen in Susukino."
     },
     "spotCount": 9,
     "coverImageUrl": "https://api.explorestamp.com/covers/jp-spk-sapporo.jpg"
@@ -2361,16 +2361,16 @@
     "id": "jp-spk-sapporo-outskirts",
     "country": "JP",
     "name": {
-      "zh": "札幌近郊",
-      "en": "Around Sapporo"
+      "zh": "白色戀人、啤酒與藻岩山夜景",
+      "en": "Shiroi Koibito, Beer and the Night View from Moiwa"
     },
     "regionLabel": {
       "zh": "北海道",
       "en": "Hokkaido"
     },
     "description": {
-      "zh": "白色戀人、啤酒博物館、藻岩山夜景與跳台。",
-      "en": "Shiroi Koibito Park, the beer museum, the night view from Mt Moiwa and the ski jump."
+      "zh": "白色戀人的工廠、札幌啤酒的紅磚館、大倉山跳台，晚上搭纜車上藻岩山看夜景。",
+      "en": "The Shiroi Koibito factory, the red-brick beer museum, the Ōkurayama ski jump and the night view from Mt Moiwa."
     },
     "spotCount": 6,
     "coverImageUrl": "https://api.explorestamp.com/covers/jp-spk-sapporo-outskirts.jpg"
@@ -2379,16 +2379,16 @@
     "id": "jp-otr-otaru",
     "country": "JP",
     "name": {
-      "zh": "小樽",
-      "en": "Otaru"
+      "zh": "小樽運河、玻璃與音樂盒",
+      "en": "Otaru: Canal, Glass and Music Boxes"
     },
     "regionLabel": {
       "zh": "北海道",
       "en": "Hokkaido"
     },
     "description": {
-      "zh": "運河、堺町通的玻璃與音樂盒，從老車站走一圈。",
-      "en": "The canal and the glass and music-box shops of Sakaimachi, a loop from the old station."
+      "zh": "從小樽老車站出發，沿運河看石造倉庫，在堺町通看玻璃和音樂盒，蒸汽鐘整點會響。",
+      "en": "From Otaru's old station along the canal's stone warehouses to Sakaimachi's glass and music boxes, where the steam clock sings on the hour."
     },
     "spotCount": 5,
     "coverImageUrl": "https://api.explorestamp.com/covers/jp-otr-otaru.jpg"
@@ -2397,16 +2397,16 @@
     "id": "jp-ngy-nagoya",
     "country": "JP",
     "name": {
-      "zh": "名古屋",
-      "en": "Nagoya"
+      "zh": "名古屋城與大須商店街",
+      "en": "Nagoya Castle and Ōsu Shopping Street"
     },
     "regionLabel": {
       "zh": "名古屋",
       "en": "Nagoya"
     },
     "description": {
-      "zh": "名古屋城、熱田神宮與大須，再看鐵道和豐田的博物館。",
-      "en": "Nagoya Castle, Atsuta Shrine and Ōsu, plus the railway and Toyota museums."
+      "zh": "名古屋城的金鯱、大須商店街的小吃、熱田神宮的森林，再到豐田紀念館看織布機變成汽車。",
+      "en": "Nagoya Castle's golden fish, snacks on Ōsu shopping street, Atsuta's forest and the Toyota museum, from looms to cars."
     },
     "spotCount": 10,
     "coverImageUrl": "https://api.explorestamp.com/covers/jp-ngy-nagoya.jpg"
@@ -2415,16 +2415,16 @@
     "id": "jp-ngy-around-nagoya",
     "country": "JP",
     "name": {
-      "zh": "名古屋近郊",
-      "en": "Around Nagoya"
+      "zh": "吉卜力公園、樂高樂園與犬山城",
+      "en": "Ghibli Park, Legoland and Inuyama Castle"
     },
     "regionLabel": {
       "zh": "名古屋",
       "en": "Nagoya"
     },
     "description": {
-      "zh": "港邊的水族館與樂高樂園，吉卜力公園和犬山城。",
-      "en": "The port aquarium and Legoland, Ghibli Park and Inuyama Castle."
+      "zh": "吉卜力公園走進動畫場景、樂高樂園、名古屋港水族館，再到犬山城登上最古老的天守。",
+      "en": "Step into anime scenes at Ghibli Park, then Legoland, the port aquarium and one of Japan's oldest castle keeps at Inuyama."
     },
     "spotCount": 5,
     "coverImageUrl": "https://api.explorestamp.com/covers/jp-ngy-around-nagoya.jpg"
@@ -2433,16 +2433,16 @@
     "id": "jp-hij-hiroshima",
     "country": "JP",
     "name": {
-      "zh": "廣島",
-      "en": "Hiroshima"
+      "zh": "廣島：和平公園與御好燒",
+      "en": "Hiroshima: Peace Park and Okonomiyaki"
     },
     "regionLabel": {
       "zh": "廣島",
       "en": "Hiroshima"
     },
     "description": {
-      "zh": "原爆圓頂館與和平紀念公園，再到廣島城和縮景園，晚上吃御好燒。",
-      "en": "The Atomic Bomb Dome and Peace Park, Hiroshima Castle and Shukkei-en, then okonomiyaki."
+      "zh": "原爆圓頂館與和平紀念公園，再到廣島城和縮景園，晚上吃一份層層疊起的廣島御好燒。",
+      "en": "The A-Bomb Dome and Peace Park, Hiroshima Castle and Shukkei-en, then a layered Hiroshima okonomiyaki."
     },
     "spotCount": 9,
     "coverImageUrl": "https://api.explorestamp.com/covers/jp-hij-hiroshima.jpg"
@@ -2451,16 +2451,16 @@
     "id": "jp-htk-miyajima",
     "country": "JP",
     "name": {
-      "zh": "宮島與瀨戶內",
-      "en": "Miyajima and the Inland Sea"
+      "zh": "宮島海上鳥居與瀨戶內",
+      "en": "Miyajima's Floating Torii and the Inland Sea"
     },
     "regionLabel": {
       "zh": "廣島",
       "en": "Hiroshima"
     },
     "description": {
-      "zh": "海上鳥居與嚴島神社、彌山，再到吳的大和博物館與尾道。",
-      "en": "The floating torii and Itsukushima Shrine, Mt Misen, then Kure's Yamato Museum and Onomichi."
+      "zh": "搭渡輪到宮島看海上大鳥居，搭纜車上彌山，再到吳的大和博物館和尾道的千光寺。",
+      "en": "The ferry to Miyajima's floating torii, the ropeway up Mt Misen, then the Yamato Museum in Kure and Senkō-ji in Onomichi."
     },
     "spotCount": 6,
     "coverImageUrl": "https://api.explorestamp.com/covers/jp-htk-miyajima.jpg"
