@@ -164,9 +164,26 @@ h4 {
   line-height: 1.35;
 }
 
-/* 語言選單只顯示文字（繁體中文 / English），不要前面的地球圖示。
-   圖示的 class 是 CSS module 產生的雜湊名稱（iconLanguage_xxxx），
-   只能用前綴比對。 */
-.navbar [class*="iconLanguage"] {
-  display: none;
+/* 右上角的語言選單只留地球圖示與小箭頭，不顯示「繁體中文」等文字
+   （aria-label 在 src/theme/NavbarItem/LocaleDropdownNavbarItem）。
+   只對桌面版的 .navbar__link 生效，手機側欄的選單照常顯示文字。
+   文字是裸文字節點，只能把字級設成 0；箭頭（::after）跟圖示的尺寸是
+   em 或固定值，各自補回來。 */
+.navbar__link.navbar__locale {
+  font-size: 0;
+  display: inline-flex;
+  align-items: center;
+}
+
+.navbar__link.navbar__locale svg {
+  margin-right: 0;
+}
+
+.navbar__link.navbar__locale::after {
+  font-size: 1rem;
+}
+
+/* footer「語言」欄目前所在的語言：不換色、加粗，看得出現在是哪一個。 */
+.footer__link-item--current {
+  font-weight: 600;
 }

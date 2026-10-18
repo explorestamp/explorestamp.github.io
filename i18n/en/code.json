@@ -872,5 +872,8 @@
   },
   "product.category.hotelStay.examples": {
     "message": "The Grand Hotel, Fairmont Le Château Frontenac"
+  },
+  "navbar.localeDropdown.ariaLabel": {
+    "message": "Choose language"
   }
 }

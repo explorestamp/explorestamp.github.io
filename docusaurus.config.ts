@@ -200,6 +200,15 @@ const config: Config = {
             { label: "聯絡信箱", href: "mailto:explorestamp@gmail.com" },
           ],
         },
+        {
+          // 連到同一頁的另一個語言版本，見 src/theme/Footer/LinkItem。
+          // `to` 只是設定格式要求的佔位，實際網址由 locale 算出來。
+          title: "語言",
+          items: [
+            { label: "繁體中文", to: "/", locale: "zh-TW" },
+            { label: "English", to: "/", locale: "en" },
+          ],
+        },
       ],
       copyright: `© ${new Date().getFullYear()} ${siteMeta.title}. Built with ❤️ by <a href="https://www.kdchang.com">KD Chang</a> in Taiwan.`,
     },
