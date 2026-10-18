@@ -214,11 +214,23 @@
 }
 
 .postcardBrand {
+  display: flex;
+  align-items: center;
+  gap: 6px;
   margin: 0.25rem 0 0;
   padding: 0 0.25rem;
   font-size: 0.6875rem;
   color: var(--es-ink-faint);
   letter-spacing: 0.04em;
+}
+
+/* 比例照 App 的 CardPainting.paintBranding：圖示約是字高的 1.8 倍，
+   圓角為邊長的 22.37%（iOS 圖示），再描一圈淡邊，免得糊進紙色裡。 */
+.postcardLogo {
+  width: 20px;
+  height: 20px;
+  border-radius: 22.37%;
+  box-shadow: 0 0 0 1px rgba(46, 42, 34, 0.18);
 }
 
 /* ── More features ── */

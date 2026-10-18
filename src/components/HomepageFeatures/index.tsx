@@ -129,6 +129,14 @@ function PostcardMock(): ReactNode {
         </div>
       </div>
       <p className={styles.postcardBrand}>
+        {/* 跟 App 明信片的品牌列一樣：App 圖示在前、名稱在後。 */}
+        <img
+          src="/img/app-icon.png"
+          alt=""
+          width={20}
+          height={20}
+          className={styles.postcardLogo}
+        />
         <Translate id="homepage.mock.postcard.brand">
           ExploreStamp 探索印記
         </Translate>
