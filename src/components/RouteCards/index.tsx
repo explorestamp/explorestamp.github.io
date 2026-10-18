@@ -19,6 +19,11 @@ type Collection = {
 // 有對應文章的路線，卡片連到文章。
 const ARTICLES: Record<string, string> = {
   "tw-tainan-walk": "/blog/tainan-walk-route",
+  "tw-ila-yilan-jiaoxi": "/blog/yilan-jiaoxi-route",
+  "tw-sugar-mills": "/blog/taiwan-sugar-mills-route",
+  "tw-yun-huwei-beigang": "/blog/huwei-beigang-route",
+  "tw-yun-xiluo-douliu": "/blog/xiluo-douliu-route",
+  "jp-okinawa-island-loop": "/blog/okinawa-island-loop-route",
 };
 
 /** 主題探索頁的路線卡片：封面照片、名稱、地區、景點數與簡介。 */
