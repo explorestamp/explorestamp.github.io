@@ -3,16 +3,16 @@
     "id": "tw-railway-classic-6",
     "country": "TW",
     "name": {
-      "zh": "老車站 6 選：木造月台的時光",
-      "en": "Six Old Stations with Wooden Platforms"
+      "zh": "老車站：木造月台的時光",
+      "en": "Old Stations with Wooden Platforms"
     },
     "regionLabel": {
       "zh": "全臺",
       "en": "Taiwan"
     },
     "description": {
-      "zh": "從山城內灣到平溪菁桐，六座老車站還留著木造站房和手寫時刻表的味道，一站蓋一枚。",
-      "en": "From hillside Neiwan to Jingtong on the Pingxi line, six stations that still keep their wooden halls and old-railway feel."
+      "zh": "從山城內灣到平溪菁桐，一座座老車站還留著木造站房和手寫時刻表的味道，一站蓋一枚。",
+      "en": "From hillside Neiwan to Jingtong on the Pingxi line, old stations that still keep their wooden halls and old-railway feel."
     },
     "spotCount": 6,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-railway-classic-6.jpg"
@@ -29,8 +29,8 @@
       "en": "Taiwan"
     },
     "description": {
-      "zh": "荷蘭人的紅磚、清朝的廟宇、日治的街屋，六座古蹟串起四百年的島嶼故事。",
-      "en": "Dutch brick, Qing temples and Japanese-era shophouses: six sites that tell four hundred years of the island's story."
+      "zh": "荷蘭人的紅磚、清朝的廟宇、日治的街屋，一座座古蹟串起四百年的島嶼故事。",
+      "en": "Dutch brick, Qing temples and Japanese-era shophouses: historic sites that together tell four hundred years of the island's story."
     },
     "spotCount": 6,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-heritage-trail.jpg"
@@ -57,16 +57,16 @@
     "id": "tw-museum-grand-tour",
     "country": "TW",
     "name": {
-      "zh": "北中南博物館：六種看世界的方式",
-      "en": "Six Museums, Six Ways to See the World"
+      "zh": "北中南博物館：換個方式看世界",
+      "en": "Museums North to South: New Ways to See the World"
     },
     "regionLabel": {
       "zh": "全臺",
       "en": "Taiwan"
     },
     "description": {
-      "zh": "從故宮的翠玉白菜到科博館的恐龍，北中南六座館，一趟看遍藝術、自然與海港。",
-      "en": "From jade cabbage at the Palace Museum to dinosaurs in Taichung, six museums from north to south."
+      "zh": "從故宮的翠玉白菜到科博館的恐龍，北中南的博物館，一趟看遍藝術、自然與海港。",
+      "en": "From jade cabbage at the Palace Museum to dinosaurs in Taichung, museums from north to south."
     },
     "spotCount": 6,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-museum-grand-tour.jpg"
@@ -83,8 +83,8 @@
       "en": "Taiwan"
     },
     "description": {
-      "zh": "聞一聞威士忌桶、捏一塊巧克力、畫一支蠟筆，六座觀光工廠都能動手做。",
-      "en": "Smell whisky casks, shape chocolate, paint a crayon: six factories where you get to make something yourself."
+      "zh": "聞一聞威士忌桶、捏一塊巧克力、畫一支蠟筆，每一座觀光工廠都能動手做。",
+      "en": "Smell whisky casks, shape chocolate, paint a crayon: factories where you get to make something yourself."
     },
     "spotCount": 6,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-factory-day-trip.jpg"
@@ -93,16 +93,16 @@
     "id": "tw-quiet-reading-room",
     "country": "TW",
     "name": {
-      "zh": "島嶼閱讀：六座城市最安靜的角落",
-      "en": "Island Reading: Six Quiet Libraries"
+      "zh": "島嶼閱讀：城市裡最安靜的角落",
+      "en": "Island Reading: Quiet Libraries"
     },
     "regionLabel": {
       "zh": "全臺",
       "en": "Taiwan"
     },
     "description": {
-      "zh": "森林裡的北投分館、綠美圖的玻璃書牆，六座圖書館是每座城市最安靜的角落。",
-      "en": "Beitou's library in the trees, Taichung's glass book walls: six libraries that are each city's quietest corner."
+      "zh": "森林裡的北投分館、綠美圖的玻璃書牆，這些圖書館是每座城市最安靜的角落。",
+      "en": "Beitou's library in the trees, Taichung's glass book walls: libraries that are each city's quietest corner."
     },
     "spotCount": 6,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-quiet-reading-room.jpg"
@@ -119,8 +119,8 @@
       "en": "Taiwan"
     },
     "description": {
-      "zh": "一碗大腸麵線、一盤火雞肉飯、一顆包子，七站吃完，臺灣的小吃地圖就蓋滿了。",
-      "en": "Intestine noodles, turkey rice, steamed buns: seven stops and your Taiwan snack map is complete."
+      "zh": "一碗大腸麵線、一盤火雞肉飯、一顆包子，一站一站吃下去，把臺灣的小吃地圖蓋滿。",
+      "en": "Intestine noodles, turkey rice, steamed buns: eat your way around and fill in your Taiwan snack map."
     },
     "spotCount": 7,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-street-food-map.jpg"
@@ -137,8 +137,8 @@
       "en": "Taiwan"
     },
     "description": {
-      "zh": "城市裡的植物園到山裡的森林遊樂區，六個地方適合放慢腳步，聞著樹的味道走一段。",
-      "en": "From city botanical gardens to mountain forest parks, six places to slow down and walk among the trees."
+      "zh": "城市裡的植物園到山裡的森林遊樂區，每一處都適合放慢腳步，聞著樹的味道走一段。",
+      "en": "From city botanical gardens to mountain forest parks, places to slow down and walk among the trees."
     },
     "spotCount": 6,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-botanical-garden-picks.jpg"
@@ -155,8 +155,8 @@
       "en": "Tokyo"
     },
     "description": {
-      "zh": "上野看國寶、淺草寺求籤、築地吃玉子燒，第一次來東京，從這六個地方開始。",
-      "en": "National treasures in Ueno, a fortune at Sensō-ji and tamagoyaki in Tsukiji: six places to start your first Tokyo trip."
+      "zh": "上野看國寶、淺草寺求籤、築地吃玉子燒，第一次來東京，從這幾個地方開始。",
+      "en": "National treasures in Ueno, a fortune at Sensō-ji and tamagoyaki in Tsukiji: places to start your first Tokyo trip."
     },
     "spotCount": 6,
     "coverImageUrl": "https://api.explorestamp.com/covers/jp-tokyo-first-visit.jpg"
@@ -237,16 +237,16 @@
     "id": "jp-market-food-walk",
     "country": "JP",
     "name": {
-      "zh": "日本市場：邊走邊吃四座市場",
-      "en": "Four Japanese Markets to Snack Through"
+      "zh": "日本市場：邊走邊吃",
+      "en": "Japanese Markets to Snack Through"
     },
     "regionLabel": {
       "zh": "日本",
       "en": "Japan"
     },
     "description": {
-      "zh": "東京、京都、大阪、那霸各一座市場，空著肚子去，邊走邊吃蓋滿四枚章。",
-      "en": "One market each in Tokyo, Kyoto, Osaka and Naha: come hungry and eat your way to four stamps."
+      "zh": "從東京一路到那霸的市場，空著肚子去，邊走邊吃，一座市場蓋一枚章。",
+      "en": "Markets from Tokyo all the way to Naha: come hungry and eat your way to a stamp at each."
     },
     "spotCount": 4,
     "coverImageUrl": "https://api.explorestamp.com/covers/jp-market-food-walk.jpg"
@@ -965,8 +965,8 @@
       "en": "Taipei"
     },
     "description": {
-      "zh": "上下班本來就會經過的八個轉乘大站，出站前順手蓋一枚，通勤也能集滿一條路線。",
-      "en": "Eight interchange stations you pass anyway on the commute: tap a stamp on the way out and finish a route without trying."
+      "zh": "上下班本來就會經過的轉乘大站，出站前順手蓋一枚，通勤也能集滿一條路線。",
+      "en": "Interchange stations you pass anyway on the commute: tap a stamp on the way out and finish a route without trying."
     },
     "spotCount": 8,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-tpe-mrt-transfer.jpg"
@@ -1829,8 +1829,8 @@
       "en": "Tokyo"
     },
     "description": {
-      "zh": "山手線一圈的十個大站，每站出閘口走一小段，從秋葉原的電器街到原宿的新站房，一站蓋一枚。",
-      "en": "Ten big stations around the Yamanote loop: step out at each, from Akihabara's electric town to Harajuku's new station, and collect a stamp."
+      "zh": "山手線一圈的大站，每站出閘口走一小段，從秋葉原的電器街到原宿的新站房，一站蓋一枚。",
+      "en": "Big stations around the Yamanote loop: step out at each, from Akihabara's electric town to Harajuku's new station, and collect a stamp."
     },
     "spotCount": 10,
     "coverImageUrl": "https://api.explorestamp.com/covers/jp-tyo-yamanote-stations.jpg"
@@ -2009,8 +2009,8 @@
       "en": "Taiwan"
     },
     "description": {
-      "zh": "從臺中月眉到花蓮光復，十座老糖廠各有煙囪、五分車和一支冰棒，吃完一路就集滿了。",
-      "en": "From Yuemei to Guangfu, ten old sugar mills, each with a chimney, a cane train and an ice pop to finish the route."
+      "zh": "從臺中月眉到花蓮光復，一座座老糖廠各有煙囪、五分車和一支冰棒，吃完一路就集滿了。",
+      "en": "From Yuemei to Guangfu, old sugar mills, each with a chimney, a cane train and an ice pop to finish the route."
     },
     "spotCount": 10,
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-sugar-mills.jpg"

@@ -57,7 +57,7 @@
     "message": "Heritage Sites"
   },
   "product.category.heritage.examples": {
-    "message": "Chihkan Tower, Eternal Golden Castle, Ruins of St. Paul's"
+    "message": "Chihkan Tower, Eternal Golden Castle, Fort San Domingo"
   },
   "product.category.worship.label": {
     "message": "Places of Worship"
@@ -120,13 +120,13 @@
     "message": "Cape Manzamo, Niagara Falls, Taroko National Park"
   },
   "product.collection.tw-railway-classic-6.name": {
-    "message": "Six Old Stations with Wooden Platforms"
+    "message": "Old Stations with Wooden Platforms"
   },
   "product.collection.tw-railway-classic-6.region": {
     "message": "Taiwan"
   },
   "product.collection.tw-railway-classic-6.description": {
-    "message": "From hillside Neiwan to Jingtong on the Pingxi line, six stations that still keep their wooden halls and old-railway feel."
+    "message": "From hillside Neiwan to Jingtong on the Pingxi line, old stations that still keep their wooden halls and old-railway feel."
   },
   "product.collection.tw-tainan-walk.name": {
     "message": "A Walk Through Tainan: Forts, a Station and Tofu Pudding"
@@ -138,13 +138,13 @@
     "message": "A Dutch fort, a Shōwa-era station, a new library and the Chimei Museum, finished with a bowl of tofu pudding in Anping."
   },
   "product.collection.tw-museum-grand-tour.name": {
-    "message": "Six Museums, Six Ways to See the World"
+    "message": "Museums North to South: New Ways to See the World"
   },
   "product.collection.tw-museum-grand-tour.region": {
     "message": "Taiwan"
   },
   "product.collection.tw-museum-grand-tour.description": {
-    "message": "From jade cabbage at the Palace Museum to dinosaurs in Taichung, six museums from north to south."
+    "message": "From jade cabbage at the Palace Museum to dinosaurs in Taichung, museums from north to south."
   },
   "product.collection.tw-street-food-map.name": {
     "message": "Night Markets: Eat Your Way Around Taiwan"
@@ -153,7 +153,7 @@
     "message": "Taiwan"
   },
   "product.collection.tw-street-food-map.description": {
-    "message": "Intestine noodles, turkey rice, steamed buns: seven stops and your Taiwan snack map is complete."
+    "message": "Intestine noodles, turkey rice, steamed buns: eat your way around and fill in your Taiwan snack map."
   },
   "product.collection.tw-heritage-trail.name": {
     "message": "Heritage Trail: Dutch, Qing and Japanese Eras"
@@ -162,16 +162,16 @@
     "message": "Taiwan"
   },
   "product.collection.tw-heritage-trail.description": {
-    "message": "Dutch brick, Qing temples and Japanese-era shophouses: six sites that tell four hundred years of the island's story."
+    "message": "Dutch brick, Qing temples and Japanese-era shophouses: historic sites that together tell four hundred years of the island's story."
   },
   "product.collection.tw-quiet-reading-room.name": {
-    "message": "Island Reading: Six Quiet Libraries"
+    "message": "Island Reading: Quiet Libraries"
   },
   "product.collection.tw-quiet-reading-room.region": {
     "message": "Taiwan"
   },
   "product.collection.tw-quiet-reading-room.description": {
-    "message": "Beitou's library in the trees, Taichung's glass book walls: six libraries that are each city's quietest corner."
+    "message": "Beitou's library in the trees, Taichung's glass book walls: libraries that are each city's quietest corner."
   },
   "product.collection.tw-factory-day-trip.name": {
     "message": "Factory Tours: Whisky, Chocolate and Pastry"
@@ -180,7 +180,7 @@
     "message": "Taiwan"
   },
   "product.collection.tw-factory-day-trip.description": {
-    "message": "Smell whisky casks, shape chocolate, paint a crayon: six factories where you get to make something yourself."
+    "message": "Smell whisky casks, shape chocolate, paint a crayon: factories where you get to make something yourself."
   },
   "product.collection.tw-botanical-garden-picks.name": {
     "message": "Gardens and Forests to Slow Down In"
@@ -189,7 +189,7 @@
     "message": "Taiwan"
   },
   "product.collection.tw-botanical-garden-picks.description": {
-    "message": "From city botanical gardens to mountain forest parks, six places to slow down and walk among the trees."
+    "message": "From city botanical gardens to mountain forest parks, places to slow down and walk among the trees."
   },
   "homepage.store.download": {
     "message": "Download on"

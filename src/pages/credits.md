@@ -7,12 +7,12 @@ description: 探索印記使用的照片與素材出處，以及我們要感謝�
 
 App 裡任務集的封面照片來自 [Unsplash](https://unsplash.com/)，依 [Unsplash 授權](https://unsplash.com/license)使用。謝謝這些攝影師：
 
-- 老車站 6 選：木造月台的時光 — [Jumi Park](https://unsplash.com/@zoom_in_park) 拍攝的[照片](https://unsplash.com/photos/yOGnM-lHBIo)
+- 老車站：木造月台的時光 — [Jumi Park](https://unsplash.com/@zoom_in_park) 拍攝的[照片](https://unsplash.com/photos/yOGnM-lHBIo)
 - 古蹟尋跡：荷蘭、清朝到日治 — [Poh Soo Donald Soh](https://unsplash.com/@donaldart) 拍攝的[照片](https://unsplash.com/photos/k-0dpx_h70k)
 - 府城散策：古堡、老車站與一碗豆花 — [Eagan Hsu](https://unsplash.com/@eaganhsu) 拍攝的[照片](https://unsplash.com/photos/a0AIBFxVrb4)
-- 北中南博物館：六種看世界的方式 — [Ricky LK](https://unsplash.com/@rickyrynselo) 拍攝的[照片](https://unsplash.com/photos/rCQCm8rvtgo)
+- 北中南博物館：換個方式看世界 — [Ricky LK](https://unsplash.com/@rickyrynselo) 拍攝的[照片](https://unsplash.com/photos/rCQCm8rvtgo)
 - 觀光工廠：威士忌、巧克力與漢餅 — [Dominik Scythe](https://unsplash.com/@drscythe) 拍攝的[照片](https://unsplash.com/photos/3cIvvzjE6Lk)
-- 島嶼閱讀：六座城市最安靜的角落 — [Camille San Vicente](https://unsplash.com/@camillesanvicente) 拍攝的[照片](https://unsplash.com/photos/COWudta0H-w)
+- 島嶼閱讀：城市裡最安靜的角落 — [Camille San Vicente](https://unsplash.com/@camillesanvicente) 拍攝的[照片](https://unsplash.com/photos/COWudta0H-w)
 - 夜市小吃：把臺灣吃過一遍 — [Vernon Raineil Cenzon](https://unsplash.com/@thevernon) 拍攝的[照片](https://unsplash.com/photos/6rEPAbrXNaY)
 - 植物園與森林：放慢腳步呼吸 — [Eldines Hoo](https://unsplash.com/@eldines) 拍攝的[照片](https://unsplash.com/photos/7trKqt0tT-I)
 - 東京初訪：博物館、淺草寺與築地 — [Tsuyoshi Kozu](https://unsplash.com/@tsuyoshikozu) 拍攝的[照片](https://unsplash.com/photos/Qhm8ZFKRsN8)
@@ -20,7 +20,7 @@ App 裡任務集的封面照片來自 [Unsplash](https://unsplash.com/)，依 [U
 - 大阪一日：城堡、市場與自己的杯麵 — [fumiko nishida](https://unsplash.com/@pontanishida) 拍攝的[照片](https://unsplash.com/photos/BZ9aSxEJXcc)
 - 北海道：甜點、啤酒與薰衣草 — [Cindy Bissig](https://unsplash.com/@cindybissig) 拍攝的[照片](https://unsplash.com/photos/KzAiQAFcfIc)
 - 沖繩本島：首里城一路到美麗海 — [Monineath Horn](https://unsplash.com/@neathhorn) 拍攝的[照片](https://unsplash.com/photos/II5G3-Jb9AY)
-- 日本市場：邊走邊吃四座市場 — [EMANUELE Ricciardi](https://unsplash.com/@manuricc2_kl) 拍攝的[照片](https://unsplash.com/photos/iGHMrA4iLCg)
+- 日本市場：邊走邊吃 — [EMANUELE Ricciardi](https://unsplash.com/@manuricc2_kl) 拍攝的[照片](https://unsplash.com/photos/iGHMrA4iLCg)
 - 澳門世遺：大三巴走到一顆蛋塔 — [Stephan HK](https://unsplash.com/@chromatograph) 拍攝的[照片](https://unsplash.com/photos/qR9JKwEt2dI)
 - 首爾宮殿與韓屋村 — [Daniel Bernard](https://unsplash.com/@nardly) 拍攝的[照片](https://unsplash.com/photos/RbaGeW_LbGs)
 - 首爾：書牆、市場與南山夜景 — [Håkon Grimstad](https://unsplash.com/@grimstad) 拍攝的[照片](https://unsplash.com/photos/x7Xd-ZvcZzM)

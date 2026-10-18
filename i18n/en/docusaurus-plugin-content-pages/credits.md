@@ -7,12 +7,12 @@ description: Sources of the photos and other materials used in ExploreStamp, and
 
 The cover photos of the collections in the app come from [Unsplash](https://unsplash.com/) and are used under the [Unsplash License](https://unsplash.com/license). Thank you to these photographers:
 
-- Six Old Stations with Wooden Platforms — [photo](https://unsplash.com/photos/yOGnM-lHBIo) by [Jumi Park](https://unsplash.com/@zoom_in_park)
+- Old Stations with Wooden Platforms — [photo](https://unsplash.com/photos/yOGnM-lHBIo) by [Jumi Park](https://unsplash.com/@zoom_in_park)
 - Heritage Trail: Dutch, Qing and Japanese Eras — [photo](https://unsplash.com/photos/k-0dpx_h70k) by [Poh Soo Donald Soh](https://unsplash.com/@donaldart)
 - A Walk Through Tainan: Forts, a Station and Tofu Pudding — [photo](https://unsplash.com/photos/a0AIBFxVrb4) by [Eagan Hsu](https://unsplash.com/@eaganhsu)
-- Six Museums, Six Ways to See the World — [photo](https://unsplash.com/photos/rCQCm8rvtgo) by [Ricky LK](https://unsplash.com/@rickyrynselo)
+- Museums North to South: New Ways to See the World — [photo](https://unsplash.com/photos/rCQCm8rvtgo) by [Ricky LK](https://unsplash.com/@rickyrynselo)
 - Factory Tours: Whisky, Chocolate and Pastry — [photo](https://unsplash.com/photos/3cIvvzjE6Lk) by [Dominik Scythe](https://unsplash.com/@drscythe)
-- Island Reading: Six Quiet Libraries — [photo](https://unsplash.com/photos/COWudta0H-w) by [Camille San Vicente](https://unsplash.com/@camillesanvicente)
+- Island Reading: Quiet Libraries — [photo](https://unsplash.com/photos/COWudta0H-w) by [Camille San Vicente](https://unsplash.com/@camillesanvicente)
 - Night Markets: Eat Your Way Around Taiwan — [photo](https://unsplash.com/photos/6rEPAbrXNaY) by [Vernon Raineil Cenzon](https://unsplash.com/@thevernon)
 - Gardens and Forests to Slow Down In — [photo](https://unsplash.com/photos/7trKqt0tT-I) by [Eldines Hoo](https://unsplash.com/@eldines)
 - First Time in Tokyo: Museums, Sensō-ji and Tsukiji — [photo](https://unsplash.com/photos/Qhm8ZFKRsN8) by [Tsuyoshi Kozu](https://unsplash.com/@tsuyoshikozu)
@@ -20,7 +20,7 @@ The cover photos of the collections in the app come from [Unsplash](https://unsp
 - A Day in Osaka: Castle, Market and Your Own Cup Noodles — [photo](https://unsplash.com/photos/BZ9aSxEJXcc) by [fumiko nishida](https://unsplash.com/@pontanishida)
 - Hokkaido: Sweets, Beer and Lavender — [photo](https://unsplash.com/photos/KzAiQAFcfIc) by [Cindy Bissig](https://unsplash.com/@cindybissig)
 - Okinawa Loop: Shuri Castle to Churaumi — [photo](https://unsplash.com/photos/II5G3-Jb9AY) by [Monineath Horn](https://unsplash.com/@neathhorn)
-- Four Japanese Markets to Snack Through — [photo](https://unsplash.com/photos/iGHMrA4iLCg) by [EMANUELE Ricciardi](https://unsplash.com/@manuricc2_kl)
+- Japanese Markets to Snack Through — [photo](https://unsplash.com/photos/iGHMrA4iLCg) by [EMANUELE Ricciardi](https://unsplash.com/@manuricc2_kl)
 - Macao Heritage: From the Ruins to an Egg Tart — [photo](https://unsplash.com/photos/qR9JKwEt2dI) by [Stephan HK](https://unsplash.com/@chromatograph)
 - Seoul's Palaces and Hanok Lanes — [photo](https://unsplash.com/photos/RbaGeW_LbGs) by [Daniel Bernard](https://unsplash.com/@nardly)
 - Seoul: Book Walls, Markets and Namsan at Night — [photo](https://unsplash.com/photos/x7Xd-ZvcZzM) by [Håkon Grimstad](https://unsplash.com/@grimstad)

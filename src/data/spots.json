@@ -31,7 +31,7 @@
   },
   {
     "id": "tw-tpe-heritage-bopiliao",
-    "category": "heritage",
+    "category": "historicDistrict",
     "country": "TW"
   },
   {
@@ -186,7 +186,7 @@
   },
   {
     "id": "tw-ntp-nature-erbazi",
-    "category": "nature",
+    "category": "parkGarden",
     "country": "TW"
   },
   {
@@ -241,7 +241,7 @@
   },
   {
     "id": "jp-tyo-nature-shinjukugyoen",
-    "category": "nature",
+    "category": "parkGarden",
     "country": "JP"
   },
   {
@@ -266,7 +266,7 @@
   },
   {
     "id": "jp-nkf-nature-farmtomita",
-    "category": "nature",
+    "category": "parkGarden",
     "country": "JP"
   },
   {
@@ -326,12 +326,12 @@
   },
   {
     "id": "jp-nah-heritage-shurijo",
-    "category": "heritage",
+    "category": "castlePalace",
     "country": "JP"
   },
   {
     "id": "jp-nkg-heritage-nakagusuku",
-    "category": "heritage",
+    "category": "archaeologicalSite",
     "country": "JP"
   },
   {
@@ -366,7 +366,7 @@
   },
   {
     "id": "mo-mac-heritage-ruinsofstpaul",
-    "category": "heritage",
+    "category": "archaeologicalSite",
     "country": "MO"
   },
   {
@@ -411,7 +411,7 @@
   },
   {
     "id": "kr-sel-heritage-bukchon",
-    "category": "heritage",
+    "category": "historicDistrict",
     "country": "KR"
   },
   {
@@ -451,12 +451,12 @@
   },
   {
     "id": "kr-sel-nature-cheonggyecheon",
-    "category": "nature",
+    "category": "parkGarden",
     "country": "KR"
   },
   {
     "id": "kr-pus-heritage-gamcheon",
-    "category": "heritage",
+    "category": "historicDistrict",
     "country": "KR"
   },
   {
@@ -561,7 +561,7 @@
   },
   {
     "id": "hk-kln-nature-nanliangarden",
-    "category": "nature",
+    "category": "parkGarden",
     "country": "HK"
   },
   {
@@ -596,7 +596,7 @@
   },
   {
     "id": "au-syd-nature-botanicgarden",
-    "category": "nature",
+    "category": "parkGarden",
     "country": "AU"
   },
   {
@@ -626,12 +626,12 @@
   },
   {
     "id": "au-mel-nature-botanicgardens",
-    "category": "nature",
+    "category": "parkGarden",
     "country": "AU"
   },
   {
     "id": "au-bne-nature-southbank",
-    "category": "nature",
+    "category": "parkGarden",
     "country": "AU"
   },
   {
@@ -651,7 +651,7 @@
   },
   {
     "id": "au-cns-nature-esplanade",
-    "category": "nature",
+    "category": "beachIsland",
     "country": "AU"
   },
   {
@@ -696,7 +696,7 @@
   },
   {
     "id": "nz-rot-nature-tepuia",
-    "category": "nature",
+    "category": "hotSpring",
     "country": "NZ"
   },
   {
@@ -706,7 +706,7 @@
   },
   {
     "id": "nz-chc-nature-botanicgardens",
-    "category": "nature",
+    "category": "parkGarden",
     "country": "NZ"
   },
   {
@@ -731,7 +731,7 @@
   },
   {
     "id": "pl-waw-heritage-royalcastle",
-    "category": "heritage",
+    "category": "castlePalace",
     "country": "PL"
   },
   {
@@ -751,7 +751,7 @@
   },
   {
     "id": "pl-waw-nature-lazienki",
-    "category": "nature",
+    "category": "parkGarden",
     "country": "PL"
   },
   {
@@ -761,7 +761,7 @@
   },
   {
     "id": "pl-krk-heritage-wawel",
-    "category": "heritage",
+    "category": "castlePalace",
     "country": "PL"
   },
   {
@@ -841,7 +841,7 @@
   },
   {
     "id": "gb-lon-nature-kewgardens",
-    "category": "nature",
+    "category": "parkGarden",
     "country": "GB"
   },
   {
@@ -856,7 +856,7 @@
   },
   {
     "id": "gb-edi-heritage-edinburghcastle",
-    "category": "heritage",
+    "category": "castlePalace",
     "country": "GB"
   },
   {
@@ -896,7 +896,7 @@
   },
   {
     "id": "us-nyc-nature-centralpark",
-    "category": "nature",
+    "category": "parkGarden",
     "country": "US"
   },
   {
@@ -991,7 +991,7 @@
   },
   {
     "id": "ca-tor-heritage-casaloma",
-    "category": "heritage",
+    "category": "castlePalace",
     "country": "CA"
   },
   {
@@ -1001,7 +1001,7 @@
   },
   {
     "id": "ca-van-nature-stanleypark",
-    "category": "nature",
+    "category": "parkGarden",
     "country": "CA"
   },
   {
@@ -1026,12 +1026,12 @@
   },
   {
     "id": "ca-qc-heritage-frontenac",
-    "category": "heritage",
+    "category": "hotelStay",
     "country": "CA"
   },
   {
     "id": "eg-giz-heritage-pyramids",
-    "category": "heritage",
+    "category": "archaeologicalSite",
     "country": "EG"
   },
   {
@@ -1056,7 +1056,7 @@
   },
   {
     "id": "eg-cai-nature-alazharpark",
-    "category": "nature",
+    "category": "parkGarden",
     "country": "EG"
   },
   {
@@ -1071,7 +1071,7 @@
   },
   {
     "id": "eg-asw-heritage-abusimbel",
-    "category": "heritage",
+    "category": "archaeologicalSite",
     "country": "EG"
   },
   {
@@ -1136,7 +1136,7 @@
   },
   {
     "id": "no-osl-heritage-akershus",
-    "category": "heritage",
+    "category": "castlePalace",
     "country": "NO"
   },
   {
@@ -1221,7 +1221,7 @@
   },
   {
     "id": "se-sto-heritage-drottningholm",
-    "category": "heritage",
+    "category": "castlePalace",
     "country": "SE"
   },
   {
@@ -1246,7 +1246,7 @@
   },
   {
     "id": "fi-hel-heritage-suomenlinna",
-    "category": "heritage",
+    "category": "castlePalace",
     "country": "FI"
   },
   {
@@ -1341,7 +1341,7 @@
   },
   {
     "id": "tw-tpe-nature-thermalvalley",
-    "category": "nature",
+    "category": "hotSpring",
     "country": "TW"
   },
   {
@@ -1356,7 +1356,7 @@
   },
   {
     "id": "tw-tpe-nature-beitoupark",
-    "category": "nature",
+    "category": "parkGarden",
     "country": "TW"
   },
   {
@@ -1396,7 +1396,7 @@
   },
   {
     "id": "tw-tpe-heritage-44south",
-    "category": "heritage",
+    "category": "historicDistrict",
     "country": "TW"
   },
   {
@@ -1406,7 +1406,7 @@
   },
   {
     "id": "tw-tpe-landmark-sunyatsen",
-    "category": "landmark",
+    "category": "memorial",
     "country": "TW"
   },
   {
@@ -1541,7 +1541,7 @@
   },
   {
     "id": "tw-tpe-landmark-cksmemorial",
-    "category": "landmark",
+    "category": "memorial",
     "country": "TW"
   },
   {
@@ -1556,7 +1556,7 @@
   },
   {
     "id": "tw-tpe-nature-228park",
-    "category": "nature",
+    "category": "memorial",
     "country": "TW"
   },
   {
@@ -1606,7 +1606,7 @@
   },
   {
     "id": "tw-tpe-nature-daanpark",
-    "category": "nature",
+    "category": "parkGarden",
     "country": "TW"
   },
   {
@@ -1666,12 +1666,12 @@
   },
   {
     "id": "tw-tpe-nature-expopark",
-    "category": "nature",
+    "category": "parkGarden",
     "country": "TW"
   },
   {
     "id": "tw-tpe-landmark-grandhotel",
-    "category": "landmark",
+    "category": "hotelStay",
     "country": "TW"
   },
   {
@@ -1716,7 +1716,7 @@
   },
   {
     "id": "tw-ntp-heritage-wulaioldstreet",
-    "category": "heritage",
+    "category": "historicDistrict",
     "country": "TW"
   },
   {
@@ -1751,12 +1751,12 @@
   },
   {
     "id": "tw-ntp-nature-baishawan",
-    "category": "nature",
+    "category": "beachIsland",
     "country": "TW"
   },
   {
     "id": "tw-ntp-heritage-jinshanoldstreet",
-    "category": "heritage",
+    "category": "historicDistrict",
     "country": "TW"
   },
   {
@@ -1771,17 +1771,17 @@
   },
   {
     "id": "tw-tpe-nature-rongxing",
-    "category": "nature",
+    "category": "parkGarden",
     "country": "TW"
   },
   {
     "id": "tw-tpe-nature-qingnian",
-    "category": "nature",
+    "category": "parkGarden",
     "country": "TW"
   },
   {
     "id": "tw-tpe-nature-dahu",
-    "category": "nature",
+    "category": "parkGarden",
     "country": "TW"
   },
   {
@@ -1851,12 +1851,12 @@
   },
   {
     "id": "tw-ntp-heritage-sanxiaoldstreet",
-    "category": "heritage",
+    "category": "historicDistrict",
     "country": "TW"
   },
   {
     "id": "tw-ntp-heritage-jiufenoldstreet",
-    "category": "heritage",
+    "category": "historicDistrict",
     "country": "TW"
   },
   {
@@ -1886,7 +1886,7 @@
   },
   {
     "id": "tw-ntp-heritage-xinzhuangoldstreet",
-    "category": "heritage",
+    "category": "historicDistrict",
     "country": "TW"
   },
   {
@@ -1896,7 +1896,7 @@
   },
   {
     "id": "tw-ntp-nature-metropolitanpark",
-    "category": "nature",
+    "category": "parkGarden",
     "country": "TW"
   },
   {
@@ -1931,7 +1931,7 @@
   },
   {
     "id": "tw-tpe-nature-bihu",
-    "category": "nature",
+    "category": "parkGarden",
     "country": "TW"
   },
   {
@@ -2016,7 +2016,7 @@
   },
   {
     "id": "tw-tcg-nature-taichungpark",
-    "category": "nature",
+    "category": "parkGarden",
     "country": "TW"
   },
   {
@@ -2076,7 +2076,7 @@
   },
   {
     "id": "tw-tcg-heritage-shenji",
-    "category": "heritage",
+    "category": "historicDistrict",
     "country": "TW"
   },
   {
@@ -2091,17 +2091,17 @@
   },
   {
     "id": "tw-tcg-nature-qiuhonggu",
-    "category": "nature",
+    "category": "parkGarden",
     "country": "TW"
   },
   {
     "id": "tw-tcg-nature-centralpark",
-    "category": "nature",
+    "category": "parkGarden",
     "country": "TW"
   },
   {
     "id": "tw-tcg-nature-fengle",
-    "category": "nature",
+    "category": "parkGarden",
     "country": "TW"
   },
   {
@@ -2111,7 +2111,7 @@
   },
   {
     "id": "tw-tcg-heritage-nantunoldstreet",
-    "category": "heritage",
+    "category": "historicDistrict",
     "country": "TW"
   },
   {
@@ -2236,7 +2236,7 @@
   },
   {
     "id": "tw-tcg-heritage-rainbowvillage",
-    "category": "heritage",
+    "category": "historicDistrict",
     "country": "TW"
   },
   {
@@ -2266,7 +2266,7 @@
   },
   {
     "id": "tw-tcg-nature-wangao",
-    "category": "nature",
+    "category": "landmark",
     "country": "TW"
   },
   {
@@ -2276,7 +2276,7 @@
   },
   {
     "id": "tw-tcg-nature-huludun",
-    "category": "nature",
+    "category": "parkGarden",
     "country": "TW"
   },
   {
@@ -2291,7 +2291,7 @@
   },
   {
     "id": "tw-tcg-nature-dongfeng",
-    "category": "nature",
+    "category": "parkGarden",
     "country": "TW"
   },
   {
@@ -2311,7 +2311,7 @@
   },
   {
     "id": "tw-tcg-nature-metropolitan",
-    "category": "nature",
+    "category": "parkGarden",
     "country": "TW"
   },
   {
@@ -2356,7 +2356,7 @@
   },
   {
     "id": "tw-khh-heritage-qishanoldstreet",
-    "category": "heritage",
+    "category": "historicDistrict",
     "country": "TW"
   },
   {
@@ -2386,7 +2386,7 @@
   },
   {
     "id": "tw-khh-nature-cijinbeach",
-    "category": "nature",
+    "category": "beachIsland",
     "country": "TW"
   },
   {
@@ -2396,7 +2396,7 @@
   },
   {
     "id": "tw-khh-nature-weiwuyingpark",
-    "category": "nature",
+    "category": "parkGarden",
     "country": "TW"
   },
   {
@@ -2446,7 +2446,7 @@
   },
   {
     "id": "tw-khh-nature-centralpark",
-    "category": "nature",
+    "category": "parkGarden",
     "country": "TW"
   },
   {
@@ -2541,7 +2541,7 @@
   },
   {
     "id": "tw-tnn-heritage-wugarden",
-    "category": "heritage",
+    "category": "parkGarden",
     "country": "TW"
   },
   {
@@ -2551,7 +2551,7 @@
   },
   {
     "id": "tw-tnn-nature-tainanpark",
-    "category": "nature",
+    "category": "parkGarden",
     "country": "TW"
   },
   {
@@ -2611,7 +2611,7 @@
   },
   {
     "id": "tw-hsz-nature-hsinchupark",
-    "category": "nature",
+    "category": "parkGarden",
     "country": "TW"
   },
   {
@@ -2641,12 +2641,12 @@
   },
   {
     "id": "tw-hsq-heritage-beipu",
-    "category": "heritage",
+    "category": "historicDistrict",
     "country": "TW"
   },
   {
     "id": "tw-hsq-heritage-neiwanoldstreet",
-    "category": "heritage",
+    "category": "historicDistrict",
     "country": "TW"
   },
   {
@@ -2666,7 +2666,7 @@
   },
   {
     "id": "tw-tyc-heritage-daxi",
-    "category": "heritage",
+    "category": "historicDistrict",
     "country": "TW"
   },
   {
@@ -2676,7 +2676,7 @@
   },
   {
     "id": "tw-tyc-landmark-cihu",
-    "category": "landmark",
+    "category": "memorial",
     "country": "TW"
   },
   {
@@ -2696,7 +2696,7 @@
   },
   {
     "id": "tw-tyc-nature-calligraphypark",
-    "category": "nature",
+    "category": "parkGarden",
     "country": "TW"
   },
   {
@@ -2751,12 +2751,12 @@
   },
   {
     "id": "tw-tnn-heritage-anpingoldstreet",
-    "category": "heritage",
+    "category": "historicDistrict",
     "country": "TW"
   },
   {
     "id": "tw-tnn-nature-yuguang",
-    "category": "nature",
+    "category": "beachIsland",
     "country": "TW"
   },
   {
@@ -2796,7 +2796,7 @@
   },
   {
     "id": "tw-tnn-heritage-jingliao",
-    "category": "heritage",
+    "category": "historicDistrict",
     "country": "TW"
   },
   {
@@ -2816,12 +2816,12 @@
   },
   {
     "id": "tw-tnn-heritage-hatta",
-    "category": "heritage",
+    "category": "memorial",
     "country": "TW"
   },
   {
     "id": "tw-tnn-heritage-xinhua",
-    "category": "heritage",
+    "category": "historicDistrict",
     "country": "TW"
   },
   {
@@ -2841,7 +2841,7 @@
   },
   {
     "id": "tw-hua-nature-qixingtan",
-    "category": "nature",
+    "category": "beachIsland",
     "country": "TW"
   },
   {
@@ -2946,17 +2946,17 @@
   },
   {
     "id": "tw-ila-nature-jiaoxipark",
-    "category": "nature",
+    "category": "hotSpring",
     "country": "TW"
   },
   {
     "id": "tw-ila-nature-tangweigou",
-    "category": "nature",
+    "category": "hotSpring",
     "country": "TW"
   },
   {
     "id": "tw-ila-nature-suaocoldspring",
-    "category": "nature",
+    "category": "hotSpring",
     "country": "TW"
   },
   {
@@ -2966,7 +2966,7 @@
   },
   {
     "id": "tw-ila-heritage-toucheng",
-    "category": "heritage",
+    "category": "historicDistrict",
     "country": "TW"
   },
   {
@@ -2986,7 +2986,7 @@
   },
   {
     "id": "tw-ila-nature-dongshanriver",
-    "category": "nature",
+    "category": "parkGarden",
     "country": "TW"
   },
   {
@@ -3006,12 +3006,12 @@
   },
   {
     "id": "tw-cyi-heritage-hinoki",
-    "category": "heritage",
+    "category": "historicDistrict",
     "country": "TW"
   },
   {
     "id": "tw-cyi-nature-chiayipark",
-    "category": "nature",
+    "category": "parkGarden",
     "country": "TW"
   },
   {
@@ -3161,7 +3161,7 @@
   },
   {
     "id": "jp-tyo-nature-uenopark",
-    "category": "nature",
+    "category": "parkGarden",
     "country": "JP"
   },
   {
@@ -3186,7 +3186,7 @@
   },
   {
     "id": "jp-tyo-heritage-imperialpalace",
-    "category": "heritage",
+    "category": "castlePalace",
     "country": "JP"
   },
   {
@@ -3256,17 +3256,17 @@
   },
   {
     "id": "jp-kyt-heritage-gion",
-    "category": "heritage",
+    "category": "historicDistrict",
     "country": "JP"
   },
   {
     "id": "jp-kyt-heritage-nijojo",
-    "category": "heritage",
+    "category": "castlePalace",
     "country": "JP"
   },
   {
     "id": "jp-kyt-heritage-gosho",
-    "category": "heritage",
+    "category": "castlePalace",
     "country": "JP"
   },
   {
@@ -3321,7 +3321,7 @@
   },
   {
     "id": "jp-tyo-nature-inokashira",
-    "category": "nature",
+    "category": "parkGarden",
     "country": "JP"
   },
   {
@@ -3376,7 +3376,7 @@
   },
   {
     "id": "tw-yun-heritage-beigangoldstreet",
-    "category": "heritage",
+    "category": "historicDistrict",
     "country": "TW"
   },
   {
@@ -3391,7 +3391,7 @@
   },
   {
     "id": "tw-yun-heritage-xiluooldstreet",
-    "category": "heritage",
+    "category": "historicDistrict",
     "country": "TW"
   },
   {
@@ -3401,12 +3401,12 @@
   },
   {
     "id": "tw-yun-heritage-taipingoldstreet",
-    "category": "heritage",
+    "category": "historicDistrict",
     "country": "TW"
   },
   {
     "id": "tw-yun-heritage-yunzhong",
-    "category": "heritage",
+    "category": "historicDistrict",
     "country": "TW"
   },
   {
@@ -3516,7 +3516,7 @@
   },
   {
     "id": "jp-nra-nature-narapark",
-    "category": "nature",
+    "category": "parkGarden",
     "country": "JP"
   },
   {
@@ -3616,7 +3616,7 @@
   },
   {
     "id": "jp-osa-nature-expo70",
-    "category": "nature",
+    "category": "parkGarden",
     "country": "JP"
   },
   {
@@ -3646,7 +3646,7 @@
   },
   {
     "id": "jp-kbe-nature-nunobiki",
-    "category": "nature",
+    "category": "parkGarden",
     "country": "JP"
   },
   {
@@ -3656,7 +3656,7 @@
   },
   {
     "id": "jp-hmj-heritage-himejijo",
-    "category": "heritage",
+    "category": "castlePalace",
     "country": "JP"
   },
   {
@@ -3681,12 +3681,12 @@
   },
   {
     "id": "jp-fuk-nature-ohori",
-    "category": "nature",
+    "category": "parkGarden",
     "country": "JP"
   },
   {
     "id": "jp-fuk-heritage-fukuokacastle",
-    "category": "heritage",
+    "category": "archaeologicalSite",
     "country": "JP"
   },
   {
@@ -3696,7 +3696,7 @@
   },
   {
     "id": "jp-fuk-nature-momochi",
-    "category": "nature",
+    "category": "beachIsland",
     "country": "JP"
   },
   {
@@ -3756,7 +3756,7 @@
   },
   {
     "id": "jp-fuk-nature-uminonakamichi",
-    "category": "nature",
+    "category": "parkGarden",
     "country": "JP"
   },
   {
@@ -3861,7 +3861,7 @@
   },
   {
     "id": "jp-nah-heritage-tamaudun",
-    "category": "heritage",
+    "category": "memorial",
     "country": "JP"
   },
   {
@@ -3886,7 +3886,7 @@
   },
   {
     "id": "jp-nkj-heritage-nakijin",
-    "category": "heritage",
+    "category": "archaeologicalSite",
     "country": "JP"
   },
   {
@@ -3916,12 +3916,12 @@
   },
   {
     "id": "jp-knz-nature-kenrokuen",
-    "category": "nature",
+    "category": "parkGarden",
     "country": "JP"
   },
   {
     "id": "jp-knz-heritage-kanazawacastle",
-    "category": "heritage",
+    "category": "castlePalace",
     "country": "JP"
   },
   {
@@ -3981,12 +3981,12 @@
   },
   {
     "id": "jp-swg-heritage-shirakawago",
-    "category": "heritage",
+    "category": "historicDistrict",
     "country": "JP"
   },
   {
     "id": "jp-spk-nature-odori",
-    "category": "nature",
+    "category": "parkGarden",
     "country": "JP"
   },
   {
@@ -4026,7 +4026,7 @@
   },
   {
     "id": "jp-spk-nature-moerenuma",
-    "category": "nature",
+    "category": "parkGarden",
     "country": "JP"
   },
   {
@@ -4061,7 +4061,7 @@
   },
   {
     "id": "jp-ngy-heritage-nagoyacastle",
-    "category": "heritage",
+    "category": "castlePalace",
     "country": "JP"
   },
   {
@@ -4126,7 +4126,7 @@
   },
   {
     "id": "jp-ngy-heritage-inuyamacastle",
-    "category": "heritage",
+    "category": "castlePalace",
     "country": "JP"
   },
   {
@@ -4136,7 +4136,7 @@
   },
   {
     "id": "jp-hij-landmark-atomicdome",
-    "category": "landmark",
+    "category": "memorial",
     "country": "JP"
   },
   {
@@ -4146,17 +4146,17 @@
   },
   {
     "id": "jp-hij-nature-peacepark",
-    "category": "nature",
+    "category": "memorial",
     "country": "JP"
   },
   {
     "id": "jp-hij-heritage-hiroshimacastle",
-    "category": "heritage",
+    "category": "castlePalace",
     "country": "JP"
   },
   {
     "id": "jp-hij-nature-shukkeien",
-    "category": "nature",
+    "category": "parkGarden",
     "country": "JP"
   },
   {

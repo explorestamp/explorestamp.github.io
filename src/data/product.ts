@@ -224,7 +224,7 @@ export const CATEGORIES: Category[] = [
     icon: Castle,
     examples: translate({
       id: "product.category.heritage.examples",
-      message: "赤崁樓、億載金城、大三巴牌坊",
+      message: "赤崁樓、億載金城、淡水紅毛城",
     }),
   },
   {
@@ -480,7 +480,7 @@ export const COLLECTIONS: Collection[] = [
     id: "tw-railway-classic-6",
     name: translate({
       id: "product.collection.tw-railway-classic-6.name",
-      message: "老車站 6 選：木造月台的時光",
+      message: "老車站：木造月台的時光",
     }),
     region: translate({
       id: "product.collection.tw-railway-classic-6.region",
@@ -488,7 +488,7 @@ export const COLLECTIONS: Collection[] = [
     }),
     description: translate({
       id: "product.collection.tw-railway-classic-6.description",
-      message: "從山城內灣到平溪菁桐，六座老車站還留著木造站房和手寫時刻表的味道，一站蓋一枚。",
+      message: "從山城內灣到平溪菁桐，一座座老車站還留著木造站房和手寫時刻表的味道，一站蓋一枚。",
     }),
     accent: "#8B5E3C",
     spotCount: 6,
@@ -514,7 +514,7 @@ export const COLLECTIONS: Collection[] = [
     id: "tw-museum-grand-tour",
     name: translate({
       id: "product.collection.tw-museum-grand-tour.name",
-      message: "北中南博物館：六種看世界的方式",
+      message: "北中南博物館：換個方式看世界",
     }),
     region: translate({
       id: "product.collection.tw-museum-grand-tour.region",
@@ -522,7 +522,7 @@ export const COLLECTIONS: Collection[] = [
     }),
     description: translate({
       id: "product.collection.tw-museum-grand-tour.description",
-      message: "從故宮的翠玉白菜到科博館的恐龍，北中南六座館，一趟看遍藝術、自然與海港。",
+      message: "從故宮的翠玉白菜到科博館的恐龍，北中南的博物館，一趟看遍藝術、自然與海港。",
     }),
     accent: "#3A5FA0",
     spotCount: 6,
@@ -539,7 +539,7 @@ export const COLLECTIONS: Collection[] = [
     }),
     description: translate({
       id: "product.collection.tw-street-food-map.description",
-      message: "一碗大腸麵線、一盤火雞肉飯、一顆包子，七站吃完，臺灣的小吃地圖就蓋滿了。",
+      message: "一碗大腸麵線、一盤火雞肉飯、一顆包子，一站一站吃下去，把臺灣的小吃地圖蓋滿。",
     }),
     accent: "#B7343C",
     spotCount: 7,
@@ -556,7 +556,7 @@ export const COLLECTIONS: Collection[] = [
     }),
     description: translate({
       id: "product.collection.tw-heritage-trail.description",
-      message: "荷蘭人的紅磚、清朝的廟宇、日治的街屋，六座古蹟串起四百年的島嶼故事。",
+      message: "荷蘭人的紅磚、清朝的廟宇、日治的街屋，一座座古蹟串起四百年的島嶼故事。",
     }),
     accent: "#6B7280",
     spotCount: 6,
@@ -565,7 +565,7 @@ export const COLLECTIONS: Collection[] = [
     id: "tw-quiet-reading-room",
     name: translate({
       id: "product.collection.tw-quiet-reading-room.name",
-      message: "島嶼閱讀：六座城市最安靜的角落",
+      message: "島嶼閱讀：城市裡最安靜的角落",
     }),
     region: translate({
       id: "product.collection.tw-quiet-reading-room.region",
@@ -573,7 +573,7 @@ export const COLLECTIONS: Collection[] = [
     }),
     description: translate({
       id: "product.collection.tw-quiet-reading-room.description",
-      message: "森林裡的北投分館、綠美圖的玻璃書牆，六座圖書館是每座城市最安靜的角落。",
+      message: "森林裡的北投分館、綠美圖的玻璃書牆，這些圖書館是每座城市最安靜的角落。",
     }),
     accent: "#4E7A57",
     spotCount: 6,
@@ -590,7 +590,7 @@ export const COLLECTIONS: Collection[] = [
     }),
     description: translate({
       id: "product.collection.tw-factory-day-trip.description",
-      message: "聞一聞威士忌桶、捏一塊巧克力、畫一支蠟筆，六座觀光工廠都能動手做。",
+      message: "聞一聞威士忌桶、捏一塊巧克力、畫一支蠟筆，每一座觀光工廠都能動手做。",
     }),
     accent: "#E0A02E",
     spotCount: 6,
@@ -607,7 +607,7 @@ export const COLLECTIONS: Collection[] = [
     }),
     description: translate({
       id: "product.collection.tw-botanical-garden-picks.description",
-      message: "城市裡的植物園到山裡的森林遊樂區，六個地方適合放慢腳步，聞著樹的味道走一段。",
+      message: "城市裡的植物園到山裡的森林遊樂區，每一處都適合放慢腳步，聞著樹的味道走一段。",
     }),
     accent: "#5A8F3D",
     spotCount: 6,
