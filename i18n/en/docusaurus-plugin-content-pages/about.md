@@ -32,7 +32,7 @@ In Taiwan, many railway stations, museums and tourist spots keep a commemorative
 
 ## What's included
 
-The app currently includes 842 places: 422 in Taiwan, 240 in Japan (including Okinawa), 21 in South Korea, 13 in Hong Kong, 8 in Macao, 22 in Australia, 12 in New Zealand, 13 in Poland, 16 in the United Kingdom, 20 in the United States, 12 in Canada, 10 in Egypt, 13 in Norway, 10 in Sweden and 10 in Finland, in 28 categories such as museums, heritage sites, castles and palaces, places of worship, libraries, railway stations, markets, night markets, parks and gardens, and nature. The catalog updates automatically in the background, with no need to reinstall.
+The app currently includes 849 places: 429 in Taiwan, 240 in Japan (including Okinawa), 21 in South Korea, 13 in Hong Kong, 8 in Macao, 22 in Australia, 12 in New Zealand, 13 in Poland, 16 in the United Kingdom, 20 in the United States, 12 in Canada, 10 in Egypt, 13 in Norway, 10 in Sweden and 10 in Finland, in 28 categories such as museums, heritage sites, castles and palaces, places of worship, libraries, railway stations, markets, night markets, parks and gardens, and nature. The catalog updates automatically in the background, with no need to reinstall.
 
 See the themed routes under [Explore](/explore).
 

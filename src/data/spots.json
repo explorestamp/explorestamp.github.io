@@ -1970,6 +1970,41 @@
     "country": "TW"
   },
   {
+    "id": "tw-tpe-food-fubawang",
+    "category": "food",
+    "country": "TW"
+  },
+  {
+    "id": "tw-tpe-food-huaniang",
+    "category": "food",
+    "country": "TW"
+  },
+  {
+    "id": "tw-tpe-food-wangjizongzi",
+    "category": "food",
+    "country": "TW"
+  },
+  {
+    "id": "tw-tpe-food-niuer",
+    "category": "food",
+    "country": "TW"
+  },
+  {
+    "id": "tw-tpe-food-liyuan",
+    "category": "food",
+    "country": "TW"
+  },
+  {
+    "id": "tw-tpe-nightmarket-ningxia",
+    "category": "nightMarket",
+    "country": "TW"
+  },
+  {
+    "id": "tw-tpe-nightmarket-linjiang",
+    "category": "nightMarket",
+    "country": "TW"
+  },
+  {
     "id": "tw-tcg-railway-taichung",
     "category": "railway",
     "country": "TW"

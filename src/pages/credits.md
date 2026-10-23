@@ -75,6 +75,7 @@ App 裡任務集的封面照片來自 [Unsplash](https://unsplash.com/)，依 [U
 - 新莊廟街到永和豆漿 — [Timo Volz](https://unsplash.com/@magict1911) 拍攝的[照片](https://unsplash.com/photos/KmZdPr2i8HI)
 - 南港內湖：音樂、展覽與摩天輪 — [Timo Volz](https://unsplash.com/@magict1911) 拍攝的[照片](https://unsplash.com/photos/H1PkBay4OHM)
 - 演唱會、球賽與出發的地方 — [Lisanto 李奕良](https://unsplash.com/@lisanto_) 拍攝的[照片](https://unsplash.com/photos/CBhxjlkA2i8)
+- AI 皮衣男的臺灣美食地圖 — [K X I T H V I S U A L S](https://unsplash.com/@keithlwm) 拍攝的[照片](https://unsplash.com/photos/nYq3nW9Z9ok)
 - 臺中舊城：綠川與宮原眼科 — [JUNHØ](https://unsplash.com/@junhochak) 拍攝的[照片](https://unsplash.com/photos/vhvCUMZJlrM)
 - 臺中公園、老屋與第一杯珍奶 — [Nicolas Ryan](https://unsplash.com/@kirozae) 拍攝的[照片](https://unsplash.com/photos/GV7tffT3-xk)
 - 草悟道：美術館到審計新村 — [Yu Hong Lee](https://unsplash.com/@ooxx2081) 拍攝的[照片](https://unsplash.com/photos/tGj1jO0ImKM)

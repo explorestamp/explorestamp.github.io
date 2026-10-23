@@ -1224,6 +1224,24 @@
     "coverImageUrl": "https://api.explorestamp.com/covers/tw-tpe-big-stages.jpg"
   },
   {
+    "id": "tw-tpe-ai-foodie-map",
+    "country": "TW",
+    "name": {
+      "zh": "AI 皮衣男的臺灣美食地圖",
+      "en": "The AI Leather-Jacket Guy's Taiwan Food Map"
+    },
+    "regionLabel": {
+      "zh": "臺北",
+      "en": "Taipei"
+    },
+    "description": {
+      "zh": "照著媒體報導，走一趟他來臺灣吃過的店：豬腳、蒼蠅頭、肉粽、牛肉麵、湯包，再逛三個夜市。",
+      "en": "Follow the news reports to the places he has eaten in Taiwan: pork knuckle, chive stir-fry, rice dumplings, beef noodles and soup dumplings, plus three night markets."
+    },
+    "spotCount": 8,
+    "coverImageUrl": "https://api.explorestamp.com/covers/tw-tpe-ai-foodie-map.jpg"
+  },
+  {
     "id": "tw-tcg-old-town",
     "country": "TW",
     "name": {

@@ -75,6 +75,7 @@ The cover photos of the collections in the app come from [Unsplash](https://unsp
 - Xinzhuang Temple Street to Yonghe Soy Milk — [photo](https://unsplash.com/photos/KmZdPr2i8HI) by [Timo Volz](https://unsplash.com/@magict1911)
 - Nangang and Neihu: Music, Expos and a Ferris Wheel — [photo](https://unsplash.com/photos/H1PkBay4OHM) by [Timo Volz](https://unsplash.com/@magict1911)
 - Concerts, Ball Games and Departures — [photo](https://unsplash.com/photos/CBhxjlkA2i8) by [Lisanto 李奕良](https://unsplash.com/@lisanto_)
+- The AI Leather-Jacket Guy's Taiwan Food Map — [photo](https://unsplash.com/photos/nYq3nW9Z9ok) by [K X I T H V I S U A L S](https://unsplash.com/@keithlwm)
 - Old Taichung: Lüchuan and Miyahara — [photo](https://unsplash.com/photos/vhvCUMZJlrM) by [JUNHØ](https://unsplash.com/@junhochak)
 - Taichung Park, Old Houses and the First Bubble Tea — [photo](https://unsplash.com/photos/GV7tffT3-xk) by [Nicolas Ryan](https://unsplash.com/@kirozae)
 - Calligraphy Greenway: Art Museum to Shenji Village — [photo](https://unsplash.com/photos/tGj1jO0ImKM) by [Yu Hong Lee](https://unsplash.com/@ooxx2081)
