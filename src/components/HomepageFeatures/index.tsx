@@ -97,7 +97,7 @@ function PostcardMock(): ReactNode {
   return (
     <div className={styles.postcard}>
       <img
-        src="/img/chihkan-tower.jpg"
+        src="/img/covers/tw-tainan-walk.jpg"
         alt={translate({
           id: "homepage.mock.postcard.photoAlt",
           message: "臺南赤崁樓的樓閣與碑林",

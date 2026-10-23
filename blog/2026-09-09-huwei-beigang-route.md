@@ -108,4 +108,4 @@ description: 從高鐵雲林站出發，看還在冒煙的虎尾糖廠、帝冠�
 
 其他路線請見[主題探索](/explore)。
 
-_封面照片：[Dave Weatherall](https://unsplash.com/@thattravelblog) / [Unsplash](https://unsplash.com/photos/ZAwMMAoabrU)_
+_封面照片：[Charles Chen](https://unsplash.com/@color0911) / [Unsplash](https://unsplash.com/photos/M_SUnc8F87M)_

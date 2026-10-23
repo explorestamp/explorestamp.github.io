@@ -111,4 +111,4 @@ description: 走上 1953 年通車的西螺大橋，在延平老街聞醬油香�
 
 其他路線請見[主題探索](/explore)。
 
-_封面照片：[chi liu](https://unsplash.com/@liuchi) / [Unsplash](https://unsplash.com/photos/sw2CGLcXnj8)_
+_封面照片：[方薰 李](https://unsplash.com/@func) / [Unsplash](https://unsplash.com/photos/sXhrSAR_QC0)_

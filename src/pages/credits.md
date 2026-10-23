@@ -108,8 +108,8 @@ App 裡任務集的封面照片來自 [Unsplash](https://unsplash.com/)，依 [U
 - 嘉義：火雞肉飯與舊監獄 — [Arthur Tseng](https://unsplash.com/@arthur3607) 拍攝的[照片](https://unsplash.com/photos/8dZT1snzFjg)
 - 搭森林鐵路上阿里山 — [Cody McLain](https://unsplash.com/@neocody) 拍攝的[照片](https://unsplash.com/photos/WF5nE1WptYI)
 - 故宮南院、新港與東石海邊 — [Alexa Soh](https://unsplash.com/@alexasoh) 拍攝的[照片](https://unsplash.com/photos/nDVqwAH6DDA)
-- 虎尾布袋戲與北港媽祖 — [Dave Weatherall](https://unsplash.com/@thattravelblog) 拍攝的[照片](https://unsplash.com/photos/ZAwMMAoabrU)
-- 西螺大橋、醬油與斗六老街 — [chi liu](https://unsplash.com/@liuchi) 拍攝的[照片](https://unsplash.com/photos/sw2CGLcXnj8)
+- 虎尾布袋戲與北港媽祖 — [Charles Chen](https://unsplash.com/@color0911) 拍攝的[照片](https://unsplash.com/photos/M_SUnc8F87M)
+- 西螺大橋、醬油與斗六老街 — [方薰 李](https://unsplash.com/@func) 拍攝的[照片](https://unsplash.com/photos/sXhrSAR_QC0)
 - 糖廠巡禮：一路吃冰到花蓮 — [MD Abdullah Al Noman](https://unsplash.com/@alnoman96) 拍攝的[照片](https://unsplash.com/photos/mBzjiz1_O3Y)
 - 山手線一圈，一站一章 — [Md Samir Sayek](https://unsplash.com/@ryuzaki979) 拍攝的[照片](https://unsplash.com/photos/frA33yfQf3c)
 - 澀谷十字路口到新宿橫丁 — [Timo Volz](https://unsplash.com/@magict1911) 拍攝的[照片](https://unsplash.com/photos/DGsqL2j028E)
@@ -145,4 +145,4 @@ App 裡任務集的封面照片來自 [Unsplash](https://unsplash.com/)，依 [U
 - 廣島：和平公園與御好燒 — [Björn](https://unsplash.com/@camaradon) 拍攝的[照片](https://unsplash.com/photos/DO_UCDkM94U)
 - 宮島海上鳥居與瀨戶內 — [Manos Konstantinidis](https://unsplash.com/@manosim) 拍攝的[照片](https://unsplash.com/photos/-5OY5Gx1e60)
 
-首頁明信片範例的赤崁樓照片 — [Ricky LK](https://unsplash.com/@rickyrynselo) 拍攝的[照片](https://unsplash.com/photos/UGxHQLfU4Aw)
+首頁明信片範例與「府城散策」文章封面的赤崁樓照片 — [Ricky LK](https://unsplash.com/@rickyrynselo) 拍攝的[照片](https://unsplash.com/photos/UGxHQLfU4Aw)

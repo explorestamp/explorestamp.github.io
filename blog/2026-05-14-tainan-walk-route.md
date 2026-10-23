@@ -100,4 +100,4 @@ description: 從荷蘭時期的安平古堡、赤崁樓，到昭和年代的臺�
 
 其他路線請見[主題探索](/explore)。
 
-_封面照片：[Eagan Hsu](https://unsplash.com/@eaganhsu) / [Unsplash](https://unsplash.com/photos/a0AIBFxVrb4)_
+_封面照片：[Ricky LK](https://unsplash.com/@rickyrynselo) / [Unsplash](https://unsplash.com/photos/UGxHQLfU4Aw)_

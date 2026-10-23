@@ -108,8 +108,8 @@ The cover photos of the collections in the app come from [Unsplash](https://unsp
 - Chiayi: Turkey Rice and the Old Prison — [photo](https://unsplash.com/photos/8dZT1snzFjg) by [Arthur Tseng](https://unsplash.com/@arthur3607)
 - Up to Alishan on the Forest Railway — [photo](https://unsplash.com/photos/WF5nE1WptYI) by [Cody McLain](https://unsplash.com/@neocody)
 - Southern Palace Museum, Xingang and the Sea — [photo](https://unsplash.com/photos/nDVqwAH6DDA) by [Alexa Soh](https://unsplash.com/@alexasoh)
-- Huwei Puppetry and Beigang's Matsu Temple — [photo](https://unsplash.com/photos/ZAwMMAoabrU) by [Dave Weatherall](https://unsplash.com/@thattravelblog)
-- Xiluo Bridge, Soy Sauce and Douliu Old Street — [photo](https://unsplash.com/photos/sw2CGLcXnj8) by [chi liu](https://unsplash.com/@liuchi)
+- Huwei Puppetry and Beigang's Matsu Temple — [photo](https://unsplash.com/photos/M_SUnc8F87M) by [Charles Chen](https://unsplash.com/@color0911)
+- Xiluo Bridge, Soy Sauce and Douliu Old Street — [photo](https://unsplash.com/photos/sXhrSAR_QC0) by [方薰 李](https://unsplash.com/@func)
 - Sugar Mill Trail: Ice Pops from Taichung to Hualien — [photo](https://unsplash.com/photos/mBzjiz1_O3Y) by [MD Abdullah Al Noman](https://unsplash.com/@alnoman96)
 - Round the Yamanote Line, a Stamp at Each Stop — [photo](https://unsplash.com/photos/frA33yfQf3c) by [Md Samir Sayek](https://unsplash.com/@ryuzaki979)
 - Shibuya Crossing to Shinjuku's Alleys — [photo](https://unsplash.com/photos/DGsqL2j028E) by [Timo Volz](https://unsplash.com/@magict1911)
@@ -145,4 +145,4 @@ The cover photos of the collections in the app come from [Unsplash](https://unsp
 - Hiroshima: Peace Park and Okonomiyaki — [photo](https://unsplash.com/photos/DO_UCDkM94U) by [Björn](https://unsplash.com/@camaradon)
 - Miyajima's Floating Torii and the Inland Sea — [photo](https://unsplash.com/photos/-5OY5Gx1e60) by [Manos Konstantinidis](https://unsplash.com/@manosim)
 
-Chihkan Tower photo on the homepage postcard example — [photo](https://unsplash.com/photos/UGxHQLfU4Aw) by [Ricky LK](https://unsplash.com/@rickyrynselo)
+Chihkan Tower photo on the homepage postcard example and the "A Walk Through Tainan" post cover — [photo](https://unsplash.com/photos/UGxHQLfU4Aw) by [Ricky LK](https://unsplash.com/@rickyrynselo)

@@ -108,4 +108,4 @@ Open ExploreStamp, find "Huwei Puppetry and Beigang's Matsu Temple" among the th
 
 See the other routes under [Explore](/explore).
 
-_Cover photo: [Dave Weatherall](https://unsplash.com/@thattravelblog) / [Unsplash](https://unsplash.com/photos/ZAwMMAoabrU)_
+_Cover photo: [Charles Chen](https://unsplash.com/@color0911) / [Unsplash](https://unsplash.com/photos/M_SUnc8F87M)_

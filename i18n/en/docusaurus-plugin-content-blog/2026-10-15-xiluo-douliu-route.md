@@ -111,4 +111,4 @@ Open ExploreStamp, find "Xiluo Bridge, Soy Sauce and Douliu Old Street" among th
 
 See the other routes under [Explore](/explore).
 
-_Cover photo: [chi liu](https://unsplash.com/@liuchi) / [Unsplash](https://unsplash.com/photos/sw2CGLcXnj8)_
+_Cover photo: [方薰 李](https://unsplash.com/@func) / [Unsplash](https://unsplash.com/photos/sXhrSAR_QC0)_

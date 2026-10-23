@@ -100,4 +100,4 @@ Open ExploreStamp, find "A Walk Through Tainan: Forts, a Station and Tofu Puddin
 
 See the other routes under [Explore](/explore).
 
-_Cover photo: [Eagan Hsu](https://unsplash.com/@eaganhsu) / [Unsplash](https://unsplash.com/photos/a0AIBFxVrb4)_
+_Cover photo: [Ricky LK](https://unsplash.com/@rickyrynselo) / [Unsplash](https://unsplash.com/photos/UGxHQLfU4Aw)_
