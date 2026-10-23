@@ -23,6 +23,13 @@ const ARTICLES: Record<string, string> = {
   "tw-sugar-mills": "/blog/taiwan-sugar-mills-route",
   "tw-yun-huwei-beigang": "/blog/huwei-beigang-route",
   "tw-yun-xiluo-douliu": "/blog/xiluo-douliu-route",
+  "tw-tcg-old-town": "/blog/taichung-old-town-route",
+  "tw-tcg-park-and-old-houses": "/blog/taichung-park-old-houses-route",
+  "tw-tcg-calligraphy-greenway": "/blog/taichung-calligraphy-greenway-route",
+  "tw-tcg-new-city": "/blog/taichung-new-landmarks-route",
+  "tw-tcg-nantun-wufeng": "/blog/nantun-wufeng-route",
+  "tw-tcg-tunghai-coast": "/blog/tunghai-gaomei-route",
+  "tw-tcg-fengyuan-houli": "/blog/fengyuan-houli-route",
   "jp-okinawa-island-loop": "/blog/okinawa-island-loop-route",
 };
 
