@@ -263,12 +263,12 @@ function Newsletter(): ReactNode {
           </p>
           <Heading as="h2">
             <Translate id="homepage.newsletter.title">
-              下一枚印章去哪裡蓋，我們寫信告訴你
+              下一場城市尋寶冒險在哪裡，我們寫信告訴你
             </Translate>
           </Heading>
           <p className={styles.sectionLead}>
             <Translate id="homepage.newsletter.lead">
-              也分享博物館、古蹟與老車站的散步提案，陪你把週末出門變成一段值得收藏的路線。
+              信裡也有博物館、古蹟與老車站的散步提案，讓每一次的週末隨性出門，走成一條值得收藏的路線。
             </Translate>
           </p>
         </div>
