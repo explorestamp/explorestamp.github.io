@@ -144,3 +144,5 @@ The cover photos of the collections in the app come from [Unsplash](https://unsp
 - Kanazawa's Kenroku-en, Then Shirakawa-gō — [photo](https://unsplash.com/photos/zfpzbZmHplY) by [Ryan Moorhouse](https://unsplash.com/@ryanm98981)
 - Hiroshima: Peace Park and Okonomiyaki — [photo](https://unsplash.com/photos/DO_UCDkM94U) by [Björn](https://unsplash.com/@camaradon)
 - Miyajima's Floating Torii and the Inland Sea — [photo](https://unsplash.com/photos/-5OY5Gx1e60) by [Manos Konstantinidis](https://unsplash.com/@manosim)
+
+Chihkan Tower photo on the homepage postcard example — [photo](https://unsplash.com/photos/UGxHQLfU4Aw) by [Ricky LK](https://unsplash.com/@rickyrynselo)

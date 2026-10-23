@@ -144,3 +144,5 @@ App 裡任務集的封面照片來自 [Unsplash](https://unsplash.com/)，依 [U
 - 金澤兼六園，再到白川鄉 — [Ryan Moorhouse](https://unsplash.com/@ryanm98981) 拍攝的[照片](https://unsplash.com/photos/zfpzbZmHplY)
 - 廣島：和平公園與御好燒 — [Björn](https://unsplash.com/@camaradon) 拍攝的[照片](https://unsplash.com/photos/DO_UCDkM94U)
 - 宮島海上鳥居與瀨戶內 — [Manos Konstantinidis](https://unsplash.com/@manosim) 拍攝的[照片](https://unsplash.com/photos/-5OY5Gx1e60)
+
+首頁明信片範例的赤崁樓照片 — [Ricky LK](https://unsplash.com/@rickyrynselo) 拍攝的[照片](https://unsplash.com/photos/UGxHQLfU4Aw)

@@ -97,10 +97,10 @@ function PostcardMock(): ReactNode {
   return (
     <div className={styles.postcard}>
       <img
-        src="/img/covers/tw-tainan-walk.jpg"
+        src="/img/chihkan-tower.jpg"
         alt={translate({
           id: "homepage.mock.postcard.photoAlt",
-          message: "臺南廟宇前的街景",
+          message: "臺南赤崁樓的樓閣與碑林",
         })}
         loading="lazy"
         className={styles.postcardPhoto}
