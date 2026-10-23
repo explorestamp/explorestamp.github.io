@@ -15,9 +15,11 @@ description: ExploreStamp is a digital stamp book for travel. This post explains
 
 Many people who travel in Taiwan, Japan and all over the world collect commemorative stamps. Next to a station ticket window, at a museum exit, at the door of a shop on an old street, there's often a stamp and an ink pad waiting. What makes stamping fun is that you have to actually go there.
 
-The habit is especially strong in Japan, where it goes back to the *goshuin*, the red seals of temples and shrines. Long ago, wandering monks copied the Lotus Sutra and offered it to temples, and the temples stamped the copies with a vermilion seal as proof. The monks bound these records into *nōkyōchō*, sutra-offering books. Ordinary worshippers later began asking temples and shrines for seals too, and the books slowly became albums for collecting stamps. By the Shōwa era, train stations, post offices and tourist sights were making their own commemorative stamps, and stamping your way along became part of traveling. (Source, in Chinese: [The Merit Times](https://www.merit-times.com/news/73567))
+The habit is especially strong in Japan, where it goes back to the *goshuin* of Buddhist temples: monks offered copied sutras to a temple and received a vermilion seal as proof. Centuries later, train stations, post offices and tourist sights all make their own commemorative stamps, and stamping your way along has become part of traveling.
 
-ExploreStamp brings this onto your phone and adds what a paper stamp book can't do: photos, dates, a map, and routes planned in advance, and lets you share beautiful postcards with yourself, your friends and family. It helps you find where your next city treasure hunt is, so every easygoing weekend outing becomes a route worth keeping.
+ExploreStamp brings this onto your phone and adds what a paper stamp book can't: photos, dates, a map, and beautiful postcards to share with yourself, your friends and family. It also shows you where your next city treasure hunt is, so every easygoing weekend outing becomes a route worth keeping.
+
+Walk up to Chihkan Tower, tap "Check in", and a hexagonal heritage stamp drops into your stamp book, printed with today's date.
 
 <!-- truncate -->
 
@@ -73,6 +75,14 @@ Places fall into 28 categories. Here are the ones Taiwan has so far, with exampl
 The other categories are zoos and aquariums, theme parks, landmarks and viewpoints, performance and sports venues, bookstores, campuses, shopping, markets, cafés, airports, archaeological sites, historic districts and villages, castles and palaces, memorials, beaches and islands, hot springs, and hotels and unique stays, which are being added country by country.
 
 See the themed routes under [Explore](/explore).
+
+## Where stamping comes from
+
+Japan's love of stamps goes back to the *goshuin* of temples. Long ago, wandering monks copied the Lotus Sutra and offered it to temples, and the temples stamped the copies with a vermilion seal as proof. The monks bound these records into *nōkyōchō*, sutra-offering books. Ordinary worshippers later began asking temples and shrines for seals too, and the books slowly became albums for collecting stamps. By the Shōwa era, train stations, post offices and tourist sights were making their own commemorative stamps, and filling a little book from one end of a trip to the other became how many people traveled.
+
+What ExploreStamp hopes to carry on is that same feeling: you go there, and you leave with a stamp.
+
+(Source, in Chinese: [The Merit Times](https://www.merit-times.com/news/73567))
 
 ## No need to wait for a long holiday
 
