@@ -1,17 +1,17 @@
 ---
 slug: city-exploration-guide
-title: "Meet ExploreStamp: turn a trip into a stamp"
+title: "Meet ExploreStamp: turn every exploration and trip into a stamp"
 authors: explorestamp
 tags:
   - ExploreStamp
   - 城市探索
   - 打卡
   - 景點
-image: https://www.explorestamp.com/img/covers/tw-railway-classic-6.jpg
+image: https://www.explorestamp.com/img/covers/intro.jpg
 description: ExploreStamp is a digital stamp book for travel. This post explains how the app works — themed routes, location check-ins, the stamp book, the calendar and postcards — and why all your data stays on your phone.
 ---
 
-![Meet ExploreStamp: turn a trip into a stamp](/img/covers/tw-railway-classic-6.jpg)
+![Meet ExploreStamp: turn every exploration and trip into a stamp](/img/covers/intro.jpg)
 
 Many people who travel in Taiwan collect commemorative stamps. Next to a station ticket window, at a museum exit, at the door of a shop on an old street, there's often a stamp and an ink pad waiting. What makes stamping fun is that you have to actually go there.
 
@@ -80,4 +80,4 @@ Collecting stamps doesn't have to mean a big trip. If you live in Taipei, you ca
 
 To hear about new places and routes, [subscribe to the newsletter](https://explorestamp.substack.com/) or join the [Facebook group](https://facebook.com/groups/explorestamp).
 
-_Cover photo: [Jumi Park](https://unsplash.com/@zoom_in_park) / [Unsplash](https://unsplash.com/photos/yOGnM-lHBIo)_
+_Cover photo: [Ricky LK](https://unsplash.com/@rickyrynselo) / [Unsplash](https://unsplash.com/photos/UGxHQLfU4Aw)_

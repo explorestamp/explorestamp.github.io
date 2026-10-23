@@ -145,4 +145,4 @@ The cover photos of the collections in the app come from [Unsplash](https://unsp
 - Hiroshima: Peace Park and Okonomiyaki — [photo](https://unsplash.com/photos/DO_UCDkM94U) by [Björn](https://unsplash.com/@camaradon)
 - Miyajima's Floating Torii and the Inland Sea — [photo](https://unsplash.com/photos/-5OY5Gx1e60) by [Manos Konstantinidis](https://unsplash.com/@manosim)
 
-Chihkan Tower photo on the homepage postcard example and the "A Walk Through Tainan" post cover — [photo](https://unsplash.com/photos/UGxHQLfU4Aw) by [Ricky LK](https://unsplash.com/@rickyrynselo)
+Chihkan Tower photo on the homepage postcard example and the "Meet ExploreStamp" and "A Walk Through Tainan" post covers — [photo](https://unsplash.com/photos/UGxHQLfU4Aw) by [Ricky LK](https://unsplash.com/@rickyrynselo)
