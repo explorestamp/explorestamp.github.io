@@ -44,7 +44,8 @@ import collections from "@site/src/data/collections.json";
 
 // 上架後填入商店網址；留空時頁面會顯示「即將上架」。
 export const STORE_LINKS = {
-  appStore: "",
+  appStore:
+    "https://apps.apple.com/tw/app/explorestamp-%E6%8E%A2%E7%B4%A2%E5%8D%B0%E8%A8%98/id6806758774",
   googlePlay: "",
 };
 
