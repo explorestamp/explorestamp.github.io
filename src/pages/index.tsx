@@ -23,7 +23,13 @@ function StoreButtons(): ReactNode {
     <div className={styles.storeButtons}>
       {stores.map((s) =>
         s.href ? (
-          <a key={s.label} href={s.href} className={styles.storeButton}>
+          <a
+            key={s.label}
+            href={s.href}
+            className={styles.storeButton}
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <Smartphone size={18} strokeWidth={1.75} aria-hidden />
             <span>
               <small>
