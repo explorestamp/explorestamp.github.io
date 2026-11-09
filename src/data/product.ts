@@ -46,7 +46,7 @@ import collections from "@site/src/data/collections.json";
 export const STORE_LINKS = {
   appStore:
     "https://apps.apple.com/tw/app/explorestamp-%E6%8E%A2%E7%B4%A2%E5%8D%B0%E8%A8%98/id6806758774",
-  googlePlay: "",
+  googlePlay: "https://play.google.com/store/apps/details?id=com.explorestamp",
 };
 
 export const COMMUNITY_LINKS = {
