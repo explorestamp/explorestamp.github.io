@@ -219,13 +219,13 @@
     "message": "ExploreStamp"
   },
   "homepage.hero.titleLine1": {
-    "message": "Turn every trip"
+    "message": "Turn every exploration"
   },
   "homepage.hero.titleLine2": {
     "message": "into a stamp"
   },
   "homepage.hero.lead": {
-    "message": "ExploreStamp is a stamp book you carry in your pocket. Walk into a museum, a historic site, an old railway station or a night market, check in on location, and you collect a stamp made for that place — saved to your calendar along with the photos from that day."
+    "message": "ExploreStamp is your digital pocket stamp book. Walk into a museum, a historic site, an old railway station or a night market, check in on location, and you collect a stamp made for that place — saved to your calendar along with the photos from that day."
   },
   "homepage.hero.exploreLink": {
     "message": "See the themed routes"
@@ -285,10 +285,10 @@
     "message": "Subscribe to the ExploreStamp newsletter"
   },
   "homepage.meta.title": {
-    "message": "Turn every trip into a stamp"
+    "message": "Turn every exploration into a stamp"
   },
   "homepage.meta.description": {
-    "message": "ExploreStamp is a digital stamp book for travel. Check in on location at museums, historic sites, old railway stations, markets, night markets and viewpoints to collect stamps, keep your photos, and turn the day into a postcard to share."
+    "message": "ExploreStamp is your digital pocket stamp book. Check in on location at museums, historic sites, old railway stations, markets, night markets and viewpoints to collect stamps, keep your photos, and turn the day into a postcard to share."
   },
   "homepage.mock.checkIn.place": {
     "message": "Jiji Station · Nantou"

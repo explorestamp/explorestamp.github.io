@@ -9,11 +9,11 @@ import type * as Preset from "@docusaurus/preset-classic";
 const SITE_META: Record<string, { title: string; tagline: string }> = {
   "zh-TW": {
     title: "ExploreStamp 探索印記",
-    tagline: "把每一次旅行，蓋成一枚印章",
+    tagline: "把每一次探索，蓋成一枚印章",
   },
   en: {
     title: "ExploreStamp",
-    tagline: "Turn every trip into a stamp",
+    tagline: "Turn every exploration into a stamp",
   },
 };
 const currentLocale = process.env.DOCUSAURUS_CURRENT_LOCALE ?? "zh-TW";

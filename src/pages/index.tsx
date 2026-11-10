@@ -97,13 +97,13 @@ function HomepageHeader(): ReactNode {
             <Translate id="homepage.hero.eyebrow">ExploreStamp 探索印記</Translate>
           </p>
           <Heading as="h1" className={styles.heroTitle}>
-            <Translate id="homepage.hero.titleLine1">把每一次旅行，</Translate>
+            <Translate id="homepage.hero.titleLine1">把每一次探索，</Translate>
             <br />
             <Translate id="homepage.hero.titleLine2">蓋成一枚印章</Translate>
           </Heading>
           <p className={styles.heroLead}>
             <Translate id="homepage.hero.lead">
-              探索印記是一本隨身的集章手冊。走進博物館、古蹟、老車站或夜市，在現場完成定位打卡，就能收下一枚專屬於那個地方的印章，連同當天的照片一起記在月曆上。
+              探索印記是你的數位隨身集章手冊。走進博物館、古蹟、老車站或夜市，在現場完成定位打卡，就能收下一枚專屬於那個地方的印章，連同當天的照片一起記在月曆上。
             </Translate>
           </p>
           <StoreButtons />
@@ -300,12 +300,12 @@ export default function Home(): ReactNode {
     <Layout
       title={translate({
         id: "homepage.meta.title",
-        message: "把每一次旅行，蓋成一枚印章",
+        message: "把每一次探索，蓋成一枚印章",
       })}
       description={translate({
         id: "homepage.meta.description",
         message:
-          "探索印記（ExploreStamp）是一本隨身的虛擬集章手冊。到博物館、古蹟、老車站、市集、夜市與觀景台現場打卡，收集印章、記錄照片，並把旅程做成明信片分享。",
+          "探索印記（ExploreStamp）是你的數位隨身集章手冊。到博物館、古蹟、老車站、市集、夜市與觀景台現場打卡，收集印章、記錄照片，並把旅程做成明信片分享。",
       })}
     >
       <HomepageHeader />
