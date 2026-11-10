@@ -103,7 +103,7 @@ function HomepageHeader(): ReactNode {
           </Heading>
           <p className={styles.heroLead}>
             <Translate id="homepage.hero.lead">
-              探索印記是你的數位隨身集章手冊。走進博物館、古蹟、老車站或夜市，在現場完成定位打卡，就能收下一枚專屬於那個地方的印章，連同當天的照片一起記在月曆上。
+              探索印記是你的數位集章手冊。走進博物館、古蹟、老車站或夜市，在現場完成定位打卡，就能收下一枚專屬於那個地方的印章，連同當天的照片一起記在月曆上。
             </Translate>
           </p>
           <StoreButtons />
@@ -305,7 +305,7 @@ export default function Home(): ReactNode {
       description={translate({
         id: "homepage.meta.description",
         message:
-          "探索印記（ExploreStamp）是你的數位隨身集章手冊。到博物館、古蹟、老車站、市集、夜市與觀景台現場打卡，收集印章、記錄照片，並把旅程做成明信片分享。",
+          "探索印記（ExploreStamp）是你的數位集章手冊。到博物館、古蹟、老車站、市集、夜市與觀景台現場打卡，收集印章、記錄照片，並把旅程做成明信片分享。",
       })}
     >
       <HomepageHeader />
