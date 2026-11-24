@@ -192,6 +192,7 @@ const config: Config = {
               href: "https://www.facebook.com/explorestamp",
             },
             { label: "Instagram", href: "https://www.instagram.com/explorestamp" },
+            { label: "YouTube", href: "https://www.youtube.com/@explorestamp" },
           ],
         },
         {

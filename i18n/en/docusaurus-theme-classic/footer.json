@@ -55,6 +55,10 @@
     "message": "Instagram",
     "description": "The label of footer link with label=Instagram linking to https://www.instagram.com/explorestamp"
   },
+  "link.item.label.YouTube": {
+    "message": "YouTube",
+    "description": "The label of footer link with label=YouTube linking to https://www.youtube.com/@explorestamp"
+  },
   "link.item.label.聯絡信箱": {
     "message": "Email us",
     "description": "The label of footer link with label=聯絡信箱 linking to mailto:explorestamp@gmail.com"

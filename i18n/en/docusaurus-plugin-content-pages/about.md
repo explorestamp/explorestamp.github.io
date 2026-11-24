@@ -44,4 +44,4 @@ ExploreStamp works without signing in. Your location is read once, only when you
 
 For place suggestions, data corrections or partnership inquiries, please [email us](mailto:explorestamp@gmail.com).
 
-You can also join the [Facebook group](https://facebook.com/groups/explorestamp) or follow us on [Instagram](https://www.instagram.com/explorestamp).
+You can also join the [Facebook group](https://facebook.com/groups/explorestamp) or follow us on [Instagram](https://www.instagram.com/explorestamp) and [YouTube](https://www.youtube.com/@explorestamp).

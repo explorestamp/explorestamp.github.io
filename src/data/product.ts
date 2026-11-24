@@ -52,6 +52,7 @@ export const STORE_LINKS = {
 export const COMMUNITY_LINKS = {
   facebookGroup: "https://facebook.com/groups/explorestamp",
   instagram: "https://www.instagram.com/explorestamp",
+  youtube: "https://www.youtube.com/@explorestamp",
   newsletter: "https://explorestamp.substack.com/",
   email: "mailto:explorestamp@gmail.com",
 };
