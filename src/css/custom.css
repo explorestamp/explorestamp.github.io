@@ -175,6 +175,13 @@ h4 {
   align-items: center;
 }
 
+/* 外層的 .dropdown 比圖示高（36px 對 20px），圖示預設貼在上緣、比右邊的
+   按鈕高 4px；讓外層也用 flex 置中，圖示才會跟下載按鈕、搜尋框對齊。 */
+.navbar__item.dropdown:has(> .navbar__locale) {
+  display: inline-flex;
+  align-items: center;
+}
+
 .navbar__link.navbar__locale svg {
   margin-right: 0;
 }
